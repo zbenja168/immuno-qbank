@@ -1,0 +1,1675 @@
+{
+  "categoryId": "lymphocytes-adaptive",
+  "categoryName": "Lymphocytes & Adaptive Immunity",
+  "questions": [
+    {
+      "id": "im08-001",
+      "stem": "A researcher examines developing lymphocytes in the bone marrow. One cell has successfully rearranged and expresses a mu heavy chain, but this chain is paired with an invariant surrogate light chain rather than a true, rearranged light chain. Light chain gene rearrangement has not yet been completed. This cell is at which stage of B cell maturation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pro-B cell"
+        },
+        {
+          "label": "B",
+          "text": "Pre-B cell"
+        },
+        {
+          "label": "C",
+          "text": "Immature B cell"
+        },
+        {
+          "label": "D",
+          "text": "Mature naive B cell"
+        },
+        {
+          "label": "E",
+          "text": "Plasma cell"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The pre-B cell expresses a mu heavy chain paired with a surrogate light chain, forming the pre-BCR.",
+        "whyCorrect": "By definition, a pre-B cell has produced a functional VH domain and expresses the mu heavy chain paired with a surrogate (non-rearranged) light chain. This complex is the pre-BCR. If the pre-BCR signals successfully, the cell then begins light chain VJ recombination.",
+        "whyWrongByChoice": {
+          "A": "Pro-B cells are only beginning heavy chain VDJ recombination and do not yet express a mu chain or any receptor.",
+          "C": "Immature B cells have already rearranged a true light chain and express a complete surface IgM (BCR), not a surrogate light chain.",
+          "D": "Mature naive B cells have completed selection and express surface IgM and IgD, not a pre-BCR.",
+          "E": "Plasma cells are terminally differentiated antibody-secreting effector cells generated after activation, not a bone-marrow maturation stage."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "B cell maturation",
+        "pre-B cell",
+        "pre-BCR"
+      ],
+      "topicId": "b-cell-development-and-activation",
+      "topicName": "B Cell Development and Activation"
+    },
+    {
+      "id": "im08-002",
+      "stem": "Humans are diploid and carry two alleles for the immunoglobulin heavy chain locus, yet a single mature B cell expresses B-cell receptors derived from only one of these alleles. At the pre-B cell stage, successful signaling through the pre-BCR shuts down further rearrangement of the second allele. Which process does this describe?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allelic exclusion"
+        },
+        {
+          "label": "B",
+          "text": "Receptor editing"
+        },
+        {
+          "label": "C",
+          "text": "Positive selection"
+        },
+        {
+          "label": "D",
+          "text": "Somatic hypermutation"
+        },
+        {
+          "label": "E",
+          "text": "Negative selection"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Allelic exclusion ensures each B cell expresses BCRs from only one immunoglobulin allele.",
+        "whyCorrect": "Although B cells are diploid, allelic exclusion guarantees that only one allele is productively used. When the pre-BCR signals at the pre-B cell stage, the cell silences rearrangement of the other allele; if no signal occurs, the cell undergoes apoptosis.",
+        "whyWrongByChoice": {
+          "B": "Receptor editing rescues autoreactive immature B cells by rearranging the other light chain gene, not by ensuring single-allele expression.",
+          "C": "Positive selection tests whether the assembled BCR is functional, allowing weakly self-binding cells to mature.",
+          "D": "Somatic hypermutation introduces mutations into the BCR variable region during the germinal center reaction, long after this stage.",
+          "E": "Negative selection removes strongly self-reactive cells; it does not govern which allele is expressed."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "allelic exclusion",
+        "pre-BCR",
+        "B cell tolerance"
+      ],
+      "topicId": "b-cell-development-and-activation",
+      "topicName": "B Cell Development and Activation"
+    },
+    {
+      "id": "im08-003",
+      "stem": "An immature B cell in the bone marrow expresses a newly assembled BCR that binds a self-antigen with high affinity. Rather than being deleted, the cell undergoes a second round of VJ recombination at its other light chain constant gene (lambda), generating a new receptor that no longer reacts to self. Which mechanism has rescued this cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Positive selection"
+        },
+        {
+          "label": "B",
+          "text": "Negative selection with apoptosis"
+        },
+        {
+          "label": "C",
+          "text": "Allelic exclusion"
+        },
+        {
+          "label": "D",
+          "text": "Receptor editing"
+        },
+        {
+          "label": "E",
+          "text": "Somatic hypermutation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Receptor editing lets a self-reactive immature B cell rearrange its other light chain gene to escape deletion.",
+        "whyCorrect": "Immature B cells carry two light chain constant genes (kappa and lambda) but initially express only one. If strong self-antigen recognition occurs, the cell can perform VJ recombination on the other gene; expression of the new light chain gives it a second pass through selection. About 25% of circulating B cells show evidence of receptor editing.",
+        "whyWrongByChoice": {
+          "A": "Positive selection simply allows weakly self-binding, functional BCRs to mature; it does not remodel the receptor.",
+          "B": "Negative selection with apoptosis is exactly what receptor editing allows the cell to avoid; here the cell survives.",
+          "C": "Allelic exclusion silences the second allele of the same chain and does not create a new, non-self-reactive receptor.",
+          "E": "Somatic hypermutation occurs in the germinal center dark zone during affinity maturation, not in the bone marrow."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "receptor editing",
+        "negative selection",
+        "central tolerance"
+      ],
+      "topicId": "b-cell-development-and-activation",
+      "topicName": "B Cell Development and Activation"
+    },
+    {
+      "id": "im08-004",
+      "stem": "A B cell has just completed selection in the bone marrow and been released into the circulation as a mature, naive cell that has not yet encountered antigen. Which pair of immunoglobulin isotypes is displayed on its surface?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgM only"
+        },
+        {
+          "label": "B",
+          "text": "IgG only"
+        },
+        {
+          "label": "C",
+          "text": "IgM and IgD"
+        },
+        {
+          "label": "D",
+          "text": "IgA and IgM"
+        },
+        {
+          "label": "E",
+          "text": "IgG and IgE"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Mature naive B cells co-express surface IgM and IgD.",
+        "whyCorrect": "Naive B cells express both the mu and delta heavy chain constant domains, so their membranes display both IgM and IgD. This distinguishes them from immature B cells, which express surface IgM alone.",
+        "whyWrongByChoice": {
+          "A": "Surface IgM alone characterizes the immature B cell, before the delta chain is co-expressed.",
+          "B": "IgG appears only after class switching in an antigen-driven germinal center reaction, not on naive cells.",
+          "D": "IgA is a class-switched isotype (directed by TGF-beta and BAFF) and is not present on naive cells.",
+          "E": "IgG and IgE are both class-switched isotypes seen only after activation, not on a naive B cell."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "naive B cell",
+        "IgM",
+        "IgD"
+      ],
+      "topicId": "b-cell-development-and-activation",
+      "topicName": "B Cell Development and Activation"
+    },
+    {
+      "id": "im08-005",
+      "stem": "Sixteen days after an emergency splenectomy, a 54-year-old man develops body aches, nasal congestion, fever, low platelets, and a high white blood cell count. He rapidly progresses to sepsis and dies within 20 hours despite broad-spectrum antibiotics; blood cultures grow Streptococcus pneumoniae. Loss of which splenic function best explains his overwhelming susceptibility to this encapsulated organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thymic education of self-tolerant T cells"
+        },
+        {
+          "label": "B",
+          "text": "Marginal-zone/B1 cell IgM production and complement-mediated opsonization"
+        },
+        {
+          "label": "C",
+          "text": "Bone marrow maturation of new B cells"
+        },
+        {
+          "label": "D",
+          "text": "Germinal center formation in the lymph nodes"
+        },
+        {
+          "label": "E",
+          "text": "Production of neutrophils"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Splenectomy removes the marginal-zone/B1 cells and blood-filtering that opsonize encapsulated bacteria.",
+        "whyCorrect": "The spleen filters blood and houses marginal-zone and B1 cells that provide natural IgM against blood-borne antigens; splenic loss lowers serum IgM and impairs complement-mediated opsonization. Because complement and opsonization are the main defense against encapsulated organisms, asplenic patients are prone to overwhelming post-splenectomy infection. Vaccination against Streptococcus pneumoniae, Neisseria meningitidis, and Haemophilus influenzae type B before elective splenectomy can prevent this.",
+        "whyWrongByChoice": {
+          "A": "T cell tolerance is established in the thymus, not the spleen, and is unrelated to this infection.",
+          "C": "B cells still mature normally in the bone marrow after splenectomy; the deficit is in blood filtering and marginal-zone antibody.",
+          "D": "Lymph node germinal centers remain intact after splenectomy and are not the basis of encapsulated-organism defense.",
+          "E": "The spleen is not the site of neutrophil production, and his white count was actually elevated."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "spleen",
+        "encapsulated organisms",
+        "marginal zone",
+        "B1 cells"
+      ],
+      "topicId": "b-cell-development-and-activation",
+      "topicName": "B Cell Development and Activation"
+    },
+    {
+      "id": "im08-006",
+      "stem": "During an episode of gram-negative bacteremia, bacterial antigens circulate in the bloodstream. Which secondary lymphoid site is chiefly responsible for filtering these blood-borne antigens and presenting them to lymphocytes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymph node paracortex"
+        },
+        {
+          "label": "B",
+          "text": "Splenic marginal zone"
+        },
+        {
+          "label": "C",
+          "text": "Bone marrow"
+        },
+        {
+          "label": "D",
+          "text": "Thymic medulla"
+        },
+        {
+          "label": "E",
+          "text": "Peyer patches of the gut"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The spleen filters blood, and its marginal-zone macrophages capture blood-borne antigens for presentation.",
+        "whyCorrect": "Blood-borne antigens are filtered in the spleen. In the marginal zone between red and white pulp, macrophages capture these antigens and present them to lymphocytes, including marginal-zone B cells. This is the key difference from lymph nodes, whose antigens arrive via the lymphatics.",
+        "whyWrongByChoice": {
+          "A": "The lymph node paracortex is a T cell zone that samples antigens arriving through lymphatics, not blood.",
+          "C": "The bone marrow is the site of B cell maturation, not a filter for blood-borne antigen presentation.",
+          "D": "The thymic medulla is involved in T cell development and negative selection, not blood filtering.",
+          "E": "Peyer patches sample antigens transferred across the intestinal epithelium, not circulating blood."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "spleen",
+        "lymph node",
+        "antigen source"
+      ],
+      "topicId": "b-cell-development-and-activation",
+      "topicName": "B Cell Development and Activation"
+    },
+    {
+      "id": "im08-007",
+      "stem": "A naive lymphocyte circulating in the blood must leave the vasculature to enter a lymph node. After L-selectin-mediated rolling and integrin-mediated adhesion, through which specialized vascular structure does it cross the endothelium to enter the node?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Afferent lymphatic vessels"
+        },
+        {
+          "label": "B",
+          "text": "High endothelial venules (HEVs)"
+        },
+        {
+          "label": "C",
+          "text": "Efferent lymphatic vessels"
+        },
+        {
+          "label": "D",
+          "text": "Central arterioles"
+        },
+        {
+          "label": "E",
+          "text": "The thoracic duct"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Lymphocytes enter lymph nodes from the blood through high endothelial venules.",
+        "whyCorrect": "Lymphocyte trafficking mirrors neutrophil trafficking: L-selectin mediates rolling, integrins such as LFA-1 bind CAMs for adhesion, and PECAM-1 mediates diapedesis. Lymphocytes then enter the lymph node through specialized high endothelial venules (HEVs).",
+        "whyWrongByChoice": {
+          "A": "Afferent lymphatics carry antigen and fluid into the node; naive lymphocytes enter from blood, not lymph.",
+          "C": "Efferent lymphatics carry effector cells out of the node, not into it.",
+          "D": "Central arterioles are a landmark of the splenic white pulp (PALS), not the lymphocyte entry portal of a lymph node.",
+          "E": "The thoracic duct returns lymph to the bloodstream and is not the site of entry into a node."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "lymphocyte trafficking",
+        "high endothelial venules",
+        "L-selectin"
+      ],
+      "topicId": "b-cell-development-and-activation",
+      "topicName": "B Cell Development and Activation"
+    },
+    {
+      "id": "im08-008",
+      "stem": "A 3-year-old boy has recurrent bacterial sinopulmonary infections. Laboratory studies show a markedly elevated serum IgM but very low IgG, IgA, and IgE, and lymph node biopsy reveals absent germinal centers. His B cells recognize antigen, internalize it, and present peptide on MHC II normally. A defect in which interaction best explains why his B cells cannot class switch or enter the germinal center reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "BCR crosslinking by antigen"
+        },
+        {
+          "label": "B",
+          "text": "CD40-CD40L interaction between the B cell and helper T cell"
+        },
+        {
+          "label": "C",
+          "text": "MHC class I antigen presentation"
+        },
+        {
+          "label": "D",
+          "text": "L-selectin binding to endothelium"
+        },
+        {
+          "label": "E",
+          "text": "Somatic hypermutation in the dark zone"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The CD40-CD40L signal from helper T cells is required for B cells to enter the germinal center and class switch.",
+        "whyCorrect": "In T-dependent activation, after the B cell presents peptide on MHC II, the CD40-CD40L interaction further activates the B cell and allows it to enter the germinal center reaction, where class switching occurs. Without this signal, B cells cannot class switch or form germinal centers, so they secrete only IgM, producing high IgM with low IgG/IgA/IgE.",
+        "whyWrongByChoice": {
+          "A": "BCR crosslinking is intact here (the B cells recognize and internalize antigen); it alone cannot drive class switching without T cell help.",
+          "C": "B cells present antigen on MHC class II to CD4+ helper T cells, not MHC class I; his MHC II presentation is described as normal.",
+          "D": "L-selectin governs lymphocyte homing to lymph nodes, not class switching or germinal center formation.",
+          "E": "Somatic hypermutation mediates affinity maturation and is downstream of the CD40 signal; it does not by itself explain the absent germinal centers and isotype defect."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CD40-CD40L",
+        "class switching",
+        "T-dependent activation"
+      ],
+      "topicId": "b-cell-development-and-activation",
+      "topicName": "B Cell Development and Activation"
+    },
+    {
+      "id": "im08-009",
+      "stem": "A purified bacterial capsular polysaccharide vaccine is administered to a patient. The response consists only of low-affinity IgM, with no class switching, no affinity maturation, and no lasting memory. This limited response reflects which type of B cell activation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "T-dependent activation"
+        },
+        {
+          "label": "B",
+          "text": "T-independent activation"
+        },
+        {
+          "label": "C",
+          "text": "The germinal center reaction"
+        },
+        {
+          "label": "D",
+          "text": "Negative selection"
+        },
+        {
+          "label": "E",
+          "text": "Positive selection"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Multivalent polysaccharides drive T-independent activation, yielding low-affinity IgM without memory.",
+        "whyCorrect": "Non-protein antigens such as polysaccharides cannot be presented on MHC II, so they activate B cells without T cell help. Their repeated, identical epitopes crosslink many BCRs; combined with signals like PRR or CR2-C3d binding, this activates the cell. Because these cells receive no T cell help and are not allowed into the germinal center, they make low-affinity IgM and undergo no affinity maturation or class switching.",
+        "whyWrongByChoice": {
+          "A": "T-dependent activation requires a protein antigen and CD4+ helper T cell participation, producing class-switched, high-affinity antibody and memory.",
+          "C": "The germinal center reaction is precisely what T-independent responses do NOT enter, which is why there is no affinity maturation or class switching.",
+          "D": "Negative selection is a bone-marrow tolerance mechanism that removes autoreactive cells, not a response to vaccination.",
+          "E": "Positive selection tests BCR functionality during maturation and is unrelated to the antibody response to a vaccine."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "T-independent activation",
+        "polysaccharide antigen",
+        "IgM"
+      ],
+      "topicId": "b-cell-development-and-activation",
+      "topicName": "B Cell Development and Activation"
+    },
+    {
+      "id": "im08-010",
+      "stem": "An infant is given a Haemophilus influenzae type B vaccine in which the capsular polysaccharide is covalently linked to a protein carrier. Unlike the pure polysaccharide vaccine, this conjugate elicits high-affinity, class-switched IgG and durable memory. What is the mechanistic basis for this improved response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The polysaccharide directly activates helper T cells"
+        },
+        {
+          "label": "B",
+          "text": "The B cell presents peptides from the carrier protein on MHC II, recruiting T cell help"
+        },
+        {
+          "label": "C",
+          "text": "The conjugate triggers somatic hypermutation directly in the bone marrow"
+        },
+        {
+          "label": "D",
+          "text": "The carrier acts as a superantigen that bypasses antigen specificity"
+        },
+        {
+          "label": "E",
+          "text": "The conjugate crosslinks BCRs so strongly that no T cell help is needed"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Conjugation lets a polysaccharide-specific B cell present carrier peptides to T cells, converting the response to T-dependent.",
+        "whyCorrect": "In a conjugate vaccine, a BCR specific for the polysaccharide binds and internalizes the conjugate, then processes and presents peptides from the linked protein on MHC II. A helper T cell specific for that peptide provides help, so the B cell now receives the germinal center signals needed to make high-affinity, class-switched, polysaccharide-specific IgG and memory.",
+        "whyWrongByChoice": {
+          "A": "Polysaccharides cannot be presented on MHC II and do not directly activate T cells; that is exactly why the plain polysaccharide is poorly immunogenic.",
+          "C": "Somatic hypermutation occurs in the germinal center of secondary lymphoid organs, not in the bone marrow, and is downstream of T cell help.",
+          "D": "The carrier is a conventional protein antigen presented in a peptide-specific manner, not a superantigen.",
+          "E": "The benefit comes precisely from recruiting T cell help via the carrier peptide, not from bypassing it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "conjugate vaccine",
+        "T-dependent activation",
+        "class switching"
+      ],
+      "topicId": "b-cell-development-and-activation",
+      "topicName": "B Cell Development and Activation"
+    },
+    {
+      "id": "im08-011",
+      "stem": "A patient presents with diarrhea, and stool ova-and-parasite examination reveals a helminth infection. In the germinal center response to this pathogen, which cytokine secreted by follicular helper T cells directs B cells to class switch to IgE?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IFN-gamma"
+        },
+        {
+          "label": "B",
+          "text": "IL-4"
+        },
+        {
+          "label": "C",
+          "text": "TGF-beta and BAFF"
+        },
+        {
+          "label": "D",
+          "text": "TNF-alpha"
+        },
+        {
+          "label": "E",
+          "text": "IL-2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "IL-4 from follicular helper T cells drives class switching to IgE, the antibody of antiparasitic responses.",
+        "whyCorrect": "In the light zone, follicular helper T cells secrete cytokines that direct which class a B cell switches to. IL-4 promotes switching to IgE, which is well suited to parasitic infection.",
+        "whyWrongByChoice": {
+          "A": "IFN-gamma directs class switching to IgG, not IgE.",
+          "C": "TGF-beta together with BAFF directs switching to IgA, important at mucosal surfaces.",
+          "D": "TNF-alpha is a pro-inflammatory cytokine that causes fever and does not direct class switching to IgE.",
+          "E": "IL-2 is a T cell growth factor and is not the cytokine that directs the IgE class switch in this context."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "class switching",
+        "IL-4",
+        "IgE",
+        "follicular helper T cell"
+      ],
+      "topicId": "b-cell-development-and-activation",
+      "topicName": "B Cell Development and Activation"
+    },
+    {
+      "id": "im08-012",
+      "stem": "In a germinal center, a B cell rapidly divides and acquires point mutations in the complementarity-determining regions of its BCR within the dark zone, then migrates to the light zone where it must compete for antigen displayed on follicular dendritic cells; only the highest-affinity clones receive survival signals and persist. This coupled cycle of mutation and selection accomplishes which overall outcome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Class switching by activation-induced deaminase"
+        },
+        {
+          "label": "B",
+          "text": "Affinity maturation"
+        },
+        {
+          "label": "C",
+          "text": "Receptor editing"
+        },
+        {
+          "label": "D",
+          "text": "Negative selection"
+        },
+        {
+          "label": "E",
+          "text": "VDJ recombination"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Somatic hypermutation in the dark zone plus FDC-based selection in the light zone yields affinity maturation.",
+        "whyCorrect": "Dark-zone B cells undergo somatic hypermutation, introducing mutations into the CDR/hypervariable regions. In the light zone, B cells with the highest-affinity BCRs outcompete others for antigen on follicular dendritic cells and receive survival signals, while low-affinity cells apoptose. Iterating this mutation-and-selection cycle progressively raises antibody affinity, the definition of affinity maturation.",
+        "whyWrongByChoice": {
+          "A": "Class switching, mediated by AID deleting DNA between constant-region genes, changes the antibody isotype, not its affinity for antigen.",
+          "C": "Receptor editing is a bone-marrow tolerance mechanism in immature B cells, not a germinal center affinity process.",
+          "D": "Negative selection removes self-reactive cells during maturation; germinal center selection here is based on antigen affinity, not autoreactivity.",
+          "E": "VDJ recombination assembles the original variable region in the bone marrow and is not the germinal center process described."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "germinal center",
+        "affinity maturation",
+        "somatic hypermutation",
+        "dark zone and light zone"
+      ],
+      "topicId": "b-cell-development-and-activation",
+      "topicName": "B Cell Development and Activation"
+    },
+    {
+      "id": "im09-001",
+      "stem": "A 6-month-old infant presents with a conotruncal cardiac defect, tetany from hypocalcemia, and recurrent viral and fungal infections. A chest radiograph shows an absent thymic shadow. Which of the following processes is most directly impaired in this infant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody class switching in germinal centers"
+        },
+        {
+          "label": "B",
+          "text": "Development of B cells in the bone marrow"
+        },
+        {
+          "label": "C",
+          "text": "Maturation of T cells in the thymus"
+        },
+        {
+          "label": "D",
+          "text": "The neutrophil oxidative burst"
+        },
+        {
+          "label": "E",
+          "text": "Classical pathway complement activation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The thymus provides the architecture required for T cell maturation, so thymic aplasia (as in DiGeorge syndrome) cripples T cell development.",
+        "whyCorrect": "T cell precursors leave the bone marrow and must enter the thymus to mature; the cortex and medulla supply the signals needed for T cell development. Patients with DiGeorge syndrome have little to no thymus and therefore cannot develop T cells properly, leaving them vulnerable to viral and fungal infections.",
+        "whyWrongByChoice": {
+          "A": "Class switching is a germinal-center B cell event and is not the process disrupted by absence of the thymus.",
+          "B": "B cells complete maturation in the bone marrow, which is intact in thymic aplasia.",
+          "D": "Neutrophil killing is an innate function that does not depend on the thymus.",
+          "E": "Complement is a plasma protein cascade unrelated to thymic T cell development."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "thymus",
+        "DiGeorge syndrome",
+        "T cell development"
+      ],
+      "topicId": "t-cell-development-activation-and-differentiation",
+      "topicName": "T Cell Development, Activation, and Differentiation"
+    },
+    {
+      "id": "im09-002",
+      "stem": "A 28-year-old woman has a lifelong history of mucocutaneous candidiasis and is later diagnosed with hypoparathyroidism and adrenal insufficiency. Genetic testing reveals a loss-of-function mutation in AIRE. In healthy individuals, the AIRE gene product normally enables which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Positive selection of thymocytes in the cortex"
+        },
+        {
+          "label": "B",
+          "text": "V(D)J recombination of the T-cell receptor"
+        },
+        {
+          "label": "C",
+          "text": "Class-switch recombination in B cells"
+        },
+        {
+          "label": "D",
+          "text": "Expression of tissue-restricted self-antigens by medullary epithelial cells"
+        },
+        {
+          "label": "E",
+          "text": "Costimulation of T cells through CD28 and B7"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "AIRE lets thymic medullary epithelial cells display self-antigens from across the genome so self-reactive T cells can be removed by negative selection.",
+        "whyCorrect": "Medullary epithelial cells (MECs) use the transcription factor encoded by AIRE to express genes from throughout the genome, including peptides otherwise unique to neurons, the cornea, or the ovaries. This lets self-reactive thymocytes be presented with these antigens and deleted. When AIRE is mutated, negative selection fails and self-reactive T cells escape, producing autoimmune polyendocrine syndrome-1 (APS-1).",
+        "whyWrongByChoice": {
+          "A": "Positive selection is carried out by cortical thymic epithelial cells and does not depend on AIRE-driven self-antigen expression.",
+          "B": "V(D)J recombination generates the TCR and is independent of AIRE.",
+          "C": "Class switching is a B cell process unrelated to thymic tolerance.",
+          "E": "CD28-B7 costimulation is a peripheral priming signal, not a function of AIRE."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "AIRE",
+        "negative selection",
+        "APS-1",
+        "central tolerance"
+      ],
+      "topicId": "t-cell-development-activation-and-differentiation",
+      "topicName": "T Cell Development, Activation, and Differentiation"
+    },
+    {
+      "id": "im09-003",
+      "stem": "In the thymic cortex, a double-positive thymocyte expresses a rearranged TCR that fails to bind any self peptide-MHC complex. Which of the following is the most likely fate of this cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clonal deletion by negative selection"
+        },
+        {
+          "label": "B",
+          "text": "Differentiation into a regulatory T cell"
+        },
+        {
+          "label": "C",
+          "text": "Apoptosis by death by neglect"
+        },
+        {
+          "label": "D",
+          "text": "Commitment to the CD8+ cytotoxic lineage"
+        },
+        {
+          "label": "E",
+          "text": "Release into the circulation as a naive helper T cell"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A double-positive cell that cannot bind self-MHC at all fails positive selection and dies by neglect.",
+        "whyCorrect": "During positive selection in the cortex, a TCR must bind self-MHC with appropriate affinity to receive survival signals. A cell that does not bind either MHC class I or class II receives no survival signal and undergoes apoptosis, termed death by neglect.",
+        "whyWrongByChoice": {
+          "A": "Negative selection deletes cells that bind self-antigen too strongly, not cells that fail to bind at all.",
+          "B": "The regulatory T cell fate is reserved for some strongly self-reactive cells, not for non-binders.",
+          "D": "Lineage commitment requires successful binding to self-MHC; a non-binder cannot commit.",
+          "E": "Only cells that survive positive and negative selection are released into the circulation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "positive selection",
+        "death by neglect",
+        "thymocyte selection"
+      ],
+      "topicId": "t-cell-development-activation-and-differentiation",
+      "topicName": "T Cell Development, Activation, and Differentiation"
+    },
+    {
+      "id": "im09-004",
+      "stem": "A 30-year-old man has extensive treatment-resistant cutaneous warts from human papillomavirus and persistently elevated blood levels of Epstein-Barr virus and cytomegalovirus. Genetic testing reveals a loss-of-function mutation in CD28. Which of the following interactions is most directly deficient in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD28 binding to B7 (CD80/CD86) on antigen-presenting cells"
+        },
+        {
+          "label": "B",
+          "text": "TCR binding to the peptide-MHC complex"
+        },
+        {
+          "label": "C",
+          "text": "CD8 binding to MHC class I"
+        },
+        {
+          "label": "D",
+          "text": "LFA-1 binding to ICAM-1"
+        },
+        {
+          "label": "E",
+          "text": "PD-1 binding to PD-L1"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CD28 on the T cell must engage B7 on the APC to deliver the costimulatory signal needed for T cell activation.",
+        "whyCorrect": "Successful priming requires CD28 (on T cells) to engage B7 (CD80/CD86 on APCs) as a costimulatory signal. Loss-of-function mutations in CD28 cause deficient T cell activation, leading to increased viral infections such as severe HPV warts and elevated EBV and cytomegalovirus that healthy adults normally control.",
+        "whyWrongByChoice": {
+          "B": "TCR binding to peptide-MHC (signal 1) is not affected by a CD28 mutation.",
+          "C": "CD8 binding to MHC class I remains intact and is not encoded by CD28.",
+          "D": "LFA-1/ICAM-1 is an adhesion interaction, not the molecule mutated here.",
+          "E": "PD-1 is an inhibitory receptor; losing it would increase, not decrease, T cell activation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CD28",
+        "costimulation",
+        "B7",
+        "priming"
+      ],
+      "topicId": "t-cell-development-activation-and-differentiation",
+      "topicName": "T Cell Development, Activation, and Differentiation"
+    },
+    {
+      "id": "im09-005",
+      "stem": "In the thymic cortex, a double-positive thymocyte expresses a TCR that binds self peptide-MHC class I with appropriate affinity. Into which of the following cells is this thymocyte most likely to differentiate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD4+ helper T cell"
+        },
+        {
+          "label": "B",
+          "text": "CD8+ cytotoxic T cell"
+        },
+        {
+          "label": "C",
+          "text": "Regulatory T cell"
+        },
+        {
+          "label": "D",
+          "text": "Double-negative thymocyte"
+        },
+        {
+          "label": "E",
+          "text": "Th17 cell"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A double-positive cell that is positively selected on MHC class I loses CD4 and becomes a CD8+ cytotoxic single-positive cell.",
+        "whyCorrect": "During positive selection, a double-positive cell whose TCR binds MHC class I loses CD4, retains CD8, and becomes a single-positive CD8+ cell committed to the cytotoxic lineage. Binding MHC class I therefore yields a cytotoxic T cell.",
+        "whyWrongByChoice": {
+          "A": "A CD4+ helper cell results from binding MHC class II, not class I.",
+          "C": "The regulatory T cell fate arises in the medulla from strongly self-reactive cells, not simply from MHC class I binding.",
+          "D": "Double-negative is an earlier, pre-selection stage.",
+          "E": "Th17 is a peripheral effector subset produced after priming, not a thymic selection outcome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "positive selection",
+        "MHC class I",
+        "CD8",
+        "lineage commitment"
+      ],
+      "topicId": "t-cell-development-activation-and-differentiation",
+      "topicName": "T Cell Development, Activation, and Differentiation"
+    },
+    {
+      "id": "im09-006",
+      "stem": "A 7-year-old child presents with abdominal pain and marked peripheral eosinophilia, and stool microscopy reveals helminth eggs. Which of the following CD4+ subsets is most likely driving this response, and which cytokines does it secrete?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Th1 secreting IFN-gamma and IL-2"
+        },
+        {
+          "label": "B",
+          "text": "Th17 secreting IL-17"
+        },
+        {
+          "label": "C",
+          "text": "Treg secreting IL-10 and TGF-beta"
+        },
+        {
+          "label": "D",
+          "text": "Cytotoxic T cells releasing perforin"
+        },
+        {
+          "label": "E",
+          "text": "Th2 secreting IL-4, IL-5, and IL-13"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Th2 cells drive the response to parasitic worms and secrete IL-4, IL-5, and IL-13.",
+        "whyCorrect": "IL-4, secreted by mast cells, dendritic cells, and eosinophils, drives naive T cells toward the Th2 subset. Th2 cells secrete IL-4, IL-5, and IL-13 and enhance the immune response to parasitic worms (helminths), which fits this child's eosinophilia and helminth infection.",
+        "whyWrongByChoice": {
+          "A": "Th1 (IFN-gamma, IL-2) targets intracellular pathogens and viruses, not helminths.",
+          "B": "Th17 (IL-17) recruits neutrophils against extracellular bacteria and fungi.",
+          "C": "Tregs suppress immune responses rather than clearing a parasite.",
+          "D": "Cytotoxic T cells are CD8+ killers of infected or malignant cells; perforin is not a secreted helper cytokine."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Th2",
+        "helminths",
+        "IL-4",
+        "helper T cell subsets"
+      ],
+      "topicId": "t-cell-development-activation-and-differentiation",
+      "topicName": "T Cell Development, Activation, and Differentiation"
+    },
+    {
+      "id": "im09-007",
+      "stem": "A patient has a disseminated intracellular bacterial infection. Dendritic cells and macrophages at the site secrete IL-12, and nearby NK cells secrete IFN-gamma. Which of the following CD4+ effector subsets is preferentially generated, and what is its main role?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Th2, enhancing eosinophil and antibody responses"
+        },
+        {
+          "label": "B",
+          "text": "Th1, enhancing macrophage killing of intracellular pathogens"
+        },
+        {
+          "label": "C",
+          "text": "Th17, recruiting neutrophils"
+        },
+        {
+          "label": "D",
+          "text": "Treg, suppressing the immune response"
+        },
+        {
+          "label": "E",
+          "text": "B cells, secreting IgE"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "IFN-gamma plus IL-12 drives Th1 differentiation, which enhances defense against intracellular pathogens.",
+        "whyCorrect": "IFN-gamma secreted by NK cells and IL-12 secreted by activated macrophages drive naive T cells toward the Th1 subset. Th1 cells enhance the immune response to viruses and intracellular pathogens, matching this scenario.",
+        "whyWrongByChoice": {
+          "A": "Th2 is IL-4-driven and targets helminths and extracellular threats, not intracellular bacteria.",
+          "C": "Th17 defends against extracellular bacteria and fungi by recruiting neutrophils.",
+          "D": "Tregs dampen responses and would not clear the infection.",
+          "E": "B cells and IgE are part of humoral/allergic responses, not the Th1 intracellular defense."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Th1",
+        "IL-12",
+        "IFN-gamma",
+        "intracellular pathogens"
+      ],
+      "topicId": "t-cell-development-activation-and-differentiation",
+      "topicName": "T Cell Development, Activation, and Differentiation"
+    },
+    {
+      "id": "im09-008",
+      "stem": "A 52-year-old kidney transplant recipient is maintained on cyclosporine to prevent rejection. Which of the following best describes the mechanism by which this drug suppresses T cell responses?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It blocks CD28 binding to B7"
+        },
+        {
+          "label": "B",
+          "text": "It depletes CD8+ cytotoxic T cells"
+        },
+        {
+          "label": "C",
+          "text": "It prevents NFAT activation downstream of calcium, reducing IL-2 transcription"
+        },
+        {
+          "label": "D",
+          "text": "It blocks the S1P receptor to trap lymphocytes in lymph nodes"
+        },
+        {
+          "label": "E",
+          "text": "It inhibits V(D)J recombination"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cyclosporine blocks calcium-dependent activation of NFAT, a transcription factor needed for T cell cytokine production.",
+        "whyCorrect": "TCR signaling raises intracellular calcium, which activates the transcription factor NFAT. NFAT (along with NF-kB and AP-1) drives cytokine genes central to T cell activation and proliferation. Cyclosporine blocks the activation of NFAT from increased calcium, dampening the T cell response and preventing rejection.",
+        "whyWrongByChoice": {
+          "A": "Blocking CD28-B7 costimulation is the mechanism of costimulation blockers, not cyclosporine.",
+          "B": "Cyclosporine acts on signaling, not by depleting cytotoxic T cells.",
+          "D": "Trapping lymphocytes via the S1P receptor is the mechanism of fingolimod.",
+          "E": "V(D)J recombination occurs during thymic development and is not the drug target."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cyclosporine",
+        "NFAT",
+        "TCR signaling",
+        "transplant"
+      ],
+      "topicId": "t-cell-development-activation-and-differentiation",
+      "topicName": "T Cell Development, Activation, and Differentiation"
+    },
+    {
+      "id": "im09-009",
+      "stem": "A 34-year-old woman with relapsing-remitting multiple sclerosis is started on fingolimod. This drug limits disease by interfering with lymphocyte trafficking. Which of the following best describes its mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It blocks IL-2 receptor signaling"
+        },
+        {
+          "label": "B",
+          "text": "It depletes B cells by targeting CD20"
+        },
+        {
+          "label": "C",
+          "text": "It competes with CD28 for B7"
+        },
+        {
+          "label": "D",
+          "text": "It modulates S1P receptor 1, sequestering lymphocytes in lymph nodes"
+        },
+        {
+          "label": "E",
+          "text": "It inhibits NFAT activation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Fingolimod is an S1P receptor 1 modulator that keeps lymphocytes trapped in lymph nodes, preventing them from reaching the periphery.",
+        "whyCorrect": "Activated effector T cells normally downregulate CCR7 and upregulate the S1P receptor to follow an S1P gradient out of the secondary lymphoid organs into the circulation. Fingolimod is an S1PR1 modulator that sequesters lymphocytes in lymph nodes, preventing them from carrying out effector functions in the periphery.",
+        "whyWrongByChoice": {
+          "A": "Fingolimod does not act on the IL-2 receptor.",
+          "B": "CD20-directed B cell depletion is the mechanism of rituximab, not fingolimod.",
+          "C": "Competing with CD28 for B7 describes CTLA-4-based costimulation blockade.",
+          "E": "Inhibiting NFAT activation describes cyclosporine."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "fingolimod",
+        "S1P",
+        "T cell trafficking",
+        "multiple sclerosis"
+      ],
+      "topicId": "t-cell-development-activation-and-differentiation",
+      "topicName": "T Cell Development, Activation, and Differentiation"
+    },
+    {
+      "id": "im09-010",
+      "stem": "A cytotoxic T cell recognizes a virus-infected cell through its TCR and CD8 co-receptor. Which of the following best describes how the cytotoxic T cell kills this target?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It secretes IL-4 to recruit eosinophils"
+        },
+        {
+          "label": "B",
+          "text": "It releases perforin to form pores and granzymes to trigger apoptosis"
+        },
+        {
+          "label": "C",
+          "text": "It produces antibodies that opsonize the target"
+        },
+        {
+          "label": "D",
+          "text": "It assembles the complement membrane attack complex"
+        },
+        {
+          "label": "E",
+          "text": "It engulfs the target cell by phagocytosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cytotoxic T cells kill targets by delivering perforin, which forms membrane pores, and granzymes, which trigger apoptosis.",
+        "whyCorrect": "Cytotoxic T cells recognize and kill malignant or pathogen-infected target cells by delivering granules of cytotoxic proteins. Perforin pokes holes in the cell membrane, while granzymes trigger apoptosis. CTLs can also secrete cytokines that activate macrophages and induce inflammation.",
+        "whyWrongByChoice": {
+          "A": "IL-4 secretion is a Th2 helper function, not a CTL killing mechanism.",
+          "C": "Antibodies are produced by B cells/plasma cells, not T cells.",
+          "D": "The membrane attack complex is a complement product, separate from CTL granules.",
+          "E": "Cytotoxic T cells induce apoptosis in the target rather than phagocytosing it."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cytotoxic T cell",
+        "perforin",
+        "granzyme",
+        "effector function"
+      ],
+      "topicId": "t-cell-development-activation-and-differentiation",
+      "topicName": "T Cell Development, Activation, and Differentiation"
+    },
+    {
+      "id": "im09-011",
+      "stem": "A naive CD4+ T cell circulating in the blood must enter a lymph node to search for its cognate antigen. Which of the following best describes how it gains entry?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It crosses high endothelial venules using CCR7"
+        },
+        {
+          "label": "B",
+          "text": "It passes through the thymic corticomedullary junction"
+        },
+        {
+          "label": "C",
+          "text": "It follows an S1P gradient out of the node"
+        },
+        {
+          "label": "D",
+          "text": "It binds B7 displayed on the venule wall"
+        },
+        {
+          "label": "E",
+          "text": "It downregulates L-selectin before entering"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Naive T cells enter lymph nodes across high endothelial venules and home using CCR7.",
+        "whyCorrect": "Circulating naive CD4+ and CD8+ T cells enter lymph nodes and other secondary lymphoid organs through specialized high endothelial venules (HEVs) that express high levels of L-selectin ligands and adhesion molecules. Like activated dendritic cells, naive T cells home to lymph nodes using CCR7.",
+        "whyWrongByChoice": {
+          "B": "The corticomedullary junction is where precursors enter the thymus during development, not how a mature naive T cell enters a lymph node.",
+          "C": "Following an S1P gradient drives effector cells out of the node, the opposite direction.",
+          "D": "B7 is a costimulatory ligand on APCs, not the mechanism of entry across HEVs.",
+          "E": "Naive T cells use L-selectin (and its ligands on HEVs) to enter; they do not shed it to home in."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "naive T cell",
+        "high endothelial venules",
+        "CCR7",
+        "homing"
+      ],
+      "topicId": "t-cell-development-activation-and-differentiation",
+      "topicName": "T Cell Development, Activation, and Differentiation"
+    },
+    {
+      "id": "im09-012",
+      "stem": "Several days after activation, a T cell upregulates CTLA-4 on its surface. Which of the following best explains how CTLA-4 limits the ongoing T cell response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It triggers perforin release"
+        },
+        {
+          "label": "B",
+          "text": "It binds peptide-MHC with higher affinity than the TCR"
+        },
+        {
+          "label": "C",
+          "text": "It secretes IL-2 to expand the response"
+        },
+        {
+          "label": "D",
+          "text": "It induces AIRE expression in the thymus"
+        },
+        {
+          "label": "E",
+          "text": "It competes with CD28 for B7, reducing costimulation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "CTLA-4 outcompetes CD28 for B7, cutting off the costimulatory signal and dampening the response.",
+        "whyCorrect": "CTLA-4 is upregulated on activated T cells and competes with CD28 for B7. By binding B7, CTLA-4 inhibits CD28-mediated costimulation, helping to keep the total number of T cells in check after activation.",
+        "whyWrongByChoice": {
+          "A": "Perforin release is a cytotoxic T cell killing mechanism, unrelated to CTLA-4 inhibition.",
+          "B": "CTLA-4 binds B7, not peptide-MHC, so it does not compete with the TCR.",
+          "C": "Secreting IL-2 would expand the response, the opposite of CTLA-4's inhibitory effect.",
+          "D": "AIRE acts in thymic medullary epithelial cells during development and is not induced by CTLA-4."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CTLA-4",
+        "costimulation",
+        "immune checkpoint",
+        "downregulation"
+      ],
+      "topicId": "t-cell-development-activation-and-differentiation",
+      "topicName": "T Cell Development, Activation, and Differentiation"
+    },
+    {
+      "id": "im10-001",
+      "stem": "A 34-year-old man with chronic viral hepatitis undergoes a liver biopsy that shows scattered apoptotic hepatocytes surrounded by CD8+ T lymphocytes, with little surrounding inflammation. One killing mechanism used by these lymphocytes relies on a membrane ligand that engages a death receptor on the target cell, triggering caspase activation. Which of the following molecules mediates this mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Perforin"
+        },
+        {
+          "label": "B",
+          "text": "Fas ligand (FasL)"
+        },
+        {
+          "label": "C",
+          "text": "Granzyme B"
+        },
+        {
+          "label": "D",
+          "text": "CD16"
+        },
+        {
+          "label": "E",
+          "text": "Major basic protein"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "CTLs kill target cells by perforin/granzyme delivery and by Fas/FasL death-receptor signaling.",
+        "whyCorrect": "On activation, CTLs express Fas ligand (FasL). Many nucleated cells display Fas, the receptor for FasL. FasL binding to Fas triggers caspase signaling (including caspase-3) that culminates in apoptosis. Because apoptosis does not release DAMPs, this killing occurs without surrounding inflammation.",
+        "whyWrongByChoice": {
+          "A": "Perforin polymerizes to form pores in the target membrane; it is not a death-receptor ligand.",
+          "C": "Granzymes enter the cell through perforin pores and activate caspases, but they are not the ligand that engages a death receptor.",
+          "D": "CD16 (FcgammaRIIIA) is an NK-cell receptor for the Fc of IgG used in ADCC, not a CTL death-receptor ligand.",
+          "E": "Major basic protein is an eosinophil granule protein that kills helminths, not a mediator of CTL death-receptor killing."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cytotoxic T cells",
+        "Fas/FasL",
+        "apoptosis"
+      ],
+      "topicId": "cell-mediated-immunity",
+      "topicName": "Cell-Mediated Immunity"
+    },
+    {
+      "id": "im10-002",
+      "stem": "An investigator studies how a cytotoxic T lymphocyte kills a melanoma cell it has recognized. After the CTL degranulates, one released protein inserts into and polymerizes within the target cell membrane, creating channels. Which of the following best describes the role of this protein, perforin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It forms pores in the target membrane that allow granzymes to enter"
+        },
+        {
+          "label": "B",
+          "text": "It directly activates caspases inside the cytosol"
+        },
+        {
+          "label": "C",
+          "text": "It binds Fas to initiate death-receptor signaling"
+        },
+        {
+          "label": "D",
+          "text": "It neutralizes secreted bacterial toxins"
+        },
+        {
+          "label": "E",
+          "text": "It recruits neutrophils to the tumor site"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Perforin perforates the target-cell membrane so that granzymes can enter and trigger apoptosis.",
+        "whyCorrect": "CTLs secrete perforin and granzymes by exocytosis. Perforin polymerizes in the target cell membrane, perforating it, and granzymes then enter the cell (likely via endocytosis triggered by ion/small-molecule influx through the pores) and activate caspases that drive apoptosis.",
+        "whyWrongByChoice": {
+          "B": "Granzymes, not perforin, activate caspases; perforin's job is to breach the membrane so granzymes can get in.",
+          "C": "Binding Fas describes the separate Fas/FasL pathway, not perforin.",
+          "D": "Toxin neutralization is a humoral (antibody) function, not a role of perforin.",
+          "E": "Neutrophil recruitment is driven by IL-17 from Th17 cells, unrelated to perforin."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cytotoxic T cells",
+        "perforin",
+        "granzyme"
+      ],
+      "topicId": "cell-mediated-immunity",
+      "topicName": "Cell-Mediated Immunity"
+    },
+    {
+      "id": "im10-003",
+      "stem": "A 41-year-old man with advanced HIV develops disseminated Mycobacterium avium infection. Biopsy shows macrophages filled with acid-fast bacilli that the cells cannot kill. Restoring which of the following cytokines, normally secreted by Th1 cells, would most directly enable these macrophages to destroy the intracellular organisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IL-4"
+        },
+        {
+          "label": "B",
+          "text": "IL-5"
+        },
+        {
+          "label": "C",
+          "text": "IL-17"
+        },
+        {
+          "label": "D",
+          "text": "IFN-gamma"
+        },
+        {
+          "label": "E",
+          "text": "IL-13"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Th1 cells activate macrophages to kill phagocytosed intracellular pathogens chiefly through IFN-gamma.",
+        "whyCorrect": "Th1 cells secrete IFN-gamma and express CD40L. IFN-gamma (with CD40L-CD40 engagement) activates the macrophage to produce microbicidal substances in the phagolysosome, including reactive oxygen species and nitric oxide, enabling killing of intracellular organisms such as mycobacteria.",
+        "whyWrongByChoice": {
+          "A": "IL-4 is a Th2 cytokine that drives IgE class switching and anti-helminth responses, not macrophage killing of intracellular bacteria.",
+          "B": "IL-5 is a Th2 cytokine that activates eosinophils against worms.",
+          "C": "IL-17 (Th17) recruits neutrophils against extracellular bacteria and fungi, not intracellular pathogens in macrophages.",
+          "E": "IL-13 promotes the anti-inflammatory M2 macrophage phenotype and mucus/peristalsis for worm expulsion, not microbicidal activation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Th1",
+        "IFN-gamma",
+        "macrophage activation"
+      ],
+      "topicId": "cell-mediated-immunity",
+      "topicName": "Cell-Mediated Immunity"
+    },
+    {
+      "id": "im10-004",
+      "stem": "A 9-month-old infant develops disseminated infection shortly after receiving a live attenuated tuberculosis (BCG) vaccine. Genetic testing reveals a loss-of-function mutation in a cytokine receptor whose signaling is required to activate macrophages. A defect in which of the following receptors best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IL-4 receptor"
+        },
+        {
+          "label": "B",
+          "text": "IFN-gamma receptor"
+        },
+        {
+          "label": "C",
+          "text": "CD28"
+        },
+        {
+          "label": "D",
+          "text": "Fas"
+        },
+        {
+          "label": "E",
+          "text": "CD16"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "IFN-gamma receptor deficiency prevents macrophage activation, so live mycobacterial vaccines can cause severe disease.",
+        "whyCorrect": "The TB (BCG) vaccine contains live bacteria similar to Mycobacterium tuberculosis and does not cause disease in healthy individuals. Patients with loss-of-function mutations in the IFN-gamma receptor cannot activate macrophages to kill these bacteria, so the vaccine is contraindicated and can produce severe vaccine-induced infection.",
+        "whyWrongByChoice": {
+          "A": "The IL-4 receptor mediates Th2/IgE responses; its loss would not impair macrophage killing of mycobacteria.",
+          "C": "CD28 provides T cell co-stimulation; it is not the receptor through which macrophages are activated to kill intracellular bacteria.",
+          "D": "Fas is a death receptor used in apoptosis, unrelated to IFN-gamma-driven macrophage activation.",
+          "E": "CD16 is an NK Fc receptor for ADCC and has no role in macrophage activation by IFN-gamma."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "IFN-gamma receptor",
+        "macrophage activation",
+        "clinical correlation"
+      ],
+      "topicId": "cell-mediated-immunity",
+      "topicName": "Cell-Mediated Immunity"
+    },
+    {
+      "id": "im10-005",
+      "stem": "A 22-year-old woman presents with a history of recurrent skin abscesses, Staphylococcus aureus pneumonia, and lung abscesses since childhood. Physical exam shows facial features characteristic of autosomal dominant hyper-IgE syndrome, and genetic testing confirms a STAT3 mutation. Defective differentiation of which of the following T cell subsets best explains her impaired neutrophil recruitment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Th1 cells"
+        },
+        {
+          "label": "B",
+          "text": "Th2 cells"
+        },
+        {
+          "label": "C",
+          "text": "Th17 cells"
+        },
+        {
+          "label": "D",
+          "text": "CD8+ cytotoxic T cells"
+        },
+        {
+          "label": "E",
+          "text": "Natural killer cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "STAT3 loss-of-function impairs Th17 differentiation, reducing IL-17 and neutrophil recruitment against extracellular pathogens.",
+        "whyCorrect": "Loss-of-function mutations in STAT3 lead to defective differentiation of naive T cells into Th17 cells. With little IL-17, neutrophil recruitment to infection sites is impaired, so patients suffer recurrent skin and respiratory infections with Staphylococcus aureus and other extracellular pathogens.",
+        "whyWrongByChoice": {
+          "A": "Th1 cells activate macrophages against intracellular pathogens; their loss would not primarily explain defective neutrophil recruitment.",
+          "B": "Th2 cells target helminths via eosinophils and mast cells, not neutrophil recruitment.",
+          "D": "CD8+ CTLs kill infected or malignant cells directly; they do not recruit neutrophils.",
+          "E": "NK cells kill abnormal cells and mediate ADCC; they are not the STAT3-dependent source of neutrophil-recruiting IL-17."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Th17",
+        "STAT3",
+        "hyper-IgE syndrome"
+      ],
+      "topicId": "cell-mediated-immunity",
+      "topicName": "Cell-Mediated Immunity"
+    },
+    {
+      "id": "im10-006",
+      "stem": "A 27-year-old man returns from travel with abdominal discomfort, and stool studies confirm a Strongyloides helminth infection. His complete blood count shows marked eosinophilia. Which of the following Th2 cytokines has the most direct effect on activating eosinophils and promoting their proliferation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IL-2"
+        },
+        {
+          "label": "B",
+          "text": "IL-5"
+        },
+        {
+          "label": "C",
+          "text": "IFN-gamma"
+        },
+        {
+          "label": "D",
+          "text": "IL-17"
+        },
+        {
+          "label": "E",
+          "text": "TNF-alpha"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Among Th2 cytokines, IL-5 has the most direct effect on eosinophils, activating them and driving their proliferation.",
+        "whyCorrect": "Th2 cells secrete IL-4, IL-5, and IL-13 to enhance anti-helminth responses. IL-5 has the most direct effect on eosinophils: it activates them and promotes their proliferation, enabling ADCC-mediated killing of worms.",
+        "whyWrongByChoice": {
+          "A": "IL-2 is a T cell growth factor and is not the Th2 cytokine directly activating eosinophils.",
+          "C": "IFN-gamma is a Th1 cytokine that activates macrophages, not eosinophils.",
+          "D": "IL-17 is a Th17 cytokine that recruits neutrophils against extracellular bacteria and fungi.",
+          "E": "TNF-alpha is a pro-inflammatory cytokine (induced downstream of IL-17) and is not the direct Th2 eosinophil activator."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Th2",
+        "IL-5",
+        "eosinophils"
+      ],
+      "topicId": "cell-mediated-immunity",
+      "topicName": "Cell-Mediated Immunity"
+    },
+    {
+      "id": "im10-007",
+      "stem": "A 19-year-old woman with severe allergic rhinitis has elevated serum IgE that arms her mast cells. In the lymph node, a Th2 cytokine induces her B cells to class switch to IgE, which then binds the high-affinity receptor FcepsilonR1 on mast cells and eosinophils. Which of the following cytokines is responsible for this class switching?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IL-4"
+        },
+        {
+          "label": "B",
+          "text": "IL-12"
+        },
+        {
+          "label": "C",
+          "text": "IFN-gamma"
+        },
+        {
+          "label": "D",
+          "text": "IL-17"
+        },
+        {
+          "label": "E",
+          "text": "IL-8"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "IL-4 drives B cell class switching to IgE, which arms mast cells and eosinophils via FcepsilonR1.",
+        "whyCorrect": "IL-4 induces B cell class switching to IgE. IgE binds the high-affinity IgE receptor FcepsilonR1 on mast cells and eosinophils; when antigen cross-links FcepsilonR1-bound IgE, these cells degranulate, releasing mediators such as histamine and toxic granule proteins.",
+        "whyWrongByChoice": {
+          "B": "IL-12 promotes Th1 responses and does not drive IgE class switching.",
+          "C": "IFN-gamma induces class switching to IgG and activates macrophages, not IgE switching.",
+          "D": "IL-17 recruits neutrophils and does not mediate immunoglobulin class switching to IgE.",
+          "E": "IL-8 is a chemokine that attracts neutrophils, not a driver of IgE class switching."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Th2",
+        "IL-4",
+        "IgE class switching"
+      ],
+      "topicId": "cell-mediated-immunity",
+      "topicName": "Cell-Mediated Immunity"
+    },
+    {
+      "id": "im10-008",
+      "stem": "A virus infecting a patient's cells downregulates surface MHC class I so that CD8+ cytotoxic T cells can no longer detect the infected cells. Which of the following cells is best able to recognize and kill these MHC-I-deficient cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD4+ Th1 cell"
+        },
+        {
+          "label": "B",
+          "text": "CD8+ cytotoxic T cell"
+        },
+        {
+          "label": "C",
+          "text": "Natural killer (NK) cell"
+        },
+        {
+          "label": "D",
+          "text": "Eosinophil"
+        },
+        {
+          "label": "E",
+          "text": "B cell"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "NK cells detect and kill cells that downregulate MHC class I, a strategy virally infected and tumor cells use to evade CTLs.",
+        "whyCorrect": "Virally infected and tumor cells often reduce MHC class I to evade CD8+ CTLs, which require peptide-MHC I recognition. NK cells are inhibited by MHC I, so loss of MHC I releases that inhibition and allows NK cells to kill the abnormal cell using perforin and granzymes.",
+        "whyWrongByChoice": {
+          "A": "Th1 cells activate macrophages via IFN-gamma; they do not directly kill MHC-I-low target cells.",
+          "B": "CD8+ CTLs require peptide-MHC I recognition and are precisely the cells that cannot detect MHC-I-deficient targets.",
+          "D": "Eosinophils kill helminths via ADCC and granule proteins, not MHC-I-low infected cells.",
+          "E": "B cells produce antibodies and do not directly kill cells that have lost MHC class I."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "NK cells",
+        "MHC class I",
+        "missing-self"
+      ],
+      "topicId": "cell-mediated-immunity",
+      "topicName": "Cell-Mediated Immunity"
+    },
+    {
+      "id": "im10-009",
+      "stem": "A patient with lymphoma is treated with a therapeutic IgG monoclonal antibody that coats the tumor cells. Natural killer cells then bind the coated cells and kill them by antibody-dependent cellular cytotoxicity. Which of the following NK cell receptors recognizes the Fc region of the bound IgG to trigger this killing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "T cell receptor (TCR)"
+        },
+        {
+          "label": "B",
+          "text": "CD16 (FcgammaRIIIA)"
+        },
+        {
+          "label": "C",
+          "text": "FcepsilonR1"
+        },
+        {
+          "label": "D",
+          "text": "CD28"
+        },
+        {
+          "label": "E",
+          "text": "MHC class I"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "NK cells perform ADCC using CD16 (FcgammaRIIIA), which binds the Fc region of IgG coating a target cell.",
+        "whyCorrect": "In NK-mediated ADCC, CD16 (FcgammaRIIIA) recognizes the Fc region of IgG bound to an infected or malignant cell. CD16 aggregation activates the NK cell to degranulate and kill its target with perforin and granzymes.",
+        "whyWrongByChoice": {
+          "A": "NK cells do not express an antigen-specific TCR; the TCR is used by T cells to recognize peptide-MHC.",
+          "C": "FcepsilonR1 is the high-affinity IgE receptor on mast cells and eosinophils, not the NK IgG receptor.",
+          "D": "CD28 is a T cell co-stimulatory receptor, not an Fc receptor for ADCC.",
+          "E": "MHC class I is an inhibitory ligand for NK cells, not the receptor that binds IgG Fc."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "NK cells",
+        "ADCC",
+        "CD16"
+      ],
+      "topicId": "cell-mediated-immunity",
+      "topicName": "Cell-Mediated Immunity"
+    },
+    {
+      "id": "im10-010",
+      "stem": "A 38-year-old man presents with Pneumocystis jirovecii pneumonia and a recent episode of Cryptococcus meningitis. His CD4+ T cell count is severely reduced. Direct infection and depletion of which of the following cell populations best explains his profound susceptibility to these opportunistic infections?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD8+ cytotoxic T cells"
+        },
+        {
+          "label": "B",
+          "text": "CD4+ helper T cells"
+        },
+        {
+          "label": "C",
+          "text": "Neutrophils"
+        },
+        {
+          "label": "D",
+          "text": "Natural killer cells"
+        },
+        {
+          "label": "E",
+          "text": "B cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "HIV infects and depletes CD4+ helper T cells, crippling the coordination of cell-mediated immunity.",
+        "whyCorrect": "In HIV/AIDS, infection of CD4+ cells leads to low CD4+ counts and severe immune suppression. Because CD4+ helper T cells are the communicators that coordinate immune responses, their depletion produces susceptibility to AIDS-defining opportunistic infections such as Pneumocystis jirovecii and Cryptococcus.",
+        "whyWrongByChoice": {
+          "A": "CD8+ CTLs are effector killers, not the cells HIV directly infects and depletes to define AIDS.",
+          "C": "Neutrophil defects (e.g., impaired IL-17 recruitment) cause a different pattern of bacterial/fungal abscesses, not the CD4-defined opportunistic picture described.",
+          "D": "NK cells are innate cytotoxic cells and are not the population whose loss defines AIDS.",
+          "E": "B cells mediate humoral immunity; their loss does not explain the CD4-driven opportunistic infections seen here."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "CD4+ T cells",
+        "HIV/AIDS",
+        "clinical correlation"
+      ],
+      "topicId": "cell-mediated-immunity",
+      "topicName": "Cell-Mediated Immunity"
+    },
+    {
+      "id": "im10-011",
+      "stem": "In an experiment, a naive helper T cell engages a peptide-MHC class II complex through its T cell receptor but receives no B7-CD28 co-stimulatory signal. Which of the following outcomes is most likely for this T cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Robust activation and clonal expansion"
+        },
+        {
+          "label": "B",
+          "text": "Anergy, a state of functional inactivation"
+        },
+        {
+          "label": "C",
+          "text": "Immediate apoptosis induced by its own perforin"
+        },
+        {
+          "label": "D",
+          "text": "Class switching to IgE"
+        },
+        {
+          "label": "E",
+          "text": "Positive selection in the thymus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "TCR engagement without B7-CD28 co-stimulation drives a helper T cell into anergy.",
+        "whyCorrect": "Helper T cells require both antigen recognition (signal 1) and co-stimulation (signal 2). When TCR engagement occurs in the absence of B7-CD28 binding, the T cell does not activate but instead becomes anergic, a state in which the lymphocyte is functionally inactive and difficult to reactivate.",
+        "whyWrongByChoice": {
+          "A": "Robust activation requires both TCR engagement and B7-CD28 co-stimulation, which is missing here.",
+          "C": "Anergy is functional inactivation, not perforin-mediated self-killing; helper T cells also do not kill via perforin.",
+          "D": "Class switching is a B cell process driven by cytokines, not the fate of a co-stimulation-deprived T cell.",
+          "E": "Positive selection occurs during thymic development, not upon peripheral antigen encounter without co-stimulation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "T cell activation",
+        "co-stimulation",
+        "anergy"
+      ],
+      "topicId": "cell-mediated-immunity",
+      "topicName": "Cell-Mediated Immunity"
+    },
+    {
+      "id": "im10-012",
+      "stem": "A histology study notes that when cytotoxic T cells clear virally infected cells, the surrounding tissue shows minimal inflammation and no damage to neighboring healthy cells. Which of the following best explains why CTL-mediated killing avoids inflammation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Macrophages in the area are globally suppressed"
+        },
+        {
+          "label": "B",
+          "text": "Apoptosis avoids releasing DAMPs, unlike necrosis"
+        },
+        {
+          "label": "C",
+          "text": "CTLs secrete large amounts of anti-inflammatory IL-10"
+        },
+        {
+          "label": "D",
+          "text": "Complement activation is directly inhibited at the site"
+        },
+        {
+          "label": "E",
+          "text": "Target cells release histamine that limits swelling"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "CTL killing induces apoptosis, which does not release DAMPs, so it does not provoke inflammation.",
+        "whyCorrect": "Neither the perforin/granzyme nor the Fas/FasL mechanism induces inflammation. Only the target cells marked for destruction are killed, and apoptosis does not release damage-associated molecular patterns (DAMPs) the way necrosis or other damaging cell deaths do, so surrounding tissue is spared.",
+        "whyWrongByChoice": {
+          "A": "Killing is inflammation-free because of the mode of cell death, not because macrophages are globally suppressed.",
+          "C": "The brick attributes the lack of inflammation to apoptosis avoiding DAMP release, not to IL-10 secretion by CTLs.",
+          "D": "Complement inhibition is not the mechanism; apoptosis simply does not trigger inflammatory signals.",
+          "E": "Histamine release drives inflammation and is a mast cell function, not a reason CTL killing is non-inflammatory."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cytotoxic T cells",
+        "apoptosis",
+        "inflammation"
+      ],
+      "topicId": "cell-mediated-immunity",
+      "topicName": "Cell-Mediated Immunity"
+    }
+  ]
+}

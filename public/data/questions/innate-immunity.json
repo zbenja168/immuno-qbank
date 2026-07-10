@@ -1,0 +1,2786 @@
+{
+  "categoryId": "innate-immunity",
+  "categoryName": "Innate Immunity",
+  "questions": [
+    {
+      "id": "im01-001",
+      "stem": "A 32-year-old woman reports several months of intermittent blurred vision and limb weakness. MRI of the brain shows scattered demyelinating lesions, and her own immune cells are found to be attacking the myelin of her central nervous system. This process best illustrates a failure of which normal property of the immune system?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clonal expansion"
+        },
+        {
+          "label": "B",
+          "text": "Immune tolerance (self versus non-self discrimination)"
+        },
+        {
+          "label": "C",
+          "text": "Hematopoiesis"
+        },
+        {
+          "label": "D",
+          "text": "Opsonization"
+        },
+        {
+          "label": "E",
+          "text": "Phagocytosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Autoimmune disease results when the immune system loses tolerance and attacks the body's own cells.",
+        "whyCorrect": "The brick defines immune tolerance as unresponsiveness to the body's own cells and molecules. When this tolerance is lost, the immune system attacks self-tissue, producing autoimmune disease; the brick specifically names multiple sclerosis as an example in which self-reactivity damages tissue.",
+        "whyWrongByChoice": {
+          "A": "Clonal expansion is the proliferation of an activated lymphocyte into a clone bearing the same receptor; it is a normal effector step, not the property that fails in autoimmunity.",
+          "C": "Hematopoiesis is the production of blood cells in the bone marrow and is unrelated to self/non-self discrimination.",
+          "D": "Opsonization is the antibody- or complement-mediated coating of pathogens to enhance phagocytosis, not a mechanism of self-tolerance.",
+          "E": "Phagocytosis is the engulfment of pathogens and debris by cells such as macrophages and neutrophils; it is an effector function, not the failed regulatory property."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "immune functions",
+        "tolerance",
+        "autoimmunity"
+      ],
+      "topicId": "introduction-to-the-immune-system",
+      "topicName": "Introduction to the Immune System"
+    },
+    {
+      "id": "im01-002",
+      "stem": "A 39-year-old construction worker sustained a deep implement injury to the leg two days ago. The wound was cleaned and sutured. On follow-up, the redness has resolved and drainage has stopped as the wound closes. During this repair phase, which cell type is chiefly responsible for rebuilding the damaged tissue?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytotoxic T lymphocytes"
+        },
+        {
+          "label": "B",
+          "text": "Fibroblasts and endothelial cells"
+        },
+        {
+          "label": "C",
+          "text": "Plasma cells"
+        },
+        {
+          "label": "D",
+          "text": "Natural killer cells"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophils"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Tissue repair, the third major function of the immune system, is carried out largely by fibroblasts and endothelial cells.",
+        "whyCorrect": "The brick describes tissue repair as the immune system's third function: when tissue is damaged, cells rush in, clear the debris, and then fibroblasts and endothelial cells secrete proteins that guide the rebuilding process to restore the tissue.",
+        "whyWrongByChoice": {
+          "A": "Cytotoxic T lymphocytes kill virus-infected and malignant cells; they do not rebuild damaged tissue.",
+          "C": "Plasma cells are differentiated B cells that secrete antibodies, a humoral defense function, not a repair function.",
+          "D": "Natural killer cells destroy virus-infected, irreparably damaged, and cancerous cells rather than reconstructing tissue.",
+          "E": "Neutrophils are early phagocytes that clear microbes and debris but do not carry out the rebuilding of tissue."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "immune functions",
+        "tissue repair"
+      ],
+      "topicId": "introduction-to-the-immune-system",
+      "topicName": "Introduction to the Immune System"
+    },
+    {
+      "id": "im01-003",
+      "stem": "A 6-month-old infant has had repeated severe viral and fungal infections. Laboratory studies show a near-absence of mature T lymphocytes, whereas B lymphocytes and antibody levels are relatively preserved. Failure of which structure would best account for the specific lack of mature T cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bone marrow"
+        },
+        {
+          "label": "B",
+          "text": "Spleen"
+        },
+        {
+          "label": "C",
+          "text": "Thymus"
+        },
+        {
+          "label": "D",
+          "text": "Lymph nodes"
+        },
+        {
+          "label": "E",
+          "text": "Tonsils"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The thymus is a primary lymphoid organ where T lymphocytes mature.",
+        "whyCorrect": "The brick states that T cells develop in the bone marrow but mature in the thymus, the second of the two primary (generative) lymphoid organs. Absent thymic maturation, mature T cells fail to appear while B-cell development in the marrow can proceed.",
+        "whyWrongByChoice": {
+          "A": "The bone marrow generates all immune cells and is where B cells mature; T cells only originate there before migrating to the thymus, so marrow failure would broadly reduce all lineages, not selectively T cells.",
+          "B": "The spleen is a secondary lymphoid organ where mature B and T cells respond to blood-borne antigen; it is not a site of T-cell maturation.",
+          "D": "Lymph nodes are secondary lymphoid organs where mature B and T cells encounter antigen, not where T cells are generated or matured.",
+          "E": "Tonsils are secondary lymphoid tissue (part of the mucosa-associated system) and do not mature T cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lymphoid organs",
+        "thymus",
+        "T cells"
+      ],
+      "topicId": "introduction-to-the-immune-system",
+      "topicName": "Introduction to the Immune System"
+    },
+    {
+      "id": "im01-004",
+      "stem": "A researcher studies a marrow-derived cell that gives rise to both the myeloid and lymphoid lineages, ultimately producing all of the cells of the immune system. Which cell is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Plasma cell"
+        },
+        {
+          "label": "B",
+          "text": "Hematopoietic stem cell"
+        },
+        {
+          "label": "C",
+          "text": "Macrophage"
+        },
+        {
+          "label": "D",
+          "text": "Memory T cell"
+        },
+        {
+          "label": "E",
+          "text": "Megakaryocyte"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hematopoietic stem cells in the bone marrow give rise to the myeloid and lymphoid lineages.",
+        "whyCorrect": "The brick teaches that hematopoiesis in the bone marrow begins with pluripotent hematopoietic stem cells (HSCs), which differentiate into the myeloid and lymphoid lineages and thereby produce all immune cells.",
+        "whyWrongByChoice": {
+          "A": "A plasma cell is a terminally differentiated B cell that secretes antibodies; it does not give rise to other lineages.",
+          "C": "A macrophage is a differentiated phagocyte derived from a monocyte and cannot generate the immune lineages.",
+          "D": "A memory T cell is a long-lived product of an adaptive response, not a precursor of the myeloid and lymphoid lineages.",
+          "E": "A megakaryocyte is a committed myeloid cell that produces platelets and does not give rise to lymphoid cells."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hematopoiesis",
+        "bone marrow",
+        "stem cells"
+      ],
+      "topicId": "introduction-to-the-immune-system",
+      "topicName": "Introduction to the Immune System"
+    },
+    {
+      "id": "im01-005",
+      "stem": "A 45-year-old man develops a rapidly enlarging, painful skin abscess two days after a puncture wound. Aspiration yields thick pus. The predominant cell in this early pus is a short-lived phagocyte that is also a granulocyte and is typically the first to arrive at a site of inflammation. Which cell is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Eosinophil"
+        },
+        {
+          "label": "B",
+          "text": "Neutrophil"
+        },
+        {
+          "label": "C",
+          "text": "Macrophage"
+        },
+        {
+          "label": "D",
+          "text": "Lymphocyte"
+        },
+        {
+          "label": "E",
+          "text": "Basophil"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Neutrophils are phagocytic granulocytes that are the first responders to inflammation and are short-lived.",
+        "whyCorrect": "The brick describes the neutrophil as a phagocytic granulocyte that ingests and destroys microbes, is generally first on the scene at an area of inflammation, but survives for only a few hours in tissues, making it uniquely both granulocyte and phagocyte in this vignette.",
+        "whyWrongByChoice": {
+          "A": "Eosinophils are granulocytes, but they specialize in defense against parasites and hypersensitivity reactions rather than acute pyogenic responses.",
+          "C": "Macrophages are phagocytes but are not granulocytes, and they are longer-lived tissue cells rather than the short-lived first responders here.",
+          "D": "Lymphocytes are part of the adaptive response and are neither granulocytes nor primary phagocytes.",
+          "E": "Basophils are granulocytes but are involved in allergic reactions and are not phagocytic first responders."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "innate immunity",
+        "neutrophils",
+        "phagocytes"
+      ],
+      "topicId": "introduction-to-the-immune-system",
+      "topicName": "Introduction to the Immune System"
+    },
+    {
+      "id": "im01-006",
+      "stem": "A 24-year-old man develops hives, wheezing, and hypotension within minutes of a bee sting. The reaction is triggered by IgE antibodies bound to a tissue-resident cell that degranulates, releasing histamine, tryptase, and leukotrienes. Which cell is chiefly responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mast cell"
+        },
+        {
+          "label": "B",
+          "text": "Cytotoxic T lymphocyte"
+        },
+        {
+          "label": "C",
+          "text": "Macrophage"
+        },
+        {
+          "label": "D",
+          "text": "Natural killer cell"
+        },
+        {
+          "label": "E",
+          "text": "Plasma cell"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Mast cells are IgE-activated tissue cells that release histamine, tryptase, and leukotrienes in hypersensitivity reactions.",
+        "whyCorrect": "The brick describes the mast cell as a tissue cell involved in tissue repair and in hypersensitivity reactions that, when activated by IgE antibodies or other factors, releases mediators including histamine, leukotrienes, and tryptase, matching this immediate allergic reaction.",
+        "whyWrongByChoice": {
+          "B": "Cytotoxic T lymphocytes kill virus-infected and malignant cells using perforin and granzymes; they do not degranulate to release histamine.",
+          "C": "Macrophages phagocytose pathogens and present antigen; they are not the IgE-triggered histamine-releasing cell.",
+          "D": "Natural killer cells kill abnormal cells and do not mediate IgE-driven histamine release.",
+          "E": "Plasma cells secrete antibodies (including IgE) but do not themselves degranulate to release histamine."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "innate immunity",
+        "mast cells",
+        "hypersensitivity"
+      ],
+      "topicId": "introduction-to-the-immune-system",
+      "topicName": "Introduction to the Immune System"
+    },
+    {
+      "id": "im01-007",
+      "stem": "A virus-infected cell is destroyed by a lymphocyte that lacks antigen-specific receptors and instead recognizes the infected and stressed cell directly, inducing apoptosis through perforin and granzymes. Which cell mediates this killing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "B lymphocyte"
+        },
+        {
+          "label": "B",
+          "text": "Helper T cell"
+        },
+        {
+          "label": "C",
+          "text": "Natural killer cell"
+        },
+        {
+          "label": "D",
+          "text": "Plasma cell"
+        },
+        {
+          "label": "E",
+          "text": "Cytotoxic T lymphocyte"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Natural killer cells are innate lymphocytes that kill virus-infected and abnormal cells without antigen-specific receptors.",
+        "whyCorrect": "The brick describes the natural killer (NK) cell as an innate lymphoid cell that does not have antigen receptors yet can recognize virus-infected, irreparably damaged, and cancerous cells. Like cytotoxic T cells, NK cells release perforin and granzymes to induce apoptosis in their targets.",
+        "whyWrongByChoice": {
+          "A": "B lymphocytes carry an antigen-specific B-cell receptor and act through antibodies, not perforin-mediated killing.",
+          "B": "Helper T cells use an antigen-specific T-cell receptor and secrete cytokines to direct other cells; they do not kill target cells.",
+          "D": "Plasma cells secrete antibodies and have no cytotoxic killing function.",
+          "E": "Cytotoxic T lymphocytes do use perforin and granzymes, but they possess antigen-specific, MHC-restricted T-cell receptors, which the stem explicitly excludes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "innate immunity",
+        "natural killer cells",
+        "cytotoxicity"
+      ],
+      "topicId": "introduction-to-the-immune-system",
+      "topicName": "Introduction to the Immune System"
+    },
+    {
+      "id": "im01-008",
+      "stem": "Innate immune cells detect conserved microbial structures such as peptidoglycan, but they cannot tell one bacterial species from another. The receptors responsible for this broad, non-specific recognition are best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "T-cell receptors"
+        },
+        {
+          "label": "B",
+          "text": "B-cell receptors"
+        },
+        {
+          "label": "C",
+          "text": "Pattern recognition receptors"
+        },
+        {
+          "label": "D",
+          "text": "MHC class I molecules"
+        },
+        {
+          "label": "E",
+          "text": "Secreted antibodies"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pattern recognition receptors bind conserved PAMPs and DAMPs but cannot distinguish between pathogen species.",
+        "whyCorrect": "The brick teaches that the receptors of the innate immune system are pattern recognition receptors (PRRs), which bind pathogen-associated molecular patterns (PAMPs) shared among many pathogens. PRRs can recognize peptidoglycan but cannot distinguish peptidoglycan from different bacterial species.",
+        "whyWrongByChoice": {
+          "A": "T-cell receptors are highly specific, MHC-restricted antigen receptors of the adaptive system, not broad pattern detectors.",
+          "B": "B-cell receptors bind a single specific antigen with high specificity and can distinguish among closely related strains.",
+          "D": "MHC class I molecules present peptides to cytotoxic T cells; they are not innate pattern-recognition receptors.",
+          "E": "Secreted antibodies are highly specific adaptive products, capable of distinguishing between different strains of a pathogen."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "innate immunity",
+        "pattern recognition receptors",
+        "PAMPs"
+      ],
+      "topicId": "introduction-to-the-immune-system",
+      "topicName": "Introduction to the Immune System"
+    },
+    {
+      "id": "im01-009",
+      "stem": "Human tears and saliva contain an enzyme that helps prevent infection by breaking down peptidoglycan, a critical component of the bacterial cell wall. Which of the following is this enzyme?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lactoferrin"
+        },
+        {
+          "label": "B",
+          "text": "Defensin"
+        },
+        {
+          "label": "C",
+          "text": "Lysozyme"
+        },
+        {
+          "label": "D",
+          "text": "Perforin"
+        },
+        {
+          "label": "E",
+          "text": "Complement protein C3b"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Lysozyme is a barrier antimicrobial enzyme that degrades bacterial cell-wall peptidoglycan.",
+        "whyCorrect": "The brick lists lysozyme among the antimicrobial chemicals found in secretions such as tears and saliva, describing it as an enzyme that breaks down peptidoglycan, a critical component of the cell wall of many bacteria.",
+        "whyWrongByChoice": {
+          "A": "Lactoferrin is a barrier protein that binds iron to deprive bacteria of a needed nutrient, not an enzyme that cleaves peptidoglycan.",
+          "B": "Defensins are cationic peptides that lyse microbes by forming pores in their membranes, not by enzymatically degrading the cell wall.",
+          "D": "Perforin is a cytotoxic mediator released by cytotoxic T cells and NK cells, not a barrier enzyme in tears or saliva.",
+          "E": "C3b is a complement opsonin that tags pathogens; it is not the peptidoglycan-degrading enzyme described."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "innate immunity",
+        "physical barriers",
+        "lysozyme"
+      ],
+      "topicId": "introduction-to-the-immune-system",
+      "topicName": "Introduction to the Immune System"
+    },
+    {
+      "id": "im01-010",
+      "stem": "A soluble arm of innate immunity consists of a complex cascading network of plasma proteins that can directly attack certain pathogens and enhance their clearance. Which of the following is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The complement system"
+        },
+        {
+          "label": "B",
+          "text": "Cytokines"
+        },
+        {
+          "label": "C",
+          "text": "Defensins"
+        },
+        {
+          "label": "D",
+          "text": "Antigen receptors"
+        },
+        {
+          "label": "E",
+          "text": "Pattern recognition receptors"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The complement system is a cascading network of soluble proteins that directly attacks pathogens.",
+        "whyCorrect": "The brick identifies the complement system as the soluble component of innate immunity, describing it as a complex cascading network of proteins that can directly attack certain pathogens, distinguishing it from the cellular and receptor-based components.",
+        "whyWrongByChoice": {
+          "B": "Cytokines are signaling molecules that coordinate immune cells; they are not a cascading protein network that lyses pathogens.",
+          "C": "Defensins are individual antimicrobial peptides of the physical barrier, not a cascading plasma-protein system.",
+          "D": "Antigen receptors are membrane-bound recognition molecules of adaptive lymphocytes, not a soluble innate cascade.",
+          "E": "Pattern recognition receptors are cell-associated innate receptors, not the soluble complement cascade."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "innate immunity",
+        "complement",
+        "soluble components"
+      ],
+      "topicId": "introduction-to-the-immune-system",
+      "topicName": "Introduction to the Immune System"
+    },
+    {
+      "id": "im01-011",
+      "stem": "During recovery from a bacterial infection, a patient's serum contains proteins that coat the surface of the bacteria so that phagocytes engulf them more efficiently; these proteins also help trigger the complement cascade but cannot cross cell membranes to reach intracellular pathogens. Which cell produces these proteins?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Plasma cell (differentiated B cell)"
+        },
+        {
+          "label": "B",
+          "text": "Cytotoxic T lymphocyte"
+        },
+        {
+          "label": "C",
+          "text": "Helper T cell"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophil"
+        },
+        {
+          "label": "E",
+          "text": "Natural killer cell"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Antibodies, which opsonize pathogens and activate complement extracellularly, are produced by plasma cells derived from B cells.",
+        "whyCorrect": "The brick explains that in humoral immunity, B cells differentiate into plasma cells that secrete antibodies. Antibodies help destroy pathogens by binding their surface and initiating the complement cascade, and they opsonize pathogens to make them easier for phagocytes to eat. Because antibodies act on extracellular pathogens and cannot cross cell membranes, they fit this description.",
+        "whyWrongByChoice": {
+          "B": "Cytotoxic T lymphocytes kill infected cells directly and do not secrete antibodies.",
+          "C": "Helper T cells secrete cytokines to regulate other immune cells; they do not produce antibodies.",
+          "D": "Neutrophils are phagocytes that ingest opsonized pathogens but do not manufacture antibodies.",
+          "E": "Natural killer cells kill abnormal cells and do not produce antibodies."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adaptive immunity",
+        "humoral immunity",
+        "antibodies"
+      ],
+      "topicId": "introduction-to-the-immune-system",
+      "topicName": "Introduction to the Immune System"
+    },
+    {
+      "id": "im01-012",
+      "stem": "A cell infected with a virus displays viral peptides bound to MHC class I molecules on its surface. Which of the following cells is specifically activated to recognize this display and kill the infected cell using perforin and granzymes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Helper T cell"
+        },
+        {
+          "label": "B",
+          "text": "Cytotoxic T lymphocyte"
+        },
+        {
+          "label": "C",
+          "text": "B lymphocyte"
+        },
+        {
+          "label": "D",
+          "text": "Plasma cell"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophil"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cytotoxic T cells recognize peptides on MHC class I and kill infected or malignant cells with perforin and granzymes.",
+        "whyCorrect": "The brick teaches that cytotoxic T lymphocytes (CTLs) recognize peptides presented on MHC class I receptors; once activated, CTLs release perforin and granzymes and primarily attack malignant cells and cells infected by viruses, exactly the scenario described.",
+        "whyWrongByChoice": {
+          "A": "Helper T cells recognize peptides on MHC class II presented by antigen-presenting cells and secrete cytokines; they do not directly kill via MHC class I.",
+          "C": "B lymphocytes bind free antigen through their B-cell receptor and are not MHC class I-restricted killers.",
+          "D": "Plasma cells secrete antibodies and have no cytotoxic activity against MHC class I-bearing target cells.",
+          "E": "Neutrophils are innate phagocytes and do not perform MHC-restricted killing of infected cells."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "adaptive immunity",
+        "cell-mediated immunity",
+        "MHC class I"
+      ],
+      "topicId": "introduction-to-the-immune-system",
+      "topicName": "Introduction to the Immune System"
+    },
+    {
+      "id": "im02-001",
+      "stem": "A 58-year-old man in the intensive care unit is being treated for Escherichia coli bacteremia. He develops fever, tachycardia, hypotension, and disseminated intravascular coagulation. The lipopolysaccharide in the outer membrane of this gram-negative organism is the key molecule driving his innate response. Which pattern recognition receptor most directly senses this molecule?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "TLR2"
+        },
+        {
+          "label": "B",
+          "text": "TLR3"
+        },
+        {
+          "label": "C",
+          "text": "TLR4"
+        },
+        {
+          "label": "D",
+          "text": "TLR5"
+        },
+        {
+          "label": "E",
+          "text": "TLR9"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "TLR4 is the surface toll-like receptor that recognizes lipopolysaccharide (LPS), a component of the cell wall of many gram-negative bacteria.",
+        "whyCorrect": "External toll-like receptors sit on the cell membrane and recognize extracellular bacterial and fungal PAMPs. The brick identifies TLR4 as the most important external TLR, recognizing LPS. Extensive TLR4 activation by high LPS levels is a known driver of the dysregulated, shock-inducing response seen in this patient.",
+        "whyWrongByChoice": {
+          "A": "TLR2 recognizes bacterial peptidoglycan, not LPS.",
+          "B": "TLR3 is an internal (endosomal) receptor that detects double-stranded viral RNA, not a bacterial cell-wall component.",
+          "D": "TLR5 recognizes flagellin, the protein of bacterial flagella, rather than LPS.",
+          "E": "TLR9 is an endosomal receptor that senses CpG DNA, not surface LPS."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "toll-like receptors",
+        "TLR4",
+        "LPS",
+        "pattern recognition receptors"
+      ],
+      "topicId": "innate-receptors-and-cytokines",
+      "topicName": "Innate Receptors and Cytokines"
+    },
+    {
+      "id": "im02-002",
+      "stem": "A researcher studies how a cell detects a respiratory virus that has entered its endosomes and released double-stranded RNA. She identifies an internal toll-like receptor located in the membrane of endolysosomes that binds this viral nucleic acid and triggers signaling. Which receptor is she most likely studying?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "TLR2"
+        },
+        {
+          "label": "B",
+          "text": "TLR3"
+        },
+        {
+          "label": "C",
+          "text": "TLR4"
+        },
+        {
+          "label": "D",
+          "text": "TLR5"
+        },
+        {
+          "label": "E",
+          "text": "NOD-like receptor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Internal toll-like receptors such as TLR3 reside in intracellular vesicles and detect PAMPs of intracellular pathogens like viruses, including double-stranded RNA.",
+        "whyCorrect": "The brick explains that internal TLRs are located in the membranes of internal vesicles (endoplasmic reticulum or endolysosomes) and detect PAMPs of pathogens that invade human cells, such as viruses. In the signaling figure, TLR3 is the endosomal receptor paired with double-stranded RNA. Deficiencies of TLR3 are associated with severe herpesvirus infections.",
+        "whyWrongByChoice": {
+          "A": "TLR2 is an external, surface receptor for bacterial peptidoglycan.",
+          "C": "TLR4 is an external surface receptor for LPS, not endosomal double-stranded RNA.",
+          "D": "TLR5 is a surface receptor for flagellin.",
+          "E": "NOD-like receptors are cytosolic sensors that form inflammasomes; they are not the endosomal double-stranded RNA sensor described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "toll-like receptors",
+        "TLR3",
+        "viral RNA",
+        "endosome"
+      ],
+      "topicId": "innate-receptors-and-cytokines",
+      "topicName": "Innate Receptors and Cytokines"
+    },
+    {
+      "id": "im02-003",
+      "stem": "A 26-year-old man with chronic granulomatous bowel inflammation is found to carry a mutation in NOD2. This gene encodes a cytosolic pattern recognition receptor that, upon binding intracellular PAMPs, assembles a large multiprotein complex. Activation of this complex most directly drives the production of which pro-inflammatory cytokine?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IL-1"
+        },
+        {
+          "label": "B",
+          "text": "IL-10"
+        },
+        {
+          "label": "C",
+          "text": "TGF-beta"
+        },
+        {
+          "label": "D",
+          "text": "IFN-gamma"
+        },
+        {
+          "label": "E",
+          "text": "IL-8"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "NOD-like receptors form inflammasomes, which induce inflammation by producing the pro-inflammatory cytokine IL-1.",
+        "whyCorrect": "The brick states that binding of PAMPs to NLRs induces formation of inflammasomes, large cytosolic multiprotein complexes that induce inflammation through production of pro-inflammatory IL-1. Mutations in NOD2 are specifically associated with chronic inflammatory disorders such as Crohn disease and sarcoidosis.",
+        "whyWrongByChoice": {
+          "B": "IL-10 is an anti-inflammatory cytokine that inhibits, rather than drives, inflammation.",
+          "C": "TGF-beta is an anti-inflammatory/immunosuppressive cytokine that suppresses immune cells and promotes wound healing.",
+          "D": "IFN-gamma is a type II interferon produced mainly by NK and helper T cells; it is not the inflammasome product.",
+          "E": "IL-8 is a chemokine that recruits neutrophils; it is not produced by inflammasome activation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "NOD-like receptors",
+        "inflammasome",
+        "IL-1",
+        "Crohn disease"
+      ],
+      "topicId": "innate-receptors-and-cytokines",
+      "topicName": "Innate Receptors and Cytokines"
+    },
+    {
+      "id": "im02-004",
+      "stem": "A 3-year-old boy has severe, early-onset inflammatory bowel disease. Genetic testing reveals loss of function of a cytokine normally produced by macrophages, dendritic cells, and regulatory T cells that inhibits activation of both innate and adaptive immune cells and downregulates MHC expression. Deficiency of which cytokine best explains his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IL-1"
+        },
+        {
+          "label": "B",
+          "text": "IL-6"
+        },
+        {
+          "label": "C",
+          "text": "IL-8"
+        },
+        {
+          "label": "D",
+          "text": "IL-10"
+        },
+        {
+          "label": "E",
+          "text": "TNF-alpha"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "IL-10 is an anti-inflammatory cytokine whose deficiency is linked to autoimmunity and inflammatory bowel disease.",
+        "whyCorrect": "The brick describes IL-10 as produced by macrophages, dendritic cells, and regulatory T cells, functioning to inhibit pro-inflammatory cytokines, block innate activation by PAMPs and T-cell activation, and reduce MHC expression. It specifically notes that IL-10 deficiency is associated with autoimmunity and inflammatory diseases such as multiple sclerosis and inflammatory bowel disease.",
+        "whyWrongByChoice": {
+          "A": "IL-1 is pro-inflammatory; its loss would reduce, not cause, inflammation.",
+          "B": "IL-6 is a pro-inflammatory pyrogen and acute-phase inducer, not an anti-inflammatory regulator.",
+          "C": "IL-8 is a neutrophil-recruiting chemokine and does not suppress immune activation.",
+          "E": "TNF-alpha is pro-inflammatory; excess, not deficiency, drives inflammatory disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "anti-inflammatory cytokines",
+        "IL-10",
+        "inflammatory bowel disease"
+      ],
+      "topicId": "innate-receptors-and-cytokines",
+      "topicName": "Innate Receptors and Cytokines"
+    },
+    {
+      "id": "im02-005",
+      "stem": "A 45-year-old woman with rheumatoid arthritis is started on etanercept, a fusion protein that acts as a decoy receptor to neutralize a pro-inflammatory cytokine. High levels of this same cytokine can induce shock with hypotension and disseminated intravascular coagulation, and the drug carries a risk of immunosuppression. Which cytokine does etanercept target?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IL-2"
+        },
+        {
+          "label": "B",
+          "text": "IL-8"
+        },
+        {
+          "label": "C",
+          "text": "TNF-alpha"
+        },
+        {
+          "label": "D",
+          "text": "IFN-gamma"
+        },
+        {
+          "label": "E",
+          "text": "TGF-beta"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "TNF-alpha is a pro-inflammatory cytokine targeted by anti-TNF biologics such as etanercept, adalimumab, and infliximab.",
+        "whyCorrect": "The brick states that because of TNF-alpha's importance in inflammation, monoclonal antibodies (adalimumab, infliximab) and the fusion decoy receptor etanercept are used to treat inflammatory conditions, and that these drugs carry a risk of immunosuppression. It also notes that high levels of TNF-alpha can induce shock, including hypotension and disseminated intravascular coagulation.",
+        "whyWrongByChoice": {
+          "A": "IL-2 is a T-cell growth/proliferation signal and is not the target of etanercept.",
+          "B": "IL-8 is a neutrophil chemokine, not the cytokine neutralized by anti-TNF therapy.",
+          "D": "IFN-gamma activates macrophages and upregulates MHC; it is not targeted by etanercept.",
+          "E": "TGF-beta is an anti-inflammatory cytokine, not a target for suppression in rheumatoid arthritis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "TNF-alpha",
+        "biologics",
+        "etanercept",
+        "pro-inflammatory cytokines"
+      ],
+      "topicId": "innate-receptors-and-cytokines",
+      "topicName": "Innate Receptors and Cytokines"
+    },
+    {
+      "id": "im02-006",
+      "stem": "In an experiment, an investigator applies a compound to inflamed tissue and observes markedly reduced migration of neutrophils from the blood into a site of bacterial infection. The compound most likely blocks the activity of which cytokine?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IL-8"
+        },
+        {
+          "label": "B",
+          "text": "IL-2"
+        },
+        {
+          "label": "C",
+          "text": "IL-10"
+        },
+        {
+          "label": "D",
+          "text": "TNF-alpha"
+        },
+        {
+          "label": "E",
+          "text": "TGF-beta"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "IL-8 (CXCL8) is the chemokine that drives neutrophil chemotaxis to sites of inflammation.",
+        "whyCorrect": "The brick describes IL-8/CXCL8 as a chemokine that recruits neutrophils from the blood into an area of inflammation, enhancing their migration by increasing adhesion molecule expression and anchoring the neutrophil to the endothelium. Blocking IL-8 activity would therefore reduce neutrophil migration to the infected site.",
+        "whyWrongByChoice": {
+          "B": "IL-2 promotes T-cell proliferation and is not a neutrophil chemoattractant.",
+          "C": "IL-10 is anti-inflammatory and suppresses immune activation; blocking it would increase inflammation.",
+          "D": "TNF-alpha upregulates adhesion molecules but the chemokine principally responsible for directed neutrophil migration is IL-8.",
+          "E": "TGF-beta suppresses immune cells and promotes wound healing rather than driving neutrophil chemotaxis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "chemokines",
+        "IL-8",
+        "neutrophils",
+        "chemotaxis"
+      ],
+      "topicId": "innate-receptors-and-cytokines",
+      "topicName": "Innate Receptors and Cytokines"
+    },
+    {
+      "id": "im02-007",
+      "stem": "A cell infected with influenza virus recognizes the pathogen through its pattern recognition receptors and secretes a cytokine into the surrounding tissue. Neighboring cells respond by inducing antiviral enzymes such as RNase L and by increasing surface expression of MHC class I. Which cytokine mediates this response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IFN-gamma"
+        },
+        {
+          "label": "B",
+          "text": "Type I interferon (IFN-alpha/beta)"
+        },
+        {
+          "label": "C",
+          "text": "IL-6"
+        },
+        {
+          "label": "D",
+          "text": "IL-12"
+        },
+        {
+          "label": "E",
+          "text": "TNF-alpha"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Type I interferons (IFN-alpha and IFN-beta) are produced by virus-infected cells and act in autocrine and paracrine fashion to establish an antiviral state and raise MHC class I.",
+        "whyCorrect": "The brick states that type I interferons are produced by virus-infected cells as a result of PRR recognition and act on the infected cell and its neighbors to induce antiviral enzymes; RNase L degrades viral RNA, and other enzymes block translation. It further notes that IFN-alpha and IFN-beta increase MHC class I expression, making it easier for cytotoxic T cells to find and kill infected cells.",
+        "whyWrongByChoice": {
+          "A": "IFN-gamma is a type II interferon that mainly activates macrophages and upregulates MHC class II; it is produced by NK and helper T cells, not the infected cell.",
+          "C": "IL-6 is a pyrogen and acute-phase inducer, not an antiviral interferon.",
+          "D": "IL-12 helps activate NK cells but does not itself induce the antiviral enzyme response described.",
+          "E": "TNF-alpha is a pro-inflammatory cytokine and does not mediate the interferon-driven antiviral state."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "interferons",
+        "type I interferon",
+        "antiviral response",
+        "MHC class I"
+      ],
+      "topicId": "innate-receptors-and-cytokines",
+      "topicName": "Innate Receptors and Cytokines"
+    },
+    {
+      "id": "im02-008",
+      "stem": "During a chronic intracellular infection, NK cells and helper T cells secrete a cytokine that enhances the ability of macrophages to phagocytose and kill pathogens and that upregulates MHC class II expression on antigen-presenting cells. Which cytokine is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IFN-alpha"
+        },
+        {
+          "label": "B",
+          "text": "IFN-beta"
+        },
+        {
+          "label": "C",
+          "text": "IFN-gamma"
+        },
+        {
+          "label": "D",
+          "text": "IL-8"
+        },
+        {
+          "label": "E",
+          "text": "IL-10"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "IFN-gamma is the type II interferon that activates macrophages and preferentially upregulates MHC class II.",
+        "whyCorrect": "The brick identifies IFN-gamma as the main type II interferon, produced primarily by NK cells (innate) and helper T cells (adaptive). It activates macrophages, increasing their ability to phagocytose and kill pathogens, and although it can raise MHC class I, it is more efficient at increasing MHC class II expression.",
+        "whyWrongByChoice": {
+          "A": "IFN-alpha is a type I interferon produced by virus-infected cells; it establishes an antiviral state rather than acting as the main macrophage activator.",
+          "B": "IFN-beta is likewise a type I interferon with antiviral function, not the NK/T-cell-derived macrophage activator.",
+          "D": "IL-8 is a chemokine for neutrophil recruitment and does not activate macrophages or upregulate MHC II.",
+          "E": "IL-10 is anti-inflammatory and actually downregulates MHC expression and immune activation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "interferons",
+        "IFN-gamma",
+        "macrophage activation",
+        "MHC class II"
+      ],
+      "topicId": "innate-receptors-and-cytokines",
+      "topicName": "Innate Receptors and Cytokines"
+    },
+    {
+      "id": "im02-009",
+      "stem": "A virus evades detection by cytotoxic T cells by downregulating MHC class I molecules on the surface of the cells it infects. Despite this, the infected cells are still recognized and killed by an innate lymphocyte that lacks antigen receptors. Which cell is responsible for killing these MHC-class-I-low cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD8 cytotoxic T cell"
+        },
+        {
+          "label": "B",
+          "text": "Natural killer (NK) cell"
+        },
+        {
+          "label": "C",
+          "text": "Neutrophil"
+        },
+        {
+          "label": "D",
+          "text": "Plasma cell"
+        },
+        {
+          "label": "E",
+          "text": "Mast cell"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "NK cells recognize and kill virus-infected cells that have decreased MHC class I, a hallmark of missing-self recognition.",
+        "whyCorrect": "The brick explains that NK cells are lymphocytes that do not express antigen receptors and can recognize a cell infected by a virus when MHC class I is decreased, which many viruses do to evade cytotoxic T cells. Loss of MHC class I removes the NK inhibitory signal, licensing the NK cell to kill the target.",
+        "whyWrongByChoice": {
+          "A": "Cytotoxic CD8 T cells require MHC class I to recognize their target; downregulation of MHC class I is exactly how the virus evades them.",
+          "C": "Neutrophils are phagocytes for extracellular microbes and do not perform MHC-based killing of virus-infected cells.",
+          "D": "Plasma cells secrete antibodies and do not directly kill infected cells.",
+          "E": "Mast cells release vasoactive mediators such as histamine and are not cytotoxic killers of infected cells."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "NK cells",
+        "missing self",
+        "MHC class I",
+        "viral immune evasion"
+      ],
+      "topicId": "innate-receptors-and-cytokines",
+      "topicName": "Innate Receptors and Cytokines"
+    },
+    {
+      "id": "im02-010",
+      "stem": "A virus-infected cell becomes coated with IgG antibodies directed against a viral surface antigen. An NK cell then binds the Fc portion of these antibodies through a specific surface receptor and kills the coated cell. Which NK-cell receptor mediates this antibody-dependent cellular cytotoxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD16 (Fc\u03b3RIII)"
+        },
+        {
+          "label": "B",
+          "text": "TLR4"
+        },
+        {
+          "label": "C",
+          "text": "Fas"
+        },
+        {
+          "label": "D",
+          "text": "CD28"
+        },
+        {
+          "label": "E",
+          "text": "MHC class I"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CD16 (Fc\u03b3RIII) is the NK-cell Fc receptor that binds IgG-coated targets to trigger antibody-dependent cellular cytotoxicity (ADCC).",
+        "whyCorrect": "The brick states that NK cells have antibody receptors on their surface; when an antibody binds antigens on the surface of infected cells, NK cells kill the target, a process called antibody-dependent cellular cytotoxicity. It specifies that for NK-mediated ADCC, IgG must bind the specific NK receptor CD16.",
+        "whyWrongByChoice": {
+          "B": "TLR4 is a pattern recognition receptor for LPS, not an antibody Fc receptor.",
+          "C": "Fas is a death receptor on target cells engaged by FasL; it is not the NK receptor that binds IgG.",
+          "D": "CD28 is a costimulatory receptor on T cells, not the NK ADCC receptor.",
+          "E": "MHC class I is the self-signal NK cells monitor for missing-self recognition; it does not bind antibody Fc."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "NK cells",
+        "ADCC",
+        "CD16",
+        "antibody"
+      ],
+      "topicId": "innate-receptors-and-cytokines",
+      "topicName": "Innate Receptors and Cytokines"
+    },
+    {
+      "id": "im02-011",
+      "stem": "An NK cell contacts a virus-infected target and releases the contents of its cytolytic granules. One granule protein inserts into the target cell membrane and forms pores, allowing a second class of granule enzymes to enter and cleave caspases, triggering apoptosis. Which protein forms these membrane pores?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Perforin"
+        },
+        {
+          "label": "B",
+          "text": "Granzyme"
+        },
+        {
+          "label": "C",
+          "text": "Lysozyme"
+        },
+        {
+          "label": "D",
+          "text": "Defensin"
+        },
+        {
+          "label": "E",
+          "text": "Lactoferrin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Perforin forms pores in the target membrane, allowing granzymes to enter and induce apoptosis.",
+        "whyCorrect": "The brick explains that NK cells can release cytolytic granules containing perforin, which forms pores in cell membranes, and granzymes, which are proteases that cleave caspases to induce apoptotic signaling. The pore-forming protein described is perforin.",
+        "whyWrongByChoice": {
+          "B": "Granzymes are the proteases that enter through the pores to cleave caspases; they do not form the pores themselves.",
+          "C": "Lysozyme is an antimicrobial enzyme that degrades bacterial cell walls, not an NK pore-former.",
+          "D": "Defensins are antimicrobial peptides that inhibit or kill microbes, not the pore-forming protein of NK granules.",
+          "E": "Lactoferrin is an antimicrobial protein that sequesters iron; it does not form membrane pores in target cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "NK cells",
+        "perforin",
+        "granzyme",
+        "apoptosis"
+      ],
+      "topicId": "innate-receptors-and-cytokines",
+      "topicName": "Innate Receptors and Cytokines"
+    },
+    {
+      "id": "im02-012",
+      "stem": "A 70-year-old man with lobar pneumonia has a temperature of 39.1 C, heart rate of 112/min, respiratory rate of 24/min, and a leukocyte count of 15,400/mm3. His blood pressure is 122/78 mm Hg and remains stable. Based on the framework presented in this brick, which of the following best classifies his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "SIRS without infection"
+        },
+        {
+          "label": "B",
+          "text": "Sepsis"
+        },
+        {
+          "label": "C",
+          "text": "Septic shock"
+        },
+        {
+          "label": "D",
+          "text": "Multi-organ dysfunction syndrome (MODS)"
+        },
+        {
+          "label": "E",
+          "text": "Cytokine storm"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sepsis is defined as SIRS occurring in the presence of a documented infection.",
+        "whyCorrect": "This patient meets multiple SIRS criteria (temperature over 38 C, heart rate over 90, respiratory rate over 20, and WBC over 12,000). The brick defines sepsis as SIRS in the presence of an infection; because he has documented pneumonia, his condition is best classified as sepsis.",
+        "whyWrongByChoice": {
+          "A": "SIRS without infection applies to sterile triggers such as trauma or pancreatitis, but this patient has a clear infectious source.",
+          "C": "Septic shock requires cytokine-induced persistent hypotension despite IV fluids; his blood pressure is normal and stable.",
+          "D": "MODS requires damage to multiple organ systems beyond septic shock, which is not described here.",
+          "E": "Cytokine storm names the underlying positive-feedback mechanism of inflammation, not a clinical diagnostic stage on the SIRS-to-MODS spectrum."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "SIRS",
+        "sepsis",
+        "cytokine storm",
+        "systemic inflammation"
+      ],
+      "topicId": "innate-receptors-and-cytokines",
+      "topicName": "Innate Receptors and Cytokines"
+    },
+    {
+      "id": "im03-001",
+      "stem": "A 24-year-old woman is admitted with lobar pneumonia. Her leukocyte count is markedly elevated with a left shift. A peripheral blood smear shows a predominance of cells with a multilobed, segmented nucleus and pale granules, and these cells are the first to enter the infected lung tissue. Which cell type is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neutrophil"
+        },
+        {
+          "label": "B",
+          "text": "Monocyte"
+        },
+        {
+          "label": "C",
+          "text": "Tissue-resident macrophage"
+        },
+        {
+          "label": "D",
+          "text": "Dendritic cell"
+        },
+        {
+          "label": "E",
+          "text": "Natural killer cell"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Neutrophils are the most numerous leukocytes and the first phagocytes to enter infected tissue.",
+        "whyCorrect": "Neutrophils make up 40-70% of blood leukocytes and are the first cells to migrate from the bloodstream into tissue, peaking 2-6 hours after infection. Mature neutrophils are polymorphonuclear cells with a multilobed, segmented nucleus, which matches the smear. A rising count with a left shift (band forms) is typical of a bacterial infection.",
+        "whyWrongByChoice": {
+          "B": "Monocytes have a large horseshoe- or kidney-shaped nucleus, not a multilobed one, and make up only 2-8% of leukocytes.",
+          "C": "Macrophages are tissue-resident sentinels with a small round nucleus; they do not arrive first from the blood.",
+          "D": "Dendritic cells are star-shaped antigen-presenting cells that migrate to lymph nodes, not the dominant blood cell in this smear.",
+          "E": "NK cells target virus-infected cells; viral infections raise lymphocytes, whereas this bacterial pneumonia raises phagocytes."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "neutrophils",
+        "phagocytes",
+        "blood smear"
+      ],
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function"
+    },
+    {
+      "id": "im03-002",
+      "stem": "A 3-year-old boy has a history of recurrent abscesses and pneumonias caused by catalase-positive organisms such as Staphylococcus aureus. Testing shows his phagocytes ingest bacteria normally but fail to generate a respiratory (oxidative) burst. A defect in which enzyme most likely explains his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "NADPH oxidase"
+        },
+        {
+          "label": "B",
+          "text": "Myeloperoxidase"
+        },
+        {
+          "label": "C",
+          "text": "Lysozyme"
+        },
+        {
+          "label": "D",
+          "text": "Inducible nitric oxide synthase"
+        },
+        {
+          "label": "E",
+          "text": "Superoxide dismutase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronic granulomatous disease results from a NADPH oxidase deficiency that blocks the respiratory burst.",
+        "whyCorrect": "NADPH oxidase (phagocyte oxidase) generates superoxide, the first and required step of the oxygen-dependent respiratory burst. A deficiency causes chronic granulomatous disease, so phagocytes cannot make ROS. Catalase-positive organisms like S. aureus degrade the small amount of hydrogen peroxide the cells could otherwise borrow, making these patients especially vulnerable.",
+        "whyWrongByChoice": {
+          "B": "Myeloperoxidase converts hydrogen peroxide to hypochlorous acid downstream; its deficiency is usually mild, and the burst would still start.",
+          "C": "Lysozyme degrades peptidoglycan and is not part of the oxygen-dependent burst.",
+          "D": "iNOS produces reactive nitrogen species, a separate killing pathway from the oxidative burst described.",
+          "E": "Superoxide dismutase acts after superoxide is already made; loss of it would not abolish the initial burst as described."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "reactive oxygen species",
+        "NADPH oxidase",
+        "chronic granulomatous disease"
+      ],
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function"
+    },
+    {
+      "id": "im03-003",
+      "stem": "A 60-year-old man with pneumococcal sepsis has a very high serum level of an acute phase protein made by the liver. This protein binds the surface of the bacteria and coats them so that neutrophils and macrophages can ingest them more efficiently. Which protein is acting in this way?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C-reactive protein"
+        },
+        {
+          "label": "B",
+          "text": "Lysozyme"
+        },
+        {
+          "label": "C",
+          "text": "Lactoferrin"
+        },
+        {
+          "label": "D",
+          "text": "Defensin"
+        },
+        {
+          "label": "E",
+          "text": "Histamine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "C-reactive protein is a liver-derived acute phase protein that acts as an opsonin.",
+        "whyCorrect": "Opsonins coat the surface of a pathogen and make phagocytosis faster and more efficient. The brick lists C-reactive protein, along with the complement proteins C3b/C5b and antibodies IgG/IgM, as opsonins recognized by phagocytes. CRP is produced by the liver in response to IL-1, IL-6, and TNF-alpha, so it rises steeply in bacterial infection.",
+        "whyWrongByChoice": {
+          "B": "Lysozyme degrades bacterial peptidoglycan inside the phagolysosome; it does not opsonize pathogens for uptake.",
+          "C": "Lactoferrin starves bacteria of iron; it is not an opsonin.",
+          "D": "Defensins form pores in microbial membranes rather than tagging pathogens for phagocytosis.",
+          "E": "Histamine is a vasoactive mediator of inflammation, not a liver-derived opsonin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "opsonins",
+        "C-reactive protein",
+        "acute phase proteins"
+      ],
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function"
+    },
+    {
+      "id": "im03-004",
+      "stem": "A 30-year-old woman develops a fever of 39.2 C during a bacterial infection. Proinflammatory cytokines (IL-1-beta, IL-6, and TNF-alpha) have leaked into her blood. Which mediator most directly acts on the hypothalamus to raise the body temperature set point?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prostaglandins"
+        },
+        {
+          "label": "B",
+          "text": "IL-8"
+        },
+        {
+          "label": "C",
+          "text": "Nitric oxide"
+        },
+        {
+          "label": "D",
+          "text": "Lactoferrin"
+        },
+        {
+          "label": "E",
+          "text": "GM-CSF"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Proinflammatory cytokines induce prostaglandins, which act on the hypothalamus to produce fever.",
+        "whyCorrect": "IL-1-beta, IL-6, and TNF-alpha induce production of prostaglandins, lipid compounds derived from arachidonic acid and made by almost all cells. Receptors for prostaglandins in the hypothalamus then raise the body temperature set point, producing fever. The cytokines are upstream inducers, but the prostaglandins are the mediators acting directly on the hypothalamus.",
+        "whyWrongByChoice": {
+          "B": "IL-8 (CXCL8) is a chemokine that recruits neutrophils to sites of inflammation, not a hypothalamic pyrogen mediator.",
+          "C": "Nitric oxide is a reactive nitrogen species used to kill microbes, not the fever mediator acting on the hypothalamus.",
+          "D": "Lactoferrin sequesters iron inside phagolysosomes and has no role in setting body temperature.",
+          "E": "GM-CSF stimulates the bone marrow to make more granulocytes and monocytes; it does not cause fever directly."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cytokines",
+        "prostaglandins",
+        "fever"
+      ],
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function"
+    },
+    {
+      "id": "im03-005",
+      "stem": "A 45-year-old man with pulmonary tuberculosis is being treated. His response to the intracellular pathogen depends on a cytokine that activates macrophages down the M1 pathway, enhancing phagolysosome fusion and the oxidative burst so hidden bacteria can be killed. Which cytokine is chiefly responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IFN-gamma"
+        },
+        {
+          "label": "B",
+          "text": "IL-4"
+        },
+        {
+          "label": "C",
+          "text": "IL-10"
+        },
+        {
+          "label": "D",
+          "text": "TGF-beta"
+        },
+        {
+          "label": "E",
+          "text": "IL-13"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "IFN-gamma drives M1 macrophage activation, which is critical for killing intracellular pathogens.",
+        "whyCorrect": "M1 macrophages are activated by PRR ligands or by IFN-gamma and excel at phagocytosis and production of ROS and NO. IFN-gamma is critical for protection against intracellular pathogens because it enhances phagosome-lysosome fusion and the oxidative burst, helping macrophages kill organisms such as the tuberculosis bacterium that otherwise hide inside them.",
+        "whyWrongByChoice": {
+          "B": "IL-4 promotes the anti-inflammatory M2 phenotype, which favors repair rather than intracellular killing.",
+          "C": "IL-10 is an anti-inflammatory cytokine that suppresses macrophage activation, the opposite of what is needed.",
+          "D": "TGF-beta induces M2 polarization and suppresses proinflammatory function.",
+          "E": "IL-13, like IL-4, drives the M2 repair phenotype rather than M1 microbial killing."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "macrophages",
+        "IFN-gamma",
+        "M1 polarization"
+      ],
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function"
+    },
+    {
+      "id": "im03-006",
+      "stem": "An immunology student is asked which cell in a peripheral tissue is best equipped to activate naive CD4+ helper T cells. The correct cell expresses high levels of MHC class II in addition to MHC class I. Which cell should the student choose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dendritic cell"
+        },
+        {
+          "label": "B",
+          "text": "Neutrophil"
+        },
+        {
+          "label": "C",
+          "text": "Erythrocyte"
+        },
+        {
+          "label": "D",
+          "text": "Cytotoxic (CD8+) T cell"
+        },
+        {
+          "label": "E",
+          "text": "Platelet"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Professional antigen-presenting cells such as dendritic cells express MHC II to activate helper T cells.",
+        "whyCorrect": "All nucleated cells express MHC I, which activates cytotoxic T cells, but only professional antigen-presenting cells (dendritic cells, macrophages, and B cells) express high levels of MHC II. MHC II is required to activate CD4+ helper T cells, so among the options the dendritic cell is the professional APC.",
+        "whyWrongByChoice": {
+          "B": "Neutrophils are phagocytes but are not professional antigen-presenting cells and do not present via high MHC II.",
+          "C": "Erythrocytes lack a nucleus and do not express MHC molecules at all.",
+          "D": "Cytotoxic T cells are activated by MHC I; they are not antigen-presenting cells for helper T cells.",
+          "E": "Platelets are anucleate cell fragments and cannot present antigen on MHC II."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "antigen presentation",
+        "MHC class II",
+        "professional APCs"
+      ],
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function"
+    },
+    {
+      "id": "im03-007",
+      "stem": "A 28-year-old man has a skin infection on his forearm. A phagocyte at the site captures antigen, then leaves the tissue, travels to the draining lymph node, and presents the antigen to T cells there. Which cell characteristically performs this scout-and-messenger role?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dendritic cell"
+        },
+        {
+          "label": "B",
+          "text": "Tissue-resident macrophage"
+        },
+        {
+          "label": "C",
+          "text": "Neutrophil"
+        },
+        {
+          "label": "D",
+          "text": "Monocyte"
+        },
+        {
+          "label": "E",
+          "text": "Natural killer cell"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dendritic cells migrate from infected tissue to lymph nodes to present antigen to T cells.",
+        "whyCorrect": "While macrophages stay in the tissue to fight, dendritic cells leave at the first sign of danger and migrate to local lymph nodes to show antigen to T cells. On activation they upregulate the chemokine receptor CCR7, which recognizes CCL19 and CCL21 and draws them out of tissue toward the lymph node. This delivers antigen to naive T cells to start the adaptive response.",
+        "whyWrongByChoice": {
+          "B": "Tissue-resident macrophages remain at the site of infection rather than migrating to the lymph node.",
+          "C": "Neutrophils act locally at the site of inflammation and do not carry antigen to lymph nodes to prime T cells.",
+          "D": "Monocytes circulate in the blood and differentiate into macrophages or DCs on entering tissue; they are not the migrating presenter here.",
+          "E": "NK cells kill virus-infected cells and are not antigen-presenting migratory cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dendritic cells",
+        "CCR7",
+        "antigen trafficking"
+      ],
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function"
+    },
+    {
+      "id": "im03-008",
+      "stem": "A patient with a severe bacterial abscess produces thick green pus. In the lab, neutrophils at the site are seen expelling sticky, web-like strands of their own DNA studded with antimicrobial granule contents that trap and immobilize bacteria. Which neutrophil process is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "NETosis"
+        },
+        {
+          "label": "B",
+          "text": "Opsonization"
+        },
+        {
+          "label": "C",
+          "text": "Classical apoptosis"
+        },
+        {
+          "label": "D",
+          "text": "Antigen presentation"
+        },
+        {
+          "label": "E",
+          "text": "Phagolysosome fusion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "NETosis is a last-ditch neutrophil process that expels DNA nets to trap pathogens.",
+        "whyCorrect": "In NETosis, a neutrophil uncoils its DNA into a web-like structure, opens its granules, and explodes, sending the sticky DNA net out of the cell to trap pathogens and stop them from moving. The attached granule contents, including the green enzyme myeloperoxidase, help explain why pus is green. This process is highly inflammatory and recruits more neutrophils.",
+        "whyWrongByChoice": {
+          "B": "Opsonization is the coating of a pathogen by molecules like C3b or antibody, not the release of DNA nets.",
+          "C": "Classical apoptosis is a quiet, non-inflammatory cell death that does not eject DNA to trap microbes.",
+          "D": "Antigen presentation is display of peptide on MHC; it is not the DNA-net trapping described.",
+          "E": "Phagolysosome fusion is intracellular killing after ingestion, not the extracellular DNA trap shown here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neutrophils",
+        "NETosis",
+        "innate immunity"
+      ],
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function"
+    },
+    {
+      "id": "im03-009",
+      "stem": "On a peripheral blood smear, a leukocyte is larger than a neutrophil, makes up roughly 2-8% of white cells, and has a large, lightly staining, horseshoe-shaped nucleus. This circulating cell can leave the blood and differentiate into either a tissue macrophage or a dendritic cell. Which cell is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Monocyte"
+        },
+        {
+          "label": "B",
+          "text": "Neutrophil"
+        },
+        {
+          "label": "C",
+          "text": "Macrophage"
+        },
+        {
+          "label": "D",
+          "text": "Dendritic cell"
+        },
+        {
+          "label": "E",
+          "text": "Lymphocyte"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Monocytes are circulating phagocytes with a horseshoe nucleus that become macrophages or DCs.",
+        "whyCorrect": "Monocytes make up 2-8% of blood leukocytes, are larger than neutrophils, and have a large, horseshoe-shaped nucleus. They circulate in the blood and, when recruited into tissue, differentiate into tissue macrophages or dendritic cells, replenishing those populations during an immune response.",
+        "whyWrongByChoice": {
+          "B": "Neutrophils have a multilobed segmented nucleus and are the most numerous leukocyte, not the 2-8% horseshoe-nucleus cell.",
+          "C": "Macrophages are the tissue-resident product of monocytes, not the circulating blood cell described.",
+          "D": "Dendritic cells are star-shaped tissue cells with dendrite-like projections, not circulating horseshoe-nucleus cells.",
+          "E": "Lymphocytes are small cells with a large round nucleus and thin cytoplasm, and they are not phagocytes."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "monocytes",
+        "blood smear",
+        "phagocytes"
+      ],
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function"
+    },
+    {
+      "id": "im03-010",
+      "stem": "Five days after a laceration, the macrophages in the healing wound have shifted to an anti-inflammatory phenotype induced by TGF-beta and IL-4. They now secrete IL-10 and TGF-beta and stop the M1 program. What is the primary role of these macrophages at this stage?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Promote fibroblast proliferation and wound healing"
+        },
+        {
+          "label": "B",
+          "text": "Generate reactive oxygen species to kill microbes"
+        },
+        {
+          "label": "C",
+          "text": "Present antigen to cytotoxic T cells for viral clearance"
+        },
+        {
+          "label": "D",
+          "text": "Induce fever by acting on the hypothalamus"
+        },
+        {
+          "label": "E",
+          "text": "Expel DNA nets to trap remaining bacteria"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "M2 macrophages are anti-inflammatory cells that drive tissue repair and wound healing.",
+        "whyCorrect": "M2 macrophages are induced by TGF-beta, IL-4, IL-10, and IL-13 and are essential for wound healing and tissue repair. They secrete IL-10 and TGF-beta, block proinflammatory cytokines, suppress MHC II and costimulation, and promote fibroblast proliferation. This M2 program begins once an infection clears, turning inflammation into repair.",
+        "whyWrongByChoice": {
+          "B": "Generating ROS to kill microbes is an M1 function; the M2 phenotype suppresses that program.",
+          "C": "Cross-presenting to cytotoxic T cells is not the defining repair role of M2 macrophages described here.",
+          "D": "Fever is driven by proinflammatory cytokines and prostaglandins, opposite to the anti-inflammatory M2 role.",
+          "E": "NETosis is a neutrophil process, not a function of anti-inflammatory M2 macrophages."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "macrophages",
+        "M2 polarization",
+        "tissue repair"
+      ],
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function"
+    },
+    {
+      "id": "im03-011",
+      "stem": "In a phagolysosome, a macrophage produces a highly reactive, toxic radical using an enzyme that converts the amino acid arginine into citrulline. This radical can combine with superoxide to form peroxynitrite. Which enzyme is responsible for generating this reactive nitrogen species?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inducible nitric oxide synthase (iNOS)"
+        },
+        {
+          "label": "B",
+          "text": "NADPH oxidase"
+        },
+        {
+          "label": "C",
+          "text": "Myeloperoxidase"
+        },
+        {
+          "label": "D",
+          "text": "Lysozyme"
+        },
+        {
+          "label": "E",
+          "text": "Superoxide dismutase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "iNOS converts arginine to citrulline and produces nitric oxide, a reactive nitrogen species.",
+        "whyCorrect": "To produce reactive nitrogen species, an enzyme called inducible nitric oxide synthase (iNOS) converts the amino acid arginine into citrulline, generating nitric oxide (NO). NO has potent antimicrobial properties and can combine with superoxide to form peroxynitrite, which is toxic to microbes.",
+        "whyWrongByChoice": {
+          "B": "NADPH oxidase generates superoxide for reactive oxygen species, not nitric oxide from arginine.",
+          "C": "Myeloperoxidase converts hydrogen peroxide to hypochlorous acid, part of the ROS pathway.",
+          "D": "Lysozyme degrades peptidoglycan and has no role in making nitric oxide.",
+          "E": "Superoxide dismutase converts superoxide to hydrogen peroxide within the ROS pathway."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "reactive nitrogen species",
+        "iNOS",
+        "nitric oxide"
+      ],
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function"
+    },
+    {
+      "id": "im03-012",
+      "stem": "A 55-year-old woman develops bacteremia. Antigen from the bloodstream must be delivered to a secondary lymphoid organ so that circulating T and B cells can be screened for a matching receptor. Which organ specializes in filtering blood-borne antigens for this purpose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Spleen"
+        },
+        {
+          "label": "B",
+          "text": "Lymph node"
+        },
+        {
+          "label": "C",
+          "text": "Thymus"
+        },
+        {
+          "label": "D",
+          "text": "Bone marrow"
+        },
+        {
+          "label": "E",
+          "text": "Mucosa-associated lymphoid tissue (MALT)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The spleen is the secondary lymphoid organ that filters antigens from the blood.",
+        "whyCorrect": "Antigens enter secondary lymphoid organs in different ways: the spleen filters antigens from the blood, while lymph nodes collect antigens arriving from peripheral tissues via the lymphatics. Because this patient has blood-borne antigen from bacteremia, the spleen is the organ that traps and presents it so circulating lymphocytes can be screened.",
+        "whyWrongByChoice": {
+          "B": "Lymph nodes filter antigens carried in from tissues by the lymphatics, not directly from the blood.",
+          "C": "The thymus is a primary lymphoid organ where T cells mature; it does not filter antigen for immune responses.",
+          "D": "Bone marrow is a primary lymphoid organ for hematopoiesis and B-cell development, not an antigen filter.",
+          "E": "MALT samples antigens at mucosal surfaces, not blood-borne antigens from the circulation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "secondary lymphoid organs",
+        "spleen",
+        "antigen trafficking"
+      ],
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function"
+    },
+    {
+      "id": "im04-001",
+      "stem": "A 5-year-old boy is referred for recurrent, severe infections with encapsulated bacteria, including Neisseria meningitidis and Streptococcus pneumoniae, despite having completed all childhood conjugate vaccinations. Laboratory testing shows normal serum C3 and intact opsonization, but the patient's serum is completely unable to lyse antibody-sensitized sheep erythrocytes. Which of the following components is most likely deficient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C1q"
+        },
+        {
+          "label": "B",
+          "text": "C3"
+        },
+        {
+          "label": "C",
+          "text": "C5"
+        },
+        {
+          "label": "D",
+          "text": "Factor D"
+        },
+        {
+          "label": "E",
+          "text": "CR1"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A defect in the terminal (shared) pathway prevents membrane attack complex formation, causing recurrent Neisseria infections despite vaccination.",
+        "whyCorrect": "The inability to lyse sheep erythrocytes with intact opsonization and normal C3 points to a terminal pathway defect. C5b initiates assembly of the membrane attack complex (C5b-C9); loss of any terminal component (C5-C9) blocks lysis. The brick notes that terminal complement deficiencies cause recurrent encapsulated bacterial infections, especially Neisseria, even in vaccinated patients, and this scenario mirrors the brick's case of a C5-deficient child.",
+        "whyWrongByChoice": {
+          "A": "C1q deficiency impairs the early classical pathway and is associated with lupus-like autoimmunity, not an isolated inability to lyse cells.",
+          "B": "C3 is stated to be normal, and its loss would also cripple opsonization, which is intact here.",
+          "D": "Factor D deficiency impairs the alternative pathway convertase, but opsonization and C3 activity would be affected rather than only terminal lysis.",
+          "E": "CR1 is an erythrocyte and phagocyte receptor for C3b involved in immune complex clearance, not in forming the lytic MAC."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "complement deficiency",
+        "terminal pathway",
+        "membrane attack complex",
+        "Neisseria"
+      ],
+      "topicId": "complement-system",
+      "topicName": "Complement System"
+    },
+    {
+      "id": "im04-002",
+      "stem": "A 16-month-old girl presents with recurrent mouth ulcerations, a malar (butterfly) rash, and elevated liver enzymes suggestive of a lupus-like disorder. Complement testing reveals a markedly reduced CH50 with a normal AH50, and her symptoms improve substantially with regular fresh frozen plasma infusions. A deficiency of which of the following proteins best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C1q"
+        },
+        {
+          "label": "B",
+          "text": "Factor B"
+        },
+        {
+          "label": "C",
+          "text": "Decay-accelerating factor (CD55)"
+        },
+        {
+          "label": "D",
+          "text": "Mannose-binding lectin"
+        },
+        {
+          "label": "E",
+          "text": "C9"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A low CH50 with a normal AH50 localizes the defect to a component unique to the classical pathway (C1, C2, or C4).",
+        "whyCorrect": "The CH50 assay measures classical pathway activity while the AH50 measures the alternative pathway. A reduced CH50 with a preserved AH50 indicates a defect in a component used only by the classical pathway, such as C1q, C2, or C4. The brick further links early classical deficiencies (e.g., C1q) to impaired clearance of immune complexes and apoptotic cells, producing lupus-like autoimmunity.",
+        "whyWrongByChoice": {
+          "B": "Factor B is unique to the alternative pathway, so its loss would reduce the AH50, not selectively lower the CH50.",
+          "C": "CD55 (DAF) is a regulator; its deficiency causes paroxysmal nocturnal hemoglobinuria, not an isolated low CH50.",
+          "D": "MBL functions in the lectin pathway, which is not measured by the CH50 assay, so its loss would not selectively drop the CH50.",
+          "E": "C9 is a shared terminal component, so its deficiency would lower both the CH50 and the AH50, not just the CH50."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "classical pathway",
+        "CH50",
+        "C1q deficiency",
+        "lupus"
+      ],
+      "topicId": "complement-system",
+      "topicName": "Complement System"
+    },
+    {
+      "id": "im04-003",
+      "stem": "An 8-year-old girl has a history of recurrent, painless swelling episodes involving her face, lips, and hands. The swelling is not itchy, lasts 2 to 5 days, occasionally affects the gastrointestinal tract with abdominal pain and vomiting, and on a few occasions has caused difficulty breathing from throat swelling. Antihistamines have not helped. Her mother and grandmother have been diagnosed with the same complement deficiency. Which protein is most likely deficient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decay-accelerating factor (CD55)"
+        },
+        {
+          "label": "B",
+          "text": "C1 esterase inhibitor (C1-INH)"
+        },
+        {
+          "label": "C",
+          "text": "C9"
+        },
+        {
+          "label": "D",
+          "text": "Factor D"
+        },
+        {
+          "label": "E",
+          "text": "C5"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "C1 esterase inhibitor deficiency causes hereditary angioedema, marked by recurrent non-pruritic swelling that does not respond to antihistamines.",
+        "whyCorrect": "Lack of C1-INH leads to recurrent complement activation and, importantly, unopposed bradykinin release, a potent vasodilator that produces edema from plasma leakage. The brick describes hereditary angioedema as childhood-onset, non-itchy, antihistamine-resistant swelling that can involve the lips and GI tract and can be life-threatening when the larynx is affected, consistent with this patient's autosomal-dominant family history.",
+        "whyWrongByChoice": {
+          "A": "CD55 deficiency causes paroxysmal nocturnal hemoglobinuria with dark urine and hemolysis, not episodic bradykinin-mediated angioedema.",
+          "C": "C9 is a terminal MAC component; its deficiency predisposes to Neisseria infections, not recurrent angioedema.",
+          "D": "Factor D deficiency impairs the alternative pathway and increases infection risk, not swelling episodes.",
+          "E": "C5 deficiency impairs MAC formation and causes recurrent encapsulated bacterial infections, not angioedema."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hereditary angioedema",
+        "C1 esterase inhibitor",
+        "bradykinin"
+      ],
+      "topicId": "complement-system",
+      "topicName": "Complement System"
+    },
+    {
+      "id": "im04-004",
+      "stem": "A 45-year-old man with known hereditary angioedema due to C1 esterase inhibitor deficiency is started on a new antihypertensive medication. Two weeks later he develops a severe attack of facial and laryngeal swelling. Which of the following newly prescribed medications most likely precipitated this attack?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydrochlorothiazide"
+        },
+        {
+          "label": "B",
+          "text": "Lisinopril"
+        },
+        {
+          "label": "C",
+          "text": "Amlodipine"
+        },
+        {
+          "label": "D",
+          "text": "Metoprolol"
+        },
+        {
+          "label": "E",
+          "text": "Losartan"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "ACE inhibitors block bradykinin degradation and are contraindicated in hereditary angioedema because they worsen bradykinin-mediated swelling.",
+        "whyCorrect": "Lisinopril is an ACE inhibitor. The brick states that ACE inhibitors cause bradykinin degradation to be blocked, raising bradykinin levels; because angioedema in C1-INH deficiency is bradykinin-mediated, ACE inhibitors are contraindicated and can even unmask previously hidden HAE. This makes lisinopril the most likely trigger of the attack.",
+        "whyWrongByChoice": {
+          "A": "Hydrochlorothiazide is a thiazide diuretic and does not affect bradykinin metabolism.",
+          "C": "Amlodipine is a calcium-channel blocker with no effect on bradykinin degradation.",
+          "D": "Metoprolol is a beta-blocker and does not raise bradykinin levels.",
+          "E": "Losartan is an angiotensin-receptor blocker that does not inhibit bradykinin breakdown, so it does not carry the same HAE risk as an ACE inhibitor."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "hereditary angioedema",
+        "ACE inhibitors",
+        "bradykinin",
+        "pharmacology"
+      ],
+      "topicId": "complement-system",
+      "topicName": "Complement System"
+    },
+    {
+      "id": "im04-005",
+      "stem": "A 27-year-old woman reports several months of fatigue, intermittent jaundice, and episodes of dark, reddish urine that are most noticeable in the morning. She has also had a deep vein thrombosis. Flow cytometry of her red blood cells shows markedly decreased surface expression of CD55 and CD59. Deficiency of which of the following best explains her hemolysis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C1 esterase inhibitor"
+        },
+        {
+          "label": "B",
+          "text": "Decay-accelerating factor (CD55)"
+        },
+        {
+          "label": "C",
+          "text": "Properdin"
+        },
+        {
+          "label": "D",
+          "text": "Mannose-binding lectin"
+        },
+        {
+          "label": "E",
+          "text": "C5"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Loss of the glycolipid anchor for DAF (CD55) and CD59 lets the membrane attack complex form on red cells, causing paroxysmal nocturnal hemoglobinuria.",
+        "whyCorrect": "Decay-accelerating factor (CD55) is a membrane-bound protein that blocks C3 convertase formation and is anchored by a glycolipid. When that anchor is defective, both DAF and CD59 are lost, so MACs form on circulating erythrocytes and lyse them. The brick attributes the dark morning urine, hemolysis, fatigue, jaundice, and thrombosis of paroxysmal nocturnal hemoglobinuria to this loss, diagnosed by low CD55/CD59 on flow cytometry.",
+        "whyWrongByChoice": {
+          "A": "C1-INH deficiency causes bradykinin-mediated angioedema, not complement-mediated red cell lysis.",
+          "C": "Properdin stabilizes the alternative C3 convertase; its loss predisposes to Neisseria infection, not chronic hemolysis.",
+          "D": "MBL deficiency impairs lectin pathway initiation and does not cause loss of CD55/CD59 or intravascular hemolysis.",
+          "E": "C5 deficiency prevents MAC formation and would protect red cells from lysis rather than cause it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "paroxysmal nocturnal hemoglobinuria",
+        "DAF",
+        "CD59",
+        "complement regulation"
+      ],
+      "topicId": "complement-system",
+      "topicName": "Complement System"
+    },
+    {
+      "id": "im04-006",
+      "stem": "A 30-year-old man with paroxysmal nocturnal hemoglobinuria is started on eculizumab, which markedly reduces his hemolysis. Which of the following best describes the mechanism of this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It replaces decay-accelerating factor on the red cell surface"
+        },
+        {
+          "label": "B",
+          "text": "It blocks C1 esterase activity in the classical pathway"
+        },
+        {
+          "label": "C",
+          "text": "A monoclonal antibody that binds C5 and prevents its cleavage into C5a and C5b"
+        },
+        {
+          "label": "D",
+          "text": "It inhibits Factor D and blocks the alternative convertase"
+        },
+        {
+          "label": "E",
+          "text": "It antagonizes the bradykinin receptor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Eculizumab is a humanized monoclonal antibody against C5 that stops formation of C5a and C5b, blocking downstream MAC assembly.",
+        "whyCorrect": "The brick states that patients with PNH can be treated with C5 inhibitors like eculizumab, a humanized monoclonal antibody that inhibits cleavage of C5 into C5a and C5b. Preventing C5b formation blocks the terminal pathway and the membrane attack complex, protecting red cells from complement-mediated lysis.",
+        "whyWrongByChoice": {
+          "A": "Eculizumab does not restore or replace the missing DAF/CD59 anchor; it acts upstream by blocking C5.",
+          "B": "Blocking C1 esterase describes the action of C1-INH, used in hereditary angioedema, not eculizumab.",
+          "D": "Eculizumab targets C5, not Factor D of the alternative pathway.",
+          "E": "Bradykinin receptor antagonism is relevant to angioedema management, not to complement-mediated hemolysis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "eculizumab",
+        "C5 inhibitor",
+        "paroxysmal nocturnal hemoglobinuria",
+        "treatment"
+      ],
+      "topicId": "complement-system",
+      "topicName": "Complement System"
+    },
+    {
+      "id": "im04-007",
+      "stem": "Which of the following complement components is the most potent anaphylatoxin and most strongly attracts leukocytes to sites of complement activation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C3b"
+        },
+        {
+          "label": "B",
+          "text": "C4b"
+        },
+        {
+          "label": "C",
+          "text": "C5a"
+        },
+        {
+          "label": "D",
+          "text": "C9"
+        },
+        {
+          "label": "E",
+          "text": "MASPs"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "C5a is the most potent anaphylatoxin and a chemoattractant that recruits and activates leukocytes.",
+        "whyCorrect": "The brick identifies C5a as the most potent of the inflammatory mediators; it increases vascular permeability and adhesion molecule expression and acts on neutrophils and monocytes to induce phagocytosis and migration. This chemotactic recruitment of leukocytes to sites of complement activation is its defining function.",
+        "whyWrongByChoice": {
+          "A": "C3b is an opsonin recognized by CR1 and a building block of the C5 convertase; it does not recruit leukocytes.",
+          "B": "C4b is part of the classical and lectin C3 convertase, not a chemoattractant.",
+          "D": "C9 polymerizes to form the membrane attack complex pore and has no chemotactic role.",
+          "E": "MASPs are serine proteases that cleave C4 and C2 in the lectin pathway, not anaphylatoxins."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "anaphylatoxin",
+        "C5a",
+        "inflammation",
+        "chemotaxis"
+      ],
+      "topicId": "complement-system",
+      "topicName": "Complement System"
+    },
+    {
+      "id": "im04-008",
+      "stem": "A 19-year-old man has had two episodes of Neisseria meningitidis meningitis. Complement studies show that he cannot stabilize the alternative pathway C3 convertase, though his classical and lectin pathways function normally. Deficiency of which of the following is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Properdin"
+        },
+        {
+          "label": "B",
+          "text": "C1 esterase inhibitor"
+        },
+        {
+          "label": "C",
+          "text": "Decay-accelerating factor (CD55)"
+        },
+        {
+          "label": "D",
+          "text": "C1q"
+        },
+        {
+          "label": "E",
+          "text": "CR1"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Properdin stabilizes the alternative C3 convertase; its loss predisposes to severe Neisseria infections.",
+        "whyCorrect": "The brick explains that properdin stabilizes the alternative C3 convertase (C3bBb), making the complex more resistant to protease degradation. An individual who lacks properdin cannot stabilize this convertase and is highly susceptible to encapsulated bacteria, especially those in the Neisseria genus, matching this patient's recurrent meningococcal disease with an isolated alternative pathway defect.",
+        "whyWrongByChoice": {
+          "B": "C1-INH deficiency causes hereditary angioedema, not a failure to stabilize the alternative convertase.",
+          "C": "CD55 (DAF) inhibits convertase formation; its deficiency causes PNH, not decreased convertase stability.",
+          "D": "C1q initiates the classical pathway, which is stated to be normal in this patient.",
+          "E": "CR1 is a receptor for C3b involved in immune complex clearance and opsonin recognition, not convertase stabilization."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "alternative pathway",
+        "properdin",
+        "Neisseria",
+        "C3 convertase"
+      ],
+      "topicId": "complement-system",
+      "topicName": "Complement System"
+    },
+    {
+      "id": "im04-009",
+      "stem": "During an antibody-mediated immune response, activation of the classical complement pathway requires binding of C1q to antibody on a pathogen surface. Which of the following antibody isotypes is the most efficient activator of the classical pathway, requiring only a single bound molecule to engage C1q?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgG"
+        },
+        {
+          "label": "B",
+          "text": "IgM"
+        },
+        {
+          "label": "C",
+          "text": "IgA"
+        },
+        {
+          "label": "D",
+          "text": "IgE"
+        },
+        {
+          "label": "E",
+          "text": "IgD"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A single pentameric IgM molecule can activate C1q, whereas IgG must have two adjacent molecules bound.",
+        "whyCorrect": "The brick notes that both IgG and IgM function as opsonins that activate the classical pathway, but because C1q must bind two molecules of monomeric IgG to be activated, whereas IgM is a pentamer, one molecule of IgM is sufficient to activate C1q. This makes IgM the most efficient single-molecule classical pathway activator.",
+        "whyWrongByChoice": {
+          "A": "IgG activates the classical pathway only when two adjacent IgG molecules are bound, so a single molecule is not sufficient.",
+          "C": "IgA is not described as a classical pathway activator in this context.",
+          "D": "IgE mediates allergic and antiparasitic responses and does not efficiently activate C1q.",
+          "E": "IgD functions mainly as a B cell receptor and is not a classical pathway activator."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "classical pathway",
+        "IgM",
+        "C1q",
+        "antibody"
+      ],
+      "topicId": "complement-system",
+      "topicName": "Complement System"
+    },
+    {
+      "id": "im04-010",
+      "stem": "A 34-year-old woman with systemic lupus erythematosus has a buildup of circulating immune complexes. In a healthy person, which of the following mechanisms is primarily responsible for clearing such immune complexes from the circulation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The membrane attack complex directly lyses circulating immune complexes"
+        },
+        {
+          "label": "B",
+          "text": "C3b coats the complexes, which are then bound by CR1 on erythrocytes and delivered to the liver and spleen"
+        },
+        {
+          "label": "C",
+          "text": "C5a recruits neutrophils that phagocytose the complexes in the bloodstream"
+        },
+        {
+          "label": "D",
+          "text": "C1 esterase inhibitor enzymatically degrades the complexes"
+        },
+        {
+          "label": "E",
+          "text": "Decay-accelerating factor strips the complexes from cell surfaces"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "C3b-coated immune complexes bind erythrocyte CR1 and are shuttled to the liver and spleen, where phagocytes remove them.",
+        "whyCorrect": "The brick describes that C3b coats immune complexes and that CR1 on erythrocytes binds this C3b. Red cells carry the complexes to the spleen and liver, where phagocytes such as Kupffer cells strip the complexes off CR1 and destroy them. Reduced CR1 expression, as reported in SLE, impairs this clearance and contributes to immune complex buildup.",
+        "whyWrongByChoice": {
+          "A": "The MAC lyses cellular membranes, not soluble immune complexes.",
+          "C": "C5a recruits leukocytes to inflamed tissue but is not the primary route for clearing circulating complexes.",
+          "D": "C1-INH regulates C1 and bradykinin; it does not degrade immune complexes.",
+          "E": "DAF is a convertase-blocking regulator on host cells and does not clear immune complexes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "immune complex clearance",
+        "CR1",
+        "erythrocytes",
+        "lupus"
+      ],
+      "topicId": "complement-system",
+      "topicName": "Complement System"
+    },
+    {
+      "id": "im04-011",
+      "stem": "All three complement pathways converge on a shared terminal pathway that assembles the membrane attack complex on a target membrane. Which of the following components initiates assembly of the membrane attack complex by binding C6 and C7?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C3b"
+        },
+        {
+          "label": "B",
+          "text": "C4b"
+        },
+        {
+          "label": "C",
+          "text": "C5b"
+        },
+        {
+          "label": "D",
+          "text": "C5a"
+        },
+        {
+          "label": "E",
+          "text": "C1q"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "C5b initiates the terminal pathway by binding C6 and C7, seeding assembly of the membrane attack complex.",
+        "whyCorrect": "The brick states that C5b initiates the formation of the MAC; then C6, C7, C8, and multiple copies of C9 bind to complete the complex. Binding of C6 and C7 to C5b exposes a hydrophobic site in C7 that inserts into the membrane, anchoring the growing pore.",
+        "whyWrongByChoice": {
+          "A": "C3b is an opsonin and a component of the C5 convertase, but it does not seed MAC assembly.",
+          "B": "C4b is part of the classical and lectin C3 convertase, not the terminal complex.",
+          "D": "C5a is the anaphylatoxin fragment released when C5 is cleaved; it diffuses away and does not join the MAC.",
+          "E": "C1q initiates the classical pathway at the top of the cascade, not terminal MAC assembly."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "membrane attack complex",
+        "C5b",
+        "terminal pathway",
+        "lysis"
+      ],
+      "topicId": "complement-system",
+      "topicName": "Complement System"
+    },
+    {
+      "id": "im04-012",
+      "stem": "A soluble pattern recognition receptor in the serum binds mannose residues displayed on the surface of an invading bacterium. This binding activates associated serine proteases that then cleave C4 and C2. Which complement activation pathway has been triggered?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Classical pathway"
+        },
+        {
+          "label": "B",
+          "text": "Alternative pathway"
+        },
+        {
+          "label": "C",
+          "text": "Lectin pathway"
+        },
+        {
+          "label": "D",
+          "text": "Terminal pathway"
+        },
+        {
+          "label": "E",
+          "text": "All three pathways simultaneously"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The lectin pathway is initiated by mannose-binding lectin, whose MASPs cleave C4 and C2 to form the C4b2b convertase.",
+        "whyCorrect": "The brick describes the lectin pathway as being initiated by mannose-binding lectin (MBL), a soluble pattern recognition receptor that binds mannose and other sugars in patterns found on pathogens. After MBL binds, MBL-associated serine proteases (MASPs) cleave C2 and C4, generating the same C3 convertase as the classical pathway (C4b2b).",
+        "whyWrongByChoice": {
+          "A": "The classical pathway is triggered by antibody or CRP binding C1, not by a mannose-binding lectin.",
+          "B": "The alternative pathway begins with spontaneous C3 tickover and uses Factors B and D, not MBL and MASPs.",
+          "D": "The terminal pathway is the shared MAC-forming stage that begins with C5b, downstream of C4 and C2 cleavage.",
+          "E": "The specific trigger described (MBL binding mannose, MASPs cleaving C4 and C2) is unique to the lectin pathway."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "lectin pathway",
+        "mannose-binding lectin",
+        "MASPs"
+      ],
+      "topicId": "complement-system",
+      "topicName": "Complement System"
+    },
+    {
+      "id": "im05-001",
+      "stem": "A 2-month-old boy is brought in for a red, warm swelling at the base of the umbilicus. His parents note that his umbilical cord did not fall off until 30 days of age. Despite the obvious inflammation, the lesion contains almost no pus. A CBC shows leukocytosis with marked neutrophilia. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Leukocyte adhesion deficiency type 1"
+        },
+        {
+          "label": "B",
+          "text": "Chediak-Higashi syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Chronic granulomatous disease"
+        },
+        {
+          "label": "D",
+          "text": "Terminal complement deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Physiologic neutrophilia of the newborn"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Omphalitis with delayed cord separation, pus-free infection, and neutrophilia is the classic presentation of leukocyte adhesion deficiency type 1 (LAD-I).",
+        "whyCorrect": "In LAD-I, mutations in CD18 prevent neutrophil integrins (LFA-1) from mediating firm adhesion, so neutrophils cannot leave the vessels to enter tissue. Sites of infection are therefore devoid of pus even when inflamed, and neutrophils pile up in the blood, causing leukocytosis and neutrophilia. Delayed umbilical cord separation (around 30 days versus the normal ~15 days) and omphalitis are classic early signs.",
+        "whyWrongByChoice": {
+          "B": "Chediak-Higashi syndrome presents with partial albinism, giant granules in leukocytes, and bleeding, not with delayed cord separation and pus-free omphalitis.",
+          "C": "Chronic granulomatous disease produces abundant granulomas and abscesses with catalase-positive organisms; neutrophils still enter tissue, so infections are not pus-free.",
+          "D": "Terminal complement deficiency classically causes recurrent Neisseria infections, not neonatal omphalitis with delayed cord separation.",
+          "E": "Physiologic neutrophilia does not cause an infected, pus-poor umbilical stump or delayed cord separation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "LAD-I",
+        "omphalitis",
+        "innate immunodeficiency"
+      ],
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity"
+    },
+    {
+      "id": "im05-002",
+      "stem": "Flow cytometry on the infant from the previous scenario shows less than 2% expression of CD18 on his leukocytes, and CD11a is also low. A defect in which of the following processes best explains why his sites of infection lack pus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neutrophil firm adhesion and transmigration into tissue"
+        },
+        {
+          "label": "B",
+          "text": "Oxygen-dependent killing and reactive oxygen species generation"
+        },
+        {
+          "label": "C",
+          "text": "Lysosomal trafficking and fusion"
+        },
+        {
+          "label": "D",
+          "text": "Complement-mediated opsonization"
+        },
+        {
+          "label": "E",
+          "text": "Selectin-mediated rolling along the endothelium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "LFA-1 is a heterodimer of CD18 and CD11a; loss of CD18 blocks integrin-mediated firm adhesion and diapedesis.",
+        "whyCorrect": "Because CD11a expression depends on CD18, a CD18 mutation leaves leukocytes lacking both. Without functional LFA-1, neutrophils cannot bind ICAMs to firmly adhere and then transmigrate across the endothelium, so they never reach the tissue to form pus.",
+        "whyWrongByChoice": {
+          "B": "Defective reactive oxygen species generation is the mechanism of chronic granulomatous disease, not LAD-I.",
+          "C": "Defective lysosomal trafficking is the mechanism of Chediak-Higashi syndrome (LYST mutation).",
+          "D": "Complement opsonization is not encoded by CD18 and is not the defect here.",
+          "E": "Selectin-mediated rolling is intact in LAD-I; the block is at the later integrin-dependent firm-adhesion step."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "LAD-I",
+        "CD18",
+        "LFA-1"
+      ],
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity"
+    },
+    {
+      "id": "im05-003",
+      "stem": "During recruitment of neutrophils to an inflamed tissue, the first low-affinity, transient interaction that slows circulating neutrophils into a roll along the endothelium is mediated by which of the following pairs of molecules?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Selectins binding sialyl-Lewis X"
+        },
+        {
+          "label": "B",
+          "text": "LFA-1 binding ICAM-1"
+        },
+        {
+          "label": "C",
+          "text": "PECAM-1 binding PECAM-1"
+        },
+        {
+          "label": "D",
+          "text": "CXCL8 binding its chemokine receptor"
+        },
+        {
+          "label": "E",
+          "text": "Integrins binding VCAM-1"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Slow rolling (tethering) is driven by low-affinity selectin binding to sialyl-Lewis X carbohydrate ligands.",
+        "whyCorrect": "Endothelial E- and P-selectins bind the sialyl-Lewis X ligand on neutrophils with low affinity. These interactions are constantly formed and broken, disrupting the neutrophil's flow and causing it to roll slowly along the endothelium as the first step of recruitment.",
+        "whyWrongByChoice": {
+          "B": "LFA-1 binding ICAM-1 mediates the later step of firm adhesion, which arrests rolling rather than initiating it.",
+          "C": "PECAM-1 homophilic binding mediates diapedesis, the final transmigration step, not initial rolling.",
+          "D": "CXCL8 signaling upregulates integrins but does not itself tether the neutrophil to the endothelium.",
+          "E": "Integrin binding to adhesion molecules produces firm adhesion, which follows rolling."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "neutrophil recruitment",
+        "selectins",
+        "rolling"
+      ],
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity"
+    },
+    {
+      "id": "im05-004",
+      "stem": "A rolling neutrophil is exposed to the chemokine CXCL8 (IL-8) at a site of infection, which increases the affinity of LFA-1 for endothelial ICAM-1. What is the immediate result of this integrin-ICAM interaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Firm adhesion that stops the neutrophil from rolling"
+        },
+        {
+          "label": "B",
+          "text": "Initiation of tethering and slow rolling"
+        },
+        {
+          "label": "C",
+          "text": "Immediate release of reactive oxygen species into the blood"
+        },
+        {
+          "label": "D",
+          "text": "Fusion of the phagosome with lysosomes"
+        },
+        {
+          "label": "E",
+          "text": "Return of the neutrophil to the circulating pool"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Integrin-ICAM binding produces firm adhesion, arresting the rolling neutrophil on the endothelium.",
+        "whyCorrect": "Once the neutrophil is slowed, CXCL8/IL-8 upregulates integrins such as LFA-1 and increases their affinity for ICAM-1 and VCAM-1. TNF-alpha and IL-1 raise ICAM expression on the endothelium. The resulting integrin-ICAM interaction mediates firm adhesion and prevents further rolling.",
+        "whyWrongByChoice": {
+          "B": "Tethering and slow rolling occur earlier and are mediated by selectins, not integrin-ICAM binding.",
+          "C": "The respiratory burst occurs inside phagosomes during killing, not upon adhesion to endothelium.",
+          "D": "Phagosome-lysosome fusion is a step of intracellular killing, unrelated to endothelial adhesion.",
+          "E": "Firm adhesion holds the neutrophil in place for transmigration; it does not send it back into circulation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neutrophil recruitment",
+        "integrins",
+        "firm adhesion"
+      ],
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity"
+    },
+    {
+      "id": "im05-005",
+      "stem": "After firmly adhering to the endothelium, a neutrophil squeezes between adjacent endothelial cells to enter the infected tissue. This transmigration step, called diapedesis, is chiefly mediated by which of the following molecules?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PECAM-1"
+        },
+        {
+          "label": "B",
+          "text": "E-selectin"
+        },
+        {
+          "label": "C",
+          "text": "Sialyl-Lewis X"
+        },
+        {
+          "label": "D",
+          "text": "Myeloperoxidase"
+        },
+        {
+          "label": "E",
+          "text": "Catalase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Diapedesis (migration/extravasation) is mediated primarily by PECAM-1 on both neutrophils and endothelial cells.",
+        "whyCorrect": "PECAM-1 is an adhesion molecule found on neutrophils and at endothelial junctions. Its homophilic interactions guide the firmly adhered neutrophil between endothelial cells and into the tissue, following chemokine gradients.",
+        "whyWrongByChoice": {
+          "B": "E-selectin mediates the earlier rolling step, not transmigration.",
+          "C": "Sialyl-Lewis X is the selectin ligand used during rolling, not diapedesis.",
+          "D": "Myeloperoxidase is an enzyme of intracellular oxygen-dependent killing, not a recruitment molecule.",
+          "E": "Catalase is a microbial (and human) enzyme that degrades hydrogen peroxide; it plays no role in diapedesis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neutrophil recruitment",
+        "PECAM-1",
+        "diapedesis"
+      ],
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity"
+    },
+    {
+      "id": "im05-006",
+      "stem": "A 3-year-old with silvery-blond hair, very pale skin, and photophobia has had repeated Staphylococcus aureus skin infections and bruises easily. A peripheral blood smear shows large, abnormal granules within her neutrophils. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chediak-Higashi syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Leukocyte adhesion deficiency type 1"
+        },
+        {
+          "label": "C",
+          "text": "Chronic granulomatous disease"
+        },
+        {
+          "label": "D",
+          "text": "Terminal complement deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Tyrosinase-negative oculocutaneous albinism"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Partial albinism, recurrent infections, bleeding, and giant granules in granulocytes are the hallmark tetrad of Chediak-Higashi syndrome.",
+        "whyCorrect": "Chediak-Higashi syndrome results from a LYST mutation that disrupts lysosome and vesicle trafficking. This produces partial oculocutaneous albinism (giant melanosomes), recurrent pyogenic infections (defective neutrophil, CTL, and NK lysosomes), bleeding (defective platelet granules), and the classic giant azurophilic inclusion bodies in granulocytes on smear.",
+        "whyWrongByChoice": {
+          "B": "LAD-I causes pus-free infections and delayed cord separation but not albinism or giant granules.",
+          "C": "Chronic granulomatous disease causes catalase-positive infections and granulomas, not albinism or giant granules.",
+          "D": "Terminal complement deficiency causes recurrent Neisseria infections without albinism or granule abnormalities.",
+          "E": "Isolated tyrosinase-negative albinism causes hypopigmentation alone, not recurrent infections, bleeding, or giant granules."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Chediak-Higashi",
+        "albinism",
+        "giant granules"
+      ],
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity"
+    },
+    {
+      "id": "im05-007",
+      "stem": "The disorder affecting the child in the previous scenario is caused by a mutation in the LYST gene. Which cellular process is primarily disrupted by this mutation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lysosome and vesicle trafficking and fusion"
+        },
+        {
+          "label": "B",
+          "text": "Assembly of the NADPH oxidase complex"
+        },
+        {
+          "label": "C",
+          "text": "Expression of the integrin subunit CD18"
+        },
+        {
+          "label": "D",
+          "text": "Synthesis of selectin carbohydrate ligands"
+        },
+        {
+          "label": "E",
+          "text": "Formation of the membrane attack complex"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "LYST (lysosomal trafficking regulator) governs the trafficking and fusion of lysosomes and other vesicles.",
+        "whyCorrect": "LYST regulates vesicle trafficking and fusion. When it is mutated, lysosomes and related vesicles (including melanosomes and platelet granules) fail to move and fuse normally, producing the immunodeficiency, albinism, bleeding, and neurologic defects of Chediak-Higashi syndrome.",
+        "whyWrongByChoice": {
+          "B": "Defective NADPH oxidase assembly underlies chronic granulomatous disease, not Chediak-Higashi syndrome.",
+          "C": "Loss of CD18 expression causes LAD-I, a different disorder.",
+          "D": "Defective selectin ligand synthesis impairs rolling but is not the LYST defect.",
+          "E": "Failure to form the membrane attack complex reflects terminal complement deficiency."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Chediak-Higashi",
+        "LYST",
+        "lysosome"
+      ],
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity"
+    },
+    {
+      "id": "im05-008",
+      "stem": "A child with Chediak-Higashi syndrome develops easy bruising and prolonged bleeding after minor cuts. This bleeding tendency is best explained by a defect in which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Platelet granules"
+        },
+        {
+          "label": "B",
+          "text": "Factor VIII synthesis"
+        },
+        {
+          "label": "C",
+          "text": "von Willebrand factor"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin K-dependent clotting factors"
+        },
+        {
+          "label": "E",
+          "text": "Vascular collagen structure"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Platelets contain granules that promote clotting; in Chediak-Higashi syndrome these granules are defective.",
+        "whyCorrect": "Platelet granules are vesicles containing molecules important for clotting. Because LYST regulates vesicle function, platelet granules are defective in Chediak-Higashi syndrome, leading to a bleeding tendency and prolonged bleeding.",
+        "whyWrongByChoice": {
+          "B": "Factor VIII deficiency causes hemophilia A and is unrelated to the LYST vesicle defect.",
+          "C": "von Willebrand factor deficiency is a separate primary hemostatic disorder, not the mechanism in CHS.",
+          "D": "Vitamin K-dependent factor deficiency reflects a coagulation-factor problem, not defective platelet granules.",
+          "E": "A structural collagen/vascular defect (as in some connective tissue diseases) is not the CHS bleeding mechanism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Chediak-Higashi",
+        "platelet granules",
+        "bleeding"
+      ],
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity"
+    },
+    {
+      "id": "im05-009",
+      "stem": "A boy with Chediak-Higashi syndrome who has not received a hematopoietic stem cell transplant becomes acutely ill with fever, hepatosplenomegaly, and pancytopenia; biopsy shows organ infiltration by activated macrophages and lymphocytes. More than 80% of untreated CHS patients develop this life-threatening complication. It is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hemophagocytic lymphohistiocytosis"
+        },
+        {
+          "label": "B",
+          "text": "Graft-versus-host disease"
+        },
+        {
+          "label": "C",
+          "text": "Disseminated intravascular coagulation"
+        },
+        {
+          "label": "D",
+          "text": "Transformation to chronic granulomatous disease"
+        },
+        {
+          "label": "E",
+          "text": "Secondary amyloidosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Untreated Chediak-Higashi syndrome frequently progresses to hemophagocytic lymphohistiocytosis (HLH).",
+        "whyCorrect": "Without a transplant, more than 80% of CHS patients develop HLH, a hyper-inflammatory state in which lymphocytes and histiocytes (macrophages) invade organs, causing multi-organ failure. HLH typically produces pancytopenia (reduced red cells, white cells, and platelets).",
+        "whyWrongByChoice": {
+          "B": "Graft-versus-host disease requires a prior transplant of immune cells; this patient has not been transplanted.",
+          "C": "DIC is a consumptive coagulopathy, not the hyper-inflammatory histiocytic syndrome described.",
+          "D": "CHS does not transform into chronic granulomatous disease; they are distinct genetic disorders.",
+          "E": "Amyloidosis is a slow protein-deposition disorder and does not explain this acute inflammatory picture."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Chediak-Higashi",
+        "HLH",
+        "pancytopenia"
+      ],
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity"
+    },
+    {
+      "id": "im05-010",
+      "stem": "A 4-year-old boy has had recurrent abscesses growing Staphylococcus aureus and Serratia marcescens and now has an Aspergillus pneumonia with granuloma formation on biopsy. Which of the following tests best confirms the suspected diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dihydrorhodamine (DHR) flow cytometry"
+        },
+        {
+          "label": "B",
+          "text": "Flow cytometry for CD18 expression"
+        },
+        {
+          "label": "C",
+          "text": "Peripheral smear for giant granulocyte inclusions"
+        },
+        {
+          "label": "D",
+          "text": "Total hemolytic complement (CH50) assay"
+        },
+        {
+          "label": "E",
+          "text": "Genetic testing for LYST mutations"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Deep-seated infections with catalase-positive organisms and granulomas suggest chronic granulomatous disease, confirmed by the DHR test.",
+        "whyCorrect": "The DHR flow cytometry test measures the ability of phagocytes to reduce dihydrorhodamine to fluorescent rhodamine via NADPH oxidase. Because CGD phagocytes lack functional NADPH oxidase, they produce little or no rhodamine. (The older nitroblue tetrazolium test measures the same defect.)",
+        "whyWrongByChoice": {
+          "B": "CD18 flow cytometry diagnoses LAD-I, which causes pus-free infections rather than granulomas.",
+          "C": "Giant granulocyte inclusions on smear point to Chediak-Higashi syndrome, not CGD.",
+          "D": "A CH50 assay screens for complement deficiencies, which present with Neisseria infections, not catalase-positive abscesses.",
+          "E": "LYST genetic testing confirms Chediak-Higashi syndrome, not chronic granulomatous disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CGD",
+        "DHR test",
+        "diagnosis"
+      ],
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity"
+    },
+    {
+      "id": "im05-011",
+      "stem": "Patients with chronic granulomatous disease are especially prone to infection by catalase-positive organisms such as Staphylococcus aureus and Aspergillus. Which of the following best explains this specific susceptibility?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Catalase-positive microbes degrade their own hydrogen peroxide, denying neutrophils a substrate for myeloperoxidase-mediated killing"
+        },
+        {
+          "label": "B",
+          "text": "Catalase-positive microbes are resistant to complement-mediated lysis"
+        },
+        {
+          "label": "C",
+          "text": "Catalase-positive microbes block selectin-mediated rolling of neutrophils"
+        },
+        {
+          "label": "D",
+          "text": "Catalase-positive microbes inhibit the LYST protein in host cells"
+        },
+        {
+          "label": "E",
+          "text": "Catalase-positive microbes are strictly intracellular and evade antibody"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Catalase-positive organisms neutralize their own hydrogen peroxide, removing the peroxide that CGD neutrophils would otherwise borrow for killing.",
+        "whyCorrect": "CGD neutrophils lack NADPH oxidase, but their myeloperoxidase can still convert hydrogen peroxide made by invading bacteria into hypochlorite. Catalase-positive species destroy their own hydrogen peroxide, so they deprive myeloperoxidase of substrate and survive, whereas catalase-negative organisms effectively supply the peroxide needed to kill them.",
+        "whyWrongByChoice": {
+          "B": "Resistance to complement lysis characterizes some encapsulated organisms and does not explain the CGD-specific catalase link.",
+          "C": "CGD does not impair selectin-mediated rolling; the defect is in oxygen-dependent killing.",
+          "D": "LYST is the Chediak-Higashi protein and is unrelated to microbial catalase.",
+          "E": "Several catalase-positive CGD pathogens (e.g., Aspergillus, S. aureus) are not strictly intracellular, so this is not the mechanism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CGD",
+        "catalase-positive",
+        "respiratory burst"
+      ],
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity"
+    },
+    {
+      "id": "im05-012",
+      "stem": "Chronic granulomatous disease most commonly results from a defect in which enzyme, and what is its most typical inheritance pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "NADPH oxidase; X-linked recessive"
+        },
+        {
+          "label": "B",
+          "text": "Myeloperoxidase; autosomal recessive"
+        },
+        {
+          "label": "C",
+          "text": "Superoxide dismutase; X-linked recessive"
+        },
+        {
+          "label": "D",
+          "text": "NADPH oxidase; autosomal dominant"
+        },
+        {
+          "label": "E",
+          "text": "Catalase; X-linked recessive"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CGD is most often caused by X-linked recessive mutations in NADPH oxidase.",
+        "whyCorrect": "NADPH oxidase begins the respiratory burst by generating superoxide from molecular oxygen; if it is deficient, the entire oxidative burst fails. Most cases of CGD are X-linked recessive, which is why males (with a single X chromosome) are affected far more often than females.",
+        "whyWrongByChoice": {
+          "B": "Myeloperoxidase deficiency is a distinct, usually milder disorder and is not the most common cause of CGD.",
+          "C": "Superoxide dismutase is not the defective enzyme in CGD, and its loss does not define the disease.",
+          "D": "The enzyme is correct, but CGD is characteristically X-linked recessive, not autosomal dominant.",
+          "E": "Catalase is not the deficient host enzyme in CGD; catalase is relevant as a microbial virulence factor."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "CGD",
+        "NADPH oxidase",
+        "X-linked"
+      ],
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity"
+    }
+  ]
+}

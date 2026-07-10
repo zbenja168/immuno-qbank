@@ -1,0 +1,2220 @@
+{
+  "categoryId": "immunopharm-diagnostics",
+  "categoryName": "Immunopharmacology & Diagnostics",
+  "questions": [
+    {
+      "id": "im17-001",
+      "stem": "A 30-year-old woman is being typed before an elective surgery. In the blood-typing kit, antibodies to A, B, and D antigens are fixed to separate membranes and a sample of her red blood cells is added. Agglutination occurs in the anti-B and anti-D wells but not in the anti-A well. Which of the following is her blood type?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A positive"
+        },
+        {
+          "label": "B",
+          "text": "B positive"
+        },
+        {
+          "label": "C",
+          "text": "AB positive"
+        },
+        {
+          "label": "D",
+          "text": "O negative"
+        },
+        {
+          "label": "E",
+          "text": "B negative"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In a blood-typing agglutination kit, clumping indicates that the corresponding antigen is present on the patient's red blood cells.",
+        "whyCorrect": "Agglutination occurs when antibodies fixed to the membrane bind an antigen present on the red cells and form immune complexes that clump. Clumping with anti-B means the B antigen is present, and clumping with anti-D (Rh) means the cells are Rh positive. No reaction with anti-A means no A antigen. Therefore the blood type is B positive.",
+        "whyWrongByChoice": {
+          "A": "A positive would require agglutination in the anti-A well, which did not occur.",
+          "C": "AB positive would require agglutination with both anti-A and anti-B; only anti-B reacted.",
+          "D": "O negative cells carry neither A nor B nor D antigen and would not agglutinate in any well.",
+          "E": "B negative would show no reaction with anti-D, but anti-D clumping was observed, indicating Rh positive."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "agglutination",
+        "blood typing",
+        "antibody-based tests"
+      ],
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology"
+    },
+    {
+      "id": "im17-002",
+      "stem": "A 62-year-old man with type O blood is mistakenly transfused with type A packed red blood cells. Within a few hours he develops fever, hypotension, jaundice, and dark (hemoglobin-containing) urine. Which of the following best explains the underlying mechanism of this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgE-mediated mast cell degranulation (type I hypersensitivity)"
+        },
+        {
+          "label": "B",
+          "text": "Preformed antibodies binding donor red cell surface antigens (type II hypersensitivity)"
+        },
+        {
+          "label": "C",
+          "text": "Soluble antigen-antibody immune complex deposition (type III hypersensitivity)"
+        },
+        {
+          "label": "D",
+          "text": "T cell-mediated delayed response to donor antigens (type IV hypersensitivity)"
+        },
+        {
+          "label": "E",
+          "text": "Failure of neutrophils to mount an oxidative burst"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Transfusing incompatible red cells triggers an acute hemolytic transfusion reaction, a type II hypersensitivity reaction.",
+        "whyCorrect": "The brick explains that a type O recipient has preformed anti-A and anti-B antibodies. When type A red cells are given, these IgM/IgG antibodies bind the cell-surface A antigen and initiate a type II hypersensitivity reaction. The donor red cells are lysed within 24 hours, producing fever, hypotension, hemoglobinuria (blood in the urine), and jaundice.",
+        "whyWrongByChoice": {
+          "A": "Type I hypersensitivity is IgE-mediated allergy, not antibody binding to red cell surface antigens.",
+          "C": "Type III reactions involve soluble immune complexes deposited in tissues, not antibodies binding fixed cell-surface antigens.",
+          "D": "The reaction is rapid and antibody-driven, not a delayed T cell-mediated (type IV) response.",
+          "E": "An oxidative burst defect describes chronic granulomatous disease, unrelated to a transfusion reaction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "blood typing",
+        "type II hypersensitivity",
+        "transfusion reaction"
+      ],
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology"
+    },
+    {
+      "id": "im17-003",
+      "stem": "A 26-year-old woman presents with a malar rash, fatigue, and joint pain. An antinuclear antibody (ANA) test is performed by fixing human cells to a slide, incubating with her serum, and then adding a fluorophore-labeled anti-human IgG antibody. Fluorescence microscopy shows a high-titer homogeneous staining pattern. This pattern is most strongly associated with which of the following conditions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Systemic lupus erythematosus"
+        },
+        {
+          "label": "B",
+          "text": "Scleroderma"
+        },
+        {
+          "label": "C",
+          "text": "CREST syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Sjogren syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Chronic granulomatous disease"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "ANA immunofluorescence patterns have known disease associations, and a homogeneous pattern points to SLE.",
+        "whyCorrect": "The brick lists specific ANA staining patterns and their associations. The homogeneous pattern is associated with systemic lupus erythematosus. The detection antibody (anti-human IgG) binds the patient's autoantibodies already bound to the fixed cells, and the fluorescence pattern and titer help narrow the differential diagnosis.",
+        "whyWrongByChoice": {
+          "B": "Scleroderma is associated with a nucleolar staining pattern, not homogeneous.",
+          "C": "CREST syndrome is associated with a centromere staining pattern.",
+          "D": "Sjogren syndrome is associated with a speckled staining pattern.",
+          "E": "Chronic granulomatous disease is a neutrophil oxidative burst defect and is not an ANA-defined autoimmune condition."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "immunofluorescence",
+        "ANA",
+        "autoimmunity"
+      ],
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology"
+    },
+    {
+      "id": "im17-004",
+      "stem": "A 40-year-old man has a mildly positive ANA at a low titer but has no symptoms and no evidence of an autoimmune disease on further workup. His physician explains that a low-titer positive ANA can occur without autoimmune disease. Which of the following is the most appropriate additional explanation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A positive ANA is diagnostic of lupus regardless of titer"
+        },
+        {
+          "label": "B",
+          "text": "Healthy people can have low-titer ANA, which may also rise with acute infections, medications, or cancer"
+        },
+        {
+          "label": "C",
+          "text": "ANA titer directly measures the amount of circulating virus"
+        },
+        {
+          "label": "D",
+          "text": "A low titer indicates the sample was diluted too little to be interpreted"
+        },
+        {
+          "label": "E",
+          "text": "ANA can only be positive in individuals with an active malignancy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Titer makes the ANA semi-quantitative, and low-titer positives are common in people without autoimmune disease.",
+        "whyCorrect": "The brick states that healthy people may have positive ANA results at low titers, and that ANA titer can rise in a person without an autoimmune disorder due to some acute infections, chronic infections, medications, and cancers. Higher titers make true autoantibodies more likely, but a low-titer positive is nonspecific.",
+        "whyWrongByChoice": {
+          "A": "A positive ANA is not diagnostic of lupus by itself; low titers are nonspecific and must be interpreted in clinical context.",
+          "C": "ANA titer reflects how far serum can be diluted and still test positive for autoantibodies, not viral load.",
+          "D": "Titer is the level to which a sample can be diluted and still show a positive result; a low titer is still an interpretable result.",
+          "E": "Malignancy is only one of several nonautoimmune causes of a positive ANA, and most low-titer positives are not due to cancer."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "immunofluorescence",
+        "ANA",
+        "titer"
+      ],
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology"
+    },
+    {
+      "id": "im17-005",
+      "stem": "A public health lab needs a screening test that can quantify very small amounts of a soluble antigen or antibody in patient serum, with results read as the color intensity of a solution. This is the assay used to screen donated blood for HIV. Which of the following tests best fits this description?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enzyme-linked immunosorbent assay (ELISA)"
+        },
+        {
+          "label": "B",
+          "text": "Agglutination assay"
+        },
+        {
+          "label": "C",
+          "text": "Western blot"
+        },
+        {
+          "label": "D",
+          "text": "Flow cytometry"
+        },
+        {
+          "label": "E",
+          "text": "Polymerase chain reaction (PCR)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "ELISA quantifies soluble molecules with high sensitivity, reading out as color intensity, and is used to screen for HIV.",
+        "whyCorrect": "The brick describes ELISA as an assay that quantifies soluble molecules with high sensitivity, using a colorimetric substrate whose color signal is proportional to the amount of detection antibody. ELISA is specifically cited as the test used to screen for HIV before confirmatory testing.",
+        "whyWrongByChoice": {
+          "B": "Agglutination detects the presence of antigens with low sensitivity and reads out as visible clumping, not a color-intensity quantity.",
+          "C": "Western blot is a qualitative test that reads out as dark bands on a membrane, not a quantitative color of solution.",
+          "D": "Flow cytometry analyzes cells in suspension by laser scatter and fluorescence, not soluble antigen in a colorimetric well.",
+          "E": "PCR amplifies and detects nucleic acids, not soluble proteins read by color intensity."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ELISA",
+        "antibody-based tests",
+        "HIV screening"
+      ],
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology"
+    },
+    {
+      "id": "im17-006",
+      "stem": "A woman uses a home pregnancy test, which produces a colored line when the target hormone is present. Her physician notes that at-home pregnancy tests and rapid COVID-19 tests use the same lateral-flow immunoassay design, in which a capture antibody and a separate detection antibody bind different epitopes of the target. Which specific type of ELISA does this describe?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sandwich ELISA"
+        },
+        {
+          "label": "B",
+          "text": "Direct ELISA"
+        },
+        {
+          "label": "C",
+          "text": "Competitive ELISA"
+        },
+        {
+          "label": "D",
+          "text": "Western blot"
+        },
+        {
+          "label": "E",
+          "text": "Agglutination assay"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Lateral-flow home pregnancy and rapid COVID-19 tests are modified sandwich ELISAs.",
+        "whyCorrect": "The brick states that at-home pregnancy tests and COVID-19 tests are modified sandwich ELISAs, in which liquid flows across a membrane and a capture antibody binds the antigen while a detection antibody binds a different epitope, forming a visible line. Sandwich ELISAs are highly sensitive because the antigen is captured between two antibodies.",
+        "whyWrongByChoice": {
+          "B": "A direct ELISA immobilizes the antigen on a plate and uses a single enzyme-linked detection antibody; it does not use a capture antibody.",
+          "C": "A competitive ELISA relies on competition for antibody binding, not a two-antibody sandwich flow assay.",
+          "D": "Western blot separates proteins by molecular weight and reads out as membrane bands, not a lateral-flow line.",
+          "E": "Agglutination detects antigens by clumping red cells or particles, not by a lateral-flow antibody sandwich."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ELISA",
+        "sandwich ELISA",
+        "lateral flow"
+      ],
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology"
+    },
+    {
+      "id": "im17-007",
+      "stem": "A 34-year-old man has a positive ELISA screen for Lyme disease. To confirm the result, the lab performs a test in which proteins from the sample are separated by molecular weight using electrophoresis, transferred to a membrane, and probed with enzyme-conjugated antibodies, producing dark bands. Which test is being performed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Western blot"
+        },
+        {
+          "label": "B",
+          "text": "Flow cytometry"
+        },
+        {
+          "label": "C",
+          "text": "Agglutination assay"
+        },
+        {
+          "label": "D",
+          "text": "Chromium-51 release assay"
+        },
+        {
+          "label": "E",
+          "text": "Immunofluorescence (ANA)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Western blotting separates proteins by molecular weight and detects specific proteins or antibodies as membrane bands.",
+        "whyCorrect": "The brick describes Western blot as a qualitative technique in which proteins are separated by molecular weight via electrophoresis, transferred to a membrane, and probed with an enzyme-conjugated antibody; substrate then produces dark bands indicating antibody binding. Lyme disease confirmation is listed as a clinical application.",
+        "whyWrongByChoice": {
+          "B": "Flow cytometry analyzes intact cells in suspension by laser scatter and fluorescence, not electrophoretically separated proteins.",
+          "C": "Agglutination detects antigens by visible clumping, not by separating proteins on a gel.",
+          "D": "A chromium-51 release assay measures cytotoxic killing of labeled target cells, not protein bands.",
+          "E": "ANA immunofluorescence localizes autoantibodies on fixed cells under a microscope; it does not separate proteins by molecular weight."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Western blot",
+        "antibody-based tests",
+        "Lyme disease"
+      ],
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology"
+    },
+    {
+      "id": "im17-008",
+      "stem": "A laboratory runs whole blood through a flow cytometer, where cells pass single-file through a laser. One scatter parameter is proportional to a cell's size, while a second parameter is proportional to a cell's internal granularity and complexity. Which parameter reflects the internal granularity of a cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Side scatter (SSC)"
+        },
+        {
+          "label": "B",
+          "text": "Forward scatter (FSC)"
+        },
+        {
+          "label": "C",
+          "text": "Titer"
+        },
+        {
+          "label": "D",
+          "text": "Chromium-51 release"
+        },
+        {
+          "label": "E",
+          "text": "Optical density of a colorimetric substrate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In flow cytometry, side scatter reflects internal granularity while forward scatter reflects cell size.",
+        "whyCorrect": "The brick explains that in flow cytometry a suspension of cells is hit with lasers; forward scatter (FSC) is proportional to the size of the cell, and side scatter (SSC) is proportional to the granularity of the cell. Together FSC and SSC are used to distinguish RBCs, granulocytes, monocytes, and lymphocytes.",
+        "whyWrongByChoice": {
+          "B": "Forward scatter is proportional to cell size, not internal granularity.",
+          "C": "Titer is a semi-quantitative measure of antibody dilution in serologic tests, unrelated to flow scatter.",
+          "D": "Chromium-51 release measures cytotoxic killing of target cells, not a flow-cytometry scatter parameter.",
+          "E": "Optical density of a colorimetric substrate is the readout of an ELISA, not a flow cytometer."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "flow cytometry",
+        "forward scatter",
+        "side scatter"
+      ],
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology"
+    },
+    {
+      "id": "im17-009",
+      "stem": "A 6-month-old boy has had recurrent bacterial pneumonia, otitis media, and bacterial conjunctivitis. Serum testing shows low levels of all classes of immunoglobulin, and his neonatal TREC level was normal. Flow cytometry of his blood shows markedly reduced CD19-positive cells but intact CD3-positive cells. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "X-linked agammaglobulinemia"
+        },
+        {
+          "label": "B",
+          "text": "Severe combined immunodeficiency (SCID)"
+        },
+        {
+          "label": "C",
+          "text": "DiGeorge syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Chronic granulomatous disease"
+        },
+        {
+          "label": "E",
+          "text": "Complement C5 deficiency"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Absent B cells (low CD19) with intact T cells (normal CD3) and panhypogammaglobulinemia indicate X-linked agammaglobulinemia.",
+        "whyCorrect": "The brick teaches that CD19 marks total B cells and CD3 marks total T cells. A flow pattern showing low CD19-positive (and CD20-positive) B cells with intact CD3-positive T cells is characteristic of X-linked agammaglobulinemia. Loss of B cells explains the low levels of all immunoglobulin classes, and the normal neonatal TREC reflects intact T-cell development.",
+        "whyWrongByChoice": {
+          "B": "SCID shows loss of T cells (and often NK cells); this patient has intact CD3-positive T cells and a normal TREC.",
+          "C": "DiGeorge syndrome causes T-cell deficiency from thymic hypoplasia, but here T cells (CD3) are intact.",
+          "D": "Chronic granulomatous disease is a neutrophil oxidative burst defect and would not cause absent B cells or low immunoglobulins.",
+          "E": "Complement deficiencies do not eliminate CD19-positive B cells or cause panhypogammaglobulinemia."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "flow cytometry",
+        "CD markers",
+        "X-linked agammaglobulinemia"
+      ],
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology"
+    },
+    {
+      "id": "im17-010",
+      "stem": "A researcher wants to determine how many times a population of stimulated T cells has divided. She loads the cells with a membrane-permeable, initially non-fluorescent dye that becomes fluorescent and is retained inside the cell, with the amount of dye halved with each cell division. Which reagent is being used?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carboxyfluorescein (CFSE)"
+        },
+        {
+          "label": "B",
+          "text": "Propidium iodide"
+        },
+        {
+          "label": "C",
+          "text": "Dihydrorhodamine (DHR)"
+        },
+        {
+          "label": "D",
+          "text": "Phytohaemagglutinin (PHA)"
+        },
+        {
+          "label": "E",
+          "text": "Anti-FOXP3 antibody"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CFSE is a membrane-permeable dye that is halved with each division, allowing quantification of cell division.",
+        "whyCorrect": "The brick states that carboxyfluorescein (CFSE) is membrane-permeable and non-fluorescent until it penetrates the cell, where it is converted to a fluorescent dye retained inside. The amount of dye is halved with each division, allowing quantification of cell division by flow cytometry.",
+        "whyWrongByChoice": {
+          "B": "Propidium iodide cannot cross an intact cell membrane and is used to assess cell viability, not division.",
+          "C": "Dihydrorhodamine is oxidized to rhodamine during the neutrophil oxidative burst; it does not track cell division.",
+          "D": "PHA is a mitogen that stimulates lymphocyte proliferation; it is not a dye used to count divisions.",
+          "E": "Anti-FOXP3 antibody labels the transcription factor of regulatory T cells after permeabilization, not division cycles."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "flow cytometry",
+        "CFSE",
+        "cell division"
+      ],
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology"
+    },
+    {
+      "id": "im17-011",
+      "stem": "A 4-year-old boy has recurrent infections with catalase-positive organisms. To evaluate his neutrophils, blood is stimulated with phorbol myristate acetate (PMA) in the presence of dihydrorhodamine (DHR). In a healthy control, neutrophils oxidize DHR to fluorescent rhodamine, but the patient's neutrophils fail to do so. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic granulomatous disease"
+        },
+        {
+          "label": "B",
+          "text": "X-linked agammaglobulinemia"
+        },
+        {
+          "label": "C",
+          "text": "Severe combined immunodeficiency"
+        },
+        {
+          "label": "D",
+          "text": "Selective IgA deficiency"
+        },
+        {
+          "label": "E",
+          "text": "DiGeorge syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Failure of PMA-stimulated neutrophils to oxidize DHR to rhodamine indicates a defective oxidative burst, seen in chronic granulomatous disease.",
+        "whyCorrect": "The brick explains that neutrophils stimulated with PMA in the presence of DHR use reactive oxygen species from the oxidative burst to oxidize DHR to rhodamine. Deficiencies in the oxidative burst cause chronic granulomatous disease (CGD); a CGD patient's neutrophils lack this capacity, so DHR is not converted, exactly as seen here.",
+        "whyWrongByChoice": {
+          "B": "X-linked agammaglobulinemia is a B-cell/antibody defect and does not impair the neutrophil oxidative burst.",
+          "C": "SCID is a combined T- and (often) NK-cell defect detected by flow cytometry, not a neutrophil oxidative burst failure.",
+          "D": "Selective IgA deficiency involves reduced IgA antibody, not a defective DHR/oxidative burst response.",
+          "E": "DiGeorge syndrome causes T-cell deficiency from thymic hypoplasia and does not affect the neutrophil oxidative burst."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "oxidative burst",
+        "DHR assay",
+        "chronic granulomatous disease"
+      ],
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology"
+    },
+    {
+      "id": "im17-012",
+      "stem": "A 45-year-old nurse who received the BCG (TB) vaccine as a child needs screening for latent tuberculosis. Her clinician orders an interferon-gamma release assay (IGRA) instead of the tuberculin skin test. Which of the following best explains why the IGRA is preferred in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is less prone to false-positive results from prior TB vaccination"
+        },
+        {
+          "label": "B",
+          "text": "It directly measures circulating antibodies against tuberculosis"
+        },
+        {
+          "label": "C",
+          "text": "It amplifies mycobacterial DNA to quantify bacterial load"
+        },
+        {
+          "label": "D",
+          "text": "It requires no blood sample, only a skin reading"
+        },
+        {
+          "label": "E",
+          "text": "It assesses neutrophil oxidative burst against mycobacteria"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "IGRAs measure T-cell IFN-gamma release to TB-specific antigens and are less prone to false positives from BCG vaccination than the skin test.",
+        "whyCorrect": "The brick describes the IGRA as an IFN-gamma release assay used to diagnose Mycobacterium tuberculosis infection, in which a blood sample is exposed to TB-specific antigens so that TB-specific CD4 and CD8 T cells produce IFN-gamma. It is presented as an alternative to the TB skin test (PPD) that is less prone to false positives from TB vaccination.",
+        "whyWrongByChoice": {
+          "B": "IGRA measures T-cell cytokine (IFN-gamma) release, not circulating antibodies.",
+          "C": "IGRA is a cytokine release assay, not a nucleic acid amplification (PCR) test; it does not quantify bacterial DNA.",
+          "D": "IGRA requires a blood sample; it is the skin test (PPD) that is read on the skin.",
+          "E": "IGRA assesses T-cell cytokine production, not the neutrophil oxidative burst."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cytokine release assay",
+        "IGRA",
+        "tuberculosis"
+      ],
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology"
+    },
+    {
+      "id": "im18-001",
+      "stem": "A 54-year-old woman with rheumatoid arthritis has been taking prednisone for several weeks. A routine complete blood count shows an elevated white blood cell count with a predominance of neutrophils. She is afebrile and has no cough, dysuria, or other localizing signs of infection. Which of the following best explains her elevated white blood cell count?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A new bacterial infection stimulating neutrophil release"
+        },
+        {
+          "label": "B",
+          "text": "Reduced neutrophil margination causing cells to remain in circulation"
+        },
+        {
+          "label": "C",
+          "text": "Increased proliferation of myeloid precursors in the bone marrow"
+        },
+        {
+          "label": "D",
+          "text": "Impaired apoptosis of circulating lymphocytes"
+        },
+        {
+          "label": "E",
+          "text": "Redistribution of eosinophils into the peripheral blood"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Glucocorticoids reduce leukocyte margination, producing an artificial neutrophil-predominant leukocytosis that can be mistaken for infection.",
+        "whyCorrect": "Glucocorticoids reduce white blood cell margination, so neutrophils that would normally adhere to vessel walls remain free in the bloodstream. The result is an artificial (demargination) leukocytosis with a predominance of neutrophils. The brick notes this elevation has misled many providers into suspecting a new or worsening infection.",
+        "whyWrongByChoice": {
+          "A": "She is afebrile with no localizing signs; the leukocytosis is a predictable drug effect rather than evidence of infection.",
+          "C": "The rise reflects demargination of existing neutrophils into circulation, not increased bone marrow production.",
+          "D": "Glucocorticoids actually promote T-cell apoptosis and lower lymphocyte counts; the increase here is in neutrophils.",
+          "E": "The predominant cells are neutrophils, not eosinophils, and glucocorticoids tend to reduce eosinophils."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glucocorticoids",
+        "leukocytosis",
+        "adverse effects"
+      ],
+      "topicId": "immunosuppressants",
+      "topicName": "Immunosuppressants"
+    },
+    {
+      "id": "im18-002",
+      "stem": "A 30-year-old man with a severe asthma exacerbation is treated with a glucocorticoid, which reduces production of inflammatory cytokines. Inhibition of which of the following is chiefly responsible for this anti-inflammatory effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "NF-kB"
+        },
+        {
+          "label": "B",
+          "text": "NFAT (nuclear factor of activated T cells)"
+        },
+        {
+          "label": "C",
+          "text": "mTOR"
+        },
+        {
+          "label": "D",
+          "text": "Dihydrofolate reductase"
+        },
+        {
+          "label": "E",
+          "text": "Inosine monophosphate dehydrogenase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Glucocorticoids inhibit NF-kB, a key transcription factor for inflammatory cytokine production.",
+        "whyCorrect": "The brick states that glucocorticoids inhibit the protein NF-kB, a transcription factor that drives cytokine production, along with other secondary pathways that lead to inflammation. Blocking NF-kB lowers inflammatory cytokine output and suppresses both B- and T-cell function.",
+        "whyWrongByChoice": {
+          "B": "NFAT is the transcription factor dephosphorylated by calcineurin; it is the target of calcineurin inhibitors, not glucocorticoids.",
+          "C": "mTOR is a kinase inhibited by sirolimus, not by glucocorticoids.",
+          "D": "Dihydrofolate reductase is inhibited by methotrexate, a cytostatic agent.",
+          "E": "Inosine monophosphate dehydrogenase is inhibited by mycophenolate, not by glucocorticoids."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "glucocorticoids",
+        "mechanism of action",
+        "NF-kB"
+      ],
+      "topicId": "immunosuppressants",
+      "topicName": "Immunosuppressants"
+    },
+    {
+      "id": "im18-003",
+      "stem": "A 46-year-old woman with systemic lupus erythematosus has taken high-dose glucocorticoids for more than a year. She has developed a rounded 'moon' face, a dorsocervical fat pad, central obesity, thin skin with easy bruising, and proximal muscle weakness. Which of the following best describes this constellation of findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Iatrogenic hypercortisolism (Cushing syndrome)"
+        },
+        {
+          "label": "B",
+          "text": "Calcineurin inhibitor nephrotoxicity"
+        },
+        {
+          "label": "C",
+          "text": "Myelosuppression from a cytostatic agent"
+        },
+        {
+          "label": "D",
+          "text": "Hemorrhagic cystitis"
+        },
+        {
+          "label": "E",
+          "text": "Opportunistic viral infection"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronic glucocorticoid use can cause hypercortisolism (Cushing syndrome) with characteristic fat redistribution and tissue changes.",
+        "whyCorrect": "The brick notes that glucocorticoid use may lead to hypercortisolism (Cushing syndrome), characterized by a dorsocervical fat pad ('buffalo hump'), central obesity, peripheral muscle wasting, bone loss, and 'moon' facies. This patient's findings match iatrogenic Cushing syndrome from prolonged high-dose steroids.",
+        "whyWrongByChoice": {
+          "B": "Nephrotoxicity is the hallmark toxicity of calcineurin inhibitors and would present with rising creatinine, not fat redistribution.",
+          "C": "Myelosuppression from cytostatic agents causes low blood counts, not the described body-habitus changes.",
+          "D": "Hemorrhagic cystitis is a bladder toxicity of cyclophosphamide and would present with dysuria and hematuria.",
+          "E": "An opportunistic infection would present with infectious signs, not the classic Cushingoid appearance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glucocorticoids",
+        "Cushing syndrome",
+        "adverse effects"
+      ],
+      "topicId": "immunosuppressants",
+      "topicName": "Immunosuppressants"
+    },
+    {
+      "id": "im18-004",
+      "stem": "A 34-year-old woman with rheumatoid arthritis that remains inadequately controlled is started on methotrexate. By inhibiting which of the following enzymes does methotrexate reduce nucleotide synthesis and lymphocyte proliferation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dihydrofolate reductase"
+        },
+        {
+          "label": "B",
+          "text": "Calcineurin"
+        },
+        {
+          "label": "C",
+          "text": "Inosine monophosphate dehydrogenase"
+        },
+        {
+          "label": "D",
+          "text": "PRPP amidotransferase"
+        },
+        {
+          "label": "E",
+          "text": "mTOR"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Methotrexate is a folic acid analog that competitively inhibits dihydrofolate reductase.",
+        "whyCorrect": "The brick describes methotrexate as a folic acid analog that competitively inhibits dihydrofolate reductase (DHFR), an enzyme crucial for nucleic acid production. By lowering nucleotides, specifically thymidine, methotrexate interferes with DNA synthesis and inhibits lymphocyte proliferation.",
+        "whyWrongByChoice": {
+          "B": "Calcineurin is inhibited by tacrolimus and cyclosporine, not methotrexate.",
+          "C": "Inosine monophosphate dehydrogenase is the target of mycophenolate.",
+          "D": "PRPP amidotransferase is blocked by the azathioprine metabolite 6-mercaptopurine, not by methotrexate.",
+          "E": "mTOR is inhibited by sirolimus, not methotrexate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cytostatic agents",
+        "methotrexate",
+        "mechanism of action"
+      ],
+      "topicId": "immunosuppressants",
+      "topicName": "Immunosuppressants"
+    },
+    {
+      "id": "im18-005",
+      "stem": "A 63-year-old man receiving cyclophosphamide for non-Hodgkin lymphoma develops dysuria and gross hematuria. Which of the following best explains this adverse effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Toxic damage to the rapidly dividing cells of the bladder"
+        },
+        {
+          "label": "B",
+          "text": "Nephrotoxicity from calcineurin inhibition"
+        },
+        {
+          "label": "C",
+          "text": "Cross-reactivity with renal tubular calcineurin"
+        },
+        {
+          "label": "D",
+          "text": "Bone marrow suppression causing thrombocytopenia"
+        },
+        {
+          "label": "E",
+          "text": "Fungal cystitis due to immunosuppression"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cyclophosphamide, like other cytostatic agents, damages rapidly dividing cells, including those of the bladder.",
+        "whyCorrect": "The brick notes that cytostatic agents damage rapidly dividing cells beyond the immune system, specifically naming the bladder as a target of cyclophosphamide. This bladder toxicity produces dysuria and hematuria (hemorrhagic cystitis).",
+        "whyWrongByChoice": {
+          "B": "Nephrotoxicity is characteristic of calcineurin inhibitors, not cyclophosphamide, and would present with rising creatinine rather than localized bladder symptoms.",
+          "C": "Cyclophosphamide cross-links DNA; it does not act on calcineurin.",
+          "D": "Marrow suppression is a class effect of cytostatic agents but does not explain the localized dysuria pointing to the bladder.",
+          "E": "Nothing in the vignette suggests a fungal infection; the presentation reflects direct drug toxicity to the bladder."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cytostatic agents",
+        "cyclophosphamide",
+        "adverse effects"
+      ],
+      "topicId": "immunosuppressants",
+      "topicName": "Immunosuppressants"
+    },
+    {
+      "id": "im18-006",
+      "stem": "A 29-year-old woman with systemic lupus erythematosus is started on azathioprine. This drug is a prodrug that is converted in tissues to an active metabolite that disrupts purine nucleotide synthesis. Which of the following is that active metabolite?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "6-mercaptopurine"
+        },
+        {
+          "label": "B",
+          "text": "Mycophenolic acid"
+        },
+        {
+          "label": "C",
+          "text": "Rapamycin"
+        },
+        {
+          "label": "D",
+          "text": "Cortisol"
+        },
+        {
+          "label": "E",
+          "text": "Folinic acid"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Azathioprine is a prodrug converted to 6-mercaptopurine, which blocks purine nucleotide synthesis.",
+        "whyCorrect": "The brick states that azathioprine is a prodrug of 6-mercaptopurine (6-MP); tissues convert it to 6-MP, which disrupts purine nucleotide synthesis by blocking PRPP amidotransferase. This blocks purine synthesis and inhibits lymphocyte proliferation.",
+        "whyWrongByChoice": {
+          "B": "Mycophenolic acid is the active form of mycophenolate, a different cytostatic agent that inhibits IMP dehydrogenase.",
+          "C": "Rapamycin is another name for sirolimus, the mTOR inhibitor, not a metabolite of azathioprine.",
+          "D": "Cortisol is a glucocorticoid, unrelated to azathioprine metabolism.",
+          "E": "Folinic acid (leucovorin) is used to rescue cells from antifolate effects; it is not an azathioprine metabolite."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cytostatic agents",
+        "azathioprine",
+        "purine synthesis"
+      ],
+      "topicId": "immunosuppressants",
+      "topicName": "Immunosuppressants"
+    },
+    {
+      "id": "im18-007",
+      "stem": "A 50-year-old man who received a kidney transplant is maintained on mycophenolate. Which of the following enzymes does mycophenolate reversibly inhibit to reduce purine synthesis and DNA replication in B and T cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inosine-5-monophosphate dehydrogenase"
+        },
+        {
+          "label": "B",
+          "text": "Dihydrofolate reductase"
+        },
+        {
+          "label": "C",
+          "text": "Calcineurin"
+        },
+        {
+          "label": "D",
+          "text": "mTOR"
+        },
+        {
+          "label": "E",
+          "text": "NF-kB"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Mycophenolate reversibly inhibits inosine-5-monophosphate dehydrogenase, reducing purine synthesis in B and T cells.",
+        "whyCorrect": "The brick states that mycophenolate reversibly inhibits inosine-5-monophosphate (IMP) dehydrogenase, an enzyme in purine synthesis. With this enzyme inhibited, purine synthesis and DNA replication in B and T cells are reduced. It is used in organ transplantation and some autoimmune diseases.",
+        "whyWrongByChoice": {
+          "B": "Dihydrofolate reductase is the target of methotrexate.",
+          "C": "Calcineurin is inhibited by tacrolimus and cyclosporine.",
+          "D": "mTOR is inhibited by sirolimus.",
+          "E": "NF-kB is inhibited by glucocorticoids, not mycophenolate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cytostatic agents",
+        "mycophenolate",
+        "mechanism of action"
+      ],
+      "topicId": "immunosuppressants",
+      "topicName": "Immunosuppressants"
+    },
+    {
+      "id": "im18-008",
+      "stem": "A 58-year-old woman who underwent liver transplantation is started on tacrolimus to prevent rejection. Which of the following best describes its mechanism of action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Binds FKBP and inhibits calcineurin, decreasing IL-2 production"
+        },
+        {
+          "label": "B",
+          "text": "Binds cyclophilin and inhibits calcineurin, decreasing IL-2 production"
+        },
+        {
+          "label": "C",
+          "text": "Binds FKBP and inhibits mTOR, blocking the response to IL-2"
+        },
+        {
+          "label": "D",
+          "text": "Cross-links DNA, suppressing DNA replication"
+        },
+        {
+          "label": "E",
+          "text": "Inhibits NF-kB, reducing inflammatory cytokine production"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Tacrolimus binds FKBP and inhibits calcineurin, lowering IL-2 and reducing T-cell proliferation.",
+        "whyCorrect": "The brick explains that tacrolimus binds FK506-binding protein (FKBP); the drug-protein complex then inhibits calcineurin. Blocking calcineurin prevents dephosphorylation of NFAT, decreasing IL-2 production and reducing T-cell proliferation.",
+        "whyWrongByChoice": {
+          "B": "Binding cyclophilin describes cyclosporine, not tacrolimus, even though both ultimately inhibit calcineurin.",
+          "C": "Binding FKBP and inhibiting mTOR describes sirolimus, which blocks the response to IL-2 rather than its production.",
+          "D": "Cross-linking DNA is the mechanism of cyclophosphamide, a cytostatic agent.",
+          "E": "Inhibiting NF-kB is the mechanism of glucocorticoids, not tacrolimus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "immunophilin-binding agents",
+        "calcineurin inhibitors",
+        "tacrolimus"
+      ],
+      "topicId": "immunosuppressants",
+      "topicName": "Immunosuppressants"
+    },
+    {
+      "id": "im18-009",
+      "stem": "A patient with a renal transplant is treated with cyclosporine. Cyclosporine and tacrolimus both ultimately inhibit calcineurin, but they first bind different intracellular immunophilins. To which of the following does cyclosporine bind?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cyclophilin"
+        },
+        {
+          "label": "B",
+          "text": "FK506-binding protein (FKBP)"
+        },
+        {
+          "label": "C",
+          "text": "mTOR"
+        },
+        {
+          "label": "D",
+          "text": "Calcineurin directly, without an immunophilin"
+        },
+        {
+          "label": "E",
+          "text": "NFAT"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cyclosporine binds cyclophilin, whereas tacrolimus binds FKBP; both complexes then inhibit calcineurin.",
+        "whyCorrect": "The brick states that tacrolimus binds FKBP while cyclosporine binds cyclophilin. In both cases, the drug binds its immunophilin, and the resulting complex inhibits calcineurin, decreasing IL-2 production.",
+        "whyWrongByChoice": {
+          "B": "FK506-binding protein is bound by tacrolimus (and by sirolimus), not by cyclosporine.",
+          "C": "mTOR is the target of sirolimus and is not the immunophilin bound by cyclosporine.",
+          "D": "Calcineurin inhibitors do not bind calcineurin directly; they first bind an immunophilin, and the complex then inhibits calcineurin.",
+          "E": "NFAT is the downstream transcription factor whose activation is blocked, not the immunophilin the drug binds."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "immunophilin-binding agents",
+        "calcineurin inhibitors",
+        "cyclosporine"
+      ],
+      "topicId": "immunosuppressants",
+      "topicName": "Immunosuppressants"
+    },
+    {
+      "id": "im18-010",
+      "stem": "A transplant patient is switched to sirolimus (rapamycin). Unlike the calcineurin inhibitors, which decrease IL-2 production, sirolimus limits T-cell proliferation by which of the following mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Binding FKBP and inhibiting mTOR, blocking the cellular response to IL-2"
+        },
+        {
+          "label": "B",
+          "text": "Binding cyclophilin and inhibiting calcineurin"
+        },
+        {
+          "label": "C",
+          "text": "Preventing the dephosphorylation of NFAT"
+        },
+        {
+          "label": "D",
+          "text": "Inhibiting dihydrofolate reductase"
+        },
+        {
+          "label": "E",
+          "text": "Cross-linking DNA"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sirolimus binds FKBP and inhibits mTOR, blocking the response to IL-2 rather than its production.",
+        "whyCorrect": "The brick explains that sirolimus binds FKBP (the same protein bound by tacrolimus) and inhibits the mTOR signaling pathway. Because mTOR is a kinase important for cell survival and proliferation, its inhibition blocks T-cell proliferation and decreases antibody production by hindering the response to IL-2, as opposed to preventing production of IL-2.",
+        "whyWrongByChoice": {
+          "B": "Binding cyclophilin and inhibiting calcineurin describes cyclosporine, which lowers IL-2 production.",
+          "C": "Blocking dephosphorylation of NFAT is how calcineurin inhibitors reduce IL-2 production, not the mTOR mechanism.",
+          "D": "Inhibiting dihydrofolate reductase is the mechanism of methotrexate.",
+          "E": "Cross-linking DNA is the mechanism of cyclophosphamide."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "immunophilin-binding agents",
+        "mTOR inhibitor",
+        "sirolimus"
+      ],
+      "topicId": "immunosuppressants",
+      "topicName": "Immunosuppressants"
+    },
+    {
+      "id": "im18-011",
+      "stem": "A 47-year-old man on tacrolimus after kidney transplantation is monitored with serial serum creatinine measurements. Which of the following adverse effects is this monitoring primarily intended to detect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nephrotoxicity with acute renal injury"
+        },
+        {
+          "label": "B",
+          "text": "Hemorrhagic cystitis"
+        },
+        {
+          "label": "C",
+          "text": "Hepatotoxicity"
+        },
+        {
+          "label": "D",
+          "text": "Cushing syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Myelosuppression"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Calcineurin inhibitors are highly nephrotoxic, so serum creatinine is monitored to detect acute renal injury.",
+        "whyCorrect": "The brick's clinical correlation states that calcineurin inhibitors are highly nephrotoxic and that serum creatinine must be monitored closely to guard against acute renal injury. Serial creatinine measurements track kidney function in a patient on tacrolimus.",
+        "whyWrongByChoice": {
+          "B": "Hemorrhagic cystitis is a bladder toxicity of cyclophosphamide and would be assessed by urinalysis, not creatinine.",
+          "C": "Hepatotoxicity is more characteristic of methotrexate and would be followed with liver enzymes.",
+          "D": "Cushing syndrome results from chronic glucocorticoid use, not tacrolimus, and is not tracked with creatinine.",
+          "E": "Myelosuppression is a cytostatic-agent effect monitored with blood counts, not serum creatinine."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "immunophilin-binding agents",
+        "nephrotoxicity",
+        "adverse effects"
+      ],
+      "topicId": "immunosuppressants",
+      "topicName": "Immunosuppressants"
+    },
+    {
+      "id": "im18-012",
+      "stem": "A physician counsels a patient who is beginning long-term immunosuppressive therapy about the risks. Which of the following is the most common adverse effect of immunosuppressive therapy in general?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased susceptibility to infections"
+        },
+        {
+          "label": "B",
+          "text": "Malignancy as the single most common effect"
+        },
+        {
+          "label": "C",
+          "text": "Development of a new autoimmune disease"
+        },
+        {
+          "label": "D",
+          "text": "Permanent loss of immunologic memory"
+        },
+        {
+          "label": "E",
+          "text": "Cushing syndrome in all patients"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "By suppressing the immune system, immunosuppressants most commonly increase susceptibility to infections.",
+        "whyCorrect": "The brick emphasizes that suppressing the immune system leaves patients vulnerable to viral, bacterial, and fungal infections, and that the most common side effect of these medications is an elevated risk of infections. This is why monitoring patient responses is very important.",
+        "whyWrongByChoice": {
+          "B": "Immunosuppressants do raise cancer risk, but the brick specifies that increased infection is the most common side effect, not malignancy.",
+          "C": "Immunosuppressants are used to treat autoimmune disease; they do not commonly cause new autoimmune disease.",
+          "D": "Immunosuppression attenuates immune responses but does not cause permanent, universal loss of immunologic memory.",
+          "E": "Cushing syndrome is a specific consequence of chronic glucocorticoid use, not a universal effect of all immunosuppressants."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "general principles",
+        "adverse effects",
+        "infection risk"
+      ],
+      "topicId": "immunosuppressants",
+      "topicName": "Immunosuppressants"
+    },
+    {
+      "id": "im19-001",
+      "stem": "A 29-year-old woman with moderate ulcerative colitis is scheduled to begin infliximab. Before the first infusion, her physician orders a tuberculin skin test and hepatitis B serologies. Which of the following best explains why this screening is performed before starting this biologic agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Infliximab is nephrotoxic and requires baseline assessment of renal clearance"
+        },
+        {
+          "label": "B",
+          "text": "By blocking TNF-alpha, the drug can allow reactivation of latent tuberculosis or hepatitis B"
+        },
+        {
+          "label": "C",
+          "text": "Infliximab directly damages hepatocytes, causing acute viral hepatitis"
+        },
+        {
+          "label": "D",
+          "text": "The drug cross-reacts with the tuberculin antigen, invalidating future skin tests"
+        },
+        {
+          "label": "E",
+          "text": "Patients with prior tuberculosis cannot mount antibodies against the chimeric portion of the drug"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Anti-TNF biologics suppress immune surveillance of dormant pathogens, so latent TB and hepatitis B must be excluded before starting.",
+        "whyCorrect": "Infliximab neutralizes TNF-alpha, a cytokine essential for maintaining granulomas and controlling intracellular pathogens. Blocking it can reactivate latent tuberculosis and hepatitis B, so the brick specifies screening with a tuberculin skin test and hepatitis serologies before initiation.",
+        "whyWrongByChoice": {
+          "A": "Nephrotoxicity is characteristic of calcineurin inhibitors, not anti-TNF monoclonal antibodies.",
+          "C": "Infliximab does not itself cause viral hepatitis; the concern is reactivation of pre-existing latent hepatitis B by immunosuppression.",
+          "D": "Infliximab targets TNF-alpha, not the tuberculin antigen, and does not invalidate skin testing.",
+          "E": "Screening is done to detect latent infection, not because prior TB affects anti-drug antibody formation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "infliximab",
+        "anti-TNF",
+        "latent tuberculosis",
+        "biologic screening"
+      ],
+      "topicId": "biologic-agents",
+      "topicName": "Biologic Agents"
+    },
+    {
+      "id": "im19-002",
+      "stem": "A pharmacology student is reviewing monoclonal antibody nomenclature. She notes that a drug's generic name ends in the syllables '-ximab.' Based on the naming convention, which of the following is true of this antibody?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is fully human and contains no murine protein"
+        },
+        {
+          "label": "B",
+          "text": "It is a chimeric antibody composed of roughly one-third murine protein"
+        },
+        {
+          "label": "C",
+          "text": "It is a receptor fusion protein rather than an antibody"
+        },
+        {
+          "label": "D",
+          "text": "It is humanized, with only the hypervariable regions derived from mouse"
+        },
+        {
+          "label": "E",
+          "text": "It is entirely murine and carries the highest risk of immunogenicity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The '-ximab' stem denotes a chimeric monoclonal antibody, which fuses murine variable regions to a human constant region and is about 33% murine.",
+        "whyCorrect": "In mAb nomenclature, chimeric antibodies end in '-ximab' (e.g., cetuximab, infliximab). They combine mouse variable regions with a human immunoglobulin framework, leaving roughly one-third murine content and intermediate immunogenicity.",
+        "whyWrongByChoice": {
+          "A": "Fully human antibodies end in '-umab' (e.g., nivolumab) and contain 0% murine protein.",
+          "C": "Fusion proteins (e.g., etanercept) do not follow the '-mab' convention at all.",
+          "D": "Humanized antibodies end in '-zumab' and are only ~10% murine.",
+          "E": "Fully murine antibodies end in '-omab' and are ~100% murine; '-ximab' is chimeric."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "monoclonal antibody",
+        "nomenclature",
+        "chimeric",
+        "-ximab"
+      ],
+      "topicId": "biologic-agents",
+      "topicName": "Biologic Agents"
+    },
+    {
+      "id": "im19-003",
+      "stem": "A 34-year-old woman with moderate-to-severe allergic asthma and elevated serum IgE remains symptomatic despite inhaled corticosteroids. Her physician adds omalizumab. Which of the following describes this drug's mechanism of action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It binds free IgE and prevents it from binding mast cells"
+        },
+        {
+          "label": "B",
+          "text": "It neutralizes TNF-alpha to reduce airway inflammation"
+        },
+        {
+          "label": "C",
+          "text": "It competitively blocks the IL-1 receptor"
+        },
+        {
+          "label": "D",
+          "text": "It depletes CD20-positive B cells"
+        },
+        {
+          "label": "E",
+          "text": "It acts as a decoy receptor for IL-6"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Omalizumab is an anti-IgE monoclonal antibody that prevents IgE from binding mast cells, blunting allergic responses.",
+        "whyCorrect": "Omalizumab targets IgE, preventing it from binding to its receptor on mast cells. This is why it is indicated for allergic asthma, chronic idiopathic urticaria, and IgE-mediated food allergy/chronic rhinosinusitis with nasal polyps.",
+        "whyWrongByChoice": {
+          "B": "TNF-alpha neutralization describes infliximab/etanercept, not omalizumab.",
+          "C": "Competitive IL-1 receptor blockade describes anakinra.",
+          "D": "CD20-directed B-cell depletion describes rituximab.",
+          "E": "IL-6 pathway blockade describes tocilizumab (anti-IL-6R)."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "omalizumab",
+        "IgE",
+        "allergic asthma",
+        "mast cell"
+      ],
+      "topicId": "biologic-agents",
+      "topicName": "Biologic Agents"
+    },
+    {
+      "id": "im19-004",
+      "stem": "A 52-year-old man with rheumatoid arthritis is started on etanercept. His physician explains that, unlike infliximab, etanercept is not a monoclonal antibody. Which of the following best describes the molecular structure of etanercept?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A fully human monoclonal antibody against TNF-alpha"
+        },
+        {
+          "label": "B",
+          "text": "A recombinant IL-1 receptor antagonist"
+        },
+        {
+          "label": "C",
+          "text": "The extracellular domain of the TNF receptor fused to the Fc portion of IgG1"
+        },
+        {
+          "label": "D",
+          "text": "The extracellular domain of CTLA-4 fused to an IgG Fc region"
+        },
+        {
+          "label": "E",
+          "text": "A chimeric antibody directed against the IL-6 receptor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Etanercept is a receptor fusion protein: a TNF-receptor extracellular domain joined to an IgG1 Fc region that acts as a soluble decoy for TNF.",
+        "whyCorrect": "Fusion proteins ('-cept' agents) join a receptor's extracellular domain to an IgG Fc region. Etanercept uses the TNF receptor's extracellular domain to bind soluble TNF-alpha and TNF-beta with high affinity, acting as a decoy that keeps TNF from reaching cell-surface receptors.",
+        "whyWrongByChoice": {
+          "A": "Etanercept is a fusion protein, not a monoclonal antibody; anti-TNF mAbs include infliximab and adalimumab.",
+          "B": "The recombinant IL-1 receptor antagonist is anakinra.",
+          "D": "A CTLA-4-Fc fusion describes abatacept, not etanercept.",
+          "E": "An anti-IL-6R agent describes tocilizumab, which is also an antibody, not a fusion protein."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "etanercept",
+        "fusion protein",
+        "TNF receptor",
+        "decoy receptor"
+      ],
+      "topicId": "biologic-agents",
+      "topicName": "Biologic Agents"
+    },
+    {
+      "id": "im19-005",
+      "stem": "A 48-year-old woman with rheumatoid arthritis inadequately controlled on methotrexate is started on abatacept. This agent is a CTLA-4-Ig fusion protein. Which of the following best explains how abatacept suppresses the immune response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It neutralizes circulating IL-1 beta"
+        },
+        {
+          "label": "B",
+          "text": "It binds B7 on antigen-presenting cells and blocks CD28 costimulation of T cells"
+        },
+        {
+          "label": "C",
+          "text": "It cross-links CD3 to trigger T-cell apoptosis"
+        },
+        {
+          "label": "D",
+          "text": "It binds soluble TNF-alpha and prevents receptor engagement"
+        },
+        {
+          "label": "E",
+          "text": "It prevents IgE from binding mast cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Abatacept is CTLA-4 fused to IgG Fc; it binds B7 (CD80/CD86) on APCs and denies T cells the CD28 costimulatory 'second signal.'",
+        "whyCorrect": "The brick states abatacept competitively binds B7 (CD80/CD86) on antigen-presenting cells, preventing their interaction with CD28 on T cells. Without this second signal, T cells cannot proliferate or differentiate, so the immune response is dampened.",
+        "whyWrongByChoice": {
+          "A": "IL-1 beta is neutralized by canakinumab; IL-1 receptor blockade is anakinra.",
+          "C": "Abatacept works through costimulation blockade, not CD3 cross-linking.",
+          "D": "Binding soluble TNF-alpha describes etanercept/infliximab.",
+          "E": "Blocking IgE-mast cell binding describes omalizumab."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "abatacept",
+        "CTLA-4",
+        "B7",
+        "costimulation blockade"
+      ],
+      "topicId": "biologic-agents",
+      "topicName": "Biologic Agents"
+    },
+    {
+      "id": "im19-006",
+      "stem": "A neonate with a systemic inflammatory disorder involving the central nervous system is treated with anakinra, in part because this agent can penetrate the blood-brain barrier. Which of the following is the mechanism of action of anakinra?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Monoclonal antibody against IL-1 beta"
+        },
+        {
+          "label": "B",
+          "text": "Recombinant IL-1 receptor antagonist that competitively blocks the IL-1 receptor"
+        },
+        {
+          "label": "C",
+          "text": "Fusion protein that acts as a decoy for IL-6"
+        },
+        {
+          "label": "D",
+          "text": "Humanized antibody against the IL-6 receptor"
+        },
+        {
+          "label": "E",
+          "text": "Monoclonal antibody against IL-17A"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Anakinra is a recombinant form of the human IL-1 receptor antagonist that competitively blocks the IL-1 receptor and can cross the blood-brain barrier.",
+        "whyCorrect": "The brick describes anakinra as a recombinant IL-1 receptor antagonist that competitively binds the IL-1 receptor, decreasing downstream inflammation. Its ability to cross the blood-brain barrier makes it useful in neonatal-onset multisystem inflammatory disease involving the brain and spinal cord.",
+        "whyWrongByChoice": {
+          "A": "An antibody against IL-1 beta describes canakinumab; anakinra is a receptor antagonist protein.",
+          "C": "Anakinra targets the IL-1 pathway, not IL-6, and is not a decoy fusion protein.",
+          "D": "An anti-IL-6R antibody is tocilizumab.",
+          "E": "An anti-IL-17A antibody is secukinumab."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "anakinra",
+        "IL-1 receptor antagonist",
+        "blood-brain barrier"
+      ],
+      "topicId": "biologic-agents",
+      "topicName": "Biologic Agents"
+    },
+    {
+      "id": "im19-007",
+      "stem": "A 68-year-old woman with giant cell arteritis requires a steroid-sparing agent. Her rheumatologist selects tocilizumab. Against which of the following molecular targets is this humanized monoclonal antibody directed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IL-6 receptor"
+        },
+        {
+          "label": "B",
+          "text": "TNF-alpha"
+        },
+        {
+          "label": "C",
+          "text": "IL-17A"
+        },
+        {
+          "label": "D",
+          "text": "IgE"
+        },
+        {
+          "label": "E",
+          "text": "IL-1 beta"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Tocilizumab is a humanized anti-IL-6-receptor antibody used in giant cell arteritis, RA, and cytokine release syndrome.",
+        "whyCorrect": "The brick lists tocilizumab as a humanized antibody that competitively inhibits binding of IL-6 to its receptor (IL-6R), used in giant cell arteritis, rheumatoid arthritis, and cytokine release syndrome.",
+        "whyWrongByChoice": {
+          "B": "TNF-alpha is targeted by infliximab, adalimumab, and etanercept.",
+          "C": "IL-17A is the target of secukinumab.",
+          "D": "IgE is the target of omalizumab.",
+          "E": "IL-1 beta is targeted by canakinumab."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "tocilizumab",
+        "IL-6 receptor",
+        "giant cell arteritis",
+        "cytokine release syndrome"
+      ],
+      "topicId": "biologic-agents",
+      "topicName": "Biologic Agents"
+    },
+    {
+      "id": "im19-008",
+      "stem": "A 40-year-old man with severe plaque psoriasis and psoriatic arthritis is prescribed secukinumab after failing topical therapy. Blockade of which of the following cytokines mediates this drug's therapeutic effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IL-17A"
+        },
+        {
+          "label": "B",
+          "text": "IL-1 beta"
+        },
+        {
+          "label": "C",
+          "text": "TNF-alpha"
+        },
+        {
+          "label": "D",
+          "text": "IL-6"
+        },
+        {
+          "label": "E",
+          "text": "IgE"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Secukinumab is a monoclonal antibody to IL-17A, effective in psoriasis, ankylosing spondylitis, and psoriatic arthritis.",
+        "whyCorrect": "The brick states secukinumab is a monoclonal antibody that prevents IL-17A from binding to its receptor, and that it is effective in treating psoriasis, ankylosing spondylitis, and psoriatic arthritis.",
+        "whyWrongByChoice": {
+          "B": "IL-1 beta blockade describes canakinumab.",
+          "C": "TNF-alpha blockade describes infliximab/etanercept.",
+          "D": "IL-6 pathway blockade describes tocilizumab.",
+          "E": "IgE is targeted by omalizumab."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "secukinumab",
+        "IL-17A",
+        "psoriasis",
+        "psoriatic arthritis"
+      ],
+      "topicId": "biologic-agents",
+      "topicName": "Biologic Agents"
+    },
+    {
+      "id": "im19-009",
+      "stem": "A 45-year-old woman with rheumatoid arthritis has been receiving an anti-TNF biologic for 8 months. She now develops a malar rash, arthralgias, and a newly positive antinuclear antibody titer. Which of the following adverse effects of biologic therapy does this presentation most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reactivation of latent tuberculosis"
+        },
+        {
+          "label": "B",
+          "text": "Drug-induced lupus erythematosus-like syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Bone marrow suppression"
+        },
+        {
+          "label": "D",
+          "text": "A demyelinating syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Anaphylactic infusion reaction"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Anti-TNF biologics can induce an SLE-like syndrome with new antinuclear antibodies, which is why baseline ANA is checked before therapy.",
+        "whyCorrect": "The brick lists a drug-induced lupus-like syndrome among biologic adverse effects, particularly with anti-TNF agents, and recommends baseline ANA testing so new lupus signs can be attributed to the drug. A malar rash, arthralgias, and new positive ANA in a patient on anti-TNF therapy fit this picture.",
+        "whyWrongByChoice": {
+          "A": "Reactivated TB presents with fever, cough, and pulmonary findings, not a malar rash with positive ANA.",
+          "C": "Bone marrow suppression presents with cytopenias, not a lupus-like rash.",
+          "D": "Demyelinating syndromes cause neurologic deficits, not ANA-positive arthralgias and rash.",
+          "E": "Infusion anaphylaxis is acute (urticaria, hypotension, bronchospasm), not a subacute ANA-positive syndrome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "drug-induced lupus",
+        "anti-TNF",
+        "ANA",
+        "adverse effect"
+      ],
+      "topicId": "biologic-agents",
+      "topicName": "Biologic Agents"
+    },
+    {
+      "id": "im19-010",
+      "stem": "A physician is preparing a patient with Crohn disease to start long-term biologic therapy. Which of the following is the most appropriate step to reduce the risk of serious infection before initiating treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Administer indicated vaccinations, including pneumococcal and influenza, before starting the biologic"
+        },
+        {
+          "label": "B",
+          "text": "Begin empiric broad-spectrum antibiotics for the duration of therapy"
+        },
+        {
+          "label": "C",
+          "text": "Give a live attenuated vaccine immediately after the first biologic dose"
+        },
+        {
+          "label": "D",
+          "text": "Withhold all screening until an infection develops"
+        },
+        {
+          "label": "E",
+          "text": "Start high-dose corticosteroids to prevent infusion reactions"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Because biologics suppress immunity, indicated vaccines (pneumococcal, influenza, HBV, HPV, zoster) should be given before therapy begins.",
+        "whyCorrect": "The brick emphasizes that biologics increase susceptibility to infection and that mitigation includes receiving vaccines against pneumococcal disease, hepatitis, influenza, HPV, and herpes zoster before initiating treatment, ideally while the immune system can still respond.",
+        "whyWrongByChoice": {
+          "B": "Prophylactic broad-spectrum antibiotics are not recommended and promote resistance; vaccination and screening are the strategy.",
+          "C": "Live vaccines are generally avoided during immunosuppression and should be addressed before therapy, not given after starting it.",
+          "D": "The brick specifically calls for screening and prevention before therapy, not waiting for infection.",
+          "E": "Corticosteroids add to immunosuppression and do not address infection risk from the biologic."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "biologic",
+        "vaccination",
+        "infection prevention",
+        "mitigation"
+      ],
+      "topicId": "biologic-agents",
+      "topicName": "Biologic Agents"
+    },
+    {
+      "id": "im19-011",
+      "stem": "A student asks why monoclonal antibody biologics such as infliximab are administered intravenously or subcutaneously rather than by mouth. Which of the following best explains the route of administration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oral administration would lead to inactivation of the antibody in the gastrointestinal tract"
+        },
+        {
+          "label": "B",
+          "text": "Antibodies are too small to be absorbed across the intestinal mucosa"
+        },
+        {
+          "label": "C",
+          "text": "Oral antibodies are preferentially cleared by the kidneys before absorption"
+        },
+        {
+          "label": "D",
+          "text": "Antibodies require gastric acid activation that only parenteral routes provide"
+        },
+        {
+          "label": "E",
+          "text": "The Fc region prevents any absorption unless the drug is inhaled"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "As proteins, mAbs are degraded in the GI tract, so they must be given parenterally (IV, IM, or SC).",
+        "whyCorrect": "The brick notes a disadvantage of mAbs is that they typically cannot be given orally because oral administration inactivates them in the GI tract; therefore they require more invasive routes such as intravenous, intramuscular, or subcutaneous injection.",
+        "whyWrongByChoice": {
+          "B": "Antibodies are large proteins; the problem is enzymatic/acid degradation, not being too small.",
+          "C": "Renal clearance of intact antibodies is minimal and is not the reason oral dosing fails.",
+          "D": "Antibodies are inactivated\u2014not activated\u2014by gastric acid and proteases.",
+          "E": "The Fc region does not require inhalation; parenteral injection is standard."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "monoclonal antibody",
+        "route of administration",
+        "pharmacology"
+      ],
+      "topicId": "biologic-agents",
+      "topicName": "Biologic Agents"
+    },
+    {
+      "id": "im19-012",
+      "stem": "Among monoclonal antibodies, which of the following classes contains the least murine protein and therefore carries the lowest immunogenicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Murine antibodies (-omab)"
+        },
+        {
+          "label": "B",
+          "text": "Chimeric antibodies (-ximab)"
+        },
+        {
+          "label": "C",
+          "text": "Humanized antibodies (-zumab)"
+        },
+        {
+          "label": "D",
+          "text": "Fully human antibodies (-umab)"
+        },
+        {
+          "label": "E",
+          "text": "All classes have equal immunogenicity"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Immunogenicity falls as murine content decreases; fully human (-umab) antibodies contain no murine protein and are least antigenic.",
+        "whyCorrect": "The brick teaches that murine content drives immunogenicity: murine (100%) > chimeric (~33%) > humanized (~10%) > human (0%). Fully human antibodies, ending in '-umab' (e.g., nivolumab), are the least antigenic.",
+        "whyWrongByChoice": {
+          "A": "Murine antibodies are ~100% mouse-derived and are the most immunogenic.",
+          "B": "Chimeric antibodies are ~33% murine, more immunogenic than human ones.",
+          "C": "Humanized antibodies still contain ~10% murine protein in their hypervariable regions.",
+          "E": "Immunogenicity is not equal; it tracks directly with murine content."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "monoclonal antibody",
+        "immunogenicity",
+        "human antibody",
+        "nomenclature"
+      ],
+      "topicId": "biologic-agents",
+      "topicName": "Biologic Agents"
+    },
+    {
+      "id": "im20-001",
+      "stem": "A 20-year-old woman is bitten by a bat while camping, raising concern for rabies exposure. To provide protection that begins working immediately, before her own immune system has time to respond, her physician administers preformed antibodies against the pathogen. Which of the following best describes this intervention?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Passive immunization providing rapid, short-lived protection"
+        },
+        {
+          "label": "B",
+          "text": "Active immunization generating durable memory cells"
+        },
+        {
+          "label": "C",
+          "text": "A live attenuated vaccine inducing a self-limited infection"
+        },
+        {
+          "label": "D",
+          "text": "A toxoid vaccine neutralizing a bacterial toxin"
+        },
+        {
+          "label": "E",
+          "text": "An mRNA vaccine instructing host cells to make antigen"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Transferring preformed antibodies is passive immunization, which acts immediately but does not generate memory.",
+        "whyCorrect": "Passive immunization involves transferring antibodies from another source into an individual. Because functional antibody is delivered directly, protection is immediate rather than waiting the 2-4 weeks an active response requires. However, the transferred antibodies have a half-life of only a few weeks, so protection is short-lived and no memory cells are formed.",
+        "whyWrongByChoice": {
+          "B": "Active immunization stimulates the person's own immune system and takes 2-4 weeks to develop; it would not provide immediate protection after an acute exposure.",
+          "C": "A live attenuated vaccine is a form of active immunization that must induce the patient's own response over weeks and is not preformed antibody.",
+          "D": "A toxoid is an active vaccine against a bacterial toxin (e.g., tetanus); it is not preformed antibody and gives no immediate protection.",
+          "E": "An mRNA vaccine directs host cells to synthesize antigen and mount an active response, which is delayed, not immediate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "passive immunization",
+        "immunoglobulin"
+      ],
+      "topicId": "vaccines",
+      "topicName": "Vaccines"
+    },
+    {
+      "id": "im20-002",
+      "stem": "A 2-month-old infant born to a mother who is immune to measles is exposed to a sibling with measles but does not become ill. Serologic testing detects measles-specific IgG in the infant's blood, even though the infant has never been vaccinated. Which of the following best explains the infant's protection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Secretory IgA transferred through breast milk"
+        },
+        {
+          "label": "B",
+          "text": "Maternal IgG transferred across the placenta via the neonatal Fc receptor"
+        },
+        {
+          "label": "C",
+          "text": "A primary adaptive response generated by the infant"
+        },
+        {
+          "label": "D",
+          "text": "Monoclonal antibodies administered at birth"
+        },
+        {
+          "label": "E",
+          "text": "Memory B cells inherited from the mother"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Natural passive immunity in early infancy comes from maternal IgG that crossed the placenta using the neonatal Fc receptor (FcRn).",
+        "whyCorrect": "The brick describes natural passive immunization as including the transfer of IgG antibodies across the placenta to the developing fetus via the neonatal Fc receptor (FcRn). This gives the newborn circulating maternal IgG, explaining the measles-specific serum IgG in an unvaccinated 2-month-old.",
+        "whyWrongByChoice": {
+          "A": "IgA is transferred in breast milk and acts at mucosal surfaces such as the gut; it would not account for measles-specific IgG measured in the serum.",
+          "C": "A primary response by the infant would take weeks to produce antibody and would not explain pre-existing IgG at the time of exposure.",
+          "D": "No monoclonal antibody product was given; the scenario describes naturally acquired protection.",
+          "E": "Memory cells are not transferred across the placenta; only antibodies (IgG) are passed to the fetus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "passive immunization",
+        "placental transfer",
+        "FcRn"
+      ],
+      "topicId": "vaccines",
+      "topicName": "Vaccines"
+    },
+    {
+      "id": "im20-003",
+      "stem": "A patient with a congenital antibody deficiency receives monthly intravenous immunoglobulin (IVIG). He is well protected against infection while receiving the infusions, but becomes susceptible again within a few weeks if therapy is stopped. Which property of this form of immunization best explains why the protection is not lasting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It generates long-lived memory B cells"
+        },
+        {
+          "label": "B",
+          "text": "It drives class switching in the patient's B cells"
+        },
+        {
+          "label": "C",
+          "text": "It provides protection that is short-lived and does not create memory cells"
+        },
+        {
+          "label": "D",
+          "text": "It stimulates the patient's own plasma cells to make antibody"
+        },
+        {
+          "label": "E",
+          "text": "It requires 2-4 weeks before any protection begins"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Passive immunization gives immediate but transient protection because it supplies antibody without generating memory.",
+        "whyCorrect": "IVIG is passive immunization: it delivers pooled polyclonal antibodies but does not engage the patient's own immune system. The brick states passive immunization does not generate an immune response in the patient, so memory cells do not form and, because antibodies have a half-life of roughly 3 weeks, protection lapses when infusions stop.",
+        "whyWrongByChoice": {
+          "A": "Passive immunization does not generate memory B cells; that is a feature of active immunization.",
+          "B": "Class switching occurs in the recipient's own B cells during an active response, which passive antibody transfer does not trigger.",
+          "D": "Passively transferred antibody does not stimulate the patient's plasma cells; the antibody is supplied ready-made.",
+          "E": "Passive immunization actually acts immediately; the delay of 2-4 weeks is characteristic of active immunization."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "passive immunization",
+        "immunologic memory"
+      ],
+      "topicId": "vaccines",
+      "topicName": "Vaccines"
+    },
+    {
+      "id": "im20-004",
+      "stem": "A child receives a booster dose of a vaccine several months after the initial series. Compared with the response to the first dose, the antibodies produced after the booster are both more abundant and bind the antigen with higher affinity. This improvement is primarily due to which of the following processes occurring in B cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Affinity maturation and class switching"
+        },
+        {
+          "label": "B",
+          "text": "Positive and negative selection of thymocytes"
+        },
+        {
+          "label": "C",
+          "text": "Transplacental transfer of maternal antibody"
+        },
+        {
+          "label": "D",
+          "text": "T-independent activation of B cells"
+        },
+        {
+          "label": "E",
+          "text": "VDJ recombination generating the naive receptor repertoire"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Booster doses strengthen the response by promoting class switching and affinity maturation in B cells.",
+        "whyCorrect": "The brick states that subsequent doses, known as boosters, strengthen the adaptive response by promoting class switching and affinity maturation in B cells. This is why a secondary response yields greater quantity and higher-affinity (better quality) antibody than the primary response.",
+        "whyWrongByChoice": {
+          "B": "Thymic selection shapes the T-cell repertoire and is not the mechanism by which booster antibodies gain affinity.",
+          "C": "Maternal antibody transfer is passive immunity and does not explain improved antibody made by the child's own B cells.",
+          "D": "T-independent responses are low-affinity and lack memory; they do not account for the enhanced, higher-affinity booster response.",
+          "E": "VDJ recombination creates the initial naive B-cell receptor repertoire and does not improve affinity on re-exposure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "booster",
+        "affinity maturation",
+        "class switching"
+      ],
+      "topicId": "vaccines",
+      "topicName": "Vaccines"
+    },
+    {
+      "id": "im20-005",
+      "stem": "A 34-year-old man with HIV and a CD4+ count of 150 cells/mm^3 presents to update his immunizations. Which type of vaccine is contraindicated in this patient because the weakened pathogen could replicate in an uncontrolled manner?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Toxoid"
+        },
+        {
+          "label": "B",
+          "text": "Inactivated"
+        },
+        {
+          "label": "C",
+          "text": "Recombinant subunit"
+        },
+        {
+          "label": "D",
+          "text": "Live attenuated"
+        },
+        {
+          "label": "E",
+          "text": "Conjugate polysaccharide"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Live attenuated vaccines are contraindicated in immunocompromised patients because the attenuated pathogen may replicate uncontrolled.",
+        "whyCorrect": "Live attenuated vaccines contain a living, weakened pathogen. In an immunocompromised host, the brick notes this can cause severe or fatal infection, and the pathogen may revert to a virulent form. A CD4+ count below 200 cells/mm^3 indicates significant immunodeficiency, making LAVs contraindicated.",
+        "whyWrongByChoice": {
+          "A": "Toxoid vaccines contain an inactivated toxin, cannot replicate, and are safe in immunocompromised patients.",
+          "B": "Inactivated vaccines contain killed pathogen that cannot infect or replicate, so they are safe in immunodeficiency.",
+          "C": "Recombinant subunit vaccines contain only an antigenic protein and pose no infection risk to immunocompromised patients.",
+          "E": "Conjugate polysaccharide vaccines are non-replicating subunit vaccines and can be given safely to immunocompromised patients."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "contraindications",
+        "live attenuated vaccine",
+        "immunocompromised"
+      ],
+      "topicId": "vaccines",
+      "topicName": "Vaccines"
+    },
+    {
+      "id": "im20-006",
+      "stem": "A 28-year-old woman who is 12 weeks pregnant is reviewing her vaccination record with her physician. Which of the following vaccines is contraindicated during her pregnancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tetanus toxoid"
+        },
+        {
+          "label": "B",
+          "text": "Recombinant hepatitis B"
+        },
+        {
+          "label": "C",
+          "text": "Varicella (live attenuated)"
+        },
+        {
+          "label": "D",
+          "text": "Inactivated influenza (injected)"
+        },
+        {
+          "label": "E",
+          "text": "Pneumococcal conjugate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Live attenuated vaccines such as varicella are contraindicated in pregnancy because the virus could cross the placenta.",
+        "whyCorrect": "The brick lists pregnancy as a contraindication for live attenuated vaccines, specifically including varicella and MMR. If a pregnant person is infected with the vaccine virus, it can theoretically cross the placenta and cause congenital fetal infection and birth defects, so these live vaccines are avoided.",
+        "whyWrongByChoice": {
+          "A": "Tetanus toxoid contains an inactivated toxin, does not replicate, and is safely given in pregnancy.",
+          "B": "Recombinant hepatitis B is a non-live subunit vaccine and is not contraindicated in pregnancy.",
+          "D": "The injected influenza vaccine is inactivated (killed) and is recommended, not contraindicated, during pregnancy.",
+          "E": "The pneumococcal conjugate vaccine is a non-replicating subunit vaccine and poses no risk of fetal infection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "contraindications",
+        "pregnancy",
+        "varicella"
+      ],
+      "topicId": "vaccines",
+      "topicName": "Vaccines"
+    },
+    {
+      "id": "im20-007",
+      "stem": "A 40-year-old farmer sustains a deep laceration on a fence. His physician recommends a vaccine that is directed against the toxin produced by Clostridium tetani rather than against the bacterium itself, so that the immune response can neutralize the toxin. Which type of vaccine is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Live attenuated"
+        },
+        {
+          "label": "B",
+          "text": "Toxoid"
+        },
+        {
+          "label": "C",
+          "text": "Conjugate"
+        },
+        {
+          "label": "D",
+          "text": "Viral vector"
+        },
+        {
+          "label": "E",
+          "text": "mRNA"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Tetanus is a toxin-mediated disease, so it is prevented with a toxoid vaccine made from an inactivated toxin.",
+        "whyCorrect": "The brick states that toxoid vaccines contain inactivated toxins and are relevant to toxin-mediated disease, where the effective immune response is antibodies directed against the toxin so that it can be neutralized. Tetanus and diphtheria are the classic examples given.",
+        "whyWrongByChoice": {
+          "A": "A live attenuated vaccine uses a weakened whole pathogen, not an inactivated toxin, and is not used for toxin-mediated tetanus.",
+          "C": "Conjugate vaccines link a capsular polysaccharide to a protein to target encapsulated bacteria, not a secreted toxin.",
+          "D": "Viral vector vaccines deliver a pathogen gene in a carrier virus and are used against viral antigens, not bacterial toxins.",
+          "E": "An mRNA vaccine directs host cells to make a protein antigen and is not the platform described for neutralizing tetanus toxin."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "toxoid vaccine",
+        "tetanus"
+      ],
+      "topicId": "vaccines",
+      "topicName": "Vaccines"
+    },
+    {
+      "id": "im20-008",
+      "stem": "A vaccine against Streptococcus pneumoniae is manufactured by covalently linking the bacterial capsular polysaccharide to a carrier protein. Compared with a vaccine made of the pure polysaccharide alone, what key advantage does this conjugation provide?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It converts a T-independent antigen into a T-dependent one, generating memory and affinity maturation"
+        },
+        {
+          "label": "B",
+          "text": "It removes the need for any antigen in the vaccine"
+        },
+        {
+          "label": "C",
+          "text": "It allows the vaccine to replicate within the host"
+        },
+        {
+          "label": "D",
+          "text": "It provides immediate passive protection with preformed antibody"
+        },
+        {
+          "label": "E",
+          "text": "It transforms the preparation into a live attenuated vaccine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Conjugating a polysaccharide to a protein makes it a T-dependent antigen, producing high-affinity antibody and memory.",
+        "whyCorrect": "The brick explains that polysaccharides alone are T-independent antigens that generate only a low-affinity response without memory. Covalently linking (conjugating) the polysaccharide to a peptide or protein makes it a T-dependent antigen, so follicular helper T cells provide help to B cells, driving affinity maturation, memory B-cell formation, and an improved response even in young children.",
+        "whyWrongByChoice": {
+          "B": "The polysaccharide antigen is still required; conjugation adds a carrier protein rather than eliminating antigen.",
+          "C": "Conjugate vaccines are non-replicating subunit vaccines; they do not replicate in the host.",
+          "D": "Conjugate vaccines induce active immunity; they do not supply preformed antibody for immediate protection.",
+          "E": "A conjugate vaccine is a subunit vaccine, not a live attenuated preparation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "conjugate vaccine",
+        "T-dependent antigen",
+        "polysaccharide"
+      ],
+      "topicId": "vaccines",
+      "topicName": "Vaccines"
+    },
+    {
+      "id": "im20-009",
+      "stem": "A subunit vaccine contains only a purified antigen and, on its own, produces a weak memory response. Aluminum salts (alum) are added to the formulation to strengthen the response. What is the primary role of this added component?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It supplies preformed antibodies for immediate protection"
+        },
+        {
+          "label": "B",
+          "text": "It acts as an adjuvant, enhancing dendritic cell uptake and antigen presentation"
+        },
+        {
+          "label": "C",
+          "text": "It covalently binds the antigen, converting it into a toxoid"
+        },
+        {
+          "label": "D",
+          "text": "It enables the antigen to replicate inside host cells"
+        },
+        {
+          "label": "E",
+          "text": "It neutralizes bacterial toxins at the injection site"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Adjuvants such as alum amplify the immune response by enhancing dendritic cell uptake and presentation of antigen.",
+        "whyCorrect": "The brick defines adjuvants as compounds added to vaccines to amplify the immune response. Alum, the most commonly used adjuvant, interacts with the membrane of dendritic cells and enhances the uptake and presentation of antigens. Adjuvants are especially needed for subunit vaccines that otherwise produce a weak memory response.",
+        "whyWrongByChoice": {
+          "A": "Adjuvants do not contain antibodies; supplying preformed antibody would be passive immunization, not adjuvant activity.",
+          "C": "The brick explicitly states adjuvants are not covalently bound to the vaccine antigen, and alum does not create a toxoid.",
+          "D": "Adjuvants do not allow antigen to replicate; they enhance the host immune response to the antigen.",
+          "E": "Alum does not neutralize toxins; neutralizing a toxin is the role of antibodies raised against a toxoid."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adjuvant",
+        "alum",
+        "dendritic cells"
+      ],
+      "topicId": "vaccines",
+      "topicName": "Vaccines"
+    },
+    {
+      "id": "im20-010",
+      "stem": "An immunocompromised patient needs protection against SARS-CoV-2. The physician selects a vaccine in which a lipid nanoparticle delivers genetic instructions that cause the patient's own cells to synthesize the viral spike protein and display it on class I and class II MHC molecules. Which type of vaccine is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Live attenuated"
+        },
+        {
+          "label": "B",
+          "text": "mRNA"
+        },
+        {
+          "label": "C",
+          "text": "Inactivated"
+        },
+        {
+          "label": "D",
+          "text": "Toxoid"
+        },
+        {
+          "label": "E",
+          "text": "Polysaccharide"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "mRNA vaccines use a lipid nanoparticle to deliver mRNA so host cells make the antigen and present it on class I and II MHC.",
+        "whyCorrect": "The brick describes mRNA vaccines as introducing mRNA stabilized in a lipid nanoparticle (which also acts as an adjuvant); host cells then produce viral proteins presented on class I and II MHC. Because there is no live pathogen, mRNA vaccines can elicit cytotoxic T cells while being safe to give to immunocompromised people, unlike a live vaccine.",
+        "whyWrongByChoice": {
+          "A": "A live attenuated vaccine contains replicating pathogen and is contraindicated in immunocompromised patients; it does not work by delivering mRNA.",
+          "C": "Inactivated vaccines contain killed whole pathogen and generate mainly humoral immunity; they do not instruct host cells to make antigen.",
+          "D": "Toxoid vaccines consist of an inactivated toxin and do not deliver genetic material via a lipid nanoparticle.",
+          "E": "Polysaccharide vaccines are made of capsular sugars and do not cause host cells to synthesize antigen."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mRNA vaccine",
+        "lipid nanoparticle",
+        "MHC presentation"
+      ],
+      "topicId": "vaccines",
+      "topicName": "Vaccines"
+    },
+    {
+      "id": "im20-011",
+      "stem": "A 6-year-old girl undergoing chemotherapy cannot receive live vaccines and has a weakened immune system. She nonetheless remains protected from measles because roughly 95% of her community is vaccinated, so the pathogen cannot spread easily enough to reach her. This protection is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Passive immunity"
+        },
+        {
+          "label": "B",
+          "text": "Herd immunity"
+        },
+        {
+          "label": "C",
+          "text": "Affinity maturation"
+        },
+        {
+          "label": "D",
+          "text": "Natural active immunity"
+        },
+        {
+          "label": "E",
+          "text": "The adjuvant effect"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Herd immunity protects susceptible individuals when a sufficient fraction of the population is immune.",
+        "whyCorrect": "The brick defines herd immunity as resistance to the spread of an infectious disease within a population once a sufficient percentage (70-95%, depending on infectivity) is immune. It is described as critical for protecting those who cannot receive or respond to a vaccine, such as immunocompromised patients, because an infected person is unlikely to encounter a susceptible host.",
+        "whyWrongByChoice": {
+          "A": "Passive immunity requires transferring antibodies to the individual; here she has received no antibody and is protected indirectly by community immunity.",
+          "C": "Affinity maturation is an intracellular process that improves antibody quality in B cells, not a population-level protection.",
+          "D": "Natural active immunity would require her own immune system to respond to infection, which her immunosuppression and lack of exposure preclude.",
+          "E": "The adjuvant effect refers to boosting a vaccine's own immunogenicity, not to population-level protection of an unvaccinated person."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "herd immunity",
+        "population immunity"
+      ],
+      "topicId": "vaccines",
+      "topicName": "Vaccines"
+    },
+    {
+      "id": "im20-012",
+      "stem": "A killed, whole-pathogen (inactivated) vaccine such as the injected polio or rabies vaccine cannot infect or replicate in the host. Given this, which of the following is generally true of this vaccine type?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A single dose reliably confers lifelong immunity"
+        },
+        {
+          "label": "B",
+          "text": "It induces a strong cytotoxic (CD8+) T-cell response"
+        },
+        {
+          "label": "C",
+          "text": "Multiple doses and boosters are required to establish and maintain immunity"
+        },
+        {
+          "label": "D",
+          "text": "It is contraindicated in immunocompromised patients"
+        },
+        {
+          "label": "E",
+          "text": "It generates protection mainly through cell-mediated mechanisms"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Because inactivated vaccines cannot replicate, they need multiple doses and boosters and produce mainly humoral immunity.",
+        "whyCorrect": "The brick states that because there is no infection with inactivated vaccines, multiple doses are required to establish and maintain humoral immunity, and boosters are needed to sustain sufficient immunity over time. These vaccines produce mainly humoral immunity with little CD8+ T-cell response.",
+        "whyWrongByChoice": {
+          "A": "Inactivated vaccines do not give lifelong immunity from a single dose; they specifically require repeated doses and boosters.",
+          "B": "Inactivated vaccines generate little CD8+ T-cell response; a robust CTL response is characteristic of live attenuated and mRNA vaccines.",
+          "D": "Because they cannot replicate, inactivated vaccines are safe in immunocompromised patients; it is live vaccines that are contraindicated.",
+          "E": "Inactivated vaccines work mainly through humoral (antibody) immunity, not primarily cell-mediated mechanisms."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "inactivated vaccine",
+        "humoral immunity",
+        "boosters"
+      ],
+      "topicId": "vaccines",
+      "topicName": "Vaccines"
+    }
+  ]
+}

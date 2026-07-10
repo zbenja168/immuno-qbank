@@ -1,0 +1,1122 @@
+{
+  "categoryId": "mhc-antigen-receptors",
+  "categoryName": "MHC & Antigen Receptors",
+  "questions": [
+    {
+      "id": "im06-001",
+      "stem": "A structural biologist solves the crystal structure of a human MHC class I molecule and focuses on the cleft that binds an 8- to 11-amino-acid peptide. The alpha1 and alpha2 domains that form this peptide-binding groove are contributed by which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The alpha chain alone"
+        },
+        {
+          "label": "B",
+          "text": "The alpha chain and beta-2-microglobulin"
+        },
+        {
+          "label": "C",
+          "text": "The alpha chain and a beta chain"
+        },
+        {
+          "label": "D",
+          "text": "Beta-2-microglobulin alone"
+        },
+        {
+          "label": "E",
+          "text": "A beta chain alone"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The MHC class I peptide-binding groove is formed by the alpha1 and alpha2 domains, both located on the single alpha chain.",
+        "whyCorrect": "An MHC class I molecule is composed of an alpha chain (with alpha1, alpha2, and alpha3 domains) noncovalently associated with beta-2-microglobulin. The brick states that the alpha1 and alpha2 domains form a cleft that binds and holds peptides for T cell recognition, and both of these domains belong to the alpha chain. Therefore the groove is built from the alpha chain alone.",
+        "whyWrongByChoice": {
+          "B": "Beta-2-microglobulin associates with the alpha chain and stabilizes class I, but it does not contribute to the peptide-binding groove.",
+          "C": "It is MHC class II, not class I, whose groove is formed by an alpha and a beta chain (alpha1 plus beta1).",
+          "D": "Beta-2-microglobulin has no role in forming the peptide-binding cleft of class I.",
+          "E": "MHC class I contains no beta chain; its second subunit is beta-2-microglobulin."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "MHC class I",
+        "structure",
+        "peptide-binding groove"
+      ],
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex"
+    },
+    {
+      "id": "im06-002",
+      "stem": "A mutant antigen-presenting cell line assembles MHC class II normally and transports it to the surface, but the class II molecules still carry CLIP in their groove and fail to display extracellular peptides to CD4 T cells. Deficiency of which protein best explains this defect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tapasin"
+        },
+        {
+          "label": "B",
+          "text": "TAP"
+        },
+        {
+          "label": "C",
+          "text": "HLA-DM"
+        },
+        {
+          "label": "D",
+          "text": "Invariant chain"
+        },
+        {
+          "label": "E",
+          "text": "Beta-2-microglobulin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "HLA-DM catalyzes the exchange of CLIP for an antigenic peptide in the endosome; without it, MHC class II remains stuck with CLIP.",
+        "whyCorrect": "The brick explains that after the invariant chain is degraded in acidic endosomes, a fragment called CLIP remains in the MHC II groove. The chaperone HLA-DM then catalyzes the exchange of CLIP for an antigenic peptide. If HLA-DM is missing, CLIP cannot be swapped out, so class II reaches the surface still occupied by CLIP and cannot present real peptides.",
+        "whyWrongByChoice": {
+          "A": "Tapasin functions in MHC class I loading, tethering class I to TAP, and has no role in CLIP removal from class II.",
+          "B": "TAP transports peptides from the cytosol into the ER for class I loading; it is not involved in the class II CLIP exchange.",
+          "D": "Loss of the invariant chain would leave the groove open (no CLIP), not stuck with CLIP; the invariant chain is the source of CLIP, not its remover.",
+          "E": "Beta-2-microglobulin is a subunit of MHC class I and plays no part in class II peptide loading."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "MHC class II",
+        "peptide loading",
+        "HLA-DM",
+        "CLIP"
+      ],
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex"
+    },
+    {
+      "id": "im06-003",
+      "stem": "A fibroblast is infected with cytomegalovirus, which produces a protein that prevents peptides from being transported from the cytosol into the endoplasmic reticulum. As a result, the cell can no longer display peptides on MHC class I. The viral protein directly inhibits which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "HLA-DM"
+        },
+        {
+          "label": "B",
+          "text": "TAP"
+        },
+        {
+          "label": "C",
+          "text": "The proteasome"
+        },
+        {
+          "label": "D",
+          "text": "Tapasin"
+        },
+        {
+          "label": "E",
+          "text": "The invariant chain"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "TAP (transporter associated with antigen processing) moves proteasome-derived peptides from the cytosol into the ER for MHC class I loading.",
+        "whyCorrect": "The brick describes that peptide fragments generated by the proteasome are transported into the ER by TAP, which prefers peptides 8 to 16 amino acids long. Blocking peptide transport from cytosol into the ER is exactly TAP's function, and the case connection notes that cytomegalovirus can block TAP so that MHC class I cannot be loaded and is not expressed.",
+        "whyWrongByChoice": {
+          "A": "HLA-DM works in the MHC class II endosomal pathway, not in transporting peptides into the ER.",
+          "C": "The proteasome still generates peptides in the cytosol; the block described is at the transport step, downstream of the proteasome.",
+          "D": "Tapasin tethers MHC class I near TAP but does not itself transport peptides across the ER membrane; the described step is transport, which is TAP.",
+          "E": "The invariant chain functions in class II loading and has nothing to do with peptide transport into the ER."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "MHC class I",
+        "TAP",
+        "cytomegalovirus",
+        "peptide loading"
+      ],
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex"
+    },
+    {
+      "id": "im06-004",
+      "stem": "A virus blocks TAP in an infected cell so that little or no MHC class I reaches the surface, preventing CD8 cytotoxic T cells from recognizing the infection. Which cell of the immune system is nonetheless able to eliminate this MHC class I-deficient cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytotoxic CD8 T cell"
+        },
+        {
+          "label": "B",
+          "text": "Helper CD4 T cell"
+        },
+        {
+          "label": "C",
+          "text": "Natural killer cell"
+        },
+        {
+          "label": "D",
+          "text": "Plasma cell"
+        },
+        {
+          "label": "E",
+          "text": "Eosinophil"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Natural killer cells are inhibited by MHC class I on healthy cells and kill cells that have lost it, overcoming viral TAP blockade.",
+        "whyCorrect": "The case connection explains that MHC class I inhibits natural killer cells, so the absence of MHC class I on a cell reduces this inhibition. This allows natural killer cells to kill the infected cell and overcome the virus's ability to block TAP and hide from CD8 T cells.",
+        "whyWrongByChoice": {
+          "A": "CD8 cytotoxic T cells require peptide displayed on MHC class I, which is exactly what is missing here, so they cannot act.",
+          "B": "CD4 helper T cells recognize peptide on MHC class II and do not directly kill MHC class I-deficient cells.",
+          "D": "Plasma cells secrete antibody; they do not kill virus-infected cells by recognizing loss of MHC class I.",
+          "E": "Eosinophils primarily target parasites and are not the effector that kills MHC class I-low cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "natural killer cells",
+        "MHC class I",
+        "missing self",
+        "cytomegalovirus"
+      ],
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex"
+    },
+    {
+      "id": "im06-005",
+      "stem": "A virus-infected nucleated cell displays a viral peptide on MHC class I. A T cell binds this complex through its T cell receptor and its CD8 co-receptor, becomes activated, and then triggers the infected cell to undergo apoptosis. Which mechanism does this T cell use to kill the target?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Secreting antibody that opsonizes the infected cell"
+        },
+        {
+          "label": "B",
+          "text": "Releasing perforin and granzymes to induce apoptosis"
+        },
+        {
+          "label": "C",
+          "text": "Producing cytokines that help B cells make antibody"
+        },
+        {
+          "label": "D",
+          "text": "Presenting the viral antigen on its own MHC class II"
+        },
+        {
+          "label": "E",
+          "text": "Phagocytosing and digesting the infected cell"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Activated CD8 cytotoxic T cells release perforin and granzymes to induce apoptosis in the target cell.",
+        "whyCorrect": "The brick states that once activated, CD8 cytotoxic T cells release perforin and granzymes, inducing apoptosis in the target cell. CD8 binds MHC class I and stabilizes the interaction between the TCR and MHC, allowing the cytotoxic T cell to recognize and kill virus-infected cells.",
+        "whyWrongByChoice": {
+          "A": "Antibody is produced by B cells and plasma cells, not by cytotoxic T cells.",
+          "C": "Secreting cytokines to help B cells is a function of CD4 helper T cells, not CD8 cytotoxic T cells.",
+          "D": "CD8 T cells recognize peptide on MHC class I; they are effectors that kill, not antigen-presenting cells that display on MHC class II.",
+          "E": "Cytotoxic T cells kill via cytotoxic granules; phagocytosis is performed by macrophages and other phagocytes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CD8 T cell",
+        "cytotoxic T cell",
+        "perforin",
+        "granzymes",
+        "MHC class I"
+      ],
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex"
+    },
+    {
+      "id": "im06-006",
+      "stem": "A dendritic cell displays a bacterial peptide on MHC class II. A T cell binds this complex using its T cell receptor and its CD4 co-receptor. Once activated, this T cell releases cytokines that drive B cells to make antibody and help activate macrophages. Which cell is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD8 cytotoxic T cell"
+        },
+        {
+          "label": "B",
+          "text": "CD4 helper T cell"
+        },
+        {
+          "label": "C",
+          "text": "Natural killer cell"
+        },
+        {
+          "label": "D",
+          "text": "B lymphocyte"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophil"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "CD4 helper T cells recognize peptide on MHC class II and, once activated, secrete cytokines that promote antibody production and activate other immune cells.",
+        "whyCorrect": "The brick states that helper T cells express CD4, a co-receptor that binds MHC class II and stabilizes the TCR-MHC interaction. Once activated, CD4 helper T cells stimulate other lymphocytes through cytokines and stimulatory molecules, promoting antibody production by B cells and the activation of macrophages, cytotoxic T cells, and other immune cells.",
+        "whyWrongByChoice": {
+          "A": "CD8 cytotoxic T cells read peptide on MHC class I and kill target cells; they do not use the CD4 co-receptor.",
+          "C": "Natural killer cells are innate lymphocytes with no T cell receptor or CD4 co-receptor.",
+          "D": "The B cell is the recipient of helper T cell signals here, not the CD4-expressing helper being described.",
+          "E": "Neutrophils are phagocytes of the innate system and are not T cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CD4 T cell",
+        "helper T cell",
+        "MHC class II",
+        "cytokines"
+      ],
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex"
+    },
+    {
+      "id": "im06-007",
+      "stem": "A 26-year-old traveler develops malaria, and Plasmodium parasites persist inside mature erythrocytes despite an otherwise intact CD8 T cell response. Which feature of mature erythrocytes best explains why CD8 cytotoxic T cells fail to detect the intracellular parasite?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythrocytes express only MHC class II"
+        },
+        {
+          "label": "B",
+          "text": "Erythrocytes lack a nucleus and do not express MHC class I"
+        },
+        {
+          "label": "C",
+          "text": "Erythrocytes express high levels of HLA-DM"
+        },
+        {
+          "label": "D",
+          "text": "Erythrocytes are destroyed too quickly by natural killer cells"
+        },
+        {
+          "label": "E",
+          "text": "Erythrocytes secrete antibody that shields the parasite"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Because mature erythrocytes have no nucleus, they do not express MHC class I, so intracellular parasites escape CD8 T cell detection.",
+        "whyCorrect": "The clinical correlation states that every nucleated cell expresses MHC class I, but erythrocytes lack a nucleus and therefore do not express MHC class I. As a result, CD8 T cells cannot detect a virus or intracellular parasite inside red cells, which is how the malaria parasite escapes detection and persists.",
+        "whyWrongByChoice": {
+          "A": "Erythrocytes do not express MHC class II either; the point is the absence of MHC class I.",
+          "C": "HLA-DM is a class II loading chaperone found in antigen-presenting cells, not in erythrocytes, and is irrelevant here.",
+          "D": "The escape is due to lack of MHC class I, not rapid killing by natural killer cells.",
+          "E": "Erythrocytes do not produce antibody; only B cells and plasma cells do."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "MHC class I",
+        "erythrocytes",
+        "malaria",
+        "clinical correlation"
+      ],
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex"
+    },
+    {
+      "id": "im06-008",
+      "stem": "Because MHC genes are expressed codominantly, a nucleated cell displays MHC class I molecules encoded by both the maternal and paternal copies of the HLA-A, HLA-B, and HLA-C loci. In a person heterozygous at all three loci, how many different MHC class I molecules are expressed on the cell surface?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "2"
+        },
+        {
+          "label": "C",
+          "text": "3"
+        },
+        {
+          "label": "D",
+          "text": "6"
+        },
+        {
+          "label": "E",
+          "text": "12"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Three class I loci (HLA-A, -B, -C), each expressed codominantly from two inherited haplotypes, yield six different MHC class I molecules.",
+        "whyCorrect": "The brick explains that MHC genes are codominant and that you inherit two haplotypes, giving two copies of each gene. With three class I loci (HLA-A, HLA-B, HLA-C) and two alleles each, a heterozygous person expresses 6 different MHC class I molecules on the cell surface.",
+        "whyWrongByChoice": {
+          "A": "Expressing only one molecule would ignore the three separate loci and codominant expression of both alleles.",
+          "B": "Two would reflect a single locus with two alleles, not all three class I loci.",
+          "C": "Three would count each locus only once and ignore that both parental alleles are expressed.",
+          "E": "Twelve double-counts; there are three class I loci times two alleles, which equals six, not twelve."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "MHC genetics",
+        "codominance",
+        "haplotype",
+        "HLA"
+      ],
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex"
+    },
+    {
+      "id": "im06-009",
+      "stem": "A 30-year-old woman has chronic diarrhea, weight loss, and duodenal biopsy showing villous atrophy consistent with celiac disease. More than 90% of patients with this condition carry a particular set of class II alleles. Which HLA gene is most strongly associated with celiac disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "HLA-A"
+        },
+        {
+          "label": "B",
+          "text": "HLA-B"
+        },
+        {
+          "label": "C",
+          "text": "HLA-C"
+        },
+        {
+          "label": "D",
+          "text": "HLA-DQ"
+        },
+        {
+          "label": "E",
+          "text": "Beta-2-microglobulin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Celiac disease is strongly linked to specific class II HLA-DQ alleles (HLA-DQA1*05 and HLA-DQB1*02).",
+        "whyCorrect": "The brick notes that some MHC alleles are associated with autoimmune diseases and gives the example that more than 90% of people with celiac disease carry HLA-DQA1*05 (group 5 of the DQ alpha chains) and HLA-DQB1*02. HLA-DQ is a class II gene encoding both alpha and beta chains.",
+        "whyWrongByChoice": {
+          "A": "HLA-A is a class I locus encoding an alpha chain and is not the celiac association described.",
+          "B": "HLA-B is a class I locus and is not the gene linked to celiac disease here.",
+          "C": "HLA-C is also a class I locus, not the class II gene associated with celiac disease.",
+          "E": "Beta-2-microglobulin is an invariant class I subunit, not a polymorphic disease-associated class II allele."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HLA-DQ",
+        "celiac disease",
+        "MHC class II",
+        "autoimmunity"
+      ],
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex"
+    },
+    {
+      "id": "im06-010",
+      "stem": "A patient receives a kidney transplant. The transplant team notes that the more closely the donor and recipient HLA genes are matched, the slower and milder any rejection tends to be. Which statement best explains why a mismatched graft is rejected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The recipient recognizes the donor MHC molecules as self"
+        },
+        {
+          "label": "B",
+          "text": "The recipient's T cells recognize the donor MHC molecules as foreign"
+        },
+        {
+          "label": "C",
+          "text": "Beta-2-microglobulin is completely absent from donor cells"
+        },
+        {
+          "label": "D",
+          "text": "Donor cells lack all HLA genes and cannot be recognized"
+        },
+        {
+          "label": "E",
+          "text": "Rejection speed is independent of how well the MHC is matched"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Transplant rejection occurs because the recipient's immune system sees the donor's different MHC molecules as foreign.",
+        "whyCorrect": "The brick explains that people recognize their own MHC molecules as self and do not react to them, but a transplant with different MHC molecules is seen as foreign, prompting the immune system to attack. It also states that the speed and severity of rejection depend on how closely the donor and recipient are matched, which is why careful HLA sequencing helps.",
+        "whyWrongByChoice": {
+          "A": "If donor MHC were recognized as self, there would be no rejection; rejection happens precisely because it is seen as foreign.",
+          "C": "Beta-2-microglobulin is present on donor cells; its absence is not the cause of rejection.",
+          "D": "Donor cells do express HLA molecules; the problem is that they differ from the recipient's, not that they are absent.",
+          "E": "The brick specifically states that rejection speed and severity depend on how closely the MHC is matched."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "transplantation",
+        "MHC matching",
+        "rejection",
+        "HLA"
+      ],
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex"
+    },
+    {
+      "id": "im06-011",
+      "stem": "A dendritic cell engulfs a virally infected apoptotic cell and its debris. Although these viral proteins originated outside the dendritic cell, the dendritic cell displays viral peptides on MHC class I to activate CD8 T cells while also presenting on MHC class II to CD4 T cells. This process is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Central tolerance"
+        },
+        {
+          "label": "B",
+          "text": "Cross-presentation"
+        },
+        {
+          "label": "C",
+          "text": "Positive selection"
+        },
+        {
+          "label": "D",
+          "text": "Clonal deletion"
+        },
+        {
+          "label": "E",
+          "text": "Opsonization"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cross-presentation is the loading of exogenous (externally derived) antigens onto MHC class I, allowing activation of both CD4 and CD8 T cells.",
+        "whyCorrect": "The brick explains that during an infection both CD4 and CD8 T cells must be activated. Peptides taken up in a phagosome can leak out and be loaded into MHC class I as though they were endogenous, even though they came from outside the cell. This is called cross-presentation, and it lets dendritic cells present viral peptides to both CD4 and CD8 T cells.",
+        "whyWrongByChoice": {
+          "A": "Central tolerance is the removal of self-reactive lymphocytes during development, not antigen presentation across MHC classes.",
+          "C": "Positive selection is a thymic step in T cell development, unrelated to presenting exogenous antigen on MHC class I.",
+          "D": "Clonal deletion is the elimination of self-reactive clones, not the described presentation pathway.",
+          "E": "Opsonization is the coating of a pathogen by antibody or complement to enhance phagocytosis, not antigen presentation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cross-presentation",
+        "dendritic cells",
+        "MHC class I",
+        "antigen presentation"
+      ],
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex"
+    },
+    {
+      "id": "im06-012",
+      "stem": "In a professional antigen-presenting cell, newly synthesized MHC class II must be prevented from binding peptides in the endoplasmic reticulum before it reaches the endosome. Which protein occupies the MHC class II groove in the ER to block premature peptide loading?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tapasin"
+        },
+        {
+          "label": "B",
+          "text": "TAP"
+        },
+        {
+          "label": "C",
+          "text": "Invariant chain (CLIP)"
+        },
+        {
+          "label": "D",
+          "text": "HLA-DM"
+        },
+        {
+          "label": "E",
+          "text": "Beta-2-microglobulin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The invariant chain, through its CLIP segment, sits in the MHC class II groove in the ER and blocks premature peptide binding.",
+        "whyCorrect": "The brick states that professional APCs make MHC class II in the ER, where the chaperone invariant chain binds it. A part of the invariant chain called the class II invariant chain peptide (CLIP) rests in the MHC class II peptide-binding groove and blocks other peptides from binding until the molecule reaches the endosome.",
+        "whyWrongByChoice": {
+          "A": "Tapasin functions in MHC class I loading by bridging class I to TAP; it does not occupy the class II groove.",
+          "B": "TAP transports peptides into the ER for class I loading and does not block the class II groove.",
+          "D": "HLA-DM acts later, in the acidic endosome, to remove CLIP; it does not occupy the groove in the ER to block loading.",
+          "E": "Beta-2-microglobulin is a structural subunit of MHC class I and is not involved in class II groove protection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "MHC class II",
+        "invariant chain",
+        "CLIP",
+        "peptide loading"
+      ],
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex"
+    },
+    {
+      "id": "im07-001",
+      "stem": "A 2-month-old girl has been hospitalized repeatedly since birth for severe, recurrent respiratory, eye, and skin infections caused by fungal, viral, and bacterial organisms. Laboratory studies show markedly reduced numbers of both T and B lymphocytes and low serum immunoglobulin levels. Genetic testing points to a defect in the enzyme that introduces double-strand breaks so that antigen-receptor gene segments can be cut and rejoined. Which of the following enzymes is most likely deficient in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Terminal deoxynucleotidyl transferase (TdT)"
+        },
+        {
+          "label": "B",
+          "text": "Recombination-activating gene (RAG) recombinase"
+        },
+        {
+          "label": "C",
+          "text": "Polymeric immunoglobulin receptor"
+        },
+        {
+          "label": "D",
+          "text": "Neonatal Fc receptor (FcRn)"
+        },
+        {
+          "label": "E",
+          "text": "Classical complement C1 esterase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "RAG-1 and RAG-2 cut DNA to permit V(D)J recombination; their loss prevents BCR and TCR generation, causing SCID.",
+        "whyCorrect": "The brick states that RAG (recombination-activating gene 1 and 2) is the enzyme responsible for introducing breaks in DNA so that V, D, and J gene segments can be joined. Without RAG, V(D)J recombination cannot occur and neither BCRs nor TCRs can be generated, producing a severe deficiency of both B and T cells. This matches the case connection of an infant with combined immunodeficiency (SCID) treated with hematopoietic stem cell transplantation.",
+        "whyWrongByChoice": {
+          "A": "TdT adds random nucleotides at segment junctions to create junctional diversity; its loss reduces diversity but does not abolish receptor generation or wipe out both lineages.",
+          "C": "The poly-Ig receptor transcytoses IgA across mucosal epithelium and has no role in generating lymphocytes or their receptors.",
+          "D": "FcRn mediates placental transfer of IgG and prolongs its half-life; it does not affect V(D)J recombination or lymphocyte development.",
+          "E": "A complement pathway defect would impair innate opsonization/lysis but would not deplete T and B cells or block antigen-receptor assembly."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "V(D)J recombination",
+        "RAG",
+        "SCID"
+      ],
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure"
+    },
+    {
+      "id": "im07-002",
+      "stem": "A researcher sequencing rearranged antigen-receptor loci finds a B-cell receptor chain and a T-cell receptor chain that were each assembled using only V and J gene segments, with no D segment involved. These two chains most likely correspond to which of the following variable domains?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "V(H) and V(beta)"
+        },
+        {
+          "label": "B",
+          "text": "V(L) and V(alpha)"
+        },
+        {
+          "label": "C",
+          "text": "V(H) and V(L)"
+        },
+        {
+          "label": "D",
+          "text": "V(beta) and V(alpha)"
+        },
+        {
+          "label": "E",
+          "text": "V(H) and V(alpha)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The BCR light chain and the TCR alpha chain build their variable domains from V and J segments only.",
+        "whyCorrect": "The brick explains that the BCR light chain (V(L)) and the TCR alpha chain (V(alpha)) are generated using only V and J segments, which is why the 'D' in V(D)J is placed in parentheses. The BCR heavy chain (V(H)) and TCR beta chain (V(beta)) additionally use a D segment.",
+        "whyWrongByChoice": {
+          "A": "Both V(H) (heavy chain) and V(beta) additionally use a D segment, so neither is built from V and J alone.",
+          "C": "V(H) uses V, D, and J segments; only V(L) is limited to V and J.",
+          "D": "V(beta) uses a D segment; only V(alpha) among the two is limited to V and J.",
+          "E": "V(H) uses a D segment, so this pair is not restricted to V and J."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "V(D)J recombination",
+        "gene segments",
+        "light chain"
+      ],
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure"
+    },
+    {
+      "id": "im07-003",
+      "stem": "During assembly of a developing B cell's antigen receptor, extra nucleotides are inserted at the boundaries where the V, D, and J segments are being joined, generating sequences not encoded in the germline. Which of the following processes and mediators best accounts for this added diversity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Random pairing of heavy and light chains"
+        },
+        {
+          "label": "B",
+          "text": "Somatic hypermutation of the CDRs"
+        },
+        {
+          "label": "C",
+          "text": "Nucleotide addition at junctions by TdT"
+        },
+        {
+          "label": "D",
+          "text": "Isotype switching of the heavy-chain constant region"
+        },
+        {
+          "label": "E",
+          "text": "Selection of B cells by clonal selection"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Junctional diversity comes from terminal deoxynucleotidyl transferase (TdT) adding random nucleotides at the V(D)J junctions.",
+        "whyCorrect": "The brick describes junctional diversity as the random addition of nucleotides at segment junctions before they are joined, catalyzed by terminal deoxynucleotidyl transferase (TdT). This is why CDR3, which spans the junctions, is the most diverse and is not germline-encoded.",
+        "whyWrongByChoice": {
+          "A": "Random heavy/light chain pairing is combinatorial diversity, which reshuffles whole domains rather than inserting nucleotides at junctions.",
+          "B": "Somatic hypermutation introduces point mutations after antigen encounter, not junctional insertions during development.",
+          "D": "Isotype switching changes the constant region class and does not add nucleotides to the variable region junctions.",
+          "E": "Clonal selection expands antigen-specific B cells; it does not create receptor sequence diversity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "junctional diversity",
+        "TdT",
+        "diversity"
+      ],
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure"
+    },
+    {
+      "id": "im07-004",
+      "stem": "An immunologist is comparing secreted antibody isotypes and wants to identify the class that provides the greatest number of antigen-binding sites per secreted molecule, giving it especially high avidity early in an immune response. Which isotype fits this description?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgA"
+        },
+        {
+          "label": "B",
+          "text": "IgD"
+        },
+        {
+          "label": "C",
+          "text": "IgE"
+        },
+        {
+          "label": "D",
+          "text": "IgG"
+        },
+        {
+          "label": "E",
+          "text": "IgM"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Secreted IgM is a pentamer with 10 antigen-binding sites, giving it the highest avidity of the isotypes.",
+        "whyCorrect": "The brick teaches that secreted IgM exists as a pentamer joined by a J chain; with two binding sites per monomer, the pentamer has ten antigen-binding sites. This gives IgM the highest avidity (the combination of individual affinities) and makes it effective early, when it is the first class produced.",
+        "whyWrongByChoice": {
+          "A": "IgA is a dimer at mucosal surfaces (and a monomer in blood), giving at most four binding sites, fewer than pentameric IgM.",
+          "B": "IgD is a monomer with only two binding sites and is secreted at very low levels.",
+          "C": "IgE is a monomer with two binding sites and is mostly bound to its receptor on mast cells.",
+          "D": "IgG is a monomer with two binding sites; although the most abundant serum antibody, it does not have the most binding sites per molecule."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "IgM",
+        "avidity",
+        "isotypes"
+      ],
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure"
+    },
+    {
+      "id": "im07-005",
+      "stem": "Two weeks after a first exposure to a vaccine antigen, a patient's germinal-center B cells accumulate point mutations in the genes encoding their variable domains, and B cells whose receptors bind the antigen more tightly are preferentially selected to survive. Which of the following statements best characterizes this process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It occurs before antigen recognition and increases BCR affinity for antigen"
+        },
+        {
+          "label": "B",
+          "text": "It occurs after antigen recognition and increases BCR affinity for antigen"
+        },
+        {
+          "label": "C",
+          "text": "It occurs prior to antigen recognition and increases diversity of TCR specificity"
+        },
+        {
+          "label": "D",
+          "text": "It occurs after antigen recognition and increases diversity of TCR specificity"
+        },
+        {
+          "label": "E",
+          "text": "It occurs in both B and T cells to change the constant region class"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Somatic hypermutation occurs in B cells after antigen recognition and raises BCR affinity through affinity maturation.",
+        "whyCorrect": "The brick states that somatic hypermutation occurs in activated B cells after antigen recognition, introducing random mutations primarily in the CDRs (hypervariable regions) of the V(H) domains. B cells whose mutated receptors bind antigen best are selected to survive and proliferate, so the affinity of the repertoire rises. This distinguishes it from V(D)J recombination, which occurs before antigen recognition in both B and T cells.",
+        "whyWrongByChoice": {
+          "A": "Somatic hypermutation happens after, not before, antigen recognition; V(D)J recombination is the developmental process that precedes antigen exposure.",
+          "C": "It affects B cells, not TCRs, and follows rather than precedes antigen recognition; TCRs do not undergo somatic hypermutation.",
+          "D": "T cells do not undergo somatic hypermutation; once mature, the TCR does not change.",
+          "E": "Changing the constant-region class describes isotype switching, not somatic hypermutation, and hypermutation is a B-cell-only event."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "somatic hypermutation",
+        "affinity maturation",
+        "B cells"
+      ],
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure"
+    },
+    {
+      "id": "im07-006",
+      "stem": "A full-term newborn is found to have protective serum levels of antibody against tetanus toxin, matching the mother's immunity, even though the infant has never been vaccinated. These maternally derived antibodies were transported across the placenta by a specific Fc receptor. Which antibody isotype is responsible for this protection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgA"
+        },
+        {
+          "label": "B",
+          "text": "IgD"
+        },
+        {
+          "label": "C",
+          "text": "IgE"
+        },
+        {
+          "label": "D",
+          "text": "IgG"
+        },
+        {
+          "label": "E",
+          "text": "IgM"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "IgG is the only isotype that crosses the placenta, carried by the neonatal Fc receptor (FcRn).",
+        "whyCorrect": "The brick states that IgG is the most abundant serum antibody and the only class able to cross the placenta. The secreted neonatal Fc receptor (FcRn) mediates placental transfer of IgG and also prolongs its half-life in the circulation, explaining protective maternal IgG in the newborn.",
+        "whyWrongByChoice": {
+          "A": "IgA is concentrated at mucosal surfaces and passes to infants mainly via breast milk, not across the placenta.",
+          "B": "IgD is secreted only at very low levels and functions in naive B cell signaling, not in placental transfer.",
+          "C": "IgE is mostly bound to mast cells and mediates allergy/anti-parasite responses; it does not cross the placenta.",
+          "E": "IgM is a large pentamer that does not cross the placenta."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "IgG",
+        "placental transfer",
+        "FcRn"
+      ],
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure"
+    },
+    {
+      "id": "im07-007",
+      "stem": "A researcher studying breast milk and saliva isolates the predominant antibody at these mucosal surfaces. It exists there as a dimer joined by a J chain and reaches the secretions by being transcytosed across epithelial cells by a dedicated receptor. Which isotype and transport receptor pair is described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgA transported by the polymeric immunoglobulin receptor (pIgR)"
+        },
+        {
+          "label": "B",
+          "text": "IgG transported by the neonatal Fc receptor (FcRn)"
+        },
+        {
+          "label": "C",
+          "text": "IgM transported by the polymeric immunoglobulin receptor (pIgR)"
+        },
+        {
+          "label": "D",
+          "text": "IgE transported by the high-affinity receptor FcERI"
+        },
+        {
+          "label": "E",
+          "text": "IgG transported by FcgammaRIIIa (CD16)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Mucosal IgA is a J-chain-joined dimer that crosses epithelium via the polymeric immunoglobulin receptor (pIgR).",
+        "whyCorrect": "The brick teaches that IgA is the most abundant antibody at mucosal surfaces (tears, saliva, breast milk), where it exists as a dimer joined by a J chain. It enters the mucosa through transcytosis across epithelial cells mediated by the polymeric immunoglobulin receptor (pIgR); in blood it circulates as a monomer.",
+        "whyWrongByChoice": {
+          "B": "FcRn transports IgG across the placenta and prolongs IgG half-life; it does not deliver the dimeric mucosal antibody.",
+          "C": "Although IgM also uses a J chain, the dominant mucosal secretory antibody delivered by pIgR is dimeric IgA, not IgM.",
+          "D": "FcERI binds IgE on mast cells and basophils for allergic/anti-parasite responses; it is not a mucosal transcytosis receptor.",
+          "E": "FcgammaRIIIa (CD16) on NK cells mediates ADCC by IgG; it does not transport antibody into secretions."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "IgA",
+        "mucosal immunity",
+        "pIgR"
+      ],
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure"
+    },
+    {
+      "id": "im07-008",
+      "stem": "A 22-year-old man with seasonal hay fever develops sneezing, itchy watery eyes, and nasal congestion each spring. His symptoms result from an antibody that is bound to Fc receptors on mast cells; when pollen cross-links these antibodies, the mast cells aggregate the receptors and degranulate, releasing inflammatory mediators. Which antibody isotype and receptor mediate this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgE bound to FcERI on mast cells"
+        },
+        {
+          "label": "B",
+          "text": "IgG bound to FcgammaR on phagocytes"
+        },
+        {
+          "label": "C",
+          "text": "IgM bound to complement receptors"
+        },
+        {
+          "label": "D",
+          "text": "IgA bound to FcalphaR on phagocytes"
+        },
+        {
+          "label": "E",
+          "text": "IgD bound to receptors on naive B cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "IgE bound to FcERI on mast cells and basophils triggers degranulation in allergic reactions.",
+        "whyCorrect": "The brick explains that IgE's function is mediated by binding of its Fc region to the high-affinity IgE receptor (FcERI) on mast cells, eosinophils, and basophils. In classic allergic reactions, allergen cross-links receptor-bound IgE, causing receptor aggregation, mast cell activation, and degranulation with release of inflammatory mediators, producing edema, itching, and congestion.",
+        "whyWrongByChoice": {
+          "B": "IgG on phagocyte FcgammaR mediates opsonization and ADCC, not immediate mast cell degranulation of allergy.",
+          "C": "IgM activates the classical complement pathway; it is not the antibody pre-armed on mast cells for allergy.",
+          "D": "IgA and its low-affinity FcalphaR act in mucosal immunity, not in mast-cell-driven hypersensitivity.",
+          "E": "IgD functions in naive B cell signaling and has no role in mast cell degranulation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "IgE",
+        "allergy",
+        "mast cells"
+      ],
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure"
+    },
+    {
+      "id": "im07-009",
+      "stem": "An investigator enzymatically separates an IgG molecule into its Y-shaped fragments. She wants the fragment that binds complement proteins and Fc receptors to carry out the antibody's effector functions, rather than the fragment that contacts antigen. Which portion of the antibody should she isolate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The Fab region"
+        },
+        {
+          "label": "B",
+          "text": "The Fc region"
+        },
+        {
+          "label": "C",
+          "text": "The variable domain of the light chain"
+        },
+        {
+          "label": "D",
+          "text": "The hinge region"
+        },
+        {
+          "label": "E",
+          "text": "The complementarity-determining region 3 (CDR3)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The Fc region is the stem of the Y and carries out effector functions by binding complement and Fc receptors.",
+        "whyCorrect": "The brick describes the antibody as roughly Y-shaped: the two arms are the antigen-binding fragments (Fab) involved in antigen recognition, while the stem or base is the crystallizable fragment (Fc) responsible for effector functions, specifically binding complement and Fc receptors.",
+        "whyWrongByChoice": {
+          "A": "The Fab region is the antigen-binding arm, not the part that engages complement and Fc receptors.",
+          "C": "The light-chain variable domain helps form the antigen-binding site, so it is part of antigen recognition rather than effector function.",
+          "D": "The hinge is a flexible connector between the arms; it provides mobility, not effector binding.",
+          "E": "CDR3 is a hypervariable antigen-contacting loop, part of antigen recognition, not effector function."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Fc region",
+        "antibody structure",
+        "effector function"
+      ],
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure"
+    },
+    {
+      "id": "im07-010",
+      "stem": "A mature B cell circulating between the blood and secondary lymphoid organs has not yet encountered its cognate antigen. Flow cytometry is used to characterize the immunoglobulin isotypes displayed on its surface. Which of the following is most likely observed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Surface IgG only"
+        },
+        {
+          "label": "B",
+          "text": "Secreted IgA as a mucosal dimer"
+        },
+        {
+          "label": "C",
+          "text": "Surface IgM and IgD together"
+        },
+        {
+          "label": "D",
+          "text": "Surface IgE bound to FcERI"
+        },
+        {
+          "label": "E",
+          "text": "Pentameric IgM secreted into the plasma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Naive B cells co-express surface IgM and IgD before encountering antigen.",
+        "whyCorrect": "The brick states that naive B cells are mature B cells that have not encountered their cognate antigen and that they express the mu and delta heavy-chain constant domains, so they carry both IgM and IgD on their surface (with the same variable and light-chain regions). Secretion of antibody and any class switching occur only after activation.",
+        "whyWrongByChoice": {
+          "A": "Surface IgG appears only after activation and isotype switching, not on a naive, antigen-inexperienced B cell.",
+          "B": "Secreted dimeric IgA is a product of activated, class-switched plasma cells at mucosal surfaces, not a naive B cell's surface receptor.",
+          "D": "IgE bound to FcERI is displayed on mast cells and basophils, not on the surface of a naive B cell.",
+          "E": "Secreted pentameric IgM is released only after the B cell is activated; a naive B cell displays membrane IgM (and IgD) rather than secreting pentamer."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "naive B cell",
+        "IgM",
+        "IgD"
+      ],
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure"
+    },
+    {
+      "id": "im07-011",
+      "stem": "While mapping which parts of a B-cell receptor's variable domain contact antigen, a researcher identifies three loops called the complementarity-determining regions. One of them is far more variable than the others because it spans the junctions created during recombination and is not encoded in the germline. Which region is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CDR1"
+        },
+        {
+          "label": "B",
+          "text": "CDR2"
+        },
+        {
+          "label": "C",
+          "text": "CDR3"
+        },
+        {
+          "label": "D",
+          "text": "The constant domain of the heavy chain"
+        },
+        {
+          "label": "E",
+          "text": "The hinge region"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "CDR3 is the most diverse complementarity-determining region because it is formed at the recombination junctions and is not germline-encoded.",
+        "whyCorrect": "The brick describes three regions of the V(H) and V(L) domains that contact antigen, called CDR1, CDR2, and CDR3. CDR1 and CDR2 are encoded by the V gene segments, whereas CDR3 is encoded by the junctional regions. Because its diversity comes from combinatorial and junctional (non-germline) mechanisms, CDR3 is the most diverse of the three.",
+        "whyWrongByChoice": {
+          "A": "CDR1 is encoded within the germline V segment and is far less variable than CDR3.",
+          "B": "CDR2, like CDR1, is encoded by the V gene segment and is not the most diverse loop.",
+          "D": "The heavy-chain constant domain determines isotype and effector function; it does not contact antigen and is not hypervariable.",
+          "E": "The hinge provides flexibility between the arms and is not one of the antigen-contacting CDRs."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CDR3",
+        "diversity",
+        "variable domain"
+      ],
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure"
+    },
+    {
+      "id": "im07-012",
+      "stem": "After receiving help from CD4+ helper T cells in a germinal center, an activated B cell that originally made IgM begins secreting IgG that binds the same epitope with identical specificity. Which of the following best describes the change that has occurred?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Isotype switching changed the heavy-chain constant region while preserving specificity"
+        },
+        {
+          "label": "B",
+          "text": "V(D)J recombination rebuilt the variable domain to recognize a new antigen"
+        },
+        {
+          "label": "C",
+          "text": "Combinatorial diversity paired a new heavy chain with a new light chain"
+        },
+        {
+          "label": "D",
+          "text": "Somatic hypermutation replaced the constant region of the antibody"
+        },
+        {
+          "label": "E",
+          "text": "Clonal selection converted the T cell into an antibody-secreting cell"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Isotype switching swaps the heavy-chain constant region (e.g., IgM to IgG) with CD4+ T cell help, keeping antigen specificity unchanged.",
+        "whyCorrect": "The brick teaches that activated B cells receiving help from CD4+ helper T cells can undergo isotype (class) switching, changing from expressing IgM and IgD to IgG, IgA, or IgE. Only the heavy-chain constant domain changes, so the antigen specificity determined by the variable domains is preserved; most B cells switch to become IgG-producing cells.",
+        "whyWrongByChoice": {
+          "B": "V(D)J recombination builds the variable domain during development and would alter, not preserve, antigen specificity; it is not how a mature B cell changes class.",
+          "C": "Combinatorial diversity from heavy/light chain pairing occurs during development and would change the antigen recognized, not just the isotype.",
+          "D": "Somatic hypermutation mutates the variable-domain CDRs to fine-tune affinity; it does not replace the constant region or switch class.",
+          "E": "Clonal selection expands antigen-specific B cells; helper T cells provide signals but do not themselves become antibody-secreting cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "isotype switching",
+        "class switching",
+        "helper T cells"
+      ],
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure"
+    }
+  ]
+}

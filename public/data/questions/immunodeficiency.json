@@ -1,0 +1,1661 @@
+{
+  "categoryId": "immunodeficiency",
+  "categoryName": "Immunodeficiency",
+  "questions": [
+    {
+      "id": "im14-001",
+      "stem": "An 8-month-old boy is brought in for the fourth episode of otitis media, along with two prior bouts of pneumonia and recurrent sinusitis, all beginning around 6 months of age. On exam, his tonsils are notably small and no palpable lymph nodes are found. Laboratory studies show markedly low levels of all immunoglobulin classes, absent peripheral B cells, and normal T-cell counts. A defect in which of the following is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenosine deaminase"
+        },
+        {
+          "label": "B",
+          "text": "AutoImmune Regulator (AIRE)"
+        },
+        {
+          "label": "C",
+          "text": "Bruton tyrosine kinase (BTK)"
+        },
+        {
+          "label": "D",
+          "text": "Common gamma chain (IL2RG)"
+        },
+        {
+          "label": "E",
+          "text": "Ataxia-telangiectasia mutated (ATM)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "X-linked agammaglobulinemia results from a BTK defect that blocks B-cell maturation, leaving no mature B cells or immunoglobulins.",
+        "whyCorrect": "The combination of recurrent encapsulated-bacterial infections after 6 months, absent tonsils and lymph nodes, low levels of all antibody classes, and absent peripheral B cells with normal T cells is classic for X-linked agammaglobulinemia (Bruton agammaglobulinemia). Btk acts downstream of the B-cell receptor and is required for pro-B and pre-B cells to differentiate into mature B cells; without it, immunoglobulins are absent.",
+        "whyWrongByChoice": {
+          "A": "Adenosine deaminase deficiency causes autosomal SCID with loss of T, B, and NK cells plus neutropenia, not an isolated absence of B cells with normal T cells.",
+          "B": "AIRE deficiency causes chronic mucocutaneous candidiasis with autoimmunity, not agammaglobulinemia with absent B cells.",
+          "D": "A common gamma chain (IL2RG) defect causes X-linked SCID, in which T and NK cells are absent while B cells are present, the opposite of this B-cell-only pattern.",
+          "E": "ATM mutation causes ataxia telangiectasia, presenting with ataxia and telangiectasias and a variable combined deficiency, not isolated absence of B cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "X-linked agammaglobulinemia",
+        "BTK",
+        "B cells"
+      ],
+      "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+    },
+    {
+      "id": "im14-002",
+      "stem": "A male infant with X-linked agammaglobulinemia has a bone marrow examination as part of his workup. Pro-B and pre-B cells are present in normal numbers, but essentially no mature B cells or circulating immunoglobulins can be found. Which of the following best explains this arrest in B-cell development?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Failure to rearrange V(D)J gene segments in developing B cells"
+        },
+        {
+          "label": "B",
+          "text": "Defective B-cell receptor signaling that blocks maturation past the pre-B stage"
+        },
+        {
+          "label": "C",
+          "text": "Accumulation of toxic purine metabolites that kill dividing lymphocytes"
+        },
+        {
+          "label": "D",
+          "text": "Absence of a thymus preventing positive selection of B cells"
+        },
+        {
+          "label": "E",
+          "text": "Loss of MHC class II expression on antigen-presenting cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Btk transmits B-cell receptor signals needed for maturation, so its loss halts development after the pre-B stage.",
+        "whyCorrect": "Btk is a signaling molecule downstream of the B-cell receptor. Developing B cells must pass positive selection by receiving BCR signals; when BTK is defective, that signal is interrupted and B-cell maturation is prevented. Pro-B and pre-B cells are present but cannot differentiate into mature B cells, so peripheral B cells and immunoglobulins are absent.",
+        "whyWrongByChoice": {
+          "A": "Failure of V(D)J recombination describes RAG deficiency, which prevents formation of both TCRs and BCRs, not the BCR-signaling block of XLA.",
+          "C": "Toxic purine metabolite accumulation describes adenosine deaminase deficiency, a form of SCID, not XLA.",
+          "D": "The thymus is the site of T-cell, not B-cell, development, and XLA is caused by a signaling defect rather than thymic absence.",
+          "E": "Loss of MHC class II expression describes bare lymphocyte syndrome II, which impairs CD4 T-cell selection, not B-cell maturation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "X-linked agammaglobulinemia",
+        "BTK",
+        "B-cell maturation"
+      ],
+      "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+    },
+    {
+      "id": "im14-003",
+      "stem": "A pediatrician notes that infants with an isolated inability to produce IgG typically remain healthy for the first several months of life, whereas infants with severe T-cell and NK-cell deficiencies often become symptomatic within the first weeks. Which of the following best explains why IgG deficiencies present comparatively later?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complement plays a greater role in immunity early in life than IgG"
+        },
+        {
+          "label": "B",
+          "text": "IgA and IgM fully compensate for the lack of IgG"
+        },
+        {
+          "label": "C",
+          "text": "The innate immune system can clear all infections without IgG"
+        },
+        {
+          "label": "D",
+          "text": "Maternal transplacental IgG can persist in the infant for up to 6 months"
+        },
+        {
+          "label": "E",
+          "text": "T cells secrete immunoglobulin in the absence of B cells in early life"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Maternal IgG crosses the placenta and protects the infant until roughly 6 months of age, delaying the onset of antibody-deficiency symptoms.",
+        "whyCorrect": "The brick notes that in XLA the age of presentation is early, typically around 6 months, because by that time the maternal transplacental IgG acquired before birth has degraded. Until then, this passively transferred IgG protects the infant, so isolated antibody deficiencies become apparent later than severe T-cell defects.",
+        "whyWrongByChoice": {
+          "A": "The delay is due to persistent maternal IgG, not a special early role for complement; complement-fixing IgG and IgM are actually reduced in these patients.",
+          "B": "IgA and IgM do not compensate; XLA patients lack all antibody classes and remain vulnerable once maternal IgG wanes.",
+          "C": "The innate system alone cannot clear the encapsulated-bacterial and enteroviral infections these patients develop once maternal antibody is gone.",
+          "E": "T cells do not secrete immunoglobulin; only B-lineage plasma cells produce antibody."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "humoral immunity",
+        "transplacental IgG",
+        "antibody deficiency"
+      ],
+      "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+    },
+    {
+      "id": "im14-004",
+      "stem": "Initial studies of a male newborn reveal an absent thymic shadow on chest radiograph, hypocalcemia causing tetany, an interrupted aortic arch, a cleft palate, and low-set ears. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenosine deaminase deficiency"
+        },
+        {
+          "label": "B",
+          "text": "Chronic mucocutaneous candidiasis"
+        },
+        {
+          "label": "C",
+          "text": "DiGeorge syndrome"
+        },
+        {
+          "label": "D",
+          "text": "X-linked agammaglobulinemia"
+        },
+        {
+          "label": "E",
+          "text": "Ataxia telangiectasia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "DiGeorge syndrome combines cardiac defects, abnormal facies, thymic aplasia, cleft palate, and hypocalcemia (the CATCH-22 features).",
+        "whyCorrect": "A 22q11 microdeletion disrupts development of the third and fourth pharyngeal pouches, which form the thymus, parathyroid glands, and great vessels. This produces the CATCH-22 picture: Cardiac anomalies, Abnormal facies (cleft palate, low-set ears), Thymic aplasia (absent thymic shadow), and Hypocalcemia from hypoparathyroidism, exactly as seen here.",
+        "whyWrongByChoice": {
+          "A": "ADA deficiency causes SCID with lymphopenia and opportunistic infections, not the craniofacial, cardiac, and hypocalcemic constellation of DiGeorge.",
+          "B": "Chronic mucocutaneous candidiasis presents in childhood with persistent Candida infections and endocrinopathy, not neonatal cardiac and facial malformations.",
+          "D": "XLA presents around 6 months with recurrent bacterial infections and absent B cells, not with congenital cardiac or facial anomalies or hypocalcemia.",
+          "E": "Ataxia telangiectasia presents in early childhood with ataxia and telangiectasias, not with neonatal absent thymic shadow, cleft palate, and hypocalcemia."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "DiGeorge syndrome",
+        "22q11 deletion",
+        "CATCH-22"
+      ],
+      "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+    },
+    {
+      "id": "im14-005",
+      "stem": "A neonate with DiGeorge syndrome develops carpopedal spasm and a seizure on the second day of life. Serum studies show hypocalcemia and an inappropriately low parathyroid hormone level. Which of the following developmental abnormalities best explains this metabolic finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aberrant migration of neural crest cells leading to absent parathyroid glands"
+        },
+        {
+          "label": "B",
+          "text": "Failure of B cells to receive T-cell help"
+        },
+        {
+          "label": "C",
+          "text": "Accumulation of toxic metabolites in the renal tubules"
+        },
+        {
+          "label": "D",
+          "text": "Autoimmune destruction of the parathyroid glands by autoreactive T cells"
+        },
+        {
+          "label": "E",
+          "text": "Defective DNA repair in parathyroid chief cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The 22q11 deletion in DiGeorge impairs neural crest-dependent development of the third and fourth pharyngeal pouches, which give rise to the parathyroid glands.",
+        "whyCorrect": "DiGeorge syndrome is caused by a chromosomal microdeletion at 22q11 that disrupts the protein responsible for neural crest cell migration. This causes aberrant development of the third and fourth pharyngeal pouches, which normally form the parathyroid glands (as well as the thymus and great vessels). When the parathyroid glands fail to form, hypoparathyroidism produces hypocalcemia.",
+        "whyWrongByChoice": {
+          "B": "Failure of B cells to receive T-cell help impairs antibody production in DiGeorge but does not cause hypocalcemia.",
+          "C": "Toxic metabolite accumulation is the mechanism of ADA deficiency, not the parathyroid hypoplasia of DiGeorge.",
+          "D": "Autoreactive T-cell destruction of endocrine glands underlies the hypoparathyroidism of AIRE deficiency (CMCC), not DiGeorge, where the glands simply fail to develop.",
+          "E": "Defective DNA repair characterizes ataxia telangiectasia and does not account for the pharyngeal pouch defect in DiGeorge."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DiGeorge syndrome",
+        "hypoparathyroidism",
+        "pharyngeal pouches"
+      ],
+      "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+    },
+    {
+      "id": "im14-006",
+      "stem": "A 4-month-old boy has had persistent oral thrush, Pneumocystis jirovecii pneumonia, and failure to thrive. His newborn TREC screen was abnormal. Flow cytometry shows absent T cells and absent NK cells, while B cells are present but produce little functional antibody. A defect in which of the following genes is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IL2RG (common gamma chain)"
+        },
+        {
+          "label": "B",
+          "text": "Adenosine deaminase (ADA)"
+        },
+        {
+          "label": "C",
+          "text": "RAG1/RAG2"
+        },
+        {
+          "label": "D",
+          "text": "BTK (Bruton tyrosine kinase)"
+        },
+        {
+          "label": "E",
+          "text": "AIRE (autoimmune regulator)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "X-linked SCID from an IL2RG (common gamma chain) defect eliminates T and NK cells while sparing dysfunctional B cells.",
+        "whyCorrect": "The common gamma chain (encoded by IL2RG) is shared by receptors for IL-2, IL-4, IL-7, IL-9, IL-15, and IL-21. Loss of gamma chain signaling blocks T-cell development (IL-7) and NK-cell development (IL-15), so both are absent; B cells are present but dysfunctional because they cannot receive proper T-cell help. This X-linked pattern accounts for roughly half of SCID cases.",
+        "whyWrongByChoice": {
+          "B": "ADA deficiency also causes SCID, but it eliminates T, B, AND NK cells and causes neutropenia, whereas here B cells are present.",
+          "C": "RAG deficiency leaves NK cells present while eliminating T and B cells, which does not match the absent NK cells and present B cells seen here.",
+          "D": "BTK defects cause XLA, which affects only B cells and spares T and NK cells, the opposite of this pattern.",
+          "E": "AIRE defects cause chronic mucocutaneous candidiasis with autoimmunity, not a combined loss of T and NK cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "SCID",
+        "IL2RG",
+        "common gamma chain"
+      ],
+      "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+    },
+    {
+      "id": "im14-007",
+      "stem": "A 3-month-old infant with severe combined immunodeficiency is also noted to have neutropenia, sensorineural findings, and bead-like enlargements of the costochondral junctions on imaging. Which of the following immunodeficiencies is most likely, given that its underlying enzyme defect causes accumulation of toxic metabolites within lymphocytes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenosine deaminase deficiency"
+        },
+        {
+          "label": "B",
+          "text": "DiGeorge syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Chronic mucocutaneous candidiasis"
+        },
+        {
+          "label": "D",
+          "text": "X-linked agammaglobulinemia"
+        },
+        {
+          "label": "E",
+          "text": "X-linked SCID"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Adenosine deaminase normally clears metabolites produced during V(D)J recombination; its deficiency poisons high-turnover lymphocytes.",
+        "whyCorrect": "ADA breaks down toxic metabolites generated as a byproduct of V(D)J recombination. Cells with high turnover, such as lymphocytes, are especially vulnerable, so ADA deficiency leaves patients lacking T, B, and NK cells with neutropenia. It also causes nonimmunologic effects including the characteristic bead-like costochondral junctions from inadequate mineralization and cartilage overgrowth.",
+        "whyWrongByChoice": {
+          "B": "DiGeorge results from a 22q11 pharyngeal pouch defect, not an enzyme that accumulates toxic metabolites.",
+          "C": "CMCC is caused by loss of AIRE and does not involve toxic metabolite accumulation in lymphocytes.",
+          "D": "XLA is a BTK signaling defect affecting B cells only, without metabolite toxicity or the costochondral changes described.",
+          "E": "X-linked SCID results from a cytokine receptor (common gamma chain) defect, not from accumulation of toxic metabolites."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ADA deficiency",
+        "SCID",
+        "toxic metabolites"
+      ],
+      "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+    },
+    {
+      "id": "im14-008",
+      "stem": "A 5-month-old with recurrent severe infections is found to have severe combined immunodeficiency. Immunophenotyping reveals absent T cells and absent B cells, but a normal number of NK cells. A defect in which of the following is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "RAG1/RAG2 recombinase"
+        },
+        {
+          "label": "B",
+          "text": "Common gamma chain (IL2RG)"
+        },
+        {
+          "label": "C",
+          "text": "Adenosine deaminase"
+        },
+        {
+          "label": "D",
+          "text": "Bruton tyrosine kinase"
+        },
+        {
+          "label": "E",
+          "text": "AutoImmune Regulator (AIRE)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "RAG deficiency blocks V(D)J recombination, eliminating T and B cells while sparing NK cells.",
+        "whyCorrect": "RAG1/RAG2 perform the cutting and joining of V, D, and J gene segments. Loss of RAG prevents production of functional antigen receptors (TCRs and BCRs), so patients lack T and B cells. Because NK cells do not require rearranged antigen receptors, they remain present, distinguishing RAG deficiency from X-linked SCID (NK absent) and ADA deficiency (all lineages absent).",
+        "whyWrongByChoice": {
+          "B": "A common gamma chain defect (X-linked SCID) eliminates NK cells, whereas NK cells are preserved here.",
+          "C": "ADA deficiency eliminates T, B, and NK cells and causes neutropenia; it does not spare NK cells.",
+          "D": "BTK defects cause XLA, which affects B cells only and leaves T cells intact, not a combined T and B loss.",
+          "E": "AIRE defects cause chronic mucocutaneous candidiasis, not an absence of both T and B cells."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "SCID",
+        "RAG deficiency",
+        "V(D)J recombination"
+      ],
+      "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+    },
+    {
+      "id": "im14-009",
+      "stem": "A 2-month-old with newly diagnosed SCID requires a red blood cell transfusion before hematopoietic stem cell transplantation. The team specifies that the blood product be irradiated and leukocyte-depleted. This precaution is taken primarily to prevent which of the following complications?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Graft-versus-host disease from donor lymphocytes"
+        },
+        {
+          "label": "B",
+          "text": "Transmission of cytomegalovirus"
+        },
+        {
+          "label": "C",
+          "text": "Hemolytic transfusion reaction from ABO incompatibility"
+        },
+        {
+          "label": "D",
+          "text": "Iron overload from repeated transfusions"
+        },
+        {
+          "label": "E",
+          "text": "Anaphylaxis due to IgA deficiency"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "SCID patients cannot reject donor lymphocytes, so unirradiated blood products can cause transfusion-associated graft-versus-host disease.",
+        "whyCorrect": "The brick specifies that blood products given to SCID patients must be irradiated and leukocyte-depleted to prevent the immune cells in the products from attacking the recipient, i.e., graft-versus-host disease. Because the patient lacks functional T cells, transfused donor lymphocytes are not rejected and can engraft and attack host tissues; irradiation inactivates those donor lymphocytes.",
+        "whyWrongByChoice": {
+          "B": "Cytomegalovirus risk is reduced by leukoreduction, but the stated reason for irradiation in the brick is prevention of graft-versus-host disease, which is the primary concern here.",
+          "C": "Hemolytic reactions are prevented by ABO/Rh matching, not by irradiation or leukoreduction of the product.",
+          "D": "Iron overload is a long-term consequence of chronic transfusion and is unrelated to irradiating a single unit.",
+          "E": "Anaphylaxis from IgA deficiency is a separate transfusion issue addressed by washed products, not by irradiation to prevent cellular attack on the host."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "SCID",
+        "graft-versus-host disease",
+        "transfusion"
+      ],
+      "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+    },
+    {
+      "id": "im14-010",
+      "stem": "A 6-year-old girl has had persistent Candida infections of the mouth, nails, and skin since early childhood. She has also developed hypoparathyroidism and is being monitored for adrenal insufficiency. Genetic testing confirms a deficiency of the AutoImmune Regulator (AIRE). Loss of AIRE most directly leads to her endocrine problems through which of the following mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Failure to express tissue-restricted self-antigens in the thymus, allowing autoreactive T cells to escape"
+        },
+        {
+          "label": "B",
+          "text": "Inability to rearrange V(D)J segments in developing T cells"
+        },
+        {
+          "label": "C",
+          "text": "Absence of the parathyroid glands due to a pharyngeal pouch defect"
+        },
+        {
+          "label": "D",
+          "text": "Loss of the common gamma chain shared by multiple cytokine receptors"
+        },
+        {
+          "label": "E",
+          "text": "Accumulation of toxic purine metabolites in endocrine tissue"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "AIRE drives expression of tissue-restricted self-antigens in the thymus for central tolerance; its loss lets autoreactive T cells survive and attack endocrine organs.",
+        "whyCorrect": "AIRE allows medullary thymic epithelial cells to express tissue-restricted self-antigens, a process critical for central (negative selection) tolerance. Without AIRE, autoreactive T cells are not eliminated and escape into the periphery, producing autoimmune endocrine insufficiencies such as hypoparathyroidism (the most common) and adrenal failure. Loss of AIRE also reduces the PRR Dectin-1, explaining the chronic candidiasis.",
+        "whyWrongByChoice": {
+          "B": "Failure of V(D)J recombination describes RAG deficiency (SCID), not the autoimmune mechanism of AIRE loss.",
+          "C": "Absent parathyroid glands from a pharyngeal pouch defect describes DiGeorge; in CMCC the glands are destroyed by autoreactive T cells rather than failing to form.",
+          "D": "Loss of the common gamma chain describes X-linked SCID and does not cause autoimmune endocrinopathy.",
+          "E": "Toxic purine metabolite accumulation is the mechanism of ADA deficiency, not of AIRE-related autoimmunity."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "chronic mucocutaneous candidiasis",
+        "AIRE",
+        "central tolerance"
+      ],
+      "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+    },
+    {
+      "id": "im14-011",
+      "stem": "A child with chronic mucocutaneous candidiasis undergoes an intradermal Candida antigen skin test, analogous to a tuberculin (PPD) test, to evaluate her cellular response. In a patient with this disorder, which of the following results would be expected at the injection site?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Little or no inflammatory reaction"
+        },
+        {
+          "label": "B",
+          "text": "A vigorous wheal-and-flare within 15 minutes"
+        },
+        {
+          "label": "C",
+          "text": "A large indurated area indicating a strong response"
+        },
+        {
+          "label": "D",
+          "text": "Vesicle formation with regional lymphadenopathy"
+        },
+        {
+          "label": "E",
+          "text": "Necrosis identical to a positive tuberculin test"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CMCC patients mount little inflammation to Candida antigen because their T-cell response to Candida is defective.",
+        "whyCorrect": "Candida species are environmental, so most people's immune systems respond to injected Candida antigen with a delayed inflammatory (DTH) reaction, just as a person previously exposed to Mycobacterium tuberculosis reacts to PPD. Because CMCC patients have defective T-cell responses to Candida (partly from reduced Dectin-1), they show little to no inflammation on the Candida skin test.",
+        "whyWrongByChoice": {
+          "B": "A rapid wheal-and-flare is an immediate IgE-mediated (type I) reaction, not the delayed cellular response being assessed here.",
+          "C": "A strong indurated response is what a healthy, Candida-exposed person shows; the CMCC patient's defective T-cell response prevents it.",
+          "D": "Vesicles with lymphadenopathy is not the expected pattern; the hallmark of CMCC on this test is an absent or minimal reaction.",
+          "E": "Necrosis mimicking a strong positive tuberculin test would indicate an intact, robust response, the opposite of the anergy seen in CMCC."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "chronic mucocutaneous candidiasis",
+        "Candida skin test",
+        "delayed-type hypersensitivity"
+      ],
+      "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+    },
+    {
+      "id": "im14-012",
+      "stem": "A 3-year-old girl has progressively worsening unsteady gait and clumsy movements first noticed before age 2. On exam she has dilated, tortuous vessels on the bulbar conjunctivae. She has had several sinopulmonary infections, and her parents recall a marked granulomatous reaction after a live rubella vaccination. Genetic testing reveals a mutation in a gene responsible for DNA damage repair and cell-cycle regulation. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ataxia telangiectasia"
+        },
+        {
+          "label": "B",
+          "text": "DiGeorge syndrome"
+        },
+        {
+          "label": "C",
+          "text": "X-linked agammaglobulinemia"
+        },
+        {
+          "label": "D",
+          "text": "Chronic mucocutaneous candidiasis"
+        },
+        {
+          "label": "E",
+          "text": "X-linked SCID"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ataxia telangiectasia results from ATM mutation and presents with ataxia, telangiectasias, sinopulmonary infections, and a granulomatous reaction to live vaccines.",
+        "whyCorrect": "Ataxia telangiectasia is caused by autosomal recessive mutations in the ATM gene, which detects and repairs DNA damage and regulates cell-cycle genes such as p53 and BRCA1. Patients present with ataxia (noticeable before age 2), telangiectasias of the conjunctiva and exposed skin (by 3-6 years), and about half develop immunodeficiency with recurrent sinopulmonary infections and a granulomatous reaction to the live rubella vaccine, all matching this child.",
+        "whyWrongByChoice": {
+          "B": "DiGeorge presents in the newborn period with cardiac defects, hypocalcemia, and craniofacial anomalies, not progressive ataxia with conjunctival telangiectasias.",
+          "C": "XLA affects boys and presents with recurrent bacterial infections and absent B cells, without ataxia, telangiectasias, or a DNA-repair defect.",
+          "D": "CMCC presents with chronic Candida infections and endocrinopathy, not neurologic ataxia with telangiectasias.",
+          "E": "X-linked SCID presents in early infancy with overwhelming opportunistic infections and lymphopenia, not with a slowly progressive movement disorder and telangiectasias."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ataxia telangiectasia",
+        "ATM",
+        "DNA repair"
+      ],
+      "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+    },
+    {
+      "id": "im15-001",
+      "stem": "A 13-month-old boy is brought in with his fourth episode of bacterial pneumonia and several weeks of watery diarrhea. A maternal uncle died of infection in infancy. Laboratory studies show elevated serum IgM with very low IgG, IgA, and IgE, and an absolute neutropenia. Flow cytometry shows that his activated T cells lack a key surface costimulatory ligand. Which of the following molecules is most likely defective?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "STAT3 transcription factor"
+        },
+        {
+          "label": "B",
+          "text": "Wiskott-Aldrich syndrome protein (WASP)"
+        },
+        {
+          "label": "C",
+          "text": "CD40 ligand (CD40L) on T cells"
+        },
+        {
+          "label": "D",
+          "text": "Interferon-gamma receptor"
+        },
+        {
+          "label": "E",
+          "text": "Polymeric immunoglobulin receptor (pIgR)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "X-linked hyper-IgM syndrome results from a CD40L mutation that blocks class switching.",
+        "whyCorrect": "X-HIMS, the most common form of hyper-IgM syndrome, is caused by an X-linked mutation in CD40L. Without CD40L on T cells binding CD40 on B cells, B cells cannot enter the germinal center to class switch, so IgM stays high while IgG, IgA, and IgE are low. Because CD40 is also on macrophages, patients get opportunistic and intracellular infections, and roughly 65% have neutropenia, matching this male infant with a suggestive family history.",
+        "whyWrongByChoice": {
+          "A": "STAT3 defects cause hyper-IgE syndrome, with elevated IgE, cold abscesses, and coarse facies, not high IgM with low IgG.",
+          "B": "WASP mutations cause Wiskott-Aldrich syndrome, characterized by thrombocytopenia and eczema, not this immunoglobulin pattern.",
+          "D": "Interferon-gamma receptor defects cause MSMD, presenting with mycobacterial infections and normal immunoglobulin levels.",
+          "E": "The polymeric Ig receptor transcytoses IgA across mucosa and is relevant to the redundancy seen in IgA deficiency, not to a class-switching defect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "X-linked hyper-IgM",
+        "CD40L",
+        "class switching"
+      ],
+      "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+    },
+    {
+      "id": "im15-002",
+      "stem": "A 24-year-old woman with a history of recurrent sinus infections develops flushing, wheezing, and a drop in blood pressure a few minutes into her first-ever blood transfusion. Prior testing had shown an isolated low serum IgA with normal IgG, IgM, and IgE. Which of the following is the most appropriate measure to prevent this reaction with future transfusions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pretreat with intravenous immunoglobulin (IgG) replacement"
+        },
+        {
+          "label": "B",
+          "text": "Transfuse only IgA-deficient or washed blood products"
+        },
+        {
+          "label": "C",
+          "text": "Administer prophylactic antibiotics before each transfusion"
+        },
+        {
+          "label": "D",
+          "text": "Give supplemental IgA before the transfusion"
+        },
+        {
+          "label": "E",
+          "text": "Perform hematopoietic stem cell transplantation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Selective IgA deficiency can cause transfusion anaphylaxis via anti-IgA antibodies, prevented with IgA-deficient or washed blood.",
+        "whyCorrect": "Because these patients make little or no IgA, they may not be tolerant to it; after sensitization they can form anti-IgA antibodies and react to the IgA in donor blood, producing anaphylaxis. The brick specifically advises using blood products with caution and giving IgA-deficient or washed blood products to minimize this risk.",
+        "whyWrongByChoice": {
+          "A": "IgG replacement does not remove the IgA in donor blood or the patient's anti-IgA antibodies, so it does not prevent the reaction.",
+          "C": "Prophylactic antibiotics address recurrent infections, not an anaphylactic transfusion reaction.",
+          "D": "Giving IgA would provide more of the very antigen the patient reacts to and could worsen anaphylaxis.",
+          "E": "Selective IgA deficiency usually requires no treatment and is not an indication for stem cell transplant."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "selective IgA deficiency",
+        "transfusion reaction",
+        "anaphylaxis"
+      ],
+      "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+    },
+    {
+      "id": "im15-003",
+      "stem": "A 6-year-old boy has recurrent skin abscesses that are notably nontender and lack surrounding warmth or redness, along with chronic eczema and recurrent pneumonias. On exam he has a broad nose, prominent lower lip, and retained primary teeth. Serum IgE is 3,500 IU/mL with peripheral eosinophilia. A defect in which of the following best explains his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "STAT3, impairing Th17 differentiation"
+        },
+        {
+          "label": "B",
+          "text": "CD40 ligand on T cells"
+        },
+        {
+          "label": "C",
+          "text": "WASP, impairing actin polymerization"
+        },
+        {
+          "label": "D",
+          "text": "Interferon-gamma receptor"
+        },
+        {
+          "label": "E",
+          "text": "ICOS on follicular helper T cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hyper-IgE syndrome is an autosomal dominant STAT3 defect that impairs Th17 development.",
+        "whyCorrect": "HIES is caused by a STAT3 defect, and STAT3 is required to differentiate naive T cells into Th17. Loss of Th17 impairs IL-17-driven neutrophil recruitment, producing cold abscesses, while the Th2/IgE axis is elevated. STAT3 is also needed for bone development, explaining the coarse facies, retained baby teeth, and fractures, and diagnosis rests on markedly elevated IgE plus eosinophilia.",
+        "whyWrongByChoice": {
+          "B": "CD40L defects cause X-linked hyper-IgM syndrome, with high IgM and low IgG, not elevated IgE with cold abscesses.",
+          "C": "WASP mutations cause Wiskott-Aldrich syndrome (thrombocytopenia, eczema, bleeding), not cold abscesses, high IgE, or coarse facies.",
+          "D": "Interferon-gamma receptor defects cause MSMD, with mycobacterial infections rather than this triad.",
+          "E": "ICOS mutations are associated with CVID, causing low IgG rather than markedly elevated IgE."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hyper-IgE syndrome",
+        "STAT3",
+        "Th17"
+      ],
+      "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+    },
+    {
+      "id": "im15-004",
+      "stem": "A 10-month-old boy has prolonged bleeding after circumcision, scattered petechiae, chronic eczema, and recurrent otitis media and pneumonia. His platelet count is 40,000/microliter with a low mean platelet volume. A maternal uncle had similar problems as a child. Which of the following proteins is most likely mutated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "WAS protein (WASP)"
+        },
+        {
+          "label": "B",
+          "text": "STAT3 transcription factor"
+        },
+        {
+          "label": "C",
+          "text": "CD40 ligand on T cells"
+        },
+        {
+          "label": "D",
+          "text": "Interferon-gamma receptor"
+        },
+        {
+          "label": "E",
+          "text": "ICOS ligand on B cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Wiskott-Aldrich syndrome is an X-linked WASP defect presenting with thrombocytopenia, immunodeficiency, and eczema.",
+        "whyCorrect": "WAS is an X-linked loss-of-function mutation in WASP, a protein expressed exclusively in hematopoietic cells that is critical for actin polymerization. This produces the classic triad of thrombocytopenia (with small, few platelets), immunodeficiency, and eczema, along with bruising, bleeding, and petechiae, and the male sex with affected maternal relatives fits X-linked inheritance.",
+        "whyWrongByChoice": {
+          "B": "STAT3 defects cause hyper-IgE syndrome with cold abscesses and high IgE, not thrombocytopenia.",
+          "C": "CD40L defects cause X-linked hyper-IgM syndrome, defined by an abnormal immunoglobulin pattern rather than low platelets.",
+          "D": "Interferon-gamma receptor defects cause MSMD with mycobacterial infections and normal platelets.",
+          "E": "ICOS/ICOSL defects are linked to CVID, an antibody-production disorder, not a platelet and actin defect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Wiskott-Aldrich syndrome",
+        "WASP",
+        "thrombocytopenia"
+      ],
+      "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+    },
+    {
+      "id": "im15-005",
+      "stem": "A 3-year-old boy from a country that gives BCG vaccine at birth developed a disseminated infection with the vaccine strain in the weeks after vaccination, and later a nontuberculous Mycobacterium avium infection. His B cell, T cell, and immunoglobulin levels are normal, and HIV testing is negative. A defect in which of the following pathways best explains his susceptibility?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The IL-12/IFN-gamma axis needed for Th1 responses and macrophage activation"
+        },
+        {
+          "label": "B",
+          "text": "CD40L-CD40 interaction required for B-cell class switching"
+        },
+        {
+          "label": "C",
+          "text": "STAT3-dependent differentiation of Th17 cells"
+        },
+        {
+          "label": "D",
+          "text": "WASP-dependent actin polymerization"
+        },
+        {
+          "label": "E",
+          "text": "Class switching of activated B cells to IgA"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "MSMD arises from IL-12 receptor or IFN-gamma receptor defects that impair Th1 and macrophage activation.",
+        "whyCorrect": "MSMD is caused by loss-of-function mutations along the Th1 activation pathway, most often in the IL-12 receptor beta chain or the IFN-gamma receptors. IL-12 and IFN-gamma drive Th1 differentiation, and Th1-derived IFN-gamma is critical for macrophage activation; losing this leaves patients susceptible to weakly virulent intracellular mycobacteria such as BCG and nontuberculous species, while B cell, T cell, and immunoglobulin levels remain normal.",
+        "whyWrongByChoice": {
+          "B": "CD40L-CD40 defects cause X-linked hyper-IgM syndrome, with an abnormal immunoglobulin pattern rather than isolated mycobacterial disease and normal Ig levels.",
+          "C": "STAT3/Th17 defects cause hyper-IgE syndrome with cold abscesses and elevated IgE, not selective mycobacterial susceptibility.",
+          "D": "WASP defects cause Wiskott-Aldrich syndrome with thrombocytopenia and eczema, not this mycobacterial picture.",
+          "E": "An IgA class-switching defect causes selective IgA deficiency, which presents with mucosal bacterial infections, not disseminated mycobacterial disease."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "MSMD",
+        "IL-12",
+        "interferon-gamma",
+        "Th1"
+      ],
+      "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+    },
+    {
+      "id": "im15-006",
+      "stem": "A 32-year-old woman has had recurrent sinus and lung infections over several years and now has bronchiectasis and an autoimmune cytopenia. Laboratory studies show a low IgG together with a low IgA, while her B cell and T cell counts are normal. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Common variable immunodeficiency (CVID)"
+        },
+        {
+          "label": "B",
+          "text": "Selective IgA deficiency"
+        },
+        {
+          "label": "C",
+          "text": "X-linked hyper-IgM syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Hyper-IgE syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Wiskott-Aldrich syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CVID presents in adults with low IgG plus low IgA and/or IgM, recurrent sinopulmonary infections, and autoimmunity.",
+        "whyCorrect": "CVID is the second most common IEI in adults (about 1:25,000) and is defined by a loss of IgG with additional loss of IgA or IgM from defective plasma cell production. Patients typically present between ages 20 and 40 with sinus, lung, and GI infections plus autoimmune and inflammatory disease, and chronic lung disease with bronchiectasis is a major complication, exactly matching this patient with normal B and T cell counts.",
+        "whyWrongByChoice": {
+          "B": "Selective IgA deficiency shows an isolated low IgA with normal IgG, whereas this patient also has low IgG.",
+          "C": "X-linked hyper-IgM syndrome shows high IgM with low IgG and presents in male infants, not an adult woman.",
+          "D": "Hyper-IgE syndrome is defined by markedly elevated IgE with cold abscesses, not low IgG and IgA.",
+          "E": "Wiskott-Aldrich syndrome presents in male infants with thrombocytopenia and eczema, not adult-onset hypogammaglobulinemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CVID",
+        "hypogammaglobulinemia",
+        "bronchiectasis"
+      ],
+      "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+    },
+    {
+      "id": "im15-007",
+      "stem": "A patient with STAT3-deficient hyper-IgE syndrome repeatedly forms skin abscesses that lack the usual warmth, redness, pain, and swelling. Which of the following best explains why these abscesses are 'cold'?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Failure to generate Th17 cells impairs IL-17-driven neutrophil recruitment"
+        },
+        {
+          "label": "B",
+          "text": "Absent CD40 ligand prevents B-cell class switching"
+        },
+        {
+          "label": "C",
+          "text": "Deficient interferon-gamma signaling prevents macrophage activation"
+        },
+        {
+          "label": "D",
+          "text": "A markedly low platelet count blunts the inflammatory response"
+        },
+        {
+          "label": "E",
+          "text": "Excess IgE triggers mast cell degranulation at the abscess site"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In HIES, loss of Th17 cells prevents IL-17-mediated neutrophil recruitment, producing inflammation-poor 'cold' abscesses.",
+        "whyCorrect": "STAT3 is required for Th17 differentiation, and Th17 cells secrete IL-17 to recruit neutrophils to sites of extracellular bacterial and fungal infection. Without neutrophil recruitment the infection is walled off in an abscess that lacks the heat, redness, pain, and swelling of normal inflammation, which is why HIES abscesses are described as 'cold.'",
+        "whyWrongByChoice": {
+          "B": "Absent CD40L is the defect in X-linked hyper-IgM syndrome and affects antibody class switching, not neutrophil-driven inflammation.",
+          "C": "Deficient IFN-gamma/macrophage activation defines MSMD and its mycobacterial infections, not the cold abscesses of HIES.",
+          "D": "Low platelets are the hallmark of Wiskott-Aldrich syndrome and cause bleeding, not cold abscesses.",
+          "E": "Although IgE is elevated in HIES, mast cell degranulation is not the mechanism of the cold abscesses; absent neutrophil recruitment is."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "hyper-IgE syndrome",
+        "Th17",
+        "cold abscess",
+        "neutrophils"
+      ],
+      "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+    },
+    {
+      "id": "im15-008",
+      "stem": "A 20-year-old man is found on routine testing to have an isolated low serum IgA with normal IgG, IgM, and IgE. He has had no serious infections. Which of the following best explains why he is asymptomatic despite his IgA deficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Redundant transcytosis of IgM through the polymeric Ig receptor compensates at mucosal surfaces"
+        },
+        {
+          "label": "B",
+          "text": "He compensates by producing elevated levels of IgE"
+        },
+        {
+          "label": "C",
+          "text": "His T cells overproduce interferon-gamma"
+        },
+        {
+          "label": "D",
+          "text": "His neutrophil count is markedly increased"
+        },
+        {
+          "label": "E",
+          "text": "IgG is transcytosed across mucosa in place of IgA"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Most patients with selective IgA deficiency are asymptomatic because redundant mechanisms, including IgM secretion via the pIgR, compensate.",
+        "whyCorrect": "Selective IgA deficiency is the most common adaptive IEI (incidence up to about 1:100), and most patients are asymptomatic. The relative lack of IgA is offset by redundant immune mechanisms: the polymeric Ig receptor normally transcytoses secretory IgA, and IgM can also bind the pIgR and be secreted into the mucosal lumen, providing backup mucosal protection.",
+        "whyWrongByChoice": {
+          "B": "Elevated IgE is a feature of hyper-IgE syndrome and does not substitute for mucosal IgA.",
+          "C": "Overproduction of IFN-gamma is not a compensatory mechanism described for IgA deficiency.",
+          "D": "The compensation is antibody-based redundancy at the mucosa, not an increase in neutrophils.",
+          "E": "The brick attributes the redundancy specifically to IgM binding the pIgR, not to IgG being transcytosed in place of IgA."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "selective IgA deficiency",
+        "polymeric Ig receptor",
+        "mucosal immunity"
+      ],
+      "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+    },
+    {
+      "id": "im15-009",
+      "stem": "A boy with X-linked hyper-IgM syndrome develops Pneumocystis jirovecii pneumonia and Cryptosporidium diarrhea in addition to recurrent pyogenic bacterial infections. Beyond the failure of B-cell class switching, which of the following mechanisms best explains his susceptibility to these opportunistic and intracellular organisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD40L is also required, together with IFN-gamma, to fully activate macrophages"
+        },
+        {
+          "label": "B",
+          "text": "STAT3 deficiency blocks Th17 development"
+        },
+        {
+          "label": "C",
+          "text": "Absent WASP impairs platelet function"
+        },
+        {
+          "label": "D",
+          "text": "An IL-12 receptor mutation prevents Th1 differentiation"
+        },
+        {
+          "label": "E",
+          "text": "Loss of secretory IgA weakens the mucosal barrier"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CD40 is also on macrophages, so CD40L loss impairs macrophage activation and causes opportunistic infections in X-HIMS.",
+        "whyCorrect": "CD40 is found on macrophages as well as B cells. CD40L, together with IFN-gamma, provides the full stimulation needed to activate macrophages. Because X-HIMS patients lack functional CD40L, they cannot fully activate macrophages and become susceptible to opportunistic and intracellular infections in addition to encapsulated bacterial infections.",
+        "whyWrongByChoice": {
+          "B": "STAT3/Th17 failure is the mechanism of hyper-IgE syndrome, not X-HIMS.",
+          "C": "Absent WASP causes the platelet and immune defects of Wiskott-Aldrich syndrome, not the CD40L defect here.",
+          "D": "IL-12 receptor mutations cause MSMD; the defect in this patient is CD40L, which also impairs macrophage activation via a different route.",
+          "E": "Loss of secretory IgA is the mechanism in selective IgA deficiency, which does not explain opportunistic macrophage-dependent infections."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "X-linked hyper-IgM",
+        "CD40",
+        "macrophage activation"
+      ],
+      "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+    },
+    {
+      "id": "im15-010",
+      "stem": "A 35-year-old man with common variable immunodeficiency is maintained on immunoglobulin replacement. In addition to bronchiectasis, which of the following malignancies is he at increased risk of developing and should be monitored for?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Non-Hodgkin lymphoma"
+        },
+        {
+          "label": "B",
+          "text": "Hodgkin lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Malignant melanoma"
+        },
+        {
+          "label": "D",
+          "text": "Chronic myeloid leukemia"
+        },
+        {
+          "label": "E",
+          "text": "Hepatocellular carcinoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CVID carries an increased risk of malignancy, especially non-Hodgkin lymphoma.",
+        "whyCorrect": "An important cause of morbidity and mortality in CVID is chronic lung disease, especially bronchiectasis, which affects 30 to 50 percent of patients. In addition, CVID patients are at increased risk of malignancy, especially non-Hodgkin lymphoma, so long-term monitoring for both bronchiectasis and lymphoma is recommended.",
+        "whyWrongByChoice": {
+          "B": "The brick specifically links CVID to non-Hodgkin lymphoma, not Hodgkin lymphoma.",
+          "C": "Malignant melanoma is not among the malignancies associated with CVID in this source.",
+          "D": "Chronic myeloid leukemia is not the malignancy CVID patients are noted to be at risk for.",
+          "E": "Hepatocellular carcinoma is not described as a CVID-associated cancer here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CVID",
+        "non-Hodgkin lymphoma",
+        "malignancy"
+      ],
+      "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+    },
+    {
+      "id": "im15-011",
+      "stem": "A 9-month-old boy has eczema and recurrent bacterial and viral infections, and Wiskott-Aldrich syndrome is suspected. Which of the following laboratory findings is required to make this diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Small platelets with a count below 70,000/microliter"
+        },
+        {
+          "label": "B",
+          "text": "Serum IgE above 1,000 IU/mL"
+        },
+        {
+          "label": "C",
+          "text": "Absent CD40 ligand on activated T cells"
+        },
+        {
+          "label": "D",
+          "text": "An isolated low serum IgA with normal IgG"
+        },
+        {
+          "label": "E",
+          "text": "Elevated serum IgM with low IgG and IgA"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Diagnosing WAS requires demonstrating small and few platelets (below 70,000/microliter) plus a confirmatory genetic or protein finding.",
+        "whyCorrect": "The diagnosis of WAS requires the presence of small and few platelets (below 70,000/microliter) along with one of the following: a WAS mutation, absent WAS protein, absent WAS mRNA by Northern blot, or affected male maternal relatives with few, small platelets. The small, low platelet count is the required hallmark.",
+        "whyWrongByChoice": {
+          "B": "Serum IgE above 1,000 IU/mL confirms hyper-IgE syndrome, not Wiskott-Aldrich syndrome.",
+          "C": "Absent CD40L on T cells is a confirmatory test for X-linked hyper-IgM syndrome.",
+          "D": "An isolated low IgA with normal IgG defines selective IgA deficiency.",
+          "E": "Elevated IgM with low IgG and IgA is the pattern of X-linked hyper-IgM syndrome, not WAS."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Wiskott-Aldrich syndrome",
+        "thrombocytopenia",
+        "diagnosis"
+      ],
+      "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+    },
+    {
+      "id": "im15-012",
+      "stem": "A 4-year-old with recurrent nontuberculous mycobacterial infections is diagnosed with MSMD caused by an IL-12 receptor beta-1 mutation; testing shows his interferon-gamma receptor is intact. In addition to aggressive antimycobacterial antibiotics, which of the following therapies is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Interferon-gamma therapy"
+        },
+        {
+          "label": "B",
+          "text": "Immunoglobulin replacement"
+        },
+        {
+          "label": "C",
+          "text": "Platelet transfusion"
+        },
+        {
+          "label": "D",
+          "text": "Belimumab"
+        },
+        {
+          "label": "E",
+          "text": "IgA-deficient blood products"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "MSMD is treated with aggressive antimycobacterials, and IFN-gamma therapy is used when the IFN-gamma receptor is intact.",
+        "whyCorrect": "Patients with active MSMD infections receive aggressive treatment with antimycobacterial antibiotics. Interferon-gamma therapy is appropriate when the IFN-gamma receptor is intact, as in this child whose defect is upstream at the IL-12 receptor, so supplying IFN-gamma can still activate downstream signaling; HSCT is another option in some cases.",
+        "whyWrongByChoice": {
+          "B": "Immunoglobulin replacement is used for antibody deficiencies such as CVID and X-HIMS, but MSMD patients have normal immunoglobulin levels.",
+          "C": "Platelet transfusion is part of managing Wiskott-Aldrich syndrome, not MSMD.",
+          "D": "Belimumab is an anti-BAFF biologic used in SLE, not a treatment for MSMD.",
+          "E": "IgA-deficient blood products are a precaution for selective IgA deficiency during transfusion, unrelated to MSMD therapy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "MSMD",
+        "interferon-gamma therapy",
+        "management"
+      ],
+      "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+    },
+    {
+      "id": "im16-001",
+      "stem": "A 34-year-old woman is evaluated in clinic because she feels she gets sick \"more than everyone else.\" Which of the following aspects of her history would most strongly prompt an evaluation for an underlying immunodeficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "One episode of community-acquired pneumonia three years ago"
+        },
+        {
+          "label": "B",
+          "text": "Two radiographically confirmed episodes of pneumonia within the past 12 months"
+        },
+        {
+          "label": "C",
+          "text": "A single uncomplicated urinary tract infection last winter"
+        },
+        {
+          "label": "D",
+          "text": "Seasonal allergic rhinitis each spring"
+        },
+        {
+          "label": "E",
+          "text": "One episode of streptococcal pharyngitis two years ago"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Recurrent infections that meet frequency thresholds, such as two or more pneumonias in a year, are a hallmark warning sign of immunodeficiency.",
+        "whyCorrect": "The brick lists recurrent infections as a warning sign, defined by high frequency such as at least 4 confirmed bacterial infections per year, at least 2 pneumonias per year, or at least 4 new ear infections in a year. Two documented pneumonias in a single year meets this threshold and warrants an immunodeficiency evaluation.",
+        "whyWrongByChoice": {
+          "A": "A single, remote episode of pneumonia is not recurrent and does not meet the frequency threshold that raises concern for immunodeficiency.",
+          "C": "One uncomplicated urinary tract infection is common in the general population and is not among the recurrent, severe, unusual, or persistent warning signs.",
+          "D": "Allergic rhinitis reflects atopy, not an increased susceptibility to serious or opportunistic infection.",
+          "E": "An isolated episode of streptococcal pharyngitis is a routine infection and does not indicate an underlying immune defect."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "warning signs",
+        "recurrent infection"
+      ],
+      "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+    },
+    {
+      "id": "im16-002",
+      "stem": "A 47-year-old man has had three episodes of pneumonia over two years, each localized to the right middle lobe. His immunoglobulin levels, lymphocyte subsets, and complement studies are all normal. Which of the following is the most likely explanation for his recurrent infections?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A localized anatomic abnormality of the airway"
+        },
+        {
+          "label": "B",
+          "text": "Common variable immunodeficiency"
+        },
+        {
+          "label": "C",
+          "text": "A late complement (MAC) deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Chronic granulomatous disease"
+        },
+        {
+          "label": "E",
+          "text": "X-linked agammaglobulinemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Recurrent infection confined to a single anatomic area is more likely due to a local anatomic defect than to a systemic immunodeficiency.",
+        "whyCorrect": "The brick teaches that infection in a single anatomic area is more likely due to a congenital or acquired anatomic abnormality (such as right middle lobe pneumonia from anatomic obstruction) than to immunodeficiency. His normal immune labs further argue against a systemic immune defect.",
+        "whyWrongByChoice": {
+          "B": "Common variable immunodeficiency causes hypogammaglobulinemia and infections at multiple sites; his immunoglobulin levels are normal and disease is localized.",
+          "C": "Late complement deficiencies predispose to recurrent Neisseria infections, not repeated same-lobe pneumonia, and his complement studies are normal.",
+          "D": "Chronic granulomatous disease causes recurrent abscesses with catalase-positive organisms across many sites, not isolated single-lobe pneumonia.",
+          "E": "X-linked agammaglobulinemia presents in early childhood with absent B cells and very low immunoglobulins, inconsistent with this adult and his normal labs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "anatomic cause",
+        "evaluation"
+      ],
+      "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+    },
+    {
+      "id": "im16-003",
+      "stem": "A 29-year-old man presents with progressive dyspnea and a dry cough. Chest imaging shows diffuse interstitial infiltrates, and bronchoalveolar lavage confirms Pneumocystis jirovecii pneumonia. A deficiency in which of the following is most likely responsible for this infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complement proteins"
+        },
+        {
+          "label": "B",
+          "text": "Neutrophil oxidative burst"
+        },
+        {
+          "label": "C",
+          "text": "T lymphocyte (cell-mediated) function"
+        },
+        {
+          "label": "D",
+          "text": "Splenic function"
+        },
+        {
+          "label": "E",
+          "text": "Immunoglobulin A"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pneumocystis jirovecii pneumonia is an opportunistic infection that reflects decreased T-cell (cell-mediated) function.",
+        "whyCorrect": "The brick identifies Pneumocystis jirovecii pneumonia as an opportunistic infection seen with low CD4 counts in HIV, and its review question specifies that this infection is most suggestive of decreased T-cell function. Recurrent opportunistic infection points to a cell-mediated immune defect.",
+        "whyWrongByChoice": {
+          "A": "Complement deficiencies predispose to recurrent Neisseria infection, not Pneumocystis pneumonia.",
+          "B": "A defective neutrophil oxidative burst (as in CGD) causes catalase-positive bacterial and fungal abscesses, not Pneumocystis pneumonia.",
+          "D": "Asplenia predisposes to overwhelming encapsulated bacterial infection, not to Pneumocystis, which is an opportunist controlled by T cells.",
+          "E": "Selective IgA deficiency predisposes to mucosal and sinopulmonary bacterial infections, not to opportunistic Pneumocystis pneumonia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HIV",
+        "T cell",
+        "opportunistic infection"
+      ],
+      "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+    },
+    {
+      "id": "im16-004",
+      "stem": "A 19-year-old college student is admitted with his second episode of Neisseria meningitidis meningitis in two years. Which of the following laboratory studies is most likely to reveal his underlying immune defect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Serum immunoglobulin (IgG, IgA, IgM) levels"
+        },
+        {
+          "label": "B",
+          "text": "Complement levels (CH50, AH50, C3, C4)"
+        },
+        {
+          "label": "C",
+          "text": "Neutrophil oxidative burst assay"
+        },
+        {
+          "label": "D",
+          "text": "HIV antigen/antibody screen"
+        },
+        {
+          "label": "E",
+          "text": "Hemoglobin A1c"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Recurrent Neisseria infection points to a complement deficiency, which is evaluated with CH50, AH50, C3, and C4.",
+        "whyCorrect": "The brick's evaluation schema lists recurrent or severe Neisseria gonorrhoeae or Neisseria meningitidis infection as the trigger to test complement, with a diagnostic workup of CH50, AH50, C3, and C4. Late (MAC) complement deficiencies specifically predispose to Neisseria infections.",
+        "whyWrongByChoice": {
+          "A": "Immunoglobulin levels evaluate humoral defects, which typically cause encapsulated bacterial and sinopulmonary infections rather than recurrent Neisseria meningitis.",
+          "C": "The oxidative burst assay screens for phagocytic defects such as CGD, which cause catalase-positive abscesses, not recurrent Neisseria disease.",
+          "D": "HIV is worth screening broadly, but recurrent Neisseria meningitis specifically implicates the complement pathway rather than CD4 T-cell loss.",
+          "E": "Hemoglobin A1c screens for diabetes; hyperglycemia impairs neutrophil function but is not the classic cause of recurrent Neisseria meningitis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "complement deficiency",
+        "Neisseria",
+        "evaluation"
+      ],
+      "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+    },
+    {
+      "id": "im16-005",
+      "stem": "A 2-year-old boy is evaluated for recurrent skin and liver abscesses caused by catalase-positive bacteria and fungi, including Serratia and Aspergillus. Which of the following is the most appropriate diagnostic test?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neutrophil oxidative burst assay"
+        },
+        {
+          "label": "B",
+          "text": "Serum immunoglobulin levels"
+        },
+        {
+          "label": "C",
+          "text": "CH50 and AH50 complement assays"
+        },
+        {
+          "label": "D",
+          "text": "Post-vaccination antibody titers"
+        },
+        {
+          "label": "E",
+          "text": "Neonatal TREC screen"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Recurrent abscesses from catalase-positive organisms suggest a phagocytic defect, evaluated with the neutrophil oxidative burst assay.",
+        "whyCorrect": "The pediatric evaluation schema directs that recurrent infection with catalase-positive bacteria and fungi, or abscesses and osteomyelitis, should raise suspicion for a phagocytic defect such as chronic granulomatous disease. The diagnostic evaluation includes the neutrophil oxidative burst assay and peripheral blood smear.",
+        "whyWrongByChoice": {
+          "B": "Immunoglobulin levels evaluate humoral defects, which present with encapsulated bacterial infections rather than catalase-positive abscesses.",
+          "C": "Complement assays are indicated for recurrent Neisseria infection, not for catalase-positive abscesses.",
+          "D": "Post-vaccination antibody titers assess humoral responsiveness, which is not the suspected defect in this phagocytic presentation.",
+          "E": "The TREC screen detects severe T-cell lymphopenia (SCID) at birth; it does not identify a phagocytic killing defect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "phagocytic defect",
+        "CGD",
+        "pediatric evaluation"
+      ],
+      "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+    },
+    {
+      "id": "im16-006",
+      "stem": "A 10-month-old boy has had recurrent bacterial sinopulmonary infections. Workup reveals absent B cells and markedly low serum immunoglobulins, and X-linked agammaglobulinemia is diagnosed. Which of the following is the most appropriate long-term treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Immunoglobulin replacement"
+        },
+        {
+          "label": "B",
+          "text": "Hematopoietic stem cell transplant"
+        },
+        {
+          "label": "C",
+          "text": "Vaccination with all available live vaccines"
+        },
+        {
+          "label": "D",
+          "text": "Interferon-gamma therapy"
+        },
+        {
+          "label": "E",
+          "text": "Discontinuation of any immunosuppressant"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Humoral inborn errors of immunity such as X-linked agammaglobulinemia are managed with immunoglobulin replacement.",
+        "whyCorrect": "The brick states that humoral IEIs lead to a loss of immunoglobulin, which can be replaced through intravenous or subcutaneous injection (IVIG or SCIG). Antibody deficiency is managed with immunoglobulin replacement with or without prophylactic antimicrobials.",
+        "whyWrongByChoice": {
+          "B": "Hematopoietic stem cell transplant is reserved for severe or combined immunodeficiencies (such as SCID or WAS), not for isolated antibody deficiency.",
+          "C": "Many patients with humoral IEIs should not receive live vaccinations because they may be severely immunocompromised.",
+          "D": "Interferon-gamma is used as prophylaxis in phagocytic defects such as chronic granulomatous disease, not in antibody deficiency.",
+          "E": "Discontinuing an immunosuppressant addresses a secondary immunodeficiency; this child has a primary humoral defect and is not on such a drug."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "humoral immunodeficiency",
+        "treatment",
+        "IVIG"
+      ],
+      "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+    },
+    {
+      "id": "im16-007",
+      "stem": "A 55-year-old woman takes several medications for rheumatoid arthritis and malignancy. Which of the following of her medications is least likely to cause a secondary immunodeficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Methotrexate"
+        },
+        {
+          "label": "B",
+          "text": "Cortisone"
+        },
+        {
+          "label": "C",
+          "text": "Ibuprofen"
+        },
+        {
+          "label": "D",
+          "text": "A B-cell-depleting monoclonal antibody"
+        },
+        {
+          "label": "E",
+          "text": "Adriamycin (chemotherapeutic agent)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "NSAIDs such as ibuprofen inhibit cyclooxygenase but do not cause meaningful immunosuppression.",
+        "whyCorrect": "The brick's review question makes clear that ibuprofen, an NSAID, inhibits the cyclooxygenase pathway but does not cause immune suppression, unlike the other listed drugs. Cancer chemotherapeutics, biologics, and corticosteroids all suppress immune cells or cytokines.",
+        "whyWrongByChoice": {
+          "A": "Methotrexate is a cytostatic immunosuppressant that decreases T- and B-cell proliferation and antibody responses.",
+          "B": "Corticosteroids such as cortisone decrease cytokines, phagocytosis, and chemotaxis, causing secondary immunodeficiency.",
+          "D": "A B-cell-depleting monoclonal antibody (for example, anti-CD20 rituximab) induces loss of B cells and predisposes to infection.",
+          "E": "Cancer chemotherapeutics such as adriamycin suppress the bone marrow and impair immune cell production."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "medications",
+        "secondary immunodeficiency"
+      ],
+      "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+    },
+    {
+      "id": "im16-008",
+      "stem": "A 58-year-old man with long-standing, poorly controlled type 2 diabetes mellitus presents with recurrent bacterial skin infections. Which of the following best explains his increased susceptibility to infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hyperglycemia impairs neutrophil function"
+        },
+        {
+          "label": "B",
+          "text": "A germline mutation causing absent B cells"
+        },
+        {
+          "label": "C",
+          "text": "A late complement (MAC) component deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Thymic aplasia with absent T cells"
+        },
+        {
+          "label": "E",
+          "text": "Autosplenectomy from repeated infarction"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Type 2 diabetes is a common medical cause of secondary immunodeficiency because hyperglycemia impairs neutrophil function.",
+        "whyCorrect": "The brick lists type 2 diabetes mellitus as one of the more common chronic medical causes of secondary immunodeficiency in adults, noting that hyperglycemia affects neutrophil function and cytokine production. This predisposes to recurrent bacterial infections.",
+        "whyWrongByChoice": {
+          "B": "Absent B cells from a germline defect describes a primary humoral IEI, not the acquired mechanism operating in diabetes.",
+          "C": "A late complement deficiency causes recurrent Neisseria infection and is a primary immune defect, not a consequence of diabetes.",
+          "D": "Thymic aplasia (as in DiGeorge syndrome) is a congenital T-cell disorder unrelated to acquired diabetic immune impairment.",
+          "E": "Autosplenectomy is characteristic of sickle cell disease; diabetes impairs immunity chiefly through neutrophil dysfunction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "secondary immunodeficiency",
+        "diabetes",
+        "neutrophils"
+      ],
+      "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+    },
+    {
+      "id": "im16-009",
+      "stem": "A 30-year-old man presents to the emergency department with fever, productive cough, and chills. A chest x-ray documents pneumonia, the second such episode in 12 months. He is sexually active with multiple male partners and takes no medications. A complete blood count with differential shows lymphopenia. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Test for HIV infection"
+        },
+        {
+          "label": "B",
+          "text": "Begin lifelong immunoglobulin replacement"
+        },
+        {
+          "label": "C",
+          "text": "Refer immediately for hematopoietic stem cell transplant"
+        },
+        {
+          "label": "D",
+          "text": "Order a neutrophil oxidative burst assay"
+        },
+        {
+          "label": "E",
+          "text": "Reassure him that two pneumonias in a year is normal"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In an adult with recurrent infection, lymphopenia, and HIV risk factors, secondary immunodeficiency from HIV should be evaluated first.",
+        "whyCorrect": "The brick teaches that adults are more likely to have a secondary immunodeficiency than an IEI, so evaluation should focus on secondary causes. This patient has an HIV risk factor, and the brick's case concludes he should be tested for HIV and treated if infected; lymphopenia further supports this.",
+        "whyWrongByChoice": {
+          "B": "Immunoglobulin replacement treats humoral IEIs; it is premature and inappropriate before identifying a likely secondary cause such as HIV.",
+          "C": "Hematopoietic stem cell transplant is reserved for severe or combined primary immunodeficiencies, not for a suspected secondary cause.",
+          "D": "The oxidative burst assay evaluates phagocytic defects (catalase-positive abscesses), which do not match this presentation.",
+          "E": "Two documented pneumonias in a year is a warning sign of immunodeficiency, so reassurance without evaluation is inappropriate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HIV",
+        "adult evaluation",
+        "case"
+      ],
+      "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+    },
+    {
+      "id": "im16-010",
+      "stem": "A 4-year-old child recovers from measles but over the following months develops several new bacterial and viral infections despite having previously been healthy. Which of the following best explains this transient increase in susceptibility?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Loss of memory B cells causing measles-associated immune suppression"
+        },
+        {
+          "label": "B",
+          "text": "A germline complement component deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Development of asplenia"
+        },
+        {
+          "label": "D",
+          "text": "Chronic hyperglycemia from new-onset diabetes"
+        },
+        {
+          "label": "E",
+          "text": "An adenosine deaminase (ADA) enzyme defect"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Measles can cause immunosuppression for months after the initial infection through loss of memory B cells.",
+        "whyCorrect": "The brick states that measles can cause immunosuppression months after the initial infection due to T- and B-cell dysfunction, especially loss of memory B cells. This erases prior immunologic memory and increases susceptibility to infections.",
+        "whyWrongByChoice": {
+          "B": "A complement deficiency is a lifelong primary defect predisposing to Neisseria infection, not a transient post-measles susceptibility.",
+          "C": "Asplenia is not a described consequence of measles; it predisposes to encapsulated organisms in conditions such as sickle cell disease.",
+          "D": "Diabetes-related immune impairment is unrelated to a recent measles infection.",
+          "E": "An ADA defect causes SCID, a congenital combined immunodeficiency present from birth, not a transient post-viral state."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "measles",
+        "secondary immunodeficiency",
+        "memory B cells"
+      ],
+      "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+    },
+    {
+      "id": "im16-011",
+      "stem": "A 5-month-old infant is diagnosed with severe combined immunodeficiency (SCID) after an abnormal newborn TREC screen. Which of the following interventions is contraindicated in this infant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Administration of a live attenuated vaccine"
+        },
+        {
+          "label": "B",
+          "text": "Prophylactic antimicrobial therapy"
+        },
+        {
+          "label": "C",
+          "text": "Evaluation for hematopoietic stem cell transplant"
+        },
+        {
+          "label": "D",
+          "text": "Immunoglobulin replacement"
+        },
+        {
+          "label": "E",
+          "text": "Isolation from sick contacts"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Live vaccines are contraindicated in severely immunocompromised patients, especially those with combined B- and T-cell defects.",
+        "whyCorrect": "The brick states that live virus vaccines are contraindicated in patients who are severely immunocompromised, especially those with B- and T-cell defects. An infant with SCID has a severe combined defect and could develop disseminated infection from a live vaccine.",
+        "whyWrongByChoice": {
+          "B": "Prophylactic antimicrobials are appropriate supportive care to prevent infection in a severely immunodeficient infant.",
+          "C": "Hematopoietic stem cell transplant is the definitive treatment for combined immunodeficiencies such as SCID.",
+          "D": "Immunoglobulin replacement is appropriate to compensate for absent antibody production while awaiting definitive therapy.",
+          "E": "Protecting the infant from sick contacts is a reasonable measure to reduce infection risk, not a contraindicated intervention."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "SCID",
+        "live vaccine",
+        "treatment"
+      ],
+      "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+    },
+    {
+      "id": "im16-012",
+      "stem": "A 62-year-old man taking a chronic immunosuppressant after a solid-organ transplant develops recurrent infections, and evaluation attributes this to a secondary immunodeficiency from his medication. Assuming it is clinically safe, which of the following is the most appropriate management approach?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Discontinue or modify the immunosuppressant"
+        },
+        {
+          "label": "B",
+          "text": "Begin interferon-gamma prophylaxis"
+        },
+        {
+          "label": "C",
+          "text": "Proceed to hematopoietic stem cell transplant"
+        },
+        {
+          "label": "D",
+          "text": "Administer all available live vaccines"
+        },
+        {
+          "label": "E",
+          "text": "Start lifelong immunoglobulin replacement regardless of levels"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Secondary immunodeficiency is managed by addressing the underlying cause, which for a drug-induced case means discontinuing or modifying the offending agent.",
+        "whyCorrect": "The brick states that management of secondary immunodeficiency usually requires addressing the underlying cause; if the patient is taking an immunosuppressant, treatment should be discontinued or modified if possible. Removing or reducing the causative drug directly reverses the immune impairment.",
+        "whyWrongByChoice": {
+          "B": "Interferon-gamma prophylaxis is used for phagocytic defects such as CGD, not for drug-induced secondary immunodeficiency.",
+          "C": "Hematopoietic stem cell transplant treats severe primary combined immunodeficiencies, not a reversible drug effect.",
+          "D": "Live vaccines are contraindicated in immunocompromised patients and would not address the underlying medication cause.",
+          "E": "Immunoglobulin replacement is directed at antibody deficiency; the first step here is to modify the causative immunosuppressant."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "secondary immunodeficiency",
+        "management",
+        "immunosuppressant"
+      ],
+      "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+    }
+  ]
+}

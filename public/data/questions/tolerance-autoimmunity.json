@@ -1,0 +1,1122 @@
+{
+  "categoryId": "tolerance-autoimmunity",
+  "categoryName": "Tolerance & Autoimmunity",
+  "questions": [
+    {
+      "id": "im11-001",
+      "stem": "A 4-month-old boy is evaluated for chronic watery diarrhea, failure to thrive, and weeping eczematous skin lesions. Laboratory studies show hyperglycemia consistent with new-onset type 1 diabetes and a markedly elevated serum IgE. A maternal uncle died in infancy of similar problems. Genetic testing identifies a loss-of-function mutation. Deficiency of which of the following is most directly responsible for this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "FOXP3-dependent regulatory T cells"
+        },
+        {
+          "label": "B",
+          "text": "Thymic negative selection of CD8+ T cells"
+        },
+        {
+          "label": "C",
+          "text": "Fas-mediated apoptosis of lymphocytes"
+        },
+        {
+          "label": "D",
+          "text": "B-cell receptor editing in the bone marrow"
+        },
+        {
+          "label": "E",
+          "text": "MHC class II expression on thymic epithelial cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Loss-of-function mutations in FOXP3 abolish functional regulatory T cells, producing IPEX syndrome.",
+        "whyCorrect": "The brick notes that X-linked loss-of-function mutations in the FOXP3 gene cause IPEX (Immune dysregulation, Polyendocrinopathy, Enteropathy, X-linked). Because FOXP3 is the master transcription factor for regulatory T cells, patients cannot generate functional Tregs and develop multi-organ autoimmunity (enteropathy, endocrinopathy such as type 1 diabetes) plus allergic inflammation in early infancy.",
+        "whyWrongByChoice": {
+          "B": "The enteropathy-endocrinopathy-eczema triad with elevated IgE in an X-linked infant is the FOXP3/Treg phenotype of IPEX; thymic negative selection is not the specifically implicated process here.",
+          "C": "Defective Fas-mediated apoptosis causes ALPS, which presents with lymphoproliferation (splenomegaly, lymphadenopathy) and autoimmune cytopenias, not this autoimmune enteropathy/diabetes/eczema picture.",
+          "D": "Receptor editing is a B-cell central tolerance mechanism in the bone marrow and is unrelated to this Treg-deficiency syndrome.",
+          "E": "Absent MHC class II (bare lymphocyte syndrome) causes an immunodeficiency with recurrent infections, not this triad of autoimmunity and allergy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "regulatory T cells",
+        "FOXP3",
+        "IPEX",
+        "central tolerance"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-002",
+      "stem": "During T-cell development, a thymocyte in the thymic medulla expresses a T-cell receptor that binds a self-peptide-MHC complex on a thymic epithelial cell with very high affinity. Which of the following is the most likely fate of this cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apoptosis through negative selection"
+        },
+        {
+          "label": "B",
+          "text": "Positive selection and export to the circulation"
+        },
+        {
+          "label": "C",
+          "text": "Differentiation into a CD8+ cytotoxic effector cell"
+        },
+        {
+          "label": "D",
+          "text": "Receptor editing of its antigen receptor"
+        },
+        {
+          "label": "E",
+          "text": "Anergy induced by lack of costimulation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Thymocytes that bind self-peptide-MHC with high affinity are deleted by negative selection.",
+        "whyCorrect": "The brick states that in the thymic medulla, developing single-positive T cells undergo negative selection: if they bind self-peptide-MHC with too strong an affinity, they are eliminated by apoptosis. This prevents strongly self-reactive T cells from reaching the periphery.",
+        "whyWrongByChoice": {
+          "B": "Cells that bind self-peptide-MHC only weakly are the ones positively selected and released to the circulation; strong binders are deleted.",
+          "C": "Strong self-binders are eliminated, not permitted to mature into effector cells; only intermediate binders may become Tregs.",
+          "D": "Receptor editing is a B-cell process in the bone marrow; T cells do not edit their receptors.",
+          "E": "Anergy is a peripheral tolerance mechanism resulting from lack of costimulation, not the fate of a thymocyte during central selection."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "central tolerance",
+        "negative selection",
+        "thymus",
+        "T cells"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-003",
+      "stem": "A 6-year-old girl has had years of massive nontender lymphadenopathy and splenomegaly along with recurrent autoimmune hemolytic anemia and thrombocytopenia. Peripheral blood shows an expanded population of autoreactive lymphocytes. A defect in which of the following best explains her disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fas-FasL-mediated apoptosis of lymphocytes"
+        },
+        {
+          "label": "B",
+          "text": "Generation of regulatory T cells in the thymus"
+        },
+        {
+          "label": "C",
+          "text": "Positive selection in the thymic cortex"
+        },
+        {
+          "label": "D",
+          "text": "IgA secretion across the gut epithelium"
+        },
+        {
+          "label": "E",
+          "text": "CD28-B7 costimulation of T cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Defective Fas-induced apoptosis causes autoimmune lymphoproliferative syndrome (ALPS).",
+        "whyCorrect": "The brick explains that individuals with defects in Fas-induced apoptosis accumulate circulating autoreactive T cells, producing ALPS. It presents in childhood with splenomegaly, hepatomegaly, and lymphadenopathy from lymphocyte buildup, and patients are susceptible to autoimmune cytopenias.",
+        "whyWrongByChoice": {
+          "B": "Loss of Treg generation causes IPEX, which presents in infancy with autoimmune enteropathy and endocrinopathy, not this chronic lymphoproliferation with cytopenias.",
+          "C": "A positive-selection defect would reduce the number of mature T cells (immunodeficiency), not cause accumulation of autoreactive lymphocytes.",
+          "D": "Gut IgA secretion relates to oral tolerance and has no role in this systemic lymphoproliferative, cytopenic picture.",
+          "E": "A CD28-B7 costimulation defect would impair T-cell activation, not cause lymphocyte accumulation and autoimmunity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "deletion",
+        "Fas",
+        "ALPS",
+        "peripheral tolerance"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-004",
+      "stem": "In an experiment, a naive CD4+ T cell encounters its cognate peptide-MHC complex on a resting antigen-presenting cell that does not express B7. The T cell survives but becomes unable to respond even when later given a fully activating stimulus. This state is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anergy"
+        },
+        {
+          "label": "B",
+          "text": "Negative selection"
+        },
+        {
+          "label": "C",
+          "text": "Positive selection"
+        },
+        {
+          "label": "D",
+          "text": "Clonal expansion"
+        },
+        {
+          "label": "E",
+          "text": "Receptor editing"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Recognition of antigen without CD28-B7 costimulation induces T-cell anergy.",
+        "whyCorrect": "The brick teaches that priming requires TCR binding to peptide-MHC plus costimulation through CD28-B7. When a T cell recognizes antigen without the CD28-B7 signal, it becomes anergic, a state of non-responsiveness that also shortens the cell's lifespan. B7 is upregulated on activated APCs, so T cells are normally primed only in an inflammatory environment.",
+        "whyWrongByChoice": {
+          "B": "Negative selection is deletion of self-reactive thymocytes in the thymus, not a peripheral response to missing costimulation.",
+          "C": "Positive selection occurs in the thymic cortex during development and does not describe this peripheral event.",
+          "D": "Clonal expansion is the outcome of successful activation, the opposite of the non-responsive state described.",
+          "E": "Receptor editing is a bone-marrow B-cell mechanism and does not apply to a peripheral T cell."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "anergy",
+        "costimulation",
+        "CD28",
+        "peripheral tolerance"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-005",
+      "stem": "A patient with metastatic melanoma is treated with a monoclonal antibody directed against CTLA-4 and subsequently develops immune-mediated colitis and hypophysitis. Under normal conditions, CTLA-4 maintains peripheral tolerance by which of the following mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Competing with CD28 for B7, reducing T-cell costimulation"
+        },
+        {
+          "label": "B",
+          "text": "Binding PD-L1 to deliver an inhibitory signal to T cells"
+        },
+        {
+          "label": "C",
+          "text": "Delivering perforin and granzymes into autoreactive T cells"
+        },
+        {
+          "label": "D",
+          "text": "Sequestering IL-2 through a high-affinity receptor"
+        },
+        {
+          "label": "E",
+          "text": "Editing the T-cell receptor to remove self-reactivity"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CTLA-4 dampens T-cell activation by outcompeting CD28 for B7.",
+        "whyCorrect": "The brick states that CTLA-4 molecules on Treg cells compete with CD28 for the binding of B7. When CTLA-4 binds B7 instead of CD28, the amount of B7 available to costimulate T cells through CD28 is reduced, suppressing activation. Blocking CTLA-4 therapeutically removes this brake and can trigger autoimmune toxicities.",
+        "whyWrongByChoice": {
+          "B": "Binding PD-L1 to shut off the activation signal is the mechanism of PD-1, a different checkpoint receptor.",
+          "C": "Killing autoreactive T cells with perforin and granzymes is a separate Treg suppressive mechanism, not how CTLA-4 works.",
+          "D": "Sequestering IL-2 is accomplished by the high-affinity IL-2 receptor CD25, a distinct Treg mechanism.",
+          "E": "T cells do not undergo receptor editing; that mechanism is limited to developing B cells."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CTLA-4",
+        "costimulation",
+        "checkpoint",
+        "regulatory T cells"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-006",
+      "stem": "A solid tumor biopsy shows abundant tumor-cell expression of PD-L1 and heavy infiltration by regulatory T cells, with poorly functioning cytotoxic T cells. Tumor PD-L1 most directly suppresses the T-cell response by which of the following mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Engaging PD-1 to switch off the T-cell activation signal"
+        },
+        {
+          "label": "B",
+          "text": "Blocking B7 from binding CD28 on T cells"
+        },
+        {
+          "label": "C",
+          "text": "Preventing positive selection of thymocytes"
+        },
+        {
+          "label": "D",
+          "text": "Inducing receptor editing in tumor-infiltrating B cells"
+        },
+        {
+          "label": "E",
+          "text": "Secreting IL-10 and TGF-beta from the tumor cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Tumor PD-L1 engages PD-1 on T cells to turn off their activation signal.",
+        "whyCorrect": "The brick explains that PD-1 on T cells turns off the activation signal when it encounters its ligands PD-L1 and PD-L2, and that tumors exploit this by expressing PD-L1 to escape immune death. Stable tumors are also often infiltrated by regulatory T cells, consistent with the biopsy findings.",
+        "whyWrongByChoice": {
+          "B": "Competing with CD28 for B7 is the mechanism of CTLA-4, not of PD-L1 engaging PD-1.",
+          "C": "Positive selection occurs in the thymus and is irrelevant to a peripheral tumor microenvironment.",
+          "D": "Receptor editing is a bone-marrow B-cell central tolerance process, not a function of tumor PD-L1.",
+          "E": "Although tumors do express anti-inflammatory molecules, PD-L1 is a surface ligand that acts by engaging PD-1, not by secreting cytokines."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PD-1",
+        "PD-L1",
+        "tumor immune evasion",
+        "peripheral tolerance"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-007",
+      "stem": "An immature B cell in the bone marrow binds a self-antigen through its B-cell receptor. Rather than dying, it initiates a new round of V-J recombination at a light-chain locus, replacing its light chain and producing a receptor that no longer binds self-antigen. This rescue process is called which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Receptor editing"
+        },
+        {
+          "label": "B",
+          "text": "Somatic hypermutation"
+        },
+        {
+          "label": "C",
+          "text": "Class-switch recombination"
+        },
+        {
+          "label": "D",
+          "text": "Negative selection"
+        },
+        {
+          "label": "E",
+          "text": "Affinity maturation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Salvaging a self-reactive B cell by new light-chain rearrangement is receptor editing.",
+        "whyCorrect": "The brick describes that some self-reactive immature B cells are salvaged rather than deleted: through receptor editing the cell starts another round of V-J recombination at the kappa or lambda light-chain loci to generate a receptor that no longer binds self-antigen, allowing it to leave the bone marrow.",
+        "whyWrongByChoice": {
+          "B": "Somatic hypermutation occurs in germinal centers to increase antibody affinity, not to remove self-reactivity during central tolerance.",
+          "C": "Class-switch recombination changes the heavy-chain isotype of the antibody, not the light chain used for tolerance editing.",
+          "D": "Negative selection deletes the self-reactive cell by apoptosis; here the cell is instead rescued.",
+          "E": "Affinity maturation is the germinal-center process that increases receptor affinity, unrelated to this bone-marrow rescue."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "receptor editing",
+        "B cells",
+        "central tolerance",
+        "bone marrow"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-008",
+      "stem": "Regulatory T cells constitutively express CD25, the high-affinity alpha-chain of the IL-2 receptor. This feature contributes to peripheral tolerance primarily by which of the following mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Consuming local IL-2 and depriving effector T cells of a growth signal"
+        },
+        {
+          "label": "B",
+          "text": "Presenting self-antigen on MHC class II to delete effector T cells"
+        },
+        {
+          "label": "C",
+          "text": "Providing costimulation to autoreactive T cells"
+        },
+        {
+          "label": "D",
+          "text": "Editing the antigen receptors of neighboring T cells"
+        },
+        {
+          "label": "E",
+          "text": "Secreting perforin to lyse dendritic cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The high-affinity IL-2 receptor lets Tregs soak up IL-2 needed by other T cells.",
+        "whyCorrect": "The brick lists expression of the high-affinity IL-2 receptor (CD25) as a Treg suppressive mechanism: the receptor soaks up available IL-2, an important T-cell proliferation and survival factor, so that with less IL-2 other T cells are deprived.",
+        "whyWrongByChoice": {
+          "B": "Tregs suppress responses rather than presenting self-antigen to actively delete effector T cells; that is not the role of CD25.",
+          "C": "Tregs inhibit costimulation (for example via CTLA-4); they do not provide costimulation to autoreactive cells.",
+          "D": "Receptor editing occurs only in developing B cells and cannot be performed on neighboring T cells.",
+          "E": "Tregs can kill autoreactive T cells with perforin and granzymes, but that is a separate mechanism distinct from the IL-2 sequestration function of CD25."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "regulatory T cells",
+        "CD25",
+        "IL-2",
+        "suppression"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-009",
+      "stem": "An 8-year-old girl with a severe peanut allergy (anaphylaxis to trace amounts) completes a year of oral immunotherapy and can now eat a few peanuts without reaction. Her response has shifted from a Th2/IgE-dominated one toward one dominated by regulatory T cells and IgA. This tolerance was most likely established by which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tolerogenic gut dendritic cells inducing regulatory T cells via retinoic acid and TGF-beta"
+        },
+        {
+          "label": "B",
+          "text": "Negative selection of peanut-reactive thymocytes"
+        },
+        {
+          "label": "C",
+          "text": "FcgammaRIIB-mediated shutdown of mast cells"
+        },
+        {
+          "label": "D",
+          "text": "Fas-mediated deletion of all peanut-reactive B cells"
+        },
+        {
+          "label": "E",
+          "text": "Loss of CD40-CD40L costimulation in the draining lymph node"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Oral tolerance is driven by tolerogenic gut dendritic cells that generate induced Tregs.",
+        "whyCorrect": "The brick teaches that in the gut, tolerogenic dendritic cells promote differentiation of T cells into regulatory T cells (induced Tregs) via retinoic acid and TGF-beta, generating anti-inflammatory responses to food antigens. This matches the case where slow oral exposure shifted the peanut response from Th2/IgE toward Tregs and IgA.",
+        "whyWrongByChoice": {
+          "B": "Central tolerance in the thymus cannot select against a food antigen encountered later in life; oral tolerance is a peripheral mechanism.",
+          "C": "FcgammaRIIB is a B-cell inhibitory receptor and is not the driver of this Th2-to-Treg shift.",
+          "D": "The described Treg/IgA shift reflects active regulation, not wholesale Fas-mediated deletion of peanut-reactive B cells.",
+          "E": "Loss of CD40 help causes B-cell anergy generally, but it is not the gut mechanism that generates induced Tregs during oral tolerance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "oral tolerance",
+        "iTregs",
+        "dendritic cells",
+        "IgA"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-010",
+      "stem": "During a normal pregnancy the maternal immune system does not reject the fetus, whose tissues express antigens from the other biological parent. Which of the following best explains this immune privilege at the maternal-fetal interface?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Placental cells express Fas ligand and, with Tregs and TGF-beta/IL-10, suppress local lymphocytes"
+        },
+        {
+          "label": "B",
+          "text": "The fetus lacks all MHC molecules and is therefore immunologically invisible"
+        },
+        {
+          "label": "C",
+          "text": "Maternal and fetal blood mix freely, diluting reactive lymphocytes"
+        },
+        {
+          "label": "D",
+          "text": "The fetal thymus negatively selects maternal T cells"
+        },
+        {
+          "label": "E",
+          "text": "Maternal B cells undergo receptor editing against paternal antigens"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The placenta actively enforces immune privilege through FasL, Tregs, and anti-inflammatory cytokines.",
+        "whyCorrect": "The brick explains that Tregs help prevent an immune response against fetal tissues, that TGF-beta and IL-10 are increased at the placental barrier, and that placental cells express Fas ligand to induce apoptosis in lymphocytes that cross the barrier. Immune privilege is thus actively generated, not merely a physical barrier.",
+        "whyWrongByChoice": {
+          "B": "The brick states privilege is actively generated; the fetus is not simply MHC-null and invisible.",
+          "C": "The brick specifically notes the two blood supplies do not directly mix, so dilution by mixing is incorrect.",
+          "D": "The fetal thymus selects the fetus's own developing T cells; it does not negatively select maternal T cells.",
+          "E": "Receptor editing is a bone-marrow central tolerance process and is not the mechanism of maternal-fetal immune privilege."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "immune privilege",
+        "placenta",
+        "FasL",
+        "regulatory T cells"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-011",
+      "stem": "A self-reactive B cell in a lymph node binds a T-dependent self-antigen with its B-cell receptor but receives no CD40-mediated help from a helper T cell, because the corresponding self-reactive helper T cells have already been tolerized. Which of the following is the most likely outcome for this B cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It becomes anergic and non-responsive"
+        },
+        {
+          "label": "B",
+          "text": "It is positively selected and enters the circulation"
+        },
+        {
+          "label": "C",
+          "text": "It undergoes robust clonal expansion and antibody secretion"
+        },
+        {
+          "label": "D",
+          "text": "It differentiates into a regulatory B cell in the thymus"
+        },
+        {
+          "label": "E",
+          "text": "It performs receptor editing to change its heavy chain"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A self-reactive B cell that gets no T-cell (CD40) help becomes anergic.",
+        "whyCorrect": "The brick states that B cells require a second signal (CD40) to respond to T-dependent antigens; if a B cell recognizes a self-peptide and does not receive help from T cells, it becomes anergic. Because the helper T cells needed to provide CD40 signaling are already tolerized, the B cell cannot be activated.",
+        "whyWrongByChoice": {
+          "B": "Positive selection is a bone-marrow central tolerance event, not a peripheral response to lack of T-cell help.",
+          "C": "Without the required second signal, the B cell cannot be fully activated to expand and secrete antibody.",
+          "D": "B cells do not mature in the thymus, and differentiation into a thymic regulatory B cell is not a described mechanism.",
+          "E": "Receptor editing occurs in the bone marrow and involves the light chain, not peripheral heavy-chain editing."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "B cells",
+        "anergy",
+        "CD40",
+        "peripheral tolerance"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-012",
+      "stem": "In the periphery, high levels of circulating IgG engage a low-affinity inhibitory Fc receptor on B cells, downregulating antibody production and promoting apoptosis. Which of the following receptors mediates this inhibitory signal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "FcgammaRIIB"
+        },
+        {
+          "label": "B",
+          "text": "CD40"
+        },
+        {
+          "label": "C",
+          "text": "CD28"
+        },
+        {
+          "label": "D",
+          "text": "PD-1"
+        },
+        {
+          "label": "E",
+          "text": "CTLA-4"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "FcgammaRIIB is the inhibitory IgG Fc receptor that dampens B-cell responses.",
+        "whyCorrect": "The brick describes that B cells express inhibitory receptors, the most studied being FcgammaRIIB, a low-affinity receptor for IgG. When IgG levels are high and sufficient FcgammaRIIB binding occurs, the resulting signals downregulate antibody production, prevent signaling through the BCR, and promote apoptosis.",
+        "whyWrongByChoice": {
+          "B": "CD40 delivers activating help (signal 2) to B cells rather than an inhibitory signal.",
+          "C": "CD28 is a costimulatory, activating receptor on T cells, not a B-cell inhibitory Fc receptor.",
+          "D": "PD-1 is an inhibitory checkpoint receptor on T cells, not the B-cell receptor for IgG Fc.",
+          "E": "CTLA-4 is expressed on T cells and inhibits by competing for B7; it is not an Fc receptor."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "B cells",
+        "FcgammaRIIB",
+        "inhibitory receptor",
+        "peripheral tolerance"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im21-001",
+      "stem": "A 9-year-old boy of Mediterranean descent has recurrent 1- to 3-day episodes of high fever with severe abdominal pain, an erysipelas-like rash on the lower leg, and painful swelling of a single ankle. Episodes resolve spontaneously, and between attacks he is well. Extensive testing shows neutrophilic inflammation but no autoantibodies, and the pattern is autosomal recessive. Which of the following best explains the underlying mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoantibodies directed against a joint self-antigen"
+        },
+        {
+          "label": "B",
+          "text": "Pyrin loss-of-function leading to unchecked inflammasome activity and IL-1 overexpression"
+        },
+        {
+          "label": "C",
+          "text": "MHC class II presentation of a self-peptide to helper T cells"
+        },
+        {
+          "label": "D",
+          "text": "Molecular mimicry following a streptococcal infection"
+        },
+        {
+          "label": "E",
+          "text": "Failure of negative selection allowing autoreactive T cells to escape the thymus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Familial Mediterranean fever is a monogenic autoinflammatory disease driven by dysregulated innate immunity, not autoantibodies.",
+        "whyCorrect": "The brick states that pyrin is a suppressor of the inflammasome and that two autosomal recessive autoinflammatory diseases, familial Mediterranean fever (FMF) and mevalonate kinase deficiency, result from pyrin loss-of-function. This causes increased inflammasome activity and IL-1 overexpression. The described FMF symptoms (fever, peritonitis, erysipelas-like rash, and single-joint arthritis) match the brick exactly and reflect neutrophil/macrophage-driven inflammation.",
+        "whyWrongByChoice": {
+          "A": "Autoantibodies define autoimmune, not autoinflammatory, disease; FMF produces no self-reactive antibodies.",
+          "C": "MHC class II presentation to helper T cells is an adaptive/autoimmune mechanism, whereas FMF is an innate autoinflammatory disorder.",
+          "D": "Molecular mimicry underlies infection-triggered autoimmunity such as rheumatic fever, not a hereditary periodic fever syndrome.",
+          "E": "Escaped negative selection is a tolerance-failure mechanism of autoimmunity and does not explain an IL-1-driven autoinflammatory syndrome."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "autoinflammatory disease",
+        "familial Mediterranean fever",
+        "inflammasome"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-002",
+      "stem": "A 7-year-old girl with familial Mediterranean fever continues to have frequent febrile flares despite colchicine. Her physician starts canakinumab, and the attacks subside. Which of the following best describes how this drug works?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It neutralizes TNF-alpha"
+        },
+        {
+          "label": "B",
+          "text": "It binds IL-1 and prevents it from binding its receptor"
+        },
+        {
+          "label": "C",
+          "text": "It depletes circulating B cells"
+        },
+        {
+          "label": "D",
+          "text": "It inhibits the complement protein C5"
+        },
+        {
+          "label": "E",
+          "text": "It blocks the IL-6 receptor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Canakinumab is an anti-IL-1 monoclonal antibody used for IL-1-driven autoinflammatory disease.",
+        "whyCorrect": "The brick explicitly names canakinumab as a monoclonal antibody that binds IL-1 and prevents it from binding to its receptor, and lists it as a possible treatment for both FMF and mevalonate kinase deficiency, which feature IL-1 overexpression from excess inflammasome activity.",
+        "whyWrongByChoice": {
+          "A": "TNF-alpha is one of the three major pro-inflammatory cytokines, but canakinumab targets IL-1, not TNF-alpha.",
+          "C": "Canakinumab does not deplete B cells; it neutralizes a cytokine.",
+          "D": "Complement C5 inhibition is unrelated to canakinumab's mechanism.",
+          "E": "Blocking the IL-6 receptor describes a different agent; canakinumab acts on IL-1."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "autoinflammatory disease",
+        "IL-1",
+        "treatment"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-003",
+      "stem": "A 22-year-old man has months of crampy abdominal pain, non-bloody diarrhea, fatigue, and a 6-kg weight loss. Colonoscopy shows patchy transmural inflammation of the terminal ileum, and two of his relatives have a similar illness. Which of the following genetic changes is most strongly associated with his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "HLA-B27 allele"
+        },
+        {
+          "label": "B",
+          "text": "A NOD2 mutation causing inappropriate NF-kB activation in monocytes"
+        },
+        {
+          "label": "C",
+          "text": "A CTLA-4 allele that reduces its expression"
+        },
+        {
+          "label": "D",
+          "text": "A pyrin loss-of-function mutation"
+        },
+        {
+          "label": "E",
+          "text": "A FOXP3 mutation abolishing regulatory T cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Crohn disease is an autoinflammatory IBD whose strongest risk factor is a NOD2 mutation.",
+        "whyCorrect": "The brick states that the strongest risk factor for Crohn disease is a mutation in NOD2, a pattern-recognition receptor that recognizes microbial components. Mutated NOD2 leads to inappropriate NF-kB activation in monocytes; carrying two mutated alleles raises risk 20- to 40-fold. The transmural ileal inflammation, weight loss, and diarrhea match the brick's description of Crohn disease.",
+        "whyWrongByChoice": {
+          "A": "HLA-B27 is tied to spondyloarthropathies; although IBD-associated arthritis is B27-linked, the strongest Crohn risk factor is NOD2.",
+          "C": "A CTLA-4 allele is an intrinsic risk factor cited for celiac disease, rheumatoid arthritis, and SLE, not the principal Crohn factor.",
+          "D": "Pyrin mutations cause familial Mediterranean fever, not Crohn disease.",
+          "E": "FOXP3 loss causes the monogenic autoimmune syndrome IPEX, not Crohn disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Crohn disease",
+        "NOD2",
+        "autoinflammatory disease"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-004",
+      "stem": "A 30-year-old woman has chronic diarrhea, bloating, and weight loss. Duodenal biopsy shows villous atrophy, and her symptoms and histology normalize on a strict gluten-free diet. Which HLA subtype is most strongly associated with her disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "HLA-B27"
+        },
+        {
+          "label": "B",
+          "text": "HLA-DR2"
+        },
+        {
+          "label": "C",
+          "text": "HLA-DQ2/DQ8"
+        },
+        {
+          "label": "D",
+          "text": "HLA-DR4"
+        },
+        {
+          "label": "E",
+          "text": "HLA-B8"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Celiac disease is associated with HLA-DQ2/DQ8 and is a type IV hypersensitivity reaction to gluten peptides.",
+        "whyCorrect": "Table 1 of the brick pairs HLA-DQ2/DQ8 with celiac disease. The brick adds that celiac disease is a type IV hypersensitivity directed against gluten and human epithelial proteins, that ~95% of patients express HLA-DQ2 with the rest carrying DQ8, and that risk is dose-dependent. Gluten-responsive villous atrophy is classic celiac disease.",
+        "whyWrongByChoice": {
+          "A": "HLA-B27 is associated with ankylosing spondylitis and other spondyloarthropathies, not celiac disease.",
+          "B": "HLA-DR2 is linked to multiple sclerosis, SLE, and Goodpasture syndrome.",
+          "D": "HLA-DR4 is associated with rheumatoid arthritis, type 1 diabetes, and Addison disease.",
+          "E": "HLA-B8 is not among the HLA-disease associations emphasized in the brick for this presentation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "celiac disease",
+        "HLA",
+        "hypersensitivity"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-005",
+      "stem": "Three weeks after an untreated sore throat, a 10-year-old boy develops migratory polyarthritis, a new heart murmur, subcutaneous nodules, and a serpiginous rash. Which of the following best explains the pathogenesis of his illness?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytotoxic T cells killing uninfected bystander cardiac cells"
+        },
+        {
+          "label": "B",
+          "text": "Antibodies to streptococcal M protein cross-reacting with structurally similar cardiac proteins"
+        },
+        {
+          "label": "C",
+          "text": "Epitope spreading to nuclear self-antigens"
+        },
+        {
+          "label": "D",
+          "text": "Direct bacterial invasion of the myocardium"
+        },
+        {
+          "label": "E",
+          "text": "IgE-mediated mast cell degranulation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Acute rheumatic fever is a type II hypersensitivity reaction caused by molecular mimicry.",
+        "whyCorrect": "The brick describes acute rheumatic fever as a type 2 hypersensitivity reaction driven by antibodies generated through molecular mimicry: the patient makes antibodies against Streptococcus pyogenes M protein, and after the infection clears these antibodies bind cardiac proteins that resemble M protein. This produces the classic migratory polyarthritis, pancarditis, skin nodules, erythema marginatum, and Sydenham chorea described.",
+        "whyWrongByChoice": {
+          "A": "Bystander activation involves CTLs during active infection, whereas rheumatic fever is antibody-mediated via mimicry after the infection clears.",
+          "C": "Epitope spreading broadens an established autoimmune response and is highlighted for MS, SLE, T1DM, and pemphigus, not for the initiation of rheumatic fever.",
+          "D": "Rheumatic carditis results from cross-reactive antibodies, not direct bacterial invasion of the heart.",
+          "E": "IgE-mediated (type I) hypersensitivity is not the mechanism; rheumatic fever is a type II antibody-mediated reaction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "molecular mimicry",
+        "rheumatic fever",
+        "hypersensitivity"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-006",
+      "stem": "A 28-year-old woman reports drooping eyelids and double vision that worsen through the day, along with fatigable limb weakness. Serum testing detects antibodies against the acetylcholine receptor. Which of the following best classifies the mechanism of her disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Immune-complex deposition (type III hypersensitivity)"
+        },
+        {
+          "label": "B",
+          "text": "Autoantibody against the acetylcholine receptor causing cellular dysfunction (type II hypersensitivity)"
+        },
+        {
+          "label": "C",
+          "text": "T-cell-mediated delayed hypersensitivity (type IV)"
+        },
+        {
+          "label": "D",
+          "text": "IgE-mediated mast cell activation (type I)"
+        },
+        {
+          "label": "E",
+          "text": "Inflammasome-driven IL-1 overexpression"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Myasthenia gravis is a type II hypersensitivity in which anti-AChR autoantibodies block receptor function.",
+        "whyCorrect": "The brick states that autoantibody directed to the acetylcholine receptor (anti-AChR) induces myasthenia gravis, a type 2 hypersensitivity reaction characterized by cellular dysfunction. It also notes in the summary that antigen specificity determines effect, with the anti-AChR antibody blocking receptor function, matching the fatigable weakness described.",
+        "whyWrongByChoice": {
+          "A": "Type III immune-complex disease describes conditions like SLE and rheumatoid arthritis, not the receptor-blocking mechanism of myasthenia gravis.",
+          "C": "Type IV delayed hypersensitivity is T-cell mediated (e.g., celiac disease), not the antibody-mediated process here.",
+          "D": "Type I IgE-mediated allergy is unrelated to anti-AChR autoantibodies.",
+          "E": "IL-1-driven inflammasome activity is an autoinflammatory (innate) mechanism, whereas myasthenia gravis is an autoantibody-mediated autoimmune disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "myasthenia gravis",
+        "hypersensitivity",
+        "autoantibody"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-007",
+      "stem": "A 26-year-old woman has a malar rash, arthralgias, and fatigue. Laboratory studies show a positive ANA with anti-double-stranded DNA and anti-Sm antibodies, and renal biopsy reveals immune-complex deposition. This disease is best classified as which type of hypersensitivity reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type I"
+        },
+        {
+          "label": "B",
+          "text": "Type II"
+        },
+        {
+          "label": "C",
+          "text": "Type III, immune-complex mediated"
+        },
+        {
+          "label": "D",
+          "text": "Type IV"
+        },
+        {
+          "label": "E",
+          "text": "An autoinflammatory reaction of the innate immune system"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "SLE is a type III hypersensitivity disease driven by autoantibodies to nuclear antigens forming immune complexes.",
+        "whyCorrect": "The brick identifies SLE as a type 3 hypersensitivity reaction causing systemic inflammation and notes that SLE patients may have anti-DNA, anti-Sm, anti-histone, anti-Ro, and anti-La antibodies directed at nuclear and organelle proteins. Immune-complex deposition (as in the renal biopsy) is the hallmark of type III reactions.",
+        "whyWrongByChoice": {
+          "A": "Type I is IgE-mediated allergy and does not describe immune-complex lupus.",
+          "B": "Type II involves antibodies against a fixed cell or tissue antigen (e.g., anti-AChR in myasthenia gravis), not soluble immune complexes.",
+          "D": "Type IV is T-cell mediated (e.g., celiac disease), whereas SLE is antibody/immune-complex driven.",
+          "E": "SLE is an adaptive autoimmune disease with autoantibodies, not an innate autoinflammatory disorder."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "systemic lupus erythematosus",
+        "hypersensitivity",
+        "autoantibody"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-008",
+      "stem": "A researcher studies why a patient's mature T cells attack a normal self-protein. She concludes the T cell should have been eliminated while still developing but was not. Which tolerance process most likely failed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anergy"
+        },
+        {
+          "label": "B",
+          "text": "Negative selection in the thymus"
+        },
+        {
+          "label": "C",
+          "text": "Bystander activation"
+        },
+        {
+          "label": "D",
+          "text": "Affinity maturation"
+        },
+        {
+          "label": "E",
+          "text": "Complement activation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Central tolerance uses negative selection in the thymus to delete developing self-reactive T cells.",
+        "whyCorrect": "The brick explains that central tolerance occurs in the thymus (T cells) and bone marrow (B cells) and consists of deleting self-reactive lymphocytes by negative selection, acting on developing lymphocytes. A self-reactive T cell that should have been removed during development escaped negative selection.",
+        "whyWrongByChoice": {
+          "A": "Anergy is a peripheral tolerance mechanism acting on already-circulating mature lymphocytes, not developing ones.",
+          "C": "Bystander activation is an infection-driven mechanism of breaking tolerance, not a developmental deletion step.",
+          "D": "Affinity maturation refines antibody binding and does not delete autoreactive cells.",
+          "E": "Complement activation is an effector amplification loop, unrelated to lymphocyte development."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "central tolerance",
+        "negative selection",
+        "tolerance"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-009",
+      "stem": "A student is asked how peripheral tolerance differs from central tolerance. Which of the following statements is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peripheral tolerance occurs only within the thymus"
+        },
+        {
+          "label": "B",
+          "text": "Peripheral tolerance relies solely on negative selection of developing lymphocytes"
+        },
+        {
+          "label": "C",
+          "text": "Peripheral tolerance can additionally induce tolerance to harmless foreign antigens such as food"
+        },
+        {
+          "label": "D",
+          "text": "Peripheral tolerance generates MHC molecules for antigen presentation"
+        },
+        {
+          "label": "E",
+          "text": "Peripheral tolerance is independent of regulatory T cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Peripheral tolerance controls circulating lymphocytes and can extend to harmless foreign antigens, not just self.",
+        "whyCorrect": "The brick states that central tolerance induces tolerance against self-antigens, while peripheral tolerance can additionally induce tolerance against harmless foreign antigens, such as food. Peripheral tolerance acts on circulating lymphocytes through deletion, anergy, and inhibition by regulatory T cells.",
+        "whyWrongByChoice": {
+          "A": "The thymus is the site of central tolerance; peripheral tolerance acts on circulating lymphocytes in the periphery.",
+          "B": "Negative selection is a central tolerance mechanism; peripheral tolerance uses deletion, anergy, and Treg inhibition.",
+          "D": "Tolerance mechanisms do not generate MHC molecules; MHC is encoded by HLA genes.",
+          "E": "Regulatory T cells are central to peripheral tolerance, so it is not independent of them."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "peripheral tolerance",
+        "regulatory T cells",
+        "tolerance"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-010",
+      "stem": "A patient with an established autoimmune disease initially had antibodies to a single self-protein, but over years develops reactivity to several additional self-antigens as tissue damage releases previously hidden epitopes. Which phenomenon best describes this expansion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Molecular mimicry"
+        },
+        {
+          "label": "B",
+          "text": "Epitope spreading"
+        },
+        {
+          "label": "C",
+          "text": "Bystander activation"
+        },
+        {
+          "label": "D",
+          "text": "Central tolerance"
+        },
+        {
+          "label": "E",
+          "text": "Negative selection"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Epitope spreading is the amplification of autoimmunity as the response expands to additional self-epitopes.",
+        "whyCorrect": "The brick defines epitope spreading as expansion of the immune response beyond its initial target to recognize additional epitopes within the same or different molecules, made accessible by proteolysis, oxidative modification, or structural changes in damaged tissue. It cites evidence in multiple sclerosis, SLE, type 1 diabetes, and pemphigus vulgaris.",
+        "whyWrongByChoice": {
+          "A": "Molecular mimicry describes cross-reactivity between microbial and self-antigens that share homology, not progressive broadening to new self-epitopes.",
+          "C": "Bystander activation refers to CTL-mediated killing of nearby uninfected cells during infection, not expanding antigen recognition over time.",
+          "D": "Central tolerance is a protective deletion process, not a mechanism of disease expansion.",
+          "E": "Negative selection removes autoreactive developing lymphocytes and does not broaden an autoimmune response."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "epitope spreading",
+        "amplification",
+        "autoimmunity"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-011",
+      "stem": "A 24-year-old man has several months of low back pain and morning stiffness that improve with exercise; imaging shows sacroiliitis. He previously had an episode of reactive arthritis. Which HLA subtype is most associated with his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "HLA-DR4"
+        },
+        {
+          "label": "B",
+          "text": "HLA-B27"
+        },
+        {
+          "label": "C",
+          "text": "HLA-DQ2"
+        },
+        {
+          "label": "D",
+          "text": "HLA-DR2"
+        },
+        {
+          "label": "E",
+          "text": "HLA-DQ8"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "HLA-B27 is linked to ankylosing spondylitis and the other seronegative spondyloarthropathies.",
+        "whyCorrect": "Table 1 associates HLA-B27 with psoriatic arthritis, ankylosing spondylitis, IBD-associated arthritis, and reactive arthritis. Inflammatory back pain with sacroiliitis that improves with exercise, plus prior reactive arthritis, fits the B27-associated spondyloarthropathy spectrum.",
+        "whyWrongByChoice": {
+          "A": "HLA-DR4 is associated with rheumatoid arthritis, type 1 diabetes, and Addison disease.",
+          "C": "HLA-DQ2 is associated with celiac disease.",
+          "D": "HLA-DR2 is associated with multiple sclerosis, SLE, and Goodpasture syndrome.",
+          "E": "HLA-DQ8 is associated with celiac disease, not spondyloarthropathy."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HLA-B27",
+        "ankylosing spondylitis",
+        "HLA"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-012",
+      "stem": "An epidemiologist notes that most autoimmune diseases are more common in women, especially those of child-bearing age. According to the brick, which postulated mechanism best explains this sex difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Estrogen enhances negative selection in the thymus"
+        },
+        {
+          "label": "B",
+          "text": "High levels of estrogen may reduce apoptosis of autoreactive lymphocytes"
+        },
+        {
+          "label": "C",
+          "text": "Testosterone directly stimulates autoantibody production"
+        },
+        {
+          "label": "D",
+          "text": "Pregnancy permanently deletes all regulatory T cells"
+        },
+        {
+          "label": "E",
+          "text": "Estrogen upregulates MHC class I on nucleated cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The brick attributes the female predominance of autoimmune disease to estrogen limiting apoptosis of autoreactive lymphocytes.",
+        "whyCorrect": "The brick lists sex and age as intrinsic risk factors, noting most known autoimmune diseases are more common in women, particularly women of child-bearing age, and that the postulated mechanism is that high levels of estrogen may reduce apoptosis of autoreactive lymphocytes, allowing them to persist.",
+        "whyWrongByChoice": {
+          "A": "The brick proposes estrogen reduces apoptosis of autoreactive cells; it does not enhance negative selection.",
+          "C": "The brick attributes risk to estrogen effects, not testosterone-driven autoantibody production.",
+          "D": "Permanent deletion of all Tregs by pregnancy is not a mechanism described in the brick.",
+          "E": "Estrogen-driven MHC class I upregulation is not the mechanism the brick proposes for female predominance."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "intrinsic factors",
+        "estrogen",
+        "autoimmunity"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    }
+  ]
+}

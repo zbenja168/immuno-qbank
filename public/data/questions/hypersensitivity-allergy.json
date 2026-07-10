@@ -1,0 +1,1107 @@
+{
+  "categoryId": "hypersensitivity-allergy",
+  "categoryName": "Hypersensitivity & Allergy",
+  "questions": [
+    {
+      "id": "im12-001",
+      "stem": "A 12-year-old boy is brought to the emergency department minutes after eating shrimp at a restaurant. He has diffuse hives, swelling of the eyelids, and difficulty breathing with audible wheezing. His blood pressure is low. Which of the following mechanisms is most directly responsible for his presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deposition of antigen-antibody immune complexes in small vessels"
+        },
+        {
+          "label": "B",
+          "text": "Complement-mediated lysis of circulating erythrocytes"
+        },
+        {
+          "label": "C",
+          "text": "Cross-linking of IgE on mast cells causing degranulation"
+        },
+        {
+          "label": "D",
+          "text": "CD8+ cytotoxic T-cell killing of epithelial cells"
+        },
+        {
+          "label": "E",
+          "text": "IgG antibody blocking a cell-surface receptor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Rapid-onset anaphylaxis after a food trigger is a type 1 (immediate) hypersensitivity reaction driven by IgE cross-linking on mast cells.",
+        "whyCorrect": "In a sensitized person, allergen cross-links IgE bound to the high-affinity Fc\u03b5RI receptor on mast cells, triggering degranulation. Preformed mediators such as histamine and leukotrienes produce vasodilation, vascular leak, bronchoconstriction, and hives within minutes, which is the clinical picture of anaphylaxis.",
+        "whyWrongByChoice": {
+          "A": "Immune complex deposition is a type 3 reaction that produces vasculitis, nephritis, or serum sickness over hours to days, not immediate anaphylaxis.",
+          "B": "Complement-mediated lysis of cells is a type 2 cytotoxic mechanism, as in autoimmune hemolytic anemia, not the cause of an immediate allergic reaction.",
+          "D": "Cytotoxic T-cell killing is a type 4 delayed reaction that develops over 24-72 hours, far too slow for this acute presentation.",
+          "E": "An antibody blocking a receptor is the type 2 cellular dysregulation mechanism of myasthenia gravis, unrelated to acute food-triggered anaphylaxis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "type 1 hypersensitivity",
+        "anaphylaxis",
+        "IgE"
+      ],
+      "topicId": "hypersensitivity-reactions",
+      "topicName": "Hypersensitivity Reactions"
+    },
+    {
+      "id": "im12-002",
+      "stem": "A 30-year-old woman presents with fatigue, joint pain, and a malar (facial) rash. Laboratory studies reveal antibodies directed against nuclear antigens and DNA, and she is diagnosed with systemic lupus erythematosus. A kidney biopsy shows glomerular deposits of antigen-antibody complexes. This disorder is best classified as which type of hypersensitivity reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type 1, IgE-mediated"
+        },
+        {
+          "label": "B",
+          "text": "Type 2, antibody against a cell-bound antigen"
+        },
+        {
+          "label": "C",
+          "text": "Type 3, immune complex-mediated"
+        },
+        {
+          "label": "D",
+          "text": "Type 4, T-cell mediated"
+        },
+        {
+          "label": "E",
+          "text": "Type 2 driven by molecular mimicry"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "SLE is a prototypical type 3 hypersensitivity in which autoantibodies against soluble self-antigens form immune complexes that deposit in tissues.",
+        "whyCorrect": "In SLE, autoantibodies recognize the host's own nuclei and DNA as foreign. These bind soluble self-antigens to form immune complexes that deposit in the skin, kidney glomeruli, joints, and bone marrow, driving complement activation and inflammation. Glomerular immune-complex deposits confirm a type 3 mechanism.",
+        "whyWrongByChoice": {
+          "A": "Type 1 reactions are IgE-mediated immediate allergic reactions, not driven by immune complexes against self-DNA.",
+          "B": "Type 2 reactions target antigens fixed to a specific cell or matrix, causing organ-specific damage, whereas lupus complexes are soluble and deposit at multiple sites.",
+          "D": "Type 4 reactions are mediated by T cells over 24-72 hours, not by circulating antibody-antigen complexes.",
+          "E": "Molecular mimicry describes acute rheumatic fever (a type 2 reaction), not the immune-complex disease of lupus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "type 3 hypersensitivity",
+        "SLE",
+        "immune complexes"
+      ],
+      "topicId": "hypersensitivity-reactions",
+      "topicName": "Hypersensitivity Reactions"
+    },
+    {
+      "id": "im12-003",
+      "stem": "A 45-year-old woman reports two weeks of drooping eyelids, double vision, and muscle weakness that worsens as the day goes on. She is diagnosed with myasthenia gravis. Which of the following best describes the underlying mechanism of her disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoantibodies continuously stimulate a cell-surface receptor"
+        },
+        {
+          "label": "B",
+          "text": "Autoantibodies block acetylcholine receptors at the neuromuscular junction"
+        },
+        {
+          "label": "C",
+          "text": "Complement-mediated destruction of skeletal myocytes"
+        },
+        {
+          "label": "D",
+          "text": "Immune complex deposition in muscle capillaries"
+        },
+        {
+          "label": "E",
+          "text": "IgE-mediated release of histamine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Myasthenia gravis is a type 2 hypersensitivity in which antibodies inhibit the acetylcholine receptor, a form of cellular dysregulation.",
+        "whyCorrect": "In myasthenia gravis, autoantibodies specifically target acetylcholine receptors on the muscle cell surface. By blocking these receptors, they impair neuromuscular transmission and produce the characteristic fatigable weakness, without destroying the cell itself.",
+        "whyWrongByChoice": {
+          "A": "Continuous receptor stimulation describes Graves disease, in which antibodies activate the TSH receptor, the opposite of the inhibitory antibodies in myasthenia.",
+          "C": "Complement-mediated cell destruction is a cytotoxic type 2 mechanism; myasthenia results from receptor blockade, not myocyte lysis.",
+          "D": "Immune complex deposition is a type 3 mechanism and does not explain the receptor-specific weakness of myasthenia.",
+          "E": "Histamine release from mast cells is a type 1 allergic mechanism, unrelated to autoantibody-mediated muscle weakness."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "type 2 hypersensitivity",
+        "myasthenia gravis",
+        "cellular dysregulation"
+      ],
+      "topicId": "hypersensitivity-reactions",
+      "topicName": "Hypersensitivity Reactions"
+    },
+    {
+      "id": "im12-004",
+      "stem": "A 28-year-old medical intern who recently cared for a patient with active tuberculosis has a tuberculin skin test (PPD) placed. Forty-eight to seventy-two hours later, a firm, raised, indurated area develops at the injection site. Which of the following best explains this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgE cross-linking on mast cells"
+        },
+        {
+          "label": "B",
+          "text": "Immune complex deposition with complement activation"
+        },
+        {
+          "label": "C",
+          "text": "Preformed antibodies opsonizing the injected antigen"
+        },
+        {
+          "label": "D",
+          "text": "Memory T cells activating macrophages via IFN-gamma"
+        },
+        {
+          "label": "E",
+          "text": "NK cell-mediated antibody-dependent cytotoxicity"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The positive PPD is a type 4 (delayed) hypersensitivity mediated by memory T cells and macrophages, peaking at 48-72 hours.",
+        "whyCorrect": "The injected purified protein derivative is presented by dendritic cells and macrophages to memory CD4+ Th1 cells generated by prior TB exposure. These T cells secrete IFN-gamma (and provide CD40L) to activate macrophages, producing the local inflammation and induration seen at 48-72 hours, the delayed timing characteristic of a type 4 reaction.",
+        "whyWrongByChoice": {
+          "A": "IgE cross-linking causes an immediate type 1 reaction within minutes, not a delayed indurated lesion.",
+          "B": "Immune complex deposition is a type 3 mechanism producing vasculitis or serum sickness, not the induration of a PPD test.",
+          "C": "Opsonization by antibody is a type 2 mechanism; the PPD response is cell-mediated, not antibody-dependent.",
+          "E": "NK-mediated ADCC is a type 2 cytotoxic mechanism and does not explain the T-cell-driven delayed skin reaction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "type 4 hypersensitivity",
+        "PPD skin test",
+        "delayed hypersensitivity"
+      ],
+      "topicId": "hypersensitivity-reactions",
+      "topicName": "Hypersensitivity Reactions"
+    },
+    {
+      "id": "im12-005",
+      "stem": "A 35-year-old woman presents with weight loss, heat intolerance, palpitations, and a diffusely enlarged thyroid. She is found to have autoantibodies that bind the thyroid-stimulating hormone (TSH) receptor. Which of the following best describes how these antibodies cause her symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They continuously activate the TSH receptor, driving hormone overproduction"
+        },
+        {
+          "label": "B",
+          "text": "They block the TSH receptor, reducing hormone output"
+        },
+        {
+          "label": "C",
+          "text": "They fix complement and destroy thyroid follicular cells"
+        },
+        {
+          "label": "D",
+          "text": "They form circulating immune complexes that deposit in the thyroid"
+        },
+        {
+          "label": "E",
+          "text": "They recruit cytotoxic T cells to kill thyrocytes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Graves disease is a type 2 hypersensitivity in which antibodies continuously activate the TSH receptor, causing hyperthyroidism.",
+        "whyCorrect": "In Graves disease, antibodies bind and persistently stimulate the TSH receptor on the thyroid gland. This continuous activation causes overproduction of thyroid hormones and hyperthyroidism, an example of antibody-mediated cellular dysregulation that amplifies rather than destroys cell function.",
+        "whyWrongByChoice": {
+          "B": "Receptor blockade producing reduced output describes an inhibitory antibody, as in myasthenia gravis, and would cause hypothyroid symptoms, not the hyperthyroidism seen here.",
+          "C": "Complement-mediated destruction of cells is a cytotoxic mechanism; Graves antibodies stimulate rather than lyse thyrocytes.",
+          "D": "Immune complex deposition is a type 3 mechanism and does not explain receptor-specific overstimulation.",
+          "E": "Cytotoxic T-cell killing is a type 4 mechanism and is not the basis of this antibody-driven overstimulation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "type 2 hypersensitivity",
+        "Graves disease",
+        "cellular dysregulation"
+      ],
+      "topicId": "hypersensitivity-reactions",
+      "topicName": "Hypersensitivity Reactions"
+    },
+    {
+      "id": "im12-006",
+      "stem": "A 9-year-old boy develops migratory joint pain, a rash, and signs of cardiac inflammation three weeks after an untreated streptococcal pharyngitis. Which of the following best explains the cardiac involvement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct bacterial invasion of the myocardium"
+        },
+        {
+          "label": "B",
+          "text": "Antibodies against streptococcal M protein cross-react with cardiac proteins"
+        },
+        {
+          "label": "C",
+          "text": "IgE-mediated mast cell degranulation in the heart"
+        },
+        {
+          "label": "D",
+          "text": "Cytotoxic T-cell recognition of viral antigens on myocytes"
+        },
+        {
+          "label": "E",
+          "text": "Immune complexes of streptococcal antigen depositing in coronary vessels"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Acute rheumatic fever is a type 2 hypersensitivity caused by molecular mimicry between streptococcal M protein and cardiac proteins.",
+        "whyCorrect": "The group A streptococcal virulence factor M protein shares structural similarity with a human cardiac protein. Patients break tolerance and generate antibodies that bind both antigens; binding to cardiac cells produces the carditis of acute rheumatic fever, which appears a few weeks after the untreated infection.",
+        "whyWrongByChoice": {
+          "A": "Acute rheumatic fever is an immune-mediated reaction from molecular mimicry, not direct microbial invasion of the heart.",
+          "C": "IgE-driven mast cell degranulation is a type 1 allergic mechanism, unrelated to post-streptococcal carditis.",
+          "D": "This is a bacterial, not viral, trigger, and the damage is antibody-mediated rather than driven by cytotoxic T cells.",
+          "E": "Immune complex deposition is a type 3 mechanism; rheumatic carditis results from cross-reactive antibodies binding cardiac tissue directly, not from deposited complexes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "type 2 hypersensitivity",
+        "acute rheumatic fever",
+        "molecular mimicry"
+      ],
+      "topicId": "hypersensitivity-reactions",
+      "topicName": "Hypersensitivity Reactions"
+    },
+    {
+      "id": "im12-007",
+      "stem": "A 50-year-old woman has fatigue and jaundice. Laboratory studies show anemia, and a direct antiglobulin (Coombs) test is positive for IgG on her erythrocytes. Her red cells are being removed primarily by splenic phagocytes rather than by intravascular complement lysis. Which of the following best explains why membrane attack complex formation is limited on her erythrocytes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythrocytes lack surface antigens for antibody binding"
+        },
+        {
+          "label": "B",
+          "text": "Regulatory proteins such as CD55 and CD59 inhibit MAC formation"
+        },
+        {
+          "label": "C",
+          "text": "IgG is unable to activate the complement cascade"
+        },
+        {
+          "label": "D",
+          "text": "The spleen removes all complement proteins from the circulation"
+        },
+        {
+          "label": "E",
+          "text": "NK cells consume complement during ADCC"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In autoimmune hemolytic anemia, complement regulators on red cells limit MAC formation, so opsonization and splenic phagocytosis dominate.",
+        "whyCorrect": "Antibodies against erythrocyte blood-group antigens opsonize the cells, and FcR-expressing phagocytes in the spleen internalize and destroy them. The membrane attack complex is not a prominent mechanism because regulatory proteins such as CD55 and CD59 block substantial MAC formation on the erythrocyte surface.",
+        "whyWrongByChoice": {
+          "A": "Erythrocytes do carry surface (blood-group) antigens, which is exactly what the autoantibodies target.",
+          "C": "IgG can activate complement and act as an opsonin; the issue is regulation of MAC on the cell surface, not an inability to trigger complement.",
+          "D": "The spleen removes opsonized cells by phagocytosis; it does not strip complement proteins from the blood.",
+          "E": "NK cells mediate ADCC using perforin and granzymes and do not consume complement to limit MAC formation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "type 2 hypersensitivity",
+        "autoimmune hemolytic anemia",
+        "complement regulation"
+      ],
+      "topicId": "hypersensitivity-reactions",
+      "topicName": "Hypersensitivity Reactions"
+    },
+    {
+      "id": "im12-008",
+      "stem": "A patient is treated with a large dose of horse-derived antivenom after a snakebite. Ten days later she develops fever, joint pain, a rash, and cutaneous vasculitis. Serum studies show decreased C3 and C4. Which of the following best describes the underlying process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgE-mediated anaphylaxis to the antivenom"
+        },
+        {
+          "label": "B",
+          "text": "Formation and tissue deposition of immune complexes against foreign proteins"
+        },
+        {
+          "label": "C",
+          "text": "A T-cell-mediated delayed contact reaction"
+        },
+        {
+          "label": "D",
+          "text": "Autoantibodies against the patient's own receptors"
+        },
+        {
+          "label": "E",
+          "text": "Direct complement-mediated lysis of the patient's leukocytes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Serum sickness is the prototypical type 3 reaction, in which antibodies against foreign proteins form immune complexes that deposit and consume complement.",
+        "whyCorrect": "About one to two weeks after exposure to a large amount of foreign protein (here, horse serum antivenom), the patient's immune system makes antibodies that form immune complexes. These deposit in vessels, skin, and joints and activate complement widely, which is why serum C3 and C4 fall. Snakebite antitoxin is a classic modern trigger of serum sickness.",
+        "whyWrongByChoice": {
+          "A": "IgE-mediated anaphylaxis occurs within minutes of exposure, not 10 days later, and would not lower C3 and C4.",
+          "C": "A delayed contact reaction is a type 4 cell-mediated response (e.g., poison ivy), not the immune-complex, complement-consuming picture described.",
+          "D": "Autoantibodies against self-receptors describe a type 2 cellular dysregulation disorder, not a reaction to injected foreign protein.",
+          "E": "Direct complement lysis of the patient's own leukocytes is a cytotoxic type 2 mechanism and does not explain the systemic immune-complex syndrome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "type 3 hypersensitivity",
+        "serum sickness",
+        "complement"
+      ],
+      "topicId": "hypersensitivity-reactions",
+      "topicName": "Hypersensitivity Reactions"
+    },
+    {
+      "id": "im12-009",
+      "stem": "Two days after hiking, a 22-year-old man develops an intensely itchy, linear rash with small blisters on his forearms where plant leaves brushed his skin. Which of the following best describes the mechanism of this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A small molecule acts as a hapten and primes memory T cells that drive a delayed cell-mediated response"
+        },
+        {
+          "label": "B",
+          "text": "IgE bound to mast cells cross-links and releases histamine within minutes"
+        },
+        {
+          "label": "C",
+          "text": "IgG antibodies opsonize skin cells for phagocytosis"
+        },
+        {
+          "label": "D",
+          "text": "Immune complexes deposit in dermal blood vessels within hours"
+        },
+        {
+          "label": "E",
+          "text": "Autoantibodies activate keratinocyte surface receptors"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Poison ivy contact dermatitis is a type 4 delayed hypersensitivity triggered by a hapten that primes T cells.",
+        "whyCorrect": "Poison ivy leaves contain pentadecylcatechol, a small lipid-soluble molecule that penetrates the skin and acts as a hapten by binding skin proteins. This primes T cells and generates memory; on subsequent exposure, memory T cells are activated to produce contact dermatitis, with vesicles and blistering appearing over 24-72 hours.",
+        "whyWrongByChoice": {
+          "B": "IgE-mediated mast cell degranulation causes immediate reactions within minutes, not a blistering rash appearing two days later.",
+          "C": "Opsonization for phagocytosis is a type 2 antibody mechanism, not the cause of contact dermatitis.",
+          "D": "Immune complex deposition is a type 3 mechanism producing vasculitis, not a hapten-driven delayed skin reaction.",
+          "E": "Autoantibodies activating cell-surface receptors describe type 2 cellular dysregulation (e.g., Graves disease), not contact dermatitis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "type 4 hypersensitivity",
+        "contact dermatitis",
+        "hapten"
+      ],
+      "topicId": "hypersensitivity-reactions",
+      "topicName": "Hypersensitivity Reactions"
+    },
+    {
+      "id": "im12-010",
+      "stem": "A patient collapses with hypotension and bronchospasm shortly after a bee sting. To help confirm that mast cell degranulation occurred, measurement of which of the following is most useful?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Serum tryptase"
+        },
+        {
+          "label": "B",
+          "text": "Anti-nuclear antibodies"
+        },
+        {
+          "label": "C",
+          "text": "Serum C3 and C4 levels"
+        },
+        {
+          "label": "D",
+          "text": "Rheumatoid factor"
+        },
+        {
+          "label": "E",
+          "text": "CD16 expression on NK cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Tryptase is released only by mast cells, making it a useful clinical marker of mast cell degranulation in suspected anaphylaxis.",
+        "whyCorrect": "Tryptase is a protease stored in mast cell granules and released during degranulation. Because it comes specifically from mast cells, its serum level is clinically helpful in evaluating patients with suspected anaphylaxis and mast cell disorders, such as this patient with a bee-sting reaction.",
+        "whyWrongByChoice": {
+          "B": "Anti-nuclear antibodies are markers of systemic lupus erythematosus, a type 3 immune-complex disease, not mast cell activation.",
+          "C": "Low C3 and C4 indicate complement consumption in immune-complex (type 3) disease, not mast cell degranulation.",
+          "D": "Rheumatoid factor is an autoantibody associated with rheumatoid arthritis, unrelated to anaphylaxis.",
+          "E": "CD16 on NK cells mediates antibody-dependent cytotoxicity in type 2 reactions and is not a marker of mast cell degranulation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "type 1 hypersensitivity",
+        "tryptase",
+        "anaphylaxis"
+      ],
+      "topicId": "hypersensitivity-reactions",
+      "topicName": "Hypersensitivity Reactions"
+    },
+    {
+      "id": "im12-011",
+      "stem": "In one mechanism of type 2 hypersensitivity, IgG bound to a cell-surface antigen is recognized by CD16 (Fc-gamma-RIII) on natural killer cells, which then release perforin and granzymes to kill the target cell. This process is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody-dependent cellular cytotoxicity (ADCC)"
+        },
+        {
+          "label": "B",
+          "text": "Opsonization and phagocytosis"
+        },
+        {
+          "label": "C",
+          "text": "Membrane attack complex formation"
+        },
+        {
+          "label": "D",
+          "text": "Immune complex deposition"
+        },
+        {
+          "label": "E",
+          "text": "Delayed-type hypersensitivity"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "NK-cell killing of antibody-coated target cells via CD16 is antibody-dependent cellular cytotoxicity (ADCC).",
+        "whyCorrect": "In ADCC, IgG bound to a cell-surface antigen is detected by CD16 (Fc-gamma-RIII) on natural killer cells. This binding activates the NK cell to release perforin and granzymes, which induce apoptosis in the target cell. It is one of the cytotoxic effector mechanisms of type 2 hypersensitivity.",
+        "whyWrongByChoice": {
+          "B": "Opsonization and phagocytosis is a separate type 2 route in which Fc receptors on phagocytes engulf antibody-coated cells, not NK-mediated killing.",
+          "C": "The membrane attack complex is a complement-driven cytotoxic mechanism that does not involve NK cells or CD16.",
+          "D": "Immune complex deposition is a type 3 mechanism involving soluble antigen, not antibody-coated target cells killed by NK cells.",
+          "E": "Delayed-type hypersensitivity is a type 4 T-cell-mediated reaction, not an antibody-directed NK response."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "type 2 hypersensitivity",
+        "ADCC",
+        "NK cells"
+      ],
+      "topicId": "hypersensitivity-reactions",
+      "topicName": "Hypersensitivity Reactions"
+    },
+    {
+      "id": "im12-012",
+      "stem": "During sensitization in a type 1 hypersensitivity reaction, a B cell that has captured allergen is induced to class-switch and produce IgE. Which of the following pairs of signals from a Th2 cell drives this class switch?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IL-4 and CD40L"
+        },
+        {
+          "label": "B",
+          "text": "IFN-gamma and IL-12"
+        },
+        {
+          "label": "C",
+          "text": "Perforin and granzyme"
+        },
+        {
+          "label": "D",
+          "text": "C3b and C5a"
+        },
+        {
+          "label": "E",
+          "text": "Histamine and heparin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Th2-derived IL-4 and CD40L drive B cells to class-switch to IgE during type 1 sensitization.",
+        "whyCorrect": "After a B cell internalizes allergen and presents it on MHC II to a Th2 cell, the Th2 cell provides IL-4 and CD40L. These signals drive the B cell to class-switch to IgE and differentiate into IgE-producing plasma cells or memory B cells, priming the individual for a type 1 reaction on re-exposure.",
+        "whyWrongByChoice": {
+          "B": "IFN-gamma and IL-12 promote Th1 responses and macrophage activation, not IgE class switching.",
+          "C": "Perforin and granzyme are cytotoxic effector molecules of CD8+ T and NK cells, not B-cell class-switch signals.",
+          "D": "C3b and C5a are complement fragments involved in opsonization and neutrophil recruitment, not IgE class switching.",
+          "E": "Histamine and heparin are preformed mast cell mediators released during degranulation, not signals that drive B-cell class switching."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "type 1 hypersensitivity",
+        "IgE class switching",
+        "Th2"
+      ],
+      "topicId": "hypersensitivity-reactions",
+      "topicName": "Hypersensitivity Reactions"
+    },
+    {
+      "id": "im13-001",
+      "stem": "A 24-year-old woman develops sneezing, watery eyes, and hives every spring when tree pollen counts rise. Her physician explains that the underlying process is a type 1 (immediate) hypersensitivity reaction. Production of which of the following antibodies is required for this pathophysiology?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgA"
+        },
+        {
+          "label": "B",
+          "text": "IgD"
+        },
+        {
+          "label": "C",
+          "text": "IgE"
+        },
+        {
+          "label": "D",
+          "text": "IgG"
+        },
+        {
+          "label": "E",
+          "text": "IgM"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Classic allergy is a type 1 (immediate) hypersensitivity reaction mediated by IgE.",
+        "whyCorrect": "The brick states allergic reactions are mediated by IgE, which recognizes allergens and binds mast cells through the high-affinity FcepsilonRI receptor. Cross-linking of IgE by allergen triggers degranulation and the release of allergic mediators.",
+        "whyWrongByChoice": {
+          "A": "IgA is involved in mucosal humoral immunity and is one of the milder 'blocking' antibodies favored by desensitization, not the driver of type 1 hypersensitivity.",
+          "B": "IgD sits on the membrane of mature B cells and does not mediate the allergic reaction.",
+          "D": "IgG is a blocking antibody that immunotherapy shifts the response toward; it is not the cause of the allergic reaction.",
+          "E": "IgM participates in the humoral response to antigen but does not mediate type 1 hypersensitivity."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "type 1 hypersensitivity",
+        "IgE"
+      ],
+      "topicId": "allergic-diseases-and-anaphylaxis",
+      "topicName": "Allergic Diseases and Anaphylaxis"
+    },
+    {
+      "id": "im13-002",
+      "stem": "A 20-year-old man is diagnosed with a shellfish allergy after developing severe lip swelling, throat tightness, and respiratory distress 15 minutes after eating shrimp. He asks how he can best prevent another reaction like this. Which of the following is the most appropriate recommendation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Take antihistamines daily"
+        },
+        {
+          "label": "B",
+          "text": "Avoidance of the allergen"
+        },
+        {
+          "label": "C",
+          "text": "Take corticosteroids daily"
+        },
+        {
+          "label": "D",
+          "text": "Carry epinephrine only"
+        },
+        {
+          "label": "E",
+          "text": "Subcutaneous immunotherapy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Allergen avoidance is the most effective way to prevent allergic reactions, especially after a severe or anaphylactic event.",
+        "whyCorrect": "The brick states avoidance is the first step in managing allergies and is crucial in individuals with a previous anaphylactic reaction. Orally ingested allergens such as shellfish are among the most easily avoided.",
+        "whyWrongByChoice": {
+          "A": "Antihistamines treat histamine-mediated symptoms but do not prevent a severe reaction from occurring.",
+          "C": "Corticosteroids control inflammation as treatment; they are not a preventive strategy.",
+          "D": "Epinephrine treats an active anaphylactic reaction and does not prevent one; it is a rescue medication, not prevention.",
+          "E": "Immunotherapy has a role for some allergies (for example, insect venom) but is not the recommended approach for severe shellfish allergy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "avoidance",
+        "food allergy"
+      ],
+      "topicId": "allergic-diseases-and-anaphylaxis",
+      "topicName": "Allergic Diseases and Anaphylaxis"
+    },
+    {
+      "id": "im13-003",
+      "stem": "A 35-year-old woman is stung by a hornet and within minutes develops diffuse hives, throat tightness, wheezing, and a blood pressure of 78/40 mm Hg. Which of the following is the most appropriate initial treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oral antihistamine"
+        },
+        {
+          "label": "B",
+          "text": "Intravenous corticosteroid"
+        },
+        {
+          "label": "C",
+          "text": "Intramuscular epinephrine"
+        },
+        {
+          "label": "D",
+          "text": "Inhaled beta-2 agonist"
+        },
+        {
+          "label": "E",
+          "text": "Intravenous normal saline"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Intramuscular epinephrine is the first and most important treatment for anaphylaxis.",
+        "whyCorrect": "The brick emphasizes that an intramuscular injection of epinephrine is the most critical, first medication in anaphylaxis. It causes bronchodilation to relieve respiratory distress and, through alpha receptors, vasoconstriction that reverses hypotension and edema.",
+        "whyWrongByChoice": {
+          "A": "Antihistamines are part of the treatment cocktail but are adjunctive and do not reverse airway or cardiovascular collapse.",
+          "B": "Corticosteroids reduce the late-phase reaction but are not the first-line, life-saving agent.",
+          "D": "An inhaled beta-2 agonist helps bronchospasm but does not address the hypotension or systemic reaction.",
+          "E": "Intravenous fluids support blood pressure as an adjunct in severe cases, but epinephrine is the primary and first treatment."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "anaphylaxis",
+        "epinephrine",
+        "treatment"
+      ],
+      "topicId": "allergic-diseases-and-anaphylaxis",
+      "topicName": "Allergic Diseases and Anaphylaxis"
+    },
+    {
+      "id": "im13-004",
+      "stem": "A 40-year-old man in anaphylactic shock is given intramuscular epinephrine, and his low blood pressure improves. Which of the following actions of epinephrine is most directly responsible for raising his blood pressure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-1-mediated vasoconstriction"
+        },
+        {
+          "label": "B",
+          "text": "Beta-2-mediated bronchodilation"
+        },
+        {
+          "label": "C",
+          "text": "Blockade of H1 histamine receptors"
+        },
+        {
+          "label": "D",
+          "text": "Blockade of the CysLT1 leukotriene receptor"
+        },
+        {
+          "label": "E",
+          "text": "Suppression of cytokine gene transcription"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Epinephrine raises blood pressure in anaphylaxis chiefly through alpha-1-mediated vasoconstriction.",
+        "whyCorrect": "The brick states epinephrine activates alpha-1 receptors to reduce edema and vascular permeability and to cause vasoconstriction of blood vessels, thereby supporting blood pressure and circulation in the patient with anaphylaxis.",
+        "whyWrongByChoice": {
+          "B": "Beta-2 bronchodilation opens the airways to relieve respiratory distress but does not directly raise blood pressure.",
+          "C": "H1 receptor blockade is the mechanism of antihistamines, not epinephrine.",
+          "D": "Blocking the CysLT1 receptor is the mechanism of antileukotrienes and is unrelated to epinephrine's pressor effect.",
+          "E": "Suppression of cytokine transcription is the mechanism of corticosteroids, not epinephrine."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "epinephrine",
+        "pharmacology",
+        "anaphylaxis"
+      ],
+      "topicId": "allergic-diseases-and-anaphylaxis",
+      "topicName": "Allergic Diseases and Anaphylaxis"
+    },
+    {
+      "id": "im13-005",
+      "stem": "During an allergic reaction, mast cells release mediators in two phases. Which of the following mediators is pre-formed and released immediately during the early-phase response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Histamine"
+        },
+        {
+          "label": "B",
+          "text": "Leukotriene C4"
+        },
+        {
+          "label": "C",
+          "text": "Interleukin-5"
+        },
+        {
+          "label": "D",
+          "text": "Platelet-activating factor"
+        },
+        {
+          "label": "E",
+          "text": "Tumor necrosis factor-alpha"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Histamine, along with heparin and tryptase, is a pre-formed mediator released immediately in the early-phase mast cell response.",
+        "whyCorrect": "The brick describes the early-phase response as the immediate release of pre-formed molecules, including toxic metabolites (histamine and heparin) and enzymes (tryptase).",
+        "whyWrongByChoice": {
+          "B": "Leukotriene C4 is a newly synthesized lipid mediator released in the late phase, delayed by the time needed for synthesis.",
+          "C": "Interleukin-5 is a newly synthesized cytokine of the late phase that recruits eosinophils.",
+          "D": "Platelet-activating factor is a lipid mediator newly synthesized in the late phase.",
+          "E": "Tumor necrosis factor-alpha is a newly synthesized cytokine released in the late phase."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mast cells",
+        "mediators",
+        "early phase"
+      ],
+      "topicId": "allergic-diseases-and-anaphylaxis",
+      "topicName": "Allergic Diseases and Anaphylaxis"
+    },
+    {
+      "id": "im13-006",
+      "stem": "A 30-year-old woman is brought to the emergency department with hypotension and stridor shortly after a bee sting, but the clinical picture is confusing and other causes are being considered. Which of the following laboratory findings would best support a diagnosis of anaphylaxis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated serum tryptase"
+        },
+        {
+          "label": "B",
+          "text": "Decreased serum IgE"
+        },
+        {
+          "label": "C",
+          "text": "Elevated serum IgA"
+        },
+        {
+          "label": "D",
+          "text": "Positive skin prick test"
+        },
+        {
+          "label": "E",
+          "text": "Elevated C-reactive protein"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Serum tryptase, released by mast cells, rises within minutes of anaphylaxis and helps confirm the diagnosis when it is uncertain.",
+        "whyCorrect": "The brick states tryptase, produced primarily by mast cells, can be elevated within minutes and persist for several hours after anaphylaxis begins, making it useful for diagnosing anaphylaxis when there is uncertainty.",
+        "whyWrongByChoice": {
+          "B": "Allergy involves IgE sensitization; a decrease in IgE is not a marker of an acute anaphylactic episode.",
+          "C": "IgA is a blocking antibody and is not a diagnostic marker for acute anaphylaxis.",
+          "D": "A skin prick test identifies specific allergens but is not used to diagnose an acute anaphylactic reaction.",
+          "E": "C-reactive protein is a nonspecific inflammatory marker and is not specific for mast cell activation or anaphylaxis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "anaphylaxis",
+        "tryptase",
+        "diagnosis"
+      ],
+      "topicId": "allergic-diseases-and-anaphylaxis",
+      "topicName": "Allergic Diseases and Anaphylaxis"
+    },
+    {
+      "id": "im13-007",
+      "stem": "A physician wants to identify the specific allergens triggering a patient's seasonal allergic rhinitis. Which of the following is the most common and most sensitive method used to identify specific allergens?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blood testing (ELISA)"
+        },
+        {
+          "label": "B",
+          "text": "Challenge testing"
+        },
+        {
+          "label": "C",
+          "text": "Flow cytometry"
+        },
+        {
+          "label": "D",
+          "text": "Skin prick testing"
+        },
+        {
+          "label": "E",
+          "text": "Complete blood count"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The skin prick (puncture) test is the most common and most sensitive method to identify specific allergens.",
+        "whyCorrect": "The brick states skin prick/puncture testing is the most common and most sensitive method; it introduces a small amount of allergen into the skin and looks for a wheal-and-flare reaction.",
+        "whyWrongByChoice": {
+          "A": "Blood testing with ELISA measures allergen-specific IgE but is less sensitive than skin testing.",
+          "B": "Challenge testing is riskier and is not the primary choice for identifying triggering allergens.",
+          "C": "Flow cytometry identifies specific cell lineages, not which allergens cause a reaction.",
+          "E": "A complete blood count is a general blood count and is not an allergen-identification test."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "diagnosis",
+        "skin testing"
+      ],
+      "topicId": "allergic-diseases-and-anaphylaxis",
+      "topicName": "Allergic Diseases and Anaphylaxis"
+    },
+    {
+      "id": "im13-008",
+      "stem": "A 6-year-old boy has atopic dermatitis and allergic rhinitis, and both his mother and sister have asthma. His pediatrician explains he has a genetic predisposition to develop IgE sensitization to allergens. Which of the following terms best describes this predisposition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anaphylaxis"
+        },
+        {
+          "label": "B",
+          "text": "Anaphylactoid reaction"
+        },
+        {
+          "label": "C",
+          "text": "Atopy"
+        },
+        {
+          "label": "D",
+          "text": "Desensitization"
+        },
+        {
+          "label": "E",
+          "text": "Sensitization"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Atopy is the genetic predisposition to develop IgE sensitization, associated with a personal or family history of atopic dermatitis, allergic rhinitis, and asthma.",
+        "whyCorrect": "The brick defines atopy as a genetic predisposition to develop IgE sensitization to allergens, usually implying a personal or family history of atopic conditions such as atopic dermatitis, allergic rhinitis, and asthma.",
+        "whyWrongByChoice": {
+          "A": "Anaphylaxis is a severe, life-threatening systemic allergic reaction, not an inherited predisposition.",
+          "B": "An anaphylactoid reaction is an anaphylaxis-like reaction driven by non-IgE mechanisms.",
+          "D": "Desensitization is a form of immunotherapy (a treatment), not a predisposition.",
+          "E": "Sensitization describes a mast cell already loaded with allergen-specific IgE, not the inherited predisposition itself."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "atopy",
+        "definitions"
+      ],
+      "topicId": "allergic-diseases-and-anaphylaxis",
+      "topicName": "Allergic Diseases and Anaphylaxis"
+    },
+    {
+      "id": "im13-009",
+      "stem": "A 28-year-old woman with moderate-to-severe allergic asthma remains symptomatic despite inhaled corticosteroids and is started on omalizumab, a monoclonal antibody. Which of the following best describes its mechanism of action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Binds free IgE and prevents it from attaching to FcepsilonRI on mast cells"
+        },
+        {
+          "label": "B",
+          "text": "Blocks H1 histamine receptors on mast cells"
+        },
+        {
+          "label": "C",
+          "text": "Blocks the cysteinyl leukotriene CysLT1 receptor"
+        },
+        {
+          "label": "D",
+          "text": "Stimulates beta-2 adrenergic receptors on airway smooth muscle"
+        },
+        {
+          "label": "E",
+          "text": "Suppresses transcription of pro-inflammatory cytokines"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Omalizumab is a monoclonal antibody that binds free IgE, preventing it from attaching to FcepsilonRI on mast cells and basophils.",
+        "whyCorrect": "The brick states omalizumab binds to IgE and prevents it from attaching to FcepsilonRI receptors on mast cells and basophils, thereby reducing allergic mediator release; it is used in moderate-to-severe allergic asthma and chronic spontaneous urticaria.",
+        "whyWrongByChoice": {
+          "B": "H1 receptor blockade is the mechanism of antihistamines, not omalizumab.",
+          "C": "Blocking the CysLT1 receptor is the mechanism of antileukotrienes such as montelukast and zafirlukast.",
+          "D": "Stimulating beta-2 receptors is the mechanism of beta-agonists such as albuterol.",
+          "E": "Suppressing cytokine transcription is the mechanism of corticosteroids."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "omalizumab",
+        "pharmacology",
+        "IgE"
+      ],
+      "topicId": "allergic-diseases-and-anaphylaxis",
+      "topicName": "Allergic Diseases and Anaphylaxis"
+    },
+    {
+      "id": "im13-010",
+      "stem": "A patient with chronic asthma undergoes a bronchial biopsy that shows abundant eosinophils in the airway tissue, associated with ongoing inflammation and airway remodeling. Which of the following cytokines is chiefly responsible for recruiting and activating these cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Interleukin-5"
+        },
+        {
+          "label": "B",
+          "text": "Interleukin-2"
+        },
+        {
+          "label": "C",
+          "text": "Interferon-gamma"
+        },
+        {
+          "label": "D",
+          "text": "Complement C3a"
+        },
+        {
+          "label": "E",
+          "text": "Immunoglobulin E"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Eosinophils are recruited and activated by IL-5 and drive late-phase tissue damage and airway remodeling.",
+        "whyCorrect": "The brick states eosinophils are recruited and activated by IL-5 and play a major role in releasing cytotoxic substances during the late phase, contributing to tissue damage; they are prominent in the tissues of patients with chronic asthma.",
+        "whyWrongByChoice": {
+          "B": "Interleukin-2 is chiefly a T-cell growth factor and is not the eosinophil recruiter described in the brick.",
+          "C": "Interferon-gamma is a Th1 cytokine, not the driver of eosinophilic allergic inflammation.",
+          "D": "C3a is a complement anaphylatoxin, not the cytokine that recruits eosinophils here.",
+          "E": "IgE is an antibody that sensitizes mast cells; it is not a cytokine that recruits eosinophils."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "eosinophils",
+        "IL-5",
+        "late phase"
+      ],
+      "topicId": "allergic-diseases-and-anaphylaxis",
+      "topicName": "Allergic Diseases and Anaphylaxis"
+    },
+    {
+      "id": "im13-011",
+      "stem": "A 55-year-old man receives intravenous radiocontrast for a CT scan and, despite no prior exposure, immediately develops hives, wheezing, and hypotension. Testing suggests the reaction is not mediated by IgE. Which of the following terms best describes this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anaphylactoid reaction"
+        },
+        {
+          "label": "B",
+          "text": "Atopy"
+        },
+        {
+          "label": "C",
+          "text": "Serum sickness"
+        },
+        {
+          "label": "D",
+          "text": "Type IV hypersensitivity"
+        },
+        {
+          "label": "E",
+          "text": "IgE-mediated anaphylaxis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An anaphylaxis-like reaction that is not driven by IgE is called an anaphylactoid reaction, classically from opioids and radiocontrast media.",
+        "whyCorrect": "The brick states an anaphylaxis-type reaction, sometimes called 'anaphylactoid,' can be mediated by non-IgE mechanisms and is classically directed at opioids and radiocontrast media.",
+        "whyWrongByChoice": {
+          "B": "Atopy is a genetic predisposition to IgE sensitization, not an acute reaction to contrast.",
+          "C": "Serum sickness is not the mechanism the brick assigns to non-IgE contrast reactions; the brick attributes these to anaphylactoid reactions.",
+          "D": "Type IV hypersensitivity is a delayed, T-cell-mediated reaction, not the immediate reaction described here.",
+          "E": "The stem specifies the reaction is not IgE-mediated and occurred without prior sensitizing exposure, so it is not classic IgE-mediated anaphylaxis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "anaphylactoid",
+        "radiocontrast",
+        "non-IgE"
+      ],
+      "topicId": "allergic-diseases-and-anaphylaxis",
+      "topicName": "Allergic Diseases and Anaphylaxis"
+    },
+    {
+      "id": "im13-012",
+      "stem": "A 42-year-old beekeeper has had two episodes of documented IgE-dependent anaphylaxis from bee stings and is referred for subcutaneous immunotherapy (desensitization). Which of the following best describes how this treatment reduces his risk?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Shifts the immune response away from IgE toward IgG or IgA blocking antibodies"
+        },
+        {
+          "label": "B",
+          "text": "Permanently depletes all mast cells and basophils"
+        },
+        {
+          "label": "C",
+          "text": "Provides long-term blockade of H1 histamine receptors"
+        },
+        {
+          "label": "D",
+          "text": "Transfers passive anti-venom antibodies"
+        },
+        {
+          "label": "E",
+          "text": "Suppresses eosinophil production in the bone marrow"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Desensitization gives increasing allergen doses to shift the response away from severe IgE toward milder IgG or IgA antibodies that block antigen from activating sensitized cells.",
+        "whyCorrect": "The brick states desensitization shifts the immune response away from severe IgE responses and toward milder IgG or IgA responses that bind antigen and prevent it from activating sensitized cells; immunotherapy is the preferred treatment for proven IgE-dependent insect venom anaphylaxis.",
+        "whyWrongByChoice": {
+          "B": "Immunotherapy does not deplete all mast cells and basophils.",
+          "C": "Long-term H1 receptor blockade describes antihistamines, not desensitization.",
+          "D": "Desensitization is active immunotherapy that reshapes the patient's own response; it is not passive antibody transfer.",
+          "E": "It does not work by suppressing bone-marrow eosinophil production."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "immunotherapy",
+        "desensitization",
+        "venom allergy"
+      ],
+      "topicId": "allergic-diseases-and-anaphylaxis",
+      "topicName": "Allergic Diseases and Anaphylaxis"
+    }
+  ]
+}
