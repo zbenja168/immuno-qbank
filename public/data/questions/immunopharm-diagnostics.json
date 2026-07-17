@@ -150,7 +150,7 @@
         },
         {
           "label": "B",
-          "text": "Healthy people can have low-titer ANA, which may also rise with acute infections, medications, or cancer"
+          "text": "Healthy people can have low-titer ANA"
         },
         {
           "label": "C",
@@ -192,7 +192,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Enzyme-linked immunosorbent assay (ELISA)"
+          "text": "Enzyme-linked immunosorbent assay"
         },
         {
           "label": "B",
@@ -652,7 +652,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Iatrogenic hypercortisolism (Cushing syndrome)"
+          "text": "Iatrogenic hypercortisolism"
         },
         {
           "label": "B",
@@ -974,7 +974,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Binding FKBP and inhibiting mTOR, blocking the cellular response to IL-2"
+          "text": "Binding FKBP and inhibiting mTOR"
         },
         {
           "label": "B",
@@ -1020,7 +1020,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Nephrotoxicity with acute renal injury"
+          "text": "Nephrotoxicity"
         },
         {
           "label": "B",
@@ -1304,7 +1304,7 @@
         },
         {
           "label": "B",
-          "text": "It binds B7 on antigen-presenting cells and blocks CD28 costimulation of T cells"
+          "text": "It binds B7 and blocks CD28 costimulation of T cells"
         },
         {
           "label": "C",
@@ -1351,7 +1351,7 @@
         },
         {
           "label": "B",
-          "text": "Recombinant IL-1 receptor antagonist that competitively blocks the IL-1 receptor"
+          "text": "Recombinant IL-1 receptor antagonist"
         },
         {
           "label": "C",
@@ -1534,7 +1534,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Administer indicated vaccinations, including pneumococcal and influenza, before starting the biologic"
+          "text": "Administer indicated vaccinations before starting the biologic"
         },
         {
           "label": "B",
@@ -1607,7 +1607,7 @@
         "whyWrongByChoice": {
           "B": "Antibodies are large proteins; the problem is enzymatic/acid degradation, not being too small.",
           "C": "Renal clearance of intact antibodies is minimal and is not the reason oral dosing fails.",
-          "D": "Antibodies are inactivated\u2014not activated\u2014by gastric acid and proteases.",
+          "D": "Antibodies are inactivated—not activated—by gastric acid and proteases.",
           "E": "The Fc region does not require inhalation; parenteral injection is standard."
         }
       },
@@ -1723,7 +1723,7 @@
         },
         {
           "label": "B",
-          "text": "Maternal IgG transferred across the placenta via the neonatal Fc receptor"
+          "text": "Maternal IgG transferred across the placenta"
         },
         {
           "label": "C",
@@ -1993,7 +1993,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It converts a T-independent antigen into a T-dependent one, generating memory and affinity maturation"
+          "text": "It converts a T-independent antigen into a T-dependent one"
         },
         {
           "label": "B",
@@ -2043,7 +2043,7 @@
         },
         {
           "label": "B",
-          "text": "It acts as an adjuvant, enhancing dendritic cell uptake and antigen presentation"
+          "text": "It acts as an adjuvant"
         },
         {
           "label": "C",
@@ -2184,7 +2184,7 @@
         },
         {
           "label": "C",
-          "text": "Multiple doses and boosters are required to establish and maintain immunity"
+          "text": "Multiple doses and boosters are required"
         },
         {
           "label": "D",

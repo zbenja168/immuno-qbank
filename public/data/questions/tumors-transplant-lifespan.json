@@ -283,7 +283,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "MHC genes are highly polymorphic, so a closer match lowers the alloimmune response and improves graft survival"
+          "text": "MHC genes are highly polymorphic, so a closer match lowers the alloimmune response"
         },
         {
           "label": "B",
@@ -421,7 +421,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Recipient helper T cell cytokines stimulating vascular smooth muscle proliferation and arteriosclerosis"
+          "text": "Recipient helper T cell cytokines stimulating vascular smooth muscle proliferation"
         },
         {
           "label": "B",
@@ -467,7 +467,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Graft-versus-host disease mediated by donor T cells attacking recipient tissues"
+          "text": "Graft-versus-host disease mediated by donor T cells"
         },
         {
           "label": "B",
@@ -1065,7 +1065,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Decreased production of naive CD4+ and CD8+ T cells with a higher proportion of memory T cells"
+          "text": "Decreased production of naive CD4+ and CD8+ T cells"
         },
         {
           "label": "B",

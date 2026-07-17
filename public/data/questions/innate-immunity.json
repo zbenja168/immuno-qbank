@@ -12,7 +12,7 @@
         },
         {
           "label": "B",
-          "text": "Immune tolerance (self versus non-self discrimination)"
+          "text": "Immune tolerance"
         },
         {
           "label": "C",
@@ -467,7 +467,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Plasma cell (differentiated B cell)"
+          "text": "Plasma cell"
         },
         {
           "label": "B",
@@ -844,7 +844,7 @@
         },
         {
           "label": "B",
-          "text": "Type I interferon (IFN-alpha/beta)"
+          "text": "Type I interferon"
         },
         {
           "label": "C",
@@ -981,7 +981,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "CD16 (Fc\u03b3RIII)"
+          "text": "CD16 (FcγRIII)"
         },
         {
           "label": "B",
@@ -1002,7 +1002,7 @@
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "CD16 (Fc\u03b3RIII) is the NK-cell Fc receptor that binds IgG-coated targets to trigger antibody-dependent cellular cytotoxicity (ADCC).",
+        "summary": "CD16 (FcγRIII) is the NK-cell Fc receptor that binds IgG-coated targets to trigger antibody-dependent cellular cytotoxicity (ADCC).",
         "whyCorrect": "The brick states that NK cells have antibody receptors on their surface; when an antibody binds antigens on the surface of infected cells, NK cells kill the target, a process called antibody-dependent cellular cytotoxicity. It specifies that for NK-mediated ADCC, IgG must bind the specific NK receptor CD16.",
         "whyWrongByChoice": {
           "B": "TLR4 is a pattern recognition receptor for LPS, not an antibody Fc receptor.",
@@ -1582,7 +1582,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Inducible nitric oxide synthase (iNOS)"
+          "text": "Inducible nitric oxide synthase"
         },
         {
           "label": "B",
@@ -1865,7 +1865,7 @@
         },
         {
           "label": "B",
-          "text": "Decay-accelerating factor (CD55)"
+          "text": "Decay-accelerating factor"
         },
         {
           "label": "C",
@@ -1916,7 +1916,7 @@
         },
         {
           "label": "C",
-          "text": "A monoclonal antibody that binds C5 and prevents its cleavage into C5a and C5b"
+          "text": "A monoclonal antibody that binds C5 and prevents its cleavage"
         },
         {
           "label": "D",
@@ -2100,7 +2100,7 @@
         },
         {
           "label": "B",
-          "text": "C3b coats the complexes, which are then bound by CR1 on erythrocytes and delivered to the liver and spleen"
+          "text": "C3b coats the complexes, which are then bound by CR1 on erythrocytes"
         },
         {
           "label": "C",
@@ -2696,7 +2696,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Catalase-positive microbes degrade their own hydrogen peroxide, denying neutrophils a substrate for myeloperoxidase-mediated killing"
+          "text": "Catalase-positive microbes degrade their own hydrogen peroxide"
         },
         {
           "label": "B",

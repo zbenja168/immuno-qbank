@@ -30,7 +30,7 @@
       "correctAnswer": "C",
       "explanation": {
         "summary": "Rapid-onset anaphylaxis after a food trigger is a type 1 (immediate) hypersensitivity reaction driven by IgE cross-linking on mast cells.",
-        "whyCorrect": "In a sensitized person, allergen cross-links IgE bound to the high-affinity Fc\u03b5RI receptor on mast cells, triggering degranulation. Preformed mediators such as histamine and leukotrienes produce vasodilation, vascular leak, bronchoconstriction, and hives within minutes, which is the clinical picture of anaphylaxis.",
+        "whyCorrect": "In a sensitized person, allergen cross-links IgE bound to the high-affinity FcεRI receptor on mast cells, triggering degranulation. Preformed mediators such as histamine and leukotrienes produce vasodilation, vascular leak, bronchoconstriction, and hives within minutes, which is the clinical picture of anaphylaxis.",
         "whyWrongByChoice": {
           "A": "Immune complex deposition is a type 3 reaction that produces vasculitis, nephritis, or serum sickness over hours to days, not immediate anaphylaxis.",
           "B": "Complement-mediated lysis of cells is a type 2 cytotoxic mechanism, as in autoimmune hemolytic anemia, not the cause of an immediate allergic reaction.",
@@ -104,7 +104,7 @@
         },
         {
           "label": "B",
-          "text": "Autoantibodies block acetylcholine receptors at the neuromuscular junction"
+          "text": "Autoantibodies block acetylcholine receptors"
         },
         {
           "label": "C",
@@ -334,7 +334,7 @@
         },
         {
           "label": "B",
-          "text": "Formation and tissue deposition of immune complexes against foreign proteins"
+          "text": "Formation and tissue deposition of immune complexes"
         },
         {
           "label": "C",
@@ -376,7 +376,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A small molecule acts as a hapten and primes memory T cells that drive a delayed cell-mediated response"
+          "text": "A small molecule acts as a hapten and primes memory T cells"
         },
         {
           "label": "B",
@@ -468,7 +468,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Antibody-dependent cellular cytotoxicity (ADCC)"
+          "text": "Antibody-dependent cellular cytotoxicity"
         },
         {
           "label": "B",
@@ -925,7 +925,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Binds free IgE and prevents it from attaching to FcepsilonRI on mast cells"
+          "text": "Binds free IgE and prevents it from attaching to FcepsilonRI"
         },
         {
           "label": "B",
@@ -1063,7 +1063,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Shifts the immune response away from IgE toward IgG or IgA blocking antibodies"
+          "text": "Shifts the immune response away from IgE toward IgG or IgA"
         },
         {
           "label": "B",

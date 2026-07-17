@@ -196,7 +196,7 @@
         },
         {
           "label": "B",
-          "text": "Marginal-zone/B1 cell IgM production and complement-mediated opsonization"
+          "text": "Marginal-zone/B1 cell IgM production"
         },
         {
           "label": "C",
@@ -335,7 +335,7 @@
         },
         {
           "label": "B",
-          "text": "CD40-CD40L interaction between the B cell and helper T cell"
+          "text": "CD40-CD40L interaction"
         },
         {
           "label": "C",
@@ -621,7 +621,7 @@
         },
         {
           "label": "D",
-          "text": "Expression of tissue-restricted self-antigens by medullary epithelial cells"
+          "text": "Expression of tissue-restricted self-antigens"
         },
         {
           "label": "E",
@@ -702,7 +702,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "CD28 binding to B7 (CD80/CD86) on antigen-presenting cells"
+          "text": "CD28 binding to B7"
         },
         {
           "label": "B",
@@ -847,7 +847,7 @@
         },
         {
           "label": "B",
-          "text": "Th1, enhancing macrophage killing of intracellular pathogens"
+          "text": "Th1, enhancing macrophage killing"
         },
         {
           "label": "C",
@@ -898,7 +898,7 @@
         },
         {
           "label": "C",
-          "text": "It prevents NFAT activation downstream of calcium, reducing IL-2 transcription"
+          "text": "It prevents NFAT activation downstream of calcium"
         },
         {
           "label": "D",
@@ -949,7 +949,7 @@
         },
         {
           "label": "D",
-          "text": "It modulates S1P receptor 1, sequestering lymphocytes in lymph nodes"
+          "text": "It modulates S1P receptor 1"
         },
         {
           "label": "E",
@@ -988,7 +988,7 @@
         },
         {
           "label": "B",
-          "text": "It releases perforin to form pores and granzymes to trigger apoptosis"
+          "text": "It releases perforin and granzymes"
         },
         {
           "label": "C",
@@ -1171,7 +1171,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It forms pores in the target membrane that allow granzymes to enter"
+          "text": "It forms pores in the target membrane"
         },
         {
           "label": "B",

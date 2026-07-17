@@ -384,7 +384,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Tolerogenic gut dendritic cells inducing regulatory T cells via retinoic acid and TGF-beta"
+          "text": "Tolerogenic gut dendritic cells inducing regulatory T cells"
         },
         {
           "label": "B",
@@ -431,7 +431,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Placental cells express Fas ligand and, with Tregs and TGF-beta/IL-10, suppress local lymphocytes"
+          "text": "Placental cells express Fas ligand and suppress local lymphocytes"
         },
         {
           "label": "B",
@@ -576,7 +576,7 @@
         },
         {
           "label": "B",
-          "text": "Pyrin loss-of-function leading to unchecked inflammasome activity and IL-1 overexpression"
+          "text": "Pyrin loss-of-function leading to unchecked inflammasome activity"
         },
         {
           "label": "C",
@@ -668,7 +668,7 @@
         },
         {
           "label": "B",
-          "text": "A NOD2 mutation causing inappropriate NF-kB activation in monocytes"
+          "text": "A NOD2 mutation causing inappropriate NF-kB activation"
         },
         {
           "label": "C",
@@ -760,7 +760,7 @@
         },
         {
           "label": "B",
-          "text": "Antibodies to streptococcal M protein cross-reacting with structurally similar cardiac proteins"
+          "text": "Antibodies to streptococcal M protein cross-reacting with cardiac proteins"
         },
         {
           "label": "C",
@@ -806,7 +806,7 @@
         },
         {
           "label": "B",
-          "text": "Autoantibody against the acetylcholine receptor causing cellular dysfunction (type II hypersensitivity)"
+          "text": "Autoantibody causing cellular dysfunction (type II hypersensitivity)"
         },
         {
           "label": "C",
@@ -898,7 +898,7 @@
         },
         {
           "label": "B",
-          "text": "Negative selection in the thymus"
+          "text": "Negative selection"
         },
         {
           "label": "C",
@@ -948,7 +948,7 @@
         },
         {
           "label": "C",
-          "text": "Peripheral tolerance can additionally induce tolerance to harmless foreign antigens such as food"
+          "text": "Peripheral tolerance can additionally induce tolerance to harmless foreign antigens"
         },
         {
           "label": "D",

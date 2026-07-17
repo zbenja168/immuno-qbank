@@ -422,7 +422,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Failure to express tissue-restricted self-antigens in the thymus, allowing autoreactive T cells to escape"
+          "text": "Failure to express tissue-restricted self-antigens in the thymus"
         },
         {
           "label": "B",
@@ -744,7 +744,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The IL-12/IFN-gamma axis needed for Th1 responses and macrophage activation"
+          "text": "The IL-12/IFN-gamma axis needed for Th1 responses"
         },
         {
           "label": "B",
@@ -791,7 +791,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Common variable immunodeficiency (CVID)"
+          "text": "Common variable immunodeficiency"
         },
         {
           "label": "B",
@@ -884,7 +884,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Redundant transcytosis of IgM through the polymeric Ig receptor compensates at mucosal surfaces"
+          "text": "Redundant transcytosis of IgM through the polymeric Ig receptor"
         },
         {
           "label": "B",
@@ -930,7 +930,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "CD40L is also required, together with IFN-gamma, to fully activate macrophages"
+          "text": "CD40L is also required to fully activate macrophages"
         },
         {
           "label": "B",
@@ -1159,7 +1159,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A localized anatomic abnormality of the airway"
+          "text": "A localized anatomic abnormality"
         },
         {
           "label": "B",
@@ -1212,7 +1212,7 @@
         },
         {
           "label": "C",
-          "text": "T lymphocyte (cell-mediated) function"
+          "text": "T lymphocyte function"
         },
         {
           "label": "D",
@@ -1525,7 +1525,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Loss of memory B cells causing measles-associated immune suppression"
+          "text": "Loss of memory B cells"
         },
         {
           "label": "B",
