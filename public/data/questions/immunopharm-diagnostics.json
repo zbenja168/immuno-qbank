@@ -564,7 +564,7 @@
         },
         {
           "label": "B",
-          "text": "Reduced neutrophil margination causing cells to remain in circulation"
+          "text": "Reduced neutrophil margination"
         },
         {
           "label": "C",
@@ -1206,7 +1206,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It binds free IgE and prevents it from binding mast cells"
+          "text": "It binds free IgE"
         },
         {
           "label": "B",
@@ -1491,7 +1491,7 @@
         },
         {
           "label": "B",
-          "text": "Drug-induced lupus erythematosus-like syndrome"
+          "text": "Drug-induced lupus-like syndrome"
         },
         {
           "label": "C",
@@ -1581,7 +1581,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Oral administration would lead to inactivation of the antibody in the gastrointestinal tract"
+          "text": "Oral administration would lead to inactivation of the antibody"
         },
         {
           "label": "B",
@@ -1674,7 +1674,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Passive immunization providing rapid, short-lived protection"
+          "text": "Passive immunization providing rapid protection"
         },
         {
           "label": "B",
@@ -1773,7 +1773,7 @@
         },
         {
           "label": "C",
-          "text": "It provides protection that is short-lived and does not create memory cells"
+          "text": "It provides protection that does not create memory cells"
         },
         {
           "label": "D",

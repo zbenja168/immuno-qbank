@@ -58,7 +58,7 @@
         },
         {
           "label": "B",
-          "text": "Defective B-cell receptor signaling that blocks maturation past the pre-B stage"
+          "text": "Defective B-cell receptor signaling"
         },
         {
           "label": "C",
@@ -112,7 +112,7 @@
         },
         {
           "label": "D",
-          "text": "Maternal transplacental IgG can persist in the infant for up to 6 months"
+          "text": "Maternal transplacental IgG can persist in the infant"
         },
         {
           "label": "E",
@@ -192,7 +192,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Aberrant migration of neural crest cells leading to absent parathyroid glands"
+          "text": "Aberrant migration of neural crest cells"
         },
         {
           "label": "B",
@@ -837,7 +837,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Failure to generate Th17 cells impairs IL-17-driven neutrophil recruitment"
+          "text": "Failure to generate Th17 cells impairs neutrophil recruitment"
         },
         {
           "label": "B",
@@ -884,7 +884,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Redundant transcytosis of IgM through the polymeric Ig receptor"
+          "text": "Redundant transcytosis of IgM"
         },
         {
           "label": "B",
@@ -1118,7 +1118,7 @@
         },
         {
           "label": "B",
-          "text": "Two radiographically confirmed episodes of pneumonia within the past 12 months"
+          "text": "Two episodes of pneumonia within the past 12 months"
         },
         {
           "label": "C",

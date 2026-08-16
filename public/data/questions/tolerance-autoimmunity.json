@@ -337,7 +337,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Consuming local IL-2 and depriving effector T cells of a growth signal"
+          "text": "Consuming local IL-2"
         },
         {
           "label": "B",
@@ -622,7 +622,7 @@
         },
         {
           "label": "B",
-          "text": "It binds IL-1 and prevents it from binding its receptor"
+          "text": "It binds IL-1"
         },
         {
           "label": "C",
@@ -668,7 +668,7 @@
         },
         {
           "label": "B",
-          "text": "A NOD2 mutation causing inappropriate NF-kB activation"
+          "text": "A NOD2 mutation"
         },
         {
           "label": "C",
@@ -1082,7 +1082,7 @@
         },
         {
           "label": "B",
-          "text": "High levels of estrogen may reduce apoptosis of autoreactive lymphocytes"
+          "text": "Estrogen may reduce apoptosis of autoreactive lymphocytes"
         },
         {
           "label": "C",
