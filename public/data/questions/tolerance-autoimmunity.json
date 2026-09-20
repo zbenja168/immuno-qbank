@@ -567,6 +567,1136 @@
       "topicName": "Immunologic Tolerance"
     },
     {
+      "id": "im11-013",
+      "stem": "A tissue macrophage in a healthy, uninfected joint is continuously exposed to normal self-proteins released during routine cell turnover, yet it does not become activated or initiate inflammation. Which of the following best explains why the innate immune system does not need a dedicated tolerance-screening process to avoid attacking self?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Its pattern recognition receptors bind only pathogen- and damage-associated patterns"
+        },
+        {
+          "label": "B",
+          "text": "Its receptors are deleted in the thymus if they bind self-antigen too strongly"
+        },
+        {
+          "label": "C",
+          "text": "It requires CD28-B7 costimulation before it can respond to any stimulus"
+        },
+        {
+          "label": "D",
+          "text": "Regulatory T cells continuously sequester the IL-2 it needs to activate"
+        },
+        {
+          "label": "E",
+          "text": "It undergoes receptor editing after binding a self-protein"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Innate cells avoid self by design: PRRs recognize only PAMPs and DAMPs, so without pathogens or damage they stay quiet.",
+        "whyCorrect": "The brick explains that the innate immune system limits its defense to foreign invaders through pattern recognition receptors (PRRs), which recognize only pathogen-associated molecular patterns and damage-associated molecular patterns. Without pathogens or damage, the innate immune system does not activate. Tolerance mechanisms are needed for the adaptive system, whose randomly generated receptors can statistically bind self.",
+        "whyWrongByChoice": {
+          "B": "Thymic deletion (negative selection) screens randomly generated T-cell receptors on developing lymphocytes; innate PRRs are germline-encoded and are not screened in the thymus.",
+          "C": "CD28-B7 costimulation is a requirement for priming naive T cells, not a gate on innate macrophage activation.",
+          "D": "IL-2 consumption by CD25 on Tregs deprives other T cells of a growth signal; it is not how innate cells are kept from responding to self.",
+          "E": "Receptor editing is a bone-marrow B-cell mechanism that replaces a self-reactive light chain; innate cells do not edit their receptors."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "innate immunity",
+        "pattern recognition receptors",
+        "tolerance",
+        "self-antigen"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-014",
+      "stem": "A mature naive CD4+ T cell that left the thymus with a weakly self-reactive receptor later encounters its self-antigen in the spleen and is rendered non-responsive. Based on the location of this event and the cell population it acts on, it is best classified as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peripheral tolerance, acting on a mature lymphocyte in a secondary lymphoid organ"
+        },
+        {
+          "label": "B",
+          "text": "Central tolerance, because the spleen is a primary lymphoid organ"
+        },
+        {
+          "label": "C",
+          "text": "Central tolerance, because the receptor was formed by V(D)J rearrangement"
+        },
+        {
+          "label": "D",
+          "text": "Positive selection, because the cell survived contact with self-antigen"
+        },
+        {
+          "label": "E",
+          "text": "Immune privilege, because the spleen tolerates introduced foreign antigen"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Tolerance imposed on mature lymphocytes outside the thymus and bone marrow is peripheral tolerance.",
+        "whyCorrect": "The brick defines central tolerance as tolerance within the primary lymphoid organs (bone marrow and thymus) acting on developing lymphocytes, and peripheral tolerance as tolerance anywhere else, including secondary lymphoid organs, the bloodstream, or tissues, acting on mature lymphocytes. A mature T cell silenced in the spleen fits the peripheral definition.",
+        "whyWrongByChoice": {
+          "B": "The spleen is a secondary lymphoid organ; the primary lymphoid organs are the bone marrow and thymus.",
+          "C": "All T-cell receptors are made by V(D)J rearrangement; what classifies tolerance as central versus peripheral is where it occurs and whether the lymphocyte is developing or mature.",
+          "D": "Positive selection is a thymic-cortex event in which double-positive thymocytes that bind MHC weakly progress; it does not describe silencing of a mature peripheral T cell.",
+          "E": "Immune privilege refers to specific sites such as the eye, brain, and placenta that tolerate introduced antigens; the spleen is not described as a privileged site."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "central tolerance",
+        "peripheral tolerance",
+        "secondary lymphoid organs",
+        "definitions"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-015",
+      "stem": "A double-positive (CD4+/CD8+) thymocyte in the thymic cortex binds a self-peptide presented on MHC by a thymic epithelial cell with weak affinity. Which of the following is the most likely immediate result of this interaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Positive selection and progression to a single-positive cell"
+        },
+        {
+          "label": "B",
+          "text": "Negative selection and elimination by apoptosis"
+        },
+        {
+          "label": "C",
+          "text": "Diversion into the regulatory T-cell lineage"
+        },
+        {
+          "label": "D",
+          "text": "Anergy due to the absence of costimulation"
+        },
+        {
+          "label": "E",
+          "text": "Receptor editing of its T-cell receptor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Weak binding to peptide-MHC on thymic epithelium in the cortex is the signal for positive selection.",
+        "whyCorrect": "The brick recalls that in the thymic cortex, double-positive (CD4+/CD8+) T cells undergo positive selection and become single-positive cells when they weakly bind to peptides presented on MHC by thymic epithelial cells. Only after this do single-positive cells move on to negative selection in the medulla.",
+        "whyWrongByChoice": {
+          "B": "Negative selection occurs in the thymic medulla and eliminates single-positive cells that bind self-peptide-MHC too strongly, not cortical cells that bind weakly.",
+          "C": "Treg diversion applies to CD4+ single-positive cells that bind at an intermediate level in the medulla, not to weakly binding double-positive cells in the cortex.",
+          "D": "Anergy is a peripheral tolerance mechanism affecting mature T cells that see antigen without CD28-B7; it is not a thymic selection outcome.",
+          "E": "Receptor editing is a bone-marrow B-cell process; T cells do not edit their receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "positive selection",
+        "thymic cortex",
+        "double-positive thymocytes",
+        "central tolerance"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-016",
+      "stem": "In the thymic medulla, a single-positive CD4+ thymocyte binds a self-peptide-MHC class II complex with an affinity that is too strong for release as a conventional naive T cell but not strong enough to trigger deletion. Which of the following is the most likely fate of this cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diversion to become a CD25+ FoxP3+ regulatory T cell"
+        },
+        {
+          "label": "B",
+          "text": "Export to the periphery as a conventional naive CD4+ T cell"
+        },
+        {
+          "label": "C",
+          "text": "Conversion to an induced Treg by retinoic acid and TGF-beta"
+        },
+        {
+          "label": "D",
+          "text": "Deletion by Fas-FasL-mediated apoptosis"
+        },
+        {
+          "label": "E",
+          "text": "Receptor editing at a light-chain locus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Intermediate-affinity binding to self-peptide-MHC in the thymus diverts CD4+ thymocytes into the Treg lineage.",
+        "whyCorrect": "The brick describes generation of regulatory T cells as the secondary mechanism of T-cell central tolerance: a portion of CD4+ T cells that bind at an intermediate level may be diverted from their path to develop into Tregs, which express CD3, CD4, CD25, and the transcription factor FoxP3. Figure 1 shows strong binding leading to apoptosis, weak binding to circulation, and intermediate binding to the Treg cell.",
+        "whyWrongByChoice": {
+          "B": "Only thymocytes that bind MHC-peptide weakly are allowed to exit to the periphery as conventional naive T cells.",
+          "C": "Retinoic acid and TGF-beta from tolerogenic dendritic cells generate induced Tregs in the periphery (gut), not in the thymic medulla.",
+          "D": "Fas-mediated deletion is the peripheral apoptosis pathway; thymic deletion requires strong binding, which this cell does not show.",
+          "E": "Receptor editing occurs in developing B cells in the bone marrow, not in thymocytes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "regulatory T cells",
+        "thymus",
+        "intermediate affinity",
+        "central tolerance"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-017",
+      "stem": "A researcher wants to isolate thymus-derived regulatory T cells from peripheral blood by flow cytometry. Which of the following marker combinations best identifies this population?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD3, CD4, CD25, and FoxP3"
+        },
+        {
+          "label": "B",
+          "text": "CD3, CD8, CD28, and Fas"
+        },
+        {
+          "label": "C",
+          "text": "CD3, CD4, CD40L, and PD-L1"
+        },
+        {
+          "label": "D",
+          "text": "CD19, IgM, CD40, and FcgammaRIIB"
+        },
+        {
+          "label": "E",
+          "text": "CD3, CD4, B7, and CTLA-4"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Tregs are CD3+ CD4+ CD25+ FoxP3+ T cells.",
+        "whyCorrect": "The brick states that Tregs are characterized by their expression of CD3 (like all T cells), CD4, CD25 (the high-affinity IL-2 receptor), and the transcription factor FoxP3. This combination distinguishes them from conventional CD4+ helper cells.",
+        "whyWrongByChoice": {
+          "B": "Tregs are CD4+, not CD8+; CD8 with CD28 and Fas describes a conventional cytotoxic T cell, not a regulatory cell.",
+          "C": "CD40L is the helper T-cell ligand that provides CD40 help to B cells, and PD-L1 is a ligand on tumors and privileged tissues; neither defines Tregs.",
+          "D": "CD19, IgM, CD40, and FcgammaRIIB are B-cell markers, not T-cell markers.",
+          "E": "B7 (CD80/CD86) is expressed on antigen-presenting cells, not on Tregs; although Tregs do express CTLA-4, this set lacks the defining CD25 and FoxP3."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "regulatory T cells",
+        "CD25",
+        "FoxP3",
+        "flow cytometry"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-018",
+      "stem": "After positive selection, negative selection, and diversion of some cells into the regulatory T-cell lineage, approximately what proportion of developing thymocytes is ultimately released into the circulation as mature naive CD4+ or CD8+ T cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5% to 10%"
+        },
+        {
+          "label": "B",
+          "text": "Less than 1%"
+        },
+        {
+          "label": "C",
+          "text": "25% to 30%"
+        },
+        {
+          "label": "D",
+          "text": "About 50%"
+        },
+        {
+          "label": "E",
+          "text": "More than 90%"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Only about 5% to 10% of thymocytes survive thymic selection and exit as mature naive T cells.",
+        "whyCorrect": "The brick states that after positive selection, negative selection, and generation of Tregs, only 5% to 10% of developing thymocytes are eventually released into the circulation as mature naive CD4+ or CD8+ T cells. Only those that bind MHC-peptide complexes weakly are allowed to exit to the periphery.",
+        "whyWrongByChoice": {
+          "B": "The stated yield is 5% to 10%, well above 1%.",
+          "C": "A quarter or more of thymocytes surviving overstates the yield; most cells fail positive selection or are deleted.",
+          "D": "Half of thymocytes surviving would imply far less stringent selection than the brick describes.",
+          "E": "The vast majority of thymocytes are eliminated during selection; more than 90% is the proportion lost, not released."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "thymus",
+        "T-cell development",
+        "selection",
+        "numbers"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-019",
+      "stem": "A 7-month-old boy with IPEX syndrome confirmed by a FOXP3 loss-of-function mutation is receiving corticosteroids and a T-cell inhibitor, with only partial control of his enteropathy and autoimmune endocrinopathy. Which of the following interventions has the potential to restore a functional regulatory T-cell population rather than only suppressing his autoreactive effector cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bone marrow transplantation"
+        },
+        {
+          "label": "B",
+          "text": "Escalation of corticosteroid dosing"
+        },
+        {
+          "label": "C",
+          "text": "Addition of a second T-cell inhibitor"
+        },
+        {
+          "label": "D",
+          "text": "Anti-CTLA-4 monoclonal antibody"
+        },
+        {
+          "label": "E",
+          "text": "Anti-PD-1 monoclonal antibody"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Bone marrow transplant can supply FOXP3-competent progenitors and thus functional Tregs in IPEX.",
+        "whyCorrect": "The brick notes that IPEX patients, who lack Tregs because of FOXP3 loss-of-function mutations, are treated with immunosuppressive therapies including steroids and T-cell inhibitors, and are sometimes given a bone marrow transplant. Because Tregs are generated from developing lymphocytes, replacing the hematopoietic source through transplantation is the intervention that can restore the missing Treg population; the drugs only suppress effector cells.",
+        "whyWrongByChoice": {
+          "B": "Steroids are part of the immunosuppressive regimen that dampens autoreactive effector cells; they cannot generate FOXP3-expressing Tregs.",
+          "C": "T-cell inhibitors suppress effector T-cell activity but do not correct the underlying inability to make functional Tregs.",
+          "D": "Blocking CTLA-4 removes a brake on T-cell activation and would worsen, not improve, autoimmunity in a patient already lacking Tregs.",
+          "E": "Blocking PD-1 turns activation signals back on and is used to unleash anti-tumor responses; it would aggravate autoimmune disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "IPEX",
+        "FOXP3",
+        "bone marrow transplant",
+        "treatment"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-020",
+      "stem": "In the bone marrow, an immature B cell whose IgM receptor binds a soluble self-antigen initiates a new round of V-J recombination at its lambda light-chain locus. The resulting receptor, now paired with the original mu heavy chain, still binds the self-antigen with high affinity. Which of the following is the most likely fate of this cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apoptosis within the bone marrow"
+        },
+        {
+          "label": "B",
+          "text": "Release into the circulation as an anergic B cell"
+        },
+        {
+          "label": "C",
+          "text": "Rearrangement of the mu heavy-chain locus to remove self-reactivity"
+        },
+        {
+          "label": "D",
+          "text": "Export to a Peyer's patch for suppression by induced Tregs"
+        },
+        {
+          "label": "E",
+          "text": "Positive selection because a new receptor was generated"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A B cell that still binds self-antigen after receptor editing is deleted by apoptosis.",
+        "whyCorrect": "The brick explains that receptor editing lets an immature B cell start another round of VJ recombination in its kappa or lambda light-chain loci to try to generate a receptor that does not bind self-antigen. If successful, the cell leaves the bone marrow (Figure 2, pathway B); BCRs that continue to bind self-antigens undergo apoptosis (Figure 2, pathway C). This cell's edited receptor still binds self, so it dies.",
+        "whyWrongByChoice": {
+          "B": "Self-reactive immature B cells that fail editing are deleted in the marrow, not exported; anergy is a peripheral mechanism for mature B cells lacking T-cell help.",
+          "C": "Receptor editing as described involves the kappa or lambda light-chain loci; the initial BCR's mu heavy chain is retained, not re-edited.",
+          "D": "Central tolerance is completed in the bone marrow; there is no described pathway exporting failed B cells to the gut for Treg suppression.",
+          "E": "Merely generating a new receptor is not enough; the edited cell is tested again for autoreactivity and only non-self-binding receptors allow the cell to leave the marrow."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "receptor editing",
+        "B cells",
+        "apoptosis",
+        "central tolerance"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-021",
+      "stem": "Which of the following correctly pairs a mechanism of central tolerance with the lymphocyte lineage and site in which it occurs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Receptor editing: B cells in the bone marrow"
+        },
+        {
+          "label": "B",
+          "text": "Receptor editing: T cells in the thymic medulla"
+        },
+        {
+          "label": "C",
+          "text": "Generation of regulatory cells: B cells in the bone marrow"
+        },
+        {
+          "label": "D",
+          "text": "Negative selection: B cells only, not T cells"
+        },
+        {
+          "label": "E",
+          "text": "Positive selection: T cells only, not B cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Only B cells edit their receptors (bone marrow) and only T cells become Tregs (thymus); both lineages undergo positive and negative selection.",
+        "whyCorrect": "The brick states that, like T cells, B cells undergo positive and negative selection, but unlike T cells, B-cell central tolerance occurs in the bone marrow and includes receptor editing. It also emphasizes that only T cells can become regulatory cells (Tregs) and only B cells can go through receptor editing, the process of changing antigen receptors by switching the light chain expressed.",
+        "whyWrongByChoice": {
+          "B": "T cells do not perform receptor editing; the thymic medulla is the site of negative selection and Treg generation.",
+          "C": "Generation of regulatory cells during central tolerance is a T-cell (thymic) event; B cells do not become Tregs.",
+          "D": "Both T cells and B cells undergo negative selection of high-affinity self-binders.",
+          "E": "Both T cells and B cells undergo positive selection according to the brick."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "central tolerance",
+        "B cells",
+        "T cells",
+        "receptor editing",
+        "Tregs"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-022",
+      "stem": "In the absence of infection, a resting dendritic cell in a lymph node presents a peptide derived from normal tissue turnover on MHC class I to a naive CD8+ T cell whose TCR recognizes it, and the CD8 co-receptor engages. The T cell becomes unresponsive rather than proliferating. Which of the following best explains why the T cell was not primed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "B7 (CD80/CD86) is upregulated only on inflammation-activated antigen-presenting cells"
+        },
+        {
+          "label": "B",
+          "text": "Resting dendritic cells do not express MHC class I molecules on their surface"
+        },
+        {
+          "label": "C",
+          "text": "Naive CD8+ T cells cannot signal through their co-receptor without CD4 help"
+        },
+        {
+          "label": "D",
+          "text": "Resting dendritic cells express FasL and induce apoptosis of naive T cells"
+        },
+        {
+          "label": "E",
+          "text": "Naive T cells require IL-10 and TGF-beta from dendritic cells to proliferate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Costimulatory B7 appears only on activated APCs, so T cells seeing self-antigen in a non-inflammatory setting become anergic.",
+        "whyCorrect": "The brick teaches that priming requires TCR binding to peptide-MHC, a co-receptor signal from CD4 or CD8, and costimulation via CD28 binding B7 (CD80/CD86). Because B7 is upregulated on activated antigen-presenting cells, T cells are primed only in an inflammatory environment; a resting dendritic cell presenting a self-peptide without infection lacks B7, so the recognizing T cell becomes anergic.",
+        "whyWrongByChoice": {
+          "B": "The stem states the peptide was presented on MHC class I and recognized by the TCR; MHC expression is not the missing element.",
+          "C": "The CD8 co-receptor signal was delivered; CD8+ T cells use CD8, not CD4, as their co-receptor.",
+          "D": "FasL expression is confined to activated CD8+ CTLs, NK cells, and cells in immune-privileged sites, not resting dendritic cells; the outcome here is unresponsiveness, not death.",
+          "E": "IL-10 and TGF-beta are anti-inflammatory cytokines that attenuate responses; they are not required growth signals for naive T-cell priming."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "anergy",
+        "B7",
+        "CD80/CD86",
+        "dendritic cells",
+        "costimulation"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-023",
+      "stem": "Regulatory T cells suppress other immune cells through four major mechanisms. Which of the following directly results in the death of an autoreactive effector T cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Delivery of perforin and granzymes"
+        },
+        {
+          "label": "B",
+          "text": "Expression of CTLA-4 that blocks B7-CD28 binding"
+        },
+        {
+          "label": "C",
+          "text": "Secretion of IL-10 and TGF-beta"
+        },
+        {
+          "label": "D",
+          "text": "Consumption of IL-2 through CD25"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of dendritic cell stimulation of T cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Of the Treg mechanisms, only perforin and granzyme delivery directly kills the autoreactive T cell.",
+        "whyCorrect": "The brick lists four Treg suppressive mechanisms: expression of the high-affinity IL-2 receptor (CD25), secretion of IL-10 and TGF-beta, expression of CTLA-4, and killing of autoreactive T cells through perforin and granzymes. Only the last produces an apoptotic target cell (Figure 4); the others block activation or starve the cell of growth signals without directly killing it.",
+        "whyWrongByChoice": {
+          "B": "CTLA-4 competes with CD28 for B7 and blocks activation of effector CD4+ T cells, but it does not kill them.",
+          "C": "IL-10 and TGF-beta attenuate the immune response and can shift effector cells toward a Treg phenotype, but they do not directly cause cell death.",
+          "D": "Soaking up IL-2 inhibits proliferation and survival signaling of other T cells; it is deprivation rather than direct killing.",
+          "E": "Inhibiting dendritic cell stimulation prevents T-cell activation but does not directly destroy the autoreactive T cell."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "regulatory T cells",
+        "perforin",
+        "granzymes",
+        "suppression"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-024",
+      "stem": "PD-L1 and PD-L2 engage PD-1 on T cells to switch off the activation signal even after CD28-B7 interaction has occurred. Apart from tumors, expression of these ligands is especially important at which of the following sites, where an immune response in any form is dangerous?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Brain"
+        },
+        {
+          "label": "B",
+          "text": "Bone marrow"
+        },
+        {
+          "label": "C",
+          "text": "Thymic medulla"
+        },
+        {
+          "label": "D",
+          "text": "Peyer's patches"
+        },
+        {
+          "label": "E",
+          "text": "Spleen"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "PD-L1/PD-L2 protect tissues such as the brain where any immune response would be harmful.",
+        "whyCorrect": "The brick states that PD-L1/2 are expressed in many contexts, but two important scenarios are on tumors (as a way to escape death) and at sites of the body where an immune response in any form is dangerous, giving the brain as the example. The brain is also listed among the sites of immune privilege along with the eye and placenta.",
+        "whyWrongByChoice": {
+          "B": "The bone marrow is a primary lymphoid organ where B-cell central tolerance occurs; it is not the example of a PD-L1-protected site.",
+          "C": "The thymic medulla removes self-reactive thymocytes by negative selection; PD-1 ligands are described in the context of peripheral tolerance, not thymic selection.",
+          "D": "Peyer's patches are the functional unit of gut secondary lymphoid tissue, where tolerogenic dendritic cells act; they are not the site cited for PD-L1 protection.",
+          "E": "The spleen is a secondary lymphoid organ where immune responses are normally generated, not a site where any response is dangerous."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PD-1",
+        "PD-L1",
+        "brain",
+        "immune privilege"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-025",
+      "stem": "Regulatory T cells maintain peripheral tolerance by inhibiting dendritic cell stimulation of T-cell activation and by suppressing B-cell activation. Which of the following additional cell types has its proliferation inhibited by regulatory T cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Natural killer cells"
+        },
+        {
+          "label": "B",
+          "text": "Goblet cells"
+        },
+        {
+          "label": "C",
+          "text": "Paneth cells"
+        },
+        {
+          "label": "D",
+          "text": "Thymic epithelial cells"
+        },
+        {
+          "label": "E",
+          "text": "M cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Tregs also restrain the innate arm by inhibiting natural killer cell proliferation.",
+        "whyCorrect": "The brick states that Tregs play an important role in maintaining peripheral tolerance by inhibiting dendritic cell stimulation of T-cell activation, suppressing B-cell activation, and inhibiting proliferation of natural killer cells.",
+        "whyWrongByChoice": {
+          "B": "Goblet cells are gut epithelial cells that secrete mucus to trap pathogens; the brick does not describe Treg control of their proliferation.",
+          "C": "Paneth cells release defensins in the gut; they are not described as targets of Treg suppression.",
+          "D": "Thymic epithelial cells present self-peptide-MHC to developing thymocytes; Tregs act in the periphery, not on thymic stroma.",
+          "E": "M cells are specialized epithelial cells that transport antigen to Peyer's patches; they are not immune cells regulated by Tregs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "regulatory T cells",
+        "natural killer cells",
+        "suppression",
+        "peripheral tolerance"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-026",
+      "stem": "In a co-culture experiment, effector T cells are stimulated with antigen and antigen-presenting cells in the lower chamber of a transwell plate, while regulatory T cells are placed in the upper chamber, separated by a membrane that allows only soluble molecules to pass. Excess exogenous IL-2 is added to the lower chamber. Effector T-cell proliferation is still significantly reduced compared with cultures lacking regulatory T cells. Which of the following Treg mechanisms best accounts for this suppression?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Secretion of IL-10 and TGF-beta"
+        },
+        {
+          "label": "B",
+          "text": "Consumption of IL-2 through high-affinity CD25"
+        },
+        {
+          "label": "C",
+          "text": "CTLA-4 competition with CD28 for B7"
+        },
+        {
+          "label": "D",
+          "text": "Killing through perforin and granzymes"
+        },
+        {
+          "label": "E",
+          "text": "Engagement of Fas on the effector cells by FasL"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Contact-independent suppression that persists despite abundant IL-2 points to secreted IL-10 and TGF-beta.",
+        "whyCorrect": "The brick lists secretion of anti-inflammatory cytokines such as IL-10 and transforming growth factor-beta (TGF-beta) as a Treg mechanism; these cytokines attenuate the immune response. Because the membrane permits only soluble factors and IL-2 is supplied in excess, the remaining suppression must come from secreted cytokines crossing the membrane.",
+        "whyWrongByChoice": {
+          "B": "CD25 soaks up available IL-2 to deprive other T cells, but excess exogenous IL-2 was added, so IL-2 deprivation cannot explain the suppression.",
+          "C": "CTLA-4 competing with CD28 for B7 requires Treg contact with the antigen-presenting cell, which the membrane prevents.",
+          "D": "Perforin and granzyme delivery requires direct contact with the target cell and would produce dead cells rather than merely reduced proliferation across a membrane.",
+          "E": "FasL is expressed by activated CD8+ CTLs, NK cells, and cells in immune-privileged sites; Fas-FasL killing is contact dependent and is not one of the four Treg mechanisms."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "regulatory T cells",
+        "IL-10",
+        "TGF-beta",
+        "suppression mechanisms"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-027",
+      "stem": "A self-reactive CD4+ T cell circulating in the periphery has upregulated Fas on its surface. Contact with which of the following cells is most likely to trigger its apoptosis through Fas signaling?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An activated CD8+ cytotoxic T cell"
+        },
+        {
+          "label": "B",
+          "text": "A naive CD4+ helper T cell"
+        },
+        {
+          "label": "C",
+          "text": "An immature B cell in the bone marrow"
+        },
+        {
+          "label": "D",
+          "text": "A thymic cortical epithelial cell"
+        },
+        {
+          "label": "E",
+          "text": "An intestinal M cell"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "FasL is restricted to activated CTLs, NK cells, and immune-privileged tissues, so these are the cells that can delete Fas-bearing lymphocytes.",
+        "whyCorrect": "The brick explains that Fas is a receptor found on many cells, including T cells, whereas Fas ligand (FasL) expression is confined to the surface of activated CD8+ cytotoxic T cells (CTLs), natural killer cells, and cells within immune-privileged sites. When Fas binds FasL, the Fas-containing lymphocyte undergoes apoptosis, and Fas expression on self-reactive T cells is thought to be upregulated (Figure 5).",
+        "whyWrongByChoice": {
+          "B": "Naive CD4+ helper T cells are not listed as FasL-expressing cells; FasL is confined to activated CTLs, NK cells, and privileged-site cells.",
+          "C": "Immature B cells in the marrow are themselves undergoing central tolerance; they do not express FasL to delete peripheral T cells.",
+          "D": "Thymic cortical epithelial cells mediate positive selection of thymocytes and are not described as FasL-expressing killers of peripheral T cells.",
+          "E": "M cells transport antigen across the gut epithelium into Peyer's patches; they are not FasL-expressing effector cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Fas",
+        "FasL",
+        "deletion",
+        "cytotoxic T cells",
+        "peripheral tolerance"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-028",
+      "stem": "A 9-year-old boy with autoimmune lymphoproliferative syndrome due to a defect in Fas-induced apoptosis has chronic splenomegaly, hepatomegaly, and lymphadenopathy. In addition to autoimmune cytopenias, he is at increased long-term risk for which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Malignancy"
+        },
+        {
+          "label": "B",
+          "text": "Anaphylaxis to food antigens"
+        },
+        {
+          "label": "C",
+          "text": "Rejection of a corneal transplant"
+        },
+        {
+          "label": "D",
+          "text": "Polyendocrinopathy with enteropathy"
+        },
+        {
+          "label": "E",
+          "text": "Loss of oral tolerance to dietary proteins"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "ALPS patients accumulate lymphocytes and are susceptible to malignancies as well as autoimmune cytopenias.",
+        "whyCorrect": "The brick states that individuals with defects in Fas-induced apoptosis accumulate circulating autoreactive T cells (ALPS), presenting in early childhood with splenomegaly, hepatomegaly, and lymphadenopathy from lymphocyte buildup, and that patients are susceptible to malignancies and autoimmune cytopenias.",
+        "whyWrongByChoice": {
+          "B": "Food anaphylaxis reflects a Th2/IgE-dominated response to a dietary antigen, not a Fas apoptosis defect.",
+          "C": "Corneal grafts survive because the eye is an immune-privileged site; ALPS does not abolish immune privilege.",
+          "D": "Polyendocrinopathy with enteropathy is the IPEX phenotype caused by FOXP3 mutation and loss of Tregs, not by a Fas defect.",
+          "E": "Oral tolerance depends on tolerogenic gut dendritic cells and induced Tregs; ALPS is not described as impairing it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ALPS",
+        "Fas",
+        "malignancy",
+        "complications"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-029",
+      "stem": "A mature B cell in the spleen binds a T-independent self-antigen and receives a strong signal through its B-cell receptor. No helper T cells specific for this antigen exist because they were deleted in the thymus. Which of the following is the most likely outcome for this B cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation and antibody secretion without T-cell help"
+        },
+        {
+          "label": "B",
+          "text": "Anergy because CD40 is not engaged by CD40L"
+        },
+        {
+          "label": "C",
+          "text": "Receptor editing to replace its light chain"
+        },
+        {
+          "label": "D",
+          "text": "Deletion by the perforin and granzymes of regulatory T cells"
+        },
+        {
+          "label": "E",
+          "text": "Apoptosis triggered by IgG binding to FcgammaRIIB"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "T-independent self-antigens can bypass the requirement for T-cell help and activate self-reactive B cells.",
+        "whyCorrect": "The brick recalls that B cells do not need T-cell help to respond to T-independent antigens, and that if B cells recognize and receive strong signals from T-independent self-antigens in the periphery, they may become activated. The anergy safeguard based on missing CD40 help applies only to T-dependent antigens, so this cell escapes tolerance.",
+        "whyWrongByChoice": {
+          "B": "Anergy from absent CD40L-CD40 help applies to T-dependent self-antigens; a strong T-independent signal does not require the second signal.",
+          "C": "Receptor editing is a central tolerance mechanism for immature B cells in the bone marrow, not for mature B cells in the spleen.",
+          "D": "Perforin and granzyme killing by Tregs is described as targeting autoreactive T cells; it is not the outcome here.",
+          "E": "FcgammaRIIB inhibition requires high IgG levels engaging the receptor; nothing in the scenario indicates that condition, and the strong T-independent signal drives activation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "B cells",
+        "T-independent antigens",
+        "peripheral tolerance",
+        "autoimmunity"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-030",
+      "stem": "In T-cell priming, the second signal is delivered by CD28 on the T cell binding B7 on the antigen-presenting cell. For a B cell responding to a T-dependent antigen, which of the following interactions provides the analogous second signal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD40L on the helper T cell binding CD40 on the B cell"
+        },
+        {
+          "label": "B",
+          "text": "B7 on the B cell binding CD28 on the helper T cell"
+        },
+        {
+          "label": "C",
+          "text": "PD-L1 on the B cell binding PD-1 on the helper T cell"
+        },
+        {
+          "label": "D",
+          "text": "FasL on the helper T cell binding Fas on the B cell"
+        },
+        {
+          "label": "E",
+          "text": "IgG immune complexes binding FcgammaRIIB on the B cell"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CD40L-CD40 is the B-cell costimulatory second signal, paralleling CD28-B7 in T cells.",
+        "whyCorrect": "The brick states that, like T cells, B cells require a costimulatory signal to undergo activation, and that B cells need a second signal, CD40, to respond to T-dependent antigens. The summary specifies that B-cell anergy involves lack of binding of CD40L (on T cells) to CD40 (on B cells) in addition to TCR and peptide-MHC class II and the CD4 co-receptor signal, and Figure 5 shows CD4+ helper T-cell CD40L engaging B-cell CD40 as signal 2.",
+        "whyWrongByChoice": {
+          "B": "CD28-B7 is the T-cell costimulatory pair; the B-cell second signal comes through CD40, not through B7 on the B cell.",
+          "C": "PD-L1 engaging PD-1 turns off T-cell activation; it is an inhibitory checkpoint, not a costimulatory signal.",
+          "D": "FasL-Fas engagement triggers apoptosis of the Fas-bearing cell; it is a deletion mechanism, not costimulation.",
+          "E": "IgG binding FcgammaRIIB downregulates antibody production and promotes apoptosis; it is an inhibitory signal."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "B cells",
+        "CD40",
+        "CD40L",
+        "costimulation"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-031",
+      "stem": "Which of the following cells of the intestinal epithelium releases defensins, antimicrobial peptides that help limit the bacteria reaching the enterocyte layer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Paneth cells"
+        },
+        {
+          "label": "B",
+          "text": "Goblet cells"
+        },
+        {
+          "label": "C",
+          "text": "M cells"
+        },
+        {
+          "label": "D",
+          "text": "Tolerogenic dendritic cells"
+        },
+        {
+          "label": "E",
+          "text": "Resident IgA-secreting B cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Paneth cells secrete defensins as part of the gut's antimicrobial barrier.",
+        "whyCorrect": "The brick describes the gut immune system: goblet cells secrete mucus to trap pathogens, Paneth cells release defensins (antimicrobial peptides), and resident B cells secrete IgA into the lumen to neutralize pathogens. All of these features limit the bacteria that pass the enterocyte layer, reduce inflammation, and prevent immune responses to food and the microbiome.",
+        "whyWrongByChoice": {
+          "B": "Goblet cells secrete mucus that traps pathogens; they do not release defensins.",
+          "C": "M cells sample and transport antigens across the epithelium to Peyer's patches rather than secreting antimicrobial peptides.",
+          "D": "Tolerogenic dendritic cells secrete retinoic acid and TGF-beta to generate induced Tregs; they are not defensin-producing epithelial cells.",
+          "E": "Resident B cells secrete IgA into the lumen to neutralize pathogens, not defensins."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "oral tolerance",
+        "Paneth cells",
+        "defensins",
+        "gut immunity"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-032",
+      "stem": "Specialized epithelial cells of the small intestine transport luminal antigens across their cell bodies and deposit them into an underlying structure described as the functional unit of the secondary lymphoid tissue of the gut. Which of the following correctly identifies these cells and that structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "M cells; Peyer's patches"
+        },
+        {
+          "label": "B",
+          "text": "Goblet cells; Peyer's patches"
+        },
+        {
+          "label": "C",
+          "text": "M cells; mesenteric lymph nodes"
+        },
+        {
+          "label": "D",
+          "text": "Paneth cells; lamina propria"
+        },
+        {
+          "label": "E",
+          "text": "Enterocytes; bone marrow"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "M cells shuttle antigen from the lumen into Peyer's patches, the gut's secondary lymphoid unit.",
+        "whyCorrect": "The brick states that antigens are sampled by specialized epithelial cells called M cells, which transport antigens across their cell bodies and deposit them in Peyer's patches, the functional unit of the secondary lymphoid tissue of the gut. There, in the absence of infection, tolerogenic dendritic cells promote Treg differentiation.",
+        "whyWrongByChoice": {
+          "B": "Goblet cells secrete mucus; they are not the antigen-transporting cells.",
+          "C": "M cells deposit antigen directly into Peyer's patches; draining lymph nodes are where activated dendritic cells travel after infection.",
+          "D": "Paneth cells release defensins and do not transport antigen; the lamina propria is not the described lymphoid unit.",
+          "E": "Enterocytes form the epithelial layer but are not the specialized antigen-sampling cells, and the bone marrow is a primary lymphoid organ."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "M cells",
+        "Peyer's patches",
+        "oral tolerance",
+        "gut immunity"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-033",
+      "stem": "Mice are fed large amounts of a foreign protein daily for several weeks. They are then immunized by injection with the same protein. Compared with mice that were never fed the protein, the fed mice fail to mount an immune response to the injection. This finding is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oral tolerance"
+        },
+        {
+          "label": "B",
+          "text": "Immune privilege"
+        },
+        {
+          "label": "C",
+          "text": "Central tolerance"
+        },
+        {
+          "label": "D",
+          "text": "Receptor editing"
+        },
+        {
+          "label": "E",
+          "text": "Innate immune activation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Prior oral exposure suppressing the response to later injection of the same antigen is the classic definition of oral tolerance.",
+        "whyCorrect": "The brick notes that oral tolerance is sometimes defined as an inhibition of immune responses to subsequent injections of proteins following oral exposure: if you feed a mouse lots of a foreign antigen over time and then try to immunize the mouse with that antigen, it will not develop an immune response.",
+        "whyWrongByChoice": {
+          "B": "Immune privilege refers to sites such as the eye, brain, and placenta that tolerate introduced antigens; it is not a systemic effect of feeding antigen.",
+          "C": "Central tolerance acts on developing lymphocytes in the thymus and bone marrow against self-antigens, not on a fed foreign protein.",
+          "D": "Receptor editing is a bone-marrow B-cell mechanism that swaps light chains; it does not describe systemic unresponsiveness after oral exposure.",
+          "E": "The finding is a lack of response, and the innate system activates only in response to pathogen- or damage-associated patterns, not harmless food proteins."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "oral tolerance",
+        "animal models",
+        "immunization"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-034",
+      "stem": "In an animal model of multiple sclerosis, mice that already harbor myelin-reactive effector CD4+ T cells are fed myelin protein over several weeks, and disease activity is suppressed. Which of the following best explains how oral administration of a self-antigen can suppress an established effector response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tolerogenic dendritic cells convert even effector T cells into induced Tregs"
+        },
+        {
+          "label": "B",
+          "text": "Fed antigen reaches the thymus and negatively selects myelin-reactive thymocytes"
+        },
+        {
+          "label": "C",
+          "text": "M cells degrade the antigen so it is never presented to lymphocytes"
+        },
+        {
+          "label": "D",
+          "text": "Fed antigen induces receptor editing in myelin-reactive B cells"
+        },
+        {
+          "label": "E",
+          "text": "Oral antigen upregulates B7 on Peyer's patch dendritic cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Gut tolerogenic dendritic cells can re-program effector T cells into induced Tregs, suppressing ongoing autoimmunity.",
+        "whyCorrect": "The brick states that oral self-antigen administration has been shown to suppress autoimmune disease in animal models of multiple sclerosis, type 1 diabetes, and other autoimmune conditions. Mechanistically, in the absence of infection, specialized tolerogenic dendritic cells promote the differentiation of T cells, even effector T cells, to Tregs through secretion of retinoic acid and TGF-beta; these peripherally generated cells are induced Tregs (iTregs). This explains suppression of an already established effector population.",
+        "whyWrongByChoice": {
+          "B": "Negative selection is a central tolerance process acting on developing thymocytes; it cannot remove mature effector T cells already in the periphery.",
+          "C": "M cells transport antigen across their cell bodies into Peyer's patches for presentation; they do not destroy it.",
+          "D": "Receptor editing occurs in immature B cells in the bone marrow, not in mature peripheral B cells, and the disease here is T-cell mediated.",
+          "E": "Upregulating B7 would enhance CD28 costimulation and T-cell priming, which is the opposite of the tolerogenic outcome observed."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "oral tolerance",
+        "induced Tregs",
+        "tolerogenic dendritic cells",
+        "autoimmunity"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-035",
+      "stem": "An invasive bacterial pathogen breaches the intestinal epithelium and causes tissue damage. Which of the following best describes where the resulting adaptive immune response is initiated and how effector lymphocytes reach the gut?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activated dendritic cells prime lymphocytes in draining lymph nodes; effectors return by the circulation"
+        },
+        {
+          "label": "B",
+          "text": "Tolerogenic dendritic cells prime lymphocytes in Peyer's patches; effectors diffuse through the lamina propria"
+        },
+        {
+          "label": "C",
+          "text": "M cells prime lymphocytes within the lumen; effectors migrate back across the epithelium"
+        },
+        {
+          "label": "D",
+          "text": "Thymic epithelial cells prime lymphocytes in the thymus; effectors travel through the lymphatics"
+        },
+        {
+          "label": "E",
+          "text": "Paneth cells prime lymphocytes in the bone marrow; effectors are secreted with IgA"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Infection switches the gut from tolerance to a classic response: activated DCs prime lymphocytes in draining nodes, and effectors home back via the blood.",
+        "whyCorrect": "The brick explains that if infection does occur, the invasive pathogens themselves or the damage resulting from them activates a classic immune response: activated dendritic cells travel to draining lymph nodes and activate B and T cells, which travel back to the gut via the circulation (Figure 7 shows CD4+ effector T cells arriving from the circulation).",
+        "whyWrongByChoice": {
+          "B": "Tolerogenic dendritic cells act in the absence of infection to generate induced Tregs; pathogen-driven damage activates dendritic cells, which instead migrate to draining lymph nodes.",
+          "C": "M cells transport antigen; they do not prime lymphocytes, and priming does not occur in the lumen.",
+          "D": "The thymus is the site of T-cell development and central tolerance, not of priming responses to gut infection.",
+          "E": "Paneth cells release defensins; they do not prime lymphocytes, and the bone marrow is not where gut responses are initiated."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gut immunity",
+        "dendritic cells",
+        "draining lymph nodes",
+        "infection"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
+      "id": "im11-036",
+      "stem": "A 60-year-old man receives a corneal transplant from a donor who was not MHC-matched. Five years later, the graft remains clear and functional without systemic immunosuppression. Which of the following best explains this outcome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The eye is an immune-privileged site"
+        },
+        {
+          "label": "B",
+          "text": "Corneal tissue does not express any antigens"
+        },
+        {
+          "label": "C",
+          "text": "The recipient's thymus deleted donor-reactive T cells"
+        },
+        {
+          "label": "D",
+          "text": "Donor B cells underwent receptor editing after transplant"
+        },
+        {
+          "label": "E",
+          "text": "Corneal grafts are protected by oral tolerance"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Long-term survival of unmatched corneal grafts is the classic example of immune privilege.",
+        "whyCorrect": "The brick explains that certain tissues and locations have immune privilege, meaning they can tolerate the introduction of antigens, even foreign ones, without eliciting an inflammatory immune response; for example, the majority of transplanted corneas, even from someone who is not MHC-matched, survive long-term. The eye, brain, and placenta are listed as sites of immune privilege, maintained by limiting antigen access, anti-inflammatory cytokines, FasL expression, and Tregs.",
+        "whyWrongByChoice": {
+          "B": "Privilege means foreign antigens can be introduced without eliciting a response; it does not require the tissue to be antigen-free.",
+          "C": "Central tolerance in the thymus deletes thymocytes reactive to the recipient's own self-antigens during development; it does not delete T cells reactive to a later transplanted donor's antigens.",
+          "D": "Receptor editing is a bone-marrow process in the recipient's own developing B cells and has nothing to do with graft survival.",
+          "E": "Oral tolerance concerns antigens entering the digestive system; it does not protect an ocular graft."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "immune privilege",
+        "cornea",
+        "transplant",
+        "eye"
+      ],
+      "topicId": "immunologic-tolerance",
+      "topicName": "Immunologic Tolerance"
+    },
+    {
       "id": "im21-001",
       "stem": "A 9-year-old boy of Mediterranean descent has recurrent 1- to 3-day episodes of high fever with severe abdominal pain, an erysipelas-like rash on the lower leg, and painful swelling of a single ankle. Episodes resolve spontaneously, and between attacks he is well. Extensive testing shows neutrophilic inflammation but no autoantibodies, and the pattern is autosomal recessive. Which of the following best explains the underlying mechanism?",
       "choices": [
@@ -1114,6 +2244,1109 @@
         "intrinsic factors",
         "estrogen",
         "autoimmunity"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-013",
+      "stem": "A second-year medical student is asked to contrast autoinflammatory diseases with autoimmune diseases. Which of the following statements correctly distinguishes the two categories?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoinflammatory diseases are driven primarily by genetic factors, whereas autoimmune diseases are typically multifactorial"
+        },
+        {
+          "label": "B",
+          "text": "Autoinflammatory diseases involve a breakdown in immune tolerance, whereas autoimmune diseases do not"
+        },
+        {
+          "label": "C",
+          "text": "Autoinflammatory diseases are mediated by T and B lymphocytes, whereas autoimmune diseases are mediated by neutrophils and macrophages"
+        },
+        {
+          "label": "D",
+          "text": "Autoinflammatory diseases are common, whereas autoimmune diseases are rare"
+        },
+        {
+          "label": "E",
+          "text": "Autoinflammatory diseases produce autoantibodies, whereas autoimmune diseases produce inflammatory cytokines only"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Autoinflammatory conditions are driven primarily by genetic factors such as loss-of-function mutations in inflammasome inhibitors, whereas autoimmune diseases are complex and multifactorial.",
+        "whyCorrect": "The brick summary states that autoinflammatory conditions are driven primarily by genetic factors, such as loss-of-function mutations in inhibitors of the inflammasome, and that few autoimmune disorders are monogenic; the development of autoimmune diseases is instead complex and multifactorial, influenced by intrinsic factors, environmental factors, and amplification loops.",
+        "whyWrongByChoice": {
+          "B": "This is reversed: autoimmune diseases involve a breakdown in immune tolerance, while autoinflammatory diseases do not directly involve the breakdown of tolerance.",
+          "C": "This is reversed: autoinflammatory tissue damage is caused by neutrophils and macrophages (innate cells), while autoimmune damage is mediated by T and B cells.",
+          "D": "Autoinflammatory diseases are rare, whereas up to 10% of people develop an autoimmune disease during their lifetime.",
+          "E": "Autoantibodies define autoimmunity, not autoinflammation; autoinflammatory disease reflects inappropriate secretion of inflammatory cytokines or granule contents by innate cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "autoinflammatory disease",
+        "autoimmune disease",
+        "innate immunity"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-014",
+      "stem": "A public health researcher is preparing a lecture on the burden of autoimmune disease. Approximately what proportion of people develop an autoimmune disease at some point in their lives?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Less than 1%"
+        },
+        {
+          "label": "B",
+          "text": "Up to 10%"
+        },
+        {
+          "label": "C",
+          "text": "About 25%"
+        },
+        {
+          "label": "D",
+          "text": "About 50%"
+        },
+        {
+          "label": "E",
+          "text": "More than 75%"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Up to 10% of people develop an autoimmune disease at some point in their life.",
+        "whyCorrect": "The brick states that in autoimmunity, lymphocytes or antibodies mistakenly recognize self-antigen as non-self and initiate an adaptive immune response, and that up to 10% of people develop an autoimmune disease at some point in their life. This contrasts with autoinflammatory diseases, which are described as rare.",
+        "whyWrongByChoice": {
+          "A": "Less than 1% underestimates the burden; the brick cites a figure of up to 10%.",
+          "C": "About 25% overstates the lifetime frequency given in the brick.",
+          "D": "Half of the population is far higher than the stated figure of up to 10%.",
+          "E": "More than three-quarters of people do not develop autoimmune disease; the brick cites up to 10%."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "autoimmune disease",
+        "epidemiology"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-015",
+      "stem": "A 12-year-old boy with a monogenic periodic fever syndrome undergoes biopsy of an acutely inflamed joint during an attack. Serum testing shows no autoantibodies. Tissue damage in his condition is caused primarily by which of the following cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neutrophils and macrophages"
+        },
+        {
+          "label": "B",
+          "text": "CD4+ and CD8+ T cells"
+        },
+        {
+          "label": "C",
+          "text": "Plasma cells"
+        },
+        {
+          "label": "D",
+          "text": "Mast cells and eosinophils"
+        },
+        {
+          "label": "E",
+          "text": "Follicular dendritic cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Autoinflammatory diseases produce inflammation and tissue damage caused by neutrophils and macrophages of the innate immune system.",
+        "whyCorrect": "The brick defines autoinflammation as innate immune system malfunction with inappropriate secretion of inflammatory cytokines or granule contents, and states that autoinflammatory diseases are the result of inflammation and tissue damage caused by neutrophils and macrophages. A monogenic periodic fever syndrome without autoantibodies is an autoinflammatory disorder.",
+        "whyWrongByChoice": {
+          "B": "T-cell-mediated damage characterizes autoimmune disease, in which the adaptive immune system is dysregulated.",
+          "C": "Plasma cells produce antibodies, including autoantibodies in autoimmune disease; this patient has no autoantibodies.",
+          "D": "Mast cells and eosinophils are not the effector cells the brick identifies for autoinflammatory tissue damage.",
+          "E": "Follicular dendritic cells present immune complexes to B cells during affinity maturation and are not the source of autoinflammatory damage."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "autoinflammatory disease",
+        "neutrophils",
+        "macrophages"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-016",
+      "stem": "An immature B cell in the bone marrow binds a self-antigen with high avidity. Rather than being deleted, the cell changes its antigen receptor so that the new receptor no longer recognizes the self-antigen, and the cell continues development. Which of the following tolerance processes does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Receptor editing"
+        },
+        {
+          "label": "B",
+          "text": "Anergy"
+        },
+        {
+          "label": "C",
+          "text": "Somatic hypermutation"
+        },
+        {
+          "label": "D",
+          "text": "Affinity maturation"
+        },
+        {
+          "label": "E",
+          "text": "Suppression by regulatory T cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Receptor editing is a central tolerance outcome for self-reactive B cells in the bone marrow, alongside deletion.",
+        "whyCorrect": "Figure 2 of the brick shows that central tolerance for B cells occurs in the bone marrow, where a self-reactive B cell undergoes either deletion or receptor editing. Receptor editing replaces the self-reactive receptor so that the cell is no longer autoreactive, which is exactly the scenario described.",
+        "whyWrongByChoice": {
+          "B": "Anergy (failure to respond) is a peripheral tolerance mechanism acting on circulating lymphocytes; it does not change the receptor.",
+          "C": "Somatic hypermutation refines the affinity of an existing antibody response over time and is described by the brick in the context of epitope spreading, not developing B cells in the marrow.",
+          "D": "Affinity maturation increases antibody affinity during an ongoing response; it is not a mechanism for eliminating self-reactivity in developing B cells.",
+          "E": "Regulatory T-cell suppression is a peripheral tolerance mechanism acting on circulating T and B cells, not a bone marrow developmental step."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "central tolerance",
+        "B cells",
+        "receptor editing"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-017",
+      "stem": "An infant is found to have a thymic defect that abolishes one of the two components of central tolerance. Negative selection is intact, yet self-reactive T and B cells that reach the periphery are not suppressed. Which of the following processes is most likely defective?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Generation of regulatory T cells"
+        },
+        {
+          "label": "B",
+          "text": "Receptor editing of B cells"
+        },
+        {
+          "label": "C",
+          "text": "Induction of anergy"
+        },
+        {
+          "label": "D",
+          "text": "Deletion of circulating lymphocytes"
+        },
+        {
+          "label": "E",
+          "text": "Expression of MHC class I on nucleated cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Central tolerance consists of negative selection and the generation of regulatory T cells in the thymus, which then suppress self-reactive lymphocytes in the periphery.",
+        "whyCorrect": "The brick states that central tolerance consists of deleting self-reactive lymphocytes (negative selection) and the generation of regulatory T cells. Figure 2 shows regulatory T cells developing in the thymus and then migrating to the periphery to suppress self-reactive T and B cells. If negative selection is intact but peripheral suppression is absent, the thymic generation of regulatory T cells is the defective component.",
+        "whyWrongByChoice": {
+          "B": "Receptor editing occurs in the bone marrow for B cells, not in the thymus.",
+          "C": "Anergy is a peripheral tolerance mechanism, not one of the two components of central tolerance.",
+          "D": "Deletion of circulating lymphocytes is a peripheral tolerance mechanism; the stem describes a thymic (central) defect.",
+          "E": "MHC class I expression enables cytotoxic T-cell recognition of abnormal cells and is not a component of central tolerance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "central tolerance",
+        "regulatory T cells",
+        "thymus"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-018",
+      "stem": "A mature, circulating T cell encounters an antigen-presenting cell displaying a self-antigen. Afterward the T cell survives but fails to respond to that antigen on subsequent encounters. Which of the following peripheral tolerance mechanisms does this describe?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anergy"
+        },
+        {
+          "label": "B",
+          "text": "Negative selection"
+        },
+        {
+          "label": "C",
+          "text": "Deletion"
+        },
+        {
+          "label": "D",
+          "text": "Receptor editing"
+        },
+        {
+          "label": "E",
+          "text": "Epitope spreading"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Anergy is the induction of non-responsiveness in a circulating self-reactive lymphocyte that remains alive.",
+        "whyCorrect": "The brick lists peripheral tolerance mechanisms as deletion of self-reactive lymphocytes, induction of anergy (non-responsiveness), or inhibition by regulatory T cells. Figure 2 labels anergy as a failure to respond following encounter with an APC presenting self antigen. A surviving but unresponsive T cell is anergic.",
+        "whyWrongByChoice": {
+          "B": "Negative selection is a central tolerance process that deletes developing lymphocytes in the thymus or bone marrow, not mature circulating cells.",
+          "C": "Deletion kills the self-reactive cell; here the cell survives.",
+          "D": "Receptor editing is a bone marrow process for developing B cells, not a peripheral T-cell mechanism.",
+          "E": "Epitope spreading is an amplification mechanism of autoimmunity, not a tolerance mechanism."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "peripheral tolerance",
+        "anergy",
+        "tolerance"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-019",
+      "stem": "A macrophage's toll-like receptors bind conserved structures on an invading bacterium. One specific effect of this stimulation is activation of a multiprotein complex. Activation and secretion of which of the following cytokines is the direct product of that complex?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IL-1"
+        },
+        {
+          "label": "B",
+          "text": "IL-6"
+        },
+        {
+          "label": "C",
+          "text": "TNF-alpha"
+        },
+        {
+          "label": "D",
+          "text": "IFN-gamma"
+        },
+        {
+          "label": "E",
+          "text": "IL-2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The inflammasome is a multiprotein complex activated downstream of PRR stimulation that induces the activation and secretion of IL-1.",
+        "whyCorrect": "The brick explains that PRRs such as toll-like receptors recognize PAMPs and DAMPs, and that one specific effect of PRR stimulation is activation of the inflammasome, a multiprotein complex capable of inducing the activation and secretion of IL-1. This is why pyrin loss-of-function (loss of inflammasome suppression) leads to IL-1 overexpression.",
+        "whyWrongByChoice": {
+          "B": "IL-6 is one of the three major pro-inflammatory cytokines produced after PRR binding, but the brick ties inflammasome activity specifically to IL-1.",
+          "C": "TNF-alpha is also a major pro-inflammatory cytokine downstream of PRR signaling, but it is not the cytokine the inflammasome activates.",
+          "D": "IFN-gamma is a T-cell cytokine the brick mentions in amplifying dendritic cell activation, not an inflammasome product.",
+          "E": "IL-2 is not among the cytokines the brick associates with PRR signaling or the inflammasome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "inflammasome",
+        "IL-1",
+        "pattern-recognition receptors"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-020",
+      "stem": "Binding of pathogen-associated molecular patterns to pattern-recognition receptors on innate immune cells initiates NF-kB and IRF signaling and results in secretion of three major pro-inflammatory cytokines. Which of the following sets lists those cytokines?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IL-1, IL-6, and TNF-alpha"
+        },
+        {
+          "label": "B",
+          "text": "IL-2, IL-4, and IL-5"
+        },
+        {
+          "label": "C",
+          "text": "IL-10, TGF-beta, and IL-35"
+        },
+        {
+          "label": "D",
+          "text": "IFN-gamma, IL-12, and IL-18"
+        },
+        {
+          "label": "E",
+          "text": "IL-4, IL-13, and IL-9"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "IL-1, IL-6, and TNF-alpha are the three major pro-inflammatory cytokines produced as a result of PRR binding.",
+        "whyCorrect": "The brick states that PRR binding initiates NF-kB and IRF signaling, inducing changes in cytokine secretion, adhesion molecule expression, and costimulatory molecule expression, and that IL-1, IL-6, and TNF-alpha are the three major pro-inflammatory cytokines produced as a result of PRR binding.",
+        "whyWrongByChoice": {
+          "B": "IL-2, IL-4, and IL-5 are not the pro-inflammatory cytokines the brick attributes to PRR binding.",
+          "C": "IL-10, TGF-beta, and IL-35 are not the trio the brick names as products of PRR stimulation.",
+          "D": "IFN-gamma appears in the brick only as a T-cell cytokine that amplifies dendritic cell activation; this set is not the PRR-driven trio.",
+          "E": "IL-4, IL-13, and IL-9 are not the cytokines the brick identifies as the major products of innate PRR signaling."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pattern-recognition receptors",
+        "cytokines",
+        "innate immunity"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-021",
+      "stem": "A 48-year-old woman has 6 months of symmetric swelling of the metacarpophalangeal and proximal interphalangeal joints of both hands with prolonged morning stiffness. Serum rheumatoid factor is positive. The autoantibody detected in her serum is associated with which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A type 3 hypersensitivity reaction causing systemic inflammation"
+        },
+        {
+          "label": "B",
+          "text": "A type 2 hypersensitivity reaction causing cellular dysfunction"
+        },
+        {
+          "label": "C",
+          "text": "A type 4 hypersensitivity reaction mediated by T cells"
+        },
+        {
+          "label": "D",
+          "text": "A type 1 hypersensitivity reaction mediated by IgE"
+        },
+        {
+          "label": "E",
+          "text": "An autoinflammatory reaction driven by IL-1 overexpression"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Rheumatoid factor is associated with rheumatoid arthritis, a type 3 hypersensitivity reaction causing systemic inflammation.",
+        "whyCorrect": "In the Mechanisms of Damage section, the brick states that the target of autoreactivity is tightly associated with the systems affected, and that rheumatoid factor is associated with rheumatoid arthritis, a type 3 HSR causing systemic inflammation. Symmetric small-joint polyarthritis with a positive rheumatoid factor fits this description.",
+        "whyWrongByChoice": {
+          "B": "Type 2 HSR with cellular dysfunction describes anti-AChR antibody in myasthenia gravis, not rheumatoid factor.",
+          "C": "Type 4 HSR is T-cell mediated, as in celiac disease; rheumatoid factor is an antibody-associated type 3 process.",
+          "D": "Type 1 IgE-mediated hypersensitivity is not among the mechanisms of autoimmune damage; the brick lists types 2, 3, and 4.",
+          "E": "IL-1-driven autoinflammatory disease does not involve autoantibodies such as rheumatoid factor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "rheumatoid arthritis",
+        "rheumatoid factor",
+        "hypersensitivity"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-022",
+      "stem": "A 19-year-old man with newly diagnosed Crohn's disease undergoes genetic testing and is found to carry two mutated NOD2 alleles. Compared with individuals who do not carry these mutations, his risk of developing Crohn's disease was increased by approximately which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2- to 3-fold"
+        },
+        {
+          "label": "B",
+          "text": "5- to 10-fold"
+        },
+        {
+          "label": "C",
+          "text": "20- to 40-fold"
+        },
+        {
+          "label": "D",
+          "text": "100-fold"
+        },
+        {
+          "label": "E",
+          "text": "1000-fold"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Carrying two mutated NOD2 alleles increases the risk of Crohn's disease 20- to 40-fold.",
+        "whyCorrect": "The brick's clinical correlation states that the strongest risk factor for Crohn's disease is a mutation in NOD2, a PRR that recognizes microbial components, and that individuals who carry two of these mutated NOD2 alleles have a 20- to 40-fold increased risk of developing Crohn's disease. The mutations are postulated to cause inappropriate NF-kB activation in monocytes.",
+        "whyWrongByChoice": {
+          "A": "A 2- to 3-fold increase underestimates the effect; a 3- to 4-fold increase is the figure the brick gives for smoking, not for NOD2 homozygosity.",
+          "B": "A 5- to 10-fold increase is lower than the 20- to 40-fold risk stated for two mutated alleles.",
+          "D": "A 100-fold increase overstates the risk the brick cites.",
+          "E": "A 1000-fold increase far exceeds the 20- to 40-fold figure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Crohn disease",
+        "NOD2",
+        "genetic risk"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-023",
+      "stem": "A 34-year-old woman who smokes one pack of cigarettes daily is diagnosed with Crohn's disease. She asks how her smoking relates to her illness. Which of the following is the most accurate response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Smoking raises the risk 3-4 times and makes ileal involvement more likely than colonic"
+        },
+        {
+          "label": "B",
+          "text": "Smoking lowers the risk 3-4 times and makes colonic involvement more likely than ileal"
+        },
+        {
+          "label": "C",
+          "text": "Smoking raises the risk 20-40 times and makes colonic involvement more likely than ileal"
+        },
+        {
+          "label": "D",
+          "text": "Smoking does not change the risk but makes ileal involvement more likely than colonic"
+        },
+        {
+          "label": "E",
+          "text": "Smoking raises the risk 3-4 times and makes colonic involvement more likely than ileal"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Smoking is a modifiable risk factor that increases Crohn's disease risk 3-4 fold and favors ileal over colonic involvement.",
+        "whyCorrect": "The brick identifies smoking as a modifiable lifestyle risk factor for autoimmune disease and states in its clinical correlation that the risk of developing Crohn's disease is 3-4 times higher in smokers than non-smokers, and that ileal involvement is more likely than colonic involvement in smokers.",
+        "whyWrongByChoice": {
+          "B": "Smoking increases rather than decreases risk, and it favors ileal rather than colonic disease.",
+          "C": "The 20-40 fold figure applies to carrying two mutated NOD2 alleles, not smoking, and smokers have more ileal, not colonic, involvement.",
+          "D": "Smoking does change risk; it raises it 3-4 fold.",
+          "E": "The magnitude is correct, but smokers are more likely to have ileal, not colonic, involvement."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Crohn disease",
+        "smoking",
+        "modifiable risk factors"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-024",
+      "stem": "A 4-year-old boy has recurrent episodes of fever accompanied by abdominal pain, a maculopapular rash, and mouth ulcers. His parents are unaffected. Laboratory evaluation during attacks shows increased inflammasome activity with overexpression of IL-1, and no autoantibodies are detected. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Familial Mediterranean fever"
+        },
+        {
+          "label": "B",
+          "text": "Mevalonate kinase deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Crohn's disease"
+        },
+        {
+          "label": "D",
+          "text": "Systemic lupus erythematosus"
+        },
+        {
+          "label": "E",
+          "text": "Acute rheumatic fever"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Mevalonate kinase deficiency is an autosomal recessive pyrin loss-of-function autoinflammatory disease presenting with fever, abdominal pain, maculopapular rash, and ulcers.",
+        "whyCorrect": "The brick names two monogenic autosomal recessive autoinflammatory diseases resulting from pyrin loss-of-function: familial Mediterranean fever and mevalonate kinase deficiency (MKD), both with increased inflammasome activity and IL-1 overexpression. It lists the symptoms of MKD as fever, abdominal pain, maculopapular rash, and ulcers, matching this child. Unaffected parents are consistent with recessive inheritance.",
+        "whyWrongByChoice": {
+          "A": "FMF shares the mechanism, but its symptoms are fever, peritonitis, an erysipelas-like rash, and arthritis of a single joint, not a maculopapular rash with ulcers.",
+          "C": "Crohn's disease is a complex autoinflammatory IBD with chronic diarrhea and weight loss linked to NOD2 mutations, not a periodic fever syndrome with IL-1 overexpression from pyrin loss.",
+          "D": "SLE is an autoimmune type 3 hypersensitivity with autoantibodies; this child has none.",
+          "E": "Acute rheumatic fever follows streptococcal infection and is antibody-mediated via molecular mimicry, not an inflammasome disorder."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mevalonate kinase deficiency",
+        "autoinflammatory disease",
+        "pyrin"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-025",
+      "stem": "A geneticist investigates a family with a rare hereditary syndrome of recurrent fevers and neutrophilic tissue inflammation. Affected members have no autoantibodies. Which of the following molecular defects is consistent with an autoinflammatory etiology?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of misfolded proteins that promotes inflammatory cytokine secretion"
+        },
+        {
+          "label": "B",
+          "text": "Failure of negative selection of self-reactive thymocytes"
+        },
+        {
+          "label": "C",
+          "text": "An HLA allele that increases TCR affinity for a self-peptide"
+        },
+        {
+          "label": "D",
+          "text": "Antibodies that cross-react with a self-protein resembling a microbial antigen"
+        },
+        {
+          "label": "E",
+          "text": "Reduced apoptosis of autoreactive lymphocytes under high estrogen levels"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Autoinflammatory etiologies include mutated inflammasomes, insufficient clearance of inflammation-associated proteins, inability to regulate cytokine signaling, and accumulation of misfolded proteins that promotes cytokine secretion.",
+        "whyCorrect": "The brick states that autoinflammatory diseases are due to dysregulation of the innate immune system resulting in unchecked inflammatory cytokines or activation of innate immune cells, and lists the etiologies as mutated inflammasomes, insufficient clearance of inflammation-associated proteins, inability to regulate cytokine signaling, or accumulation of misfolded proteins that promotes secretion of inflammatory cytokines. Only choice A belongs to this list.",
+        "whyWrongByChoice": {
+          "B": "Failure of negative selection is a breakdown of central tolerance, an autoimmune mechanism; autoinflammatory diseases do not involve tolerance breakdown.",
+          "C": "HLA risk alleles that increase TCR affinity for self-antigen are an intrinsic genetic mechanism of autoimmunity, not autoinflammation.",
+          "D": "Cross-reactive antibodies describe molecular mimicry, an infection-triggered autoimmune mechanism; the family has no autoantibodies.",
+          "E": "Estrogen-related persistence of autoreactive lymphocytes is the brick's postulated explanation for female predominance of autoimmune disease."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "autoinflammatory disease",
+        "misfolded proteins",
+        "etiology"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-026",
+      "stem": "A 29-year-old woman with two episodes of transient visual loss and limb weakness separated by several months is diagnosed with multiple sclerosis. Which of the following genetic variants is associated with her disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A TNF-alpha receptor variant that is secreted rather than membrane-bound"
+        },
+        {
+          "label": "B",
+          "text": "A CTLA-4 allele that lowers CTLA-4 expression on T cells"
+        },
+        {
+          "label": "C",
+          "text": "A NOD2 mutation that causes inappropriate NF-kB activation"
+        },
+        {
+          "label": "D",
+          "text": "A pyrin mutation that removes inflammasome suppression"
+        },
+        {
+          "label": "E",
+          "text": "The HLA-DR4 allele associated with rheumatoid arthritis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A variant in the TNF-alpha receptor gene that causes the receptor to be secreted instead of membrane-bound is associated with multiple sclerosis.",
+        "whyCorrect": "Under intrinsic factors, the brick gives two examples of diverse genetic influences: an allele affecting CTLA-4 expression that increases risk of celiac disease, rheumatoid arthritis, and SLE, and a variant in the gene for a TNF-alpha receptor that causes it to be secreted (versus membrane-bound), which is associated with multiple sclerosis. Multiple sclerosis is also listed with HLA-DR2 in Table 1.",
+        "whyWrongByChoice": {
+          "B": "The CTLA-4 allele is linked to celiac disease, rheumatoid arthritis, and SLE, not multiple sclerosis.",
+          "C": "NOD2 mutations are the strongest risk factor for Crohn's disease.",
+          "D": "Pyrin loss-of-function causes the autoinflammatory diseases FMF and mevalonate kinase deficiency.",
+          "E": "HLA-DR4 is associated with rheumatoid arthritis, type 1 diabetes, and Addison disease; multiple sclerosis is associated with HLA-DR2."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "multiple sclerosis",
+        "TNF-alpha receptor",
+        "intrinsic factors"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-027",
+      "stem": "HLA genes encode MHC class I and class II proteins that present antigen for T-cell development and activation. Which of the following correctly pairs an MHC class with its cellular distribution and function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "MHC class I; every nucleated cell; recognition of infected or malignant cells by cytotoxic T cells"
+        },
+        {
+          "label": "B",
+          "text": "MHC class I; antigen-presenting cells only; presentation of antigen to helper T cells"
+        },
+        {
+          "label": "C",
+          "text": "MHC class II; every nucleated cell; recognition of infected or malignant cells by cytotoxic T cells"
+        },
+        {
+          "label": "D",
+          "text": "MHC class II; antigen-presenting cells only; recognition of infected cells by cytotoxic T cells"
+        },
+        {
+          "label": "E",
+          "text": "MHC class I; antigen-presenting cells only; presentation of antigen to cytotoxic T cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "MHC class I is expressed on every nucleated cell and functions in cytotoxic T-cell recognition of abnormal cells; MHC class II is on antigen-presenting cells and presents antigen to helper T cells.",
+        "whyCorrect": "The brick recalls that MHC class I molecules are expressed on every nucleated cell in the body and function in cytotoxic T cell (CTL) recognition of abnormal (infected or malignant) cells, whereas MHC class II gene products are present on antigen-presenting cells, which present antigen to helper T cells.",
+        "whyWrongByChoice": {
+          "B": "MHC class I is on every nucleated cell, not restricted to APCs, and it serves cytotoxic rather than helper T cells.",
+          "C": "MHC class II is restricted to antigen-presenting cells, not every nucleated cell.",
+          "D": "MHC class II presents antigen to helper T cells, not cytotoxic T cells.",
+          "E": "MHC class I is expressed on every nucleated cell, not only on antigen-presenting cells."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "MHC",
+        "HLA",
+        "antigen presentation"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-028",
+      "stem": "Structural studies of a risk-associated HLA-DR molecule show that specific amino acids at positions 13 and 71 of the HLA-DR beta chain allow the CDR3 region of a T-cell receptor to interact best with a bound self-antigen. This finding best illustrates which of the following mechanisms by which HLA risk alleles promote autoimmunity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased T-cell receptor affinity for the self-antigen"
+        },
+        {
+          "label": "B",
+          "text": "Escape of self-reactive T cells from negative selection"
+        },
+        {
+          "label": "C",
+          "text": "Molecular mimicry between viral and self peptides"
+        },
+        {
+          "label": "D",
+          "text": "Reduced apoptosis of autoreactive lymphocytes"
+        },
+        {
+          "label": "E",
+          "text": "Epitope spreading to additional self-antigens"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "HLA risk alleles can promote autoimmunity by increasing TCR affinity for a self-antigen, as illustrated by HLA-DR residues 13 and 71 shaping the CDR3 interaction.",
+        "whyCorrect": "The brick asks why specific HLA alleles convey risk and gives two answers: HLA risk alleles may influence central tolerance so that self-reactive T cells are more likely to pass and be released, and they may increase TCR affinity for the self-antigen. Figure 3 provides the example of an HLA-DR whose amino acids at positions 13 and 71 determine how well the TCR CDR3 region interacts with the bound antigen, illustrating the affinity mechanism.",
+        "whyWrongByChoice": {
+          "B": "Influence on central tolerance is the brick's other HLA mechanism, but the finding described is about strength of TCR binding to the presented peptide, not thymic selection.",
+          "C": "Molecular mimicry involves homology between microbial and self antigens and is an environmental (infection) trigger, not an HLA structural effect.",
+          "D": "Reduced apoptosis of autoreactive lymphocytes is the postulated estrogen-related mechanism for female predominance.",
+          "E": "Epitope spreading is an amplification loop that broadens an established response; it does not describe HLA-peptide-TCR binding."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "HLA",
+        "T-cell receptor affinity",
+        "intrinsic factors"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-029",
+      "stem": "Two sisters are evaluated for celiac disease risk. One is homozygous for HLA-DQ2 and the other carries a single HLA-DQ2 allele. Which of the following best describes their relative risk of developing celiac disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The homozygous sister has the higher risk, because the HLA-DQ2 effect is dose-dependent"
+        },
+        {
+          "label": "B",
+          "text": "The heterozygous sister has the higher risk, because homozygosity is protective"
+        },
+        {
+          "label": "C",
+          "text": "Both have equal risk, because a single DQ2 allele confers maximal risk"
+        },
+        {
+          "label": "D",
+          "text": "Neither is at increased risk, because celiac disease is associated with HLA-DR4"
+        },
+        {
+          "label": "E",
+          "text": "Both have equal risk, because HLA-DQ8 rather than DQ2 determines susceptibility"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The influence of celiac-associated HLA alleles is dose-dependent, and homozygosity carries the most risk.",
+        "whyCorrect": "The brick's clinical correlation states that almost 95% of patients with celiac disease express HLA-DQ2 (the rest usually carry HLA-DQ8), that the influence of these HLA alleles is dose-dependent, and that homozygosity carries the most risk of developing celiac disease. Gluten epitopes bind with higher stability to DQ2 molecules than to other MHC alleles, hypothesized to reflect the specific amino acids holding the peptide in the peptide-binding groove via non-covalent bonding.",
+        "whyWrongByChoice": {
+          "B": "Homozygosity increases, not decreases, risk.",
+          "C": "Risk is dose-dependent, so two DQ2 alleles confer more risk than one.",
+          "D": "Celiac disease is associated with HLA-DQ2/DQ8; HLA-DR4 is linked to rheumatoid arthritis, type 1 diabetes, and Addison disease.",
+          "E": "DQ2 is present in almost 95% of celiac patients; DQ8 accounts for most of the remainder, and the dose effect applies to these alleles."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "celiac disease",
+        "HLA-DQ2",
+        "gene dosage"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-030",
+      "stem": "A 40-year-old patient with a strong family history of autoimmune disease asks which risk factors could be changed. Which of the following is a modifiable environmental risk factor for autoimmune disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cigarette smoking"
+        },
+        {
+          "label": "B",
+          "text": "Carrying the HLA-DR4 allele"
+        },
+        {
+          "label": "C",
+          "text": "Female sex"
+        },
+        {
+          "label": "D",
+          "text": "Being of child-bearing age"
+        },
+        {
+          "label": "E",
+          "text": "A CTLA-4 risk allele"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Modifiable risk factors are environmental factors such as smoking, extreme temperatures, and occupational exposures.",
+        "whyCorrect": "The brick divides autoimmune risk into intrinsic factors (genetics, hormones), environmental factors, and amplification loops. Environmental factors include modifiable risk factors and infections; modifiable risk factors include lifestyle choices such as smoking and hazards of living and working environments such as extreme temperatures and occupational exposures.",
+        "whyWrongByChoice": {
+          "B": "HLA alleles are intrinsic genetic factors and cannot be modified.",
+          "C": "Sex is an intrinsic factor; most autoimmune diseases are more common in women.",
+          "D": "Age is an intrinsic factor that cannot be modified.",
+          "E": "A CTLA-4 allele is an intrinsic genetic influence, not an environmental exposure."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "environmental factors",
+        "modifiable risk factors",
+        "smoking"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-031",
+      "stem": "During an acute viral infection of the liver, virus-specific CD8+ T cells release perforin and granzymes that kill infected hepatocytes. Nearby uninfected hepatocytes also die, and the inflammatory milieu activates other immune cells within the tissue. This process is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bystander activation"
+        },
+        {
+          "label": "B",
+          "text": "Molecular mimicry"
+        },
+        {
+          "label": "C",
+          "text": "Epitope spreading"
+        },
+        {
+          "label": "D",
+          "text": "Receptor editing"
+        },
+        {
+          "label": "E",
+          "text": "Negative selection"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Bystander activation is infection-driven collateral killing of uninfected cells by CTL granules with activation of surrounding cells by the inflammatory milieu.",
+        "whyCorrect": "The brick describes bystander activation (Figure 4, right): infected cells present viral antigens to virus-specific CTLs, which release cytotoxic granules, causing death of infected cells as well as nearby uninfected cells, and the inflammatory milieu leads to activation of bystander cells within the tissue. Infections can trigger or exacerbate autoimmunity through this bystander effect.",
+        "whyWrongByChoice": {
+          "B": "Molecular mimicry requires a receptor that recognizes both a viral antigen and a homologous self-antigen; the stem describes collateral damage, not cross-reactivity.",
+          "C": "Epitope spreading is the expansion of the immune response to additional epitopes revealed by tissue damage, a downstream amplification phenomenon rather than the direct collateral killing described.",
+          "D": "Receptor editing is a central tolerance process in developing B cells in the bone marrow.",
+          "E": "Negative selection deletes self-reactive developing lymphocytes and is unrelated to CTL killing in infected tissue."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "bystander activation",
+        "infection",
+        "cytotoxic T cells"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-032",
+      "stem": "An immunologist studying a virus-triggered autoimmune reaction wants to determine whether it arose from molecular mimicry rather than bystander activation. Which of the following findings would specifically support molecular mimicry?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "One T-cell receptor reacts to a viral antigen and a homologous self-antigen"
+        },
+        {
+          "label": "B",
+          "text": "Cytotoxic granules from virus-specific CTLs kill adjacent uninfected cells"
+        },
+        {
+          "label": "C",
+          "text": "Cytokines in the inflamed tissue activate lymphocytes that are not virus-specific"
+        },
+        {
+          "label": "D",
+          "text": "Infected cells present viral antigen to virus-specific cytotoxic T cells"
+        },
+        {
+          "label": "E",
+          "text": "Damaged cells leak hidden self-antigens that APCs present to autoreactive T cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Molecular mimicry is defined by a receptor recognizing both a microbial antigen and a self-antigen that share structural or sequential homology.",
+        "whyCorrect": "The brick states that in molecular mimicry (Figure 4, left), TCRs recognize and react toward both viral antigens and self-antigens that have structural or sequential homology. A single TCR cross-reacting with a viral antigen and a homologous self-antigen is the defining feature that distinguishes mimicry from bystander activation, in which autoreactivity arises from collateral damage and the inflammatory milieu rather than shared antigen structure.",
+        "whyWrongByChoice": {
+          "B": "Killing of adjacent uninfected cells by CTL granules is the hallmark of bystander activation.",
+          "C": "Activation of non-virus-specific cells by the inflammatory milieu is part of bystander activation, not mimicry.",
+          "D": "Presentation of viral antigen to virus-specific CTLs is the normal antiviral response that initiates bystander activation and does not demonstrate cross-reactivity.",
+          "E": "Leakage of hidden self-antigens with subsequent presentation to autoreactive T cells describes epitope spreading."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "molecular mimicry",
+        "bystander activation",
+        "infection"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-033",
+      "stem": "A 24-year-old man is diagnosed with Goodpasture syndrome. Which of the following HLA subtypes is most associated with his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "HLA-DR2"
+        },
+        {
+          "label": "B",
+          "text": "HLA-DR4"
+        },
+        {
+          "label": "C",
+          "text": "HLA-B27"
+        },
+        {
+          "label": "D",
+          "text": "HLA-DQ2"
+        },
+        {
+          "label": "E",
+          "text": "HLA-DQ8"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "HLA-DR2 is associated with multiple sclerosis, SLE, and Goodpasture syndrome.",
+        "whyCorrect": "Table 1 of the brick lists the HLA subtypes and associated diseases that need to be known: DR2 is paired with multiple sclerosis, systemic lupus erythematosus, and Goodpasture syndrome. The brick stresses that virtually all autoimmune diseases are associated with specific HLA genes.",
+        "whyWrongByChoice": {
+          "B": "HLA-DR4 is associated with rheumatoid arthritis, diabetes mellitus type 1, and Addison disease.",
+          "C": "HLA-B27 is associated with psoriatic arthritis, ankylosing spondylitis, IBD-associated arthritis, and reactive arthritis.",
+          "D": "HLA-DQ2 is associated with celiac disease.",
+          "E": "HLA-DQ8 is associated with celiac disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HLA-DR2",
+        "Goodpasture syndrome",
+        "HLA"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-034",
+      "stem": "During a viral infection, cytotoxic T lymphocytes kill infected cells. Days later, antigen-presenting cells begin presenting self-antigens to autoreactive T cells, which then attack uninfected cells carrying those antigens. Which of the following events most directly made these self-antigens available for presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Leakage of hidden self-antigens from cells killed by CTLs"
+        },
+        {
+          "label": "B",
+          "text": "Cross-reaction of one TCR with viral and self peptides"
+        },
+        {
+          "label": "C",
+          "text": "Release of cytokines by helper T cells early in infection"
+        },
+        {
+          "label": "D",
+          "text": "Escape of self-reactive T cells from thymic deletion"
+        },
+        {
+          "label": "E",
+          "text": "Affinity maturation of virus-specific B cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In epitope spreading, CTL-mediated apoptosis lets hidden self-antigens leak from damaged cells, which APCs then present to autoreactive T cells.",
+        "whyCorrect": "Figure 5 of the brick lays out epitope spreading: steps 1-4 are a classic viral response, in step 5 CTL-mediated apoptosis allows hidden self-antigens to leak from damaged cells, in step 6 APCs present these self-antigens to autoreactive T cells, and in step 7 those T cells attack normal cells carrying the self-antigens. The brick summarizes this as the viral response revealing hidden self-antigens that activate self-reactive T cells.",
+        "whyWrongByChoice": {
+          "B": "TCR cross-reactivity with homologous viral and self peptides is molecular mimicry, which does not require release of hidden antigens.",
+          "C": "Helper T-cell cytokine release (step 3) is part of the classic antiviral response and does not itself expose hidden self-antigens.",
+          "D": "Escape from negative selection explains why autoreactive T cells exist, not how previously hidden antigens became available to APCs.",
+          "E": "Affinity maturation of B cells refines antibody responses and is not what exposes intracellular self-antigens."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "epitope spreading",
+        "hidden self-antigens",
+        "cytotoxic T cells"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-035",
+      "stem": "In a patient with long-standing systemic lupus erythematosus, autoreactive B cells produce antibodies of progressively higher affinity through affinity maturation and somatic hypermutation. Immune complexes of autoantibody and self-antigen drive this refinement through presentation by which of the following cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Follicular dendritic cells"
+        },
+        {
+          "label": "B",
+          "text": "Regulatory T cells (FOXP3+)"
+        },
+        {
+          "label": "C",
+          "text": "Cytotoxic CD8+ T lymphocytes"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophils in the follicle"
+        },
+        {
+          "label": "E",
+          "text": "Long-lived plasma cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Immune complexes of antibody and self-antigen promote affinity maturation of autoreactive B cells via presentation by follicular dendritic cells.",
+        "whyCorrect": "Among the brick's examples of epitope spreading in autoimmunity, it states that over time the repertoire of autoreactive B cells is refined by affinity maturation and somatic hypermutation, and that immune complexes of antibody and self-antigen promote affinity maturation via presentation by follicular dendritic cells. SLE is one of the diseases in which epitope spreading has been observed.",
+        "whyWrongByChoice": {
+          "B": "Regulatory T cells suppress excessive immune activation and maintain tolerance; they do not present immune complexes to B cells.",
+          "C": "Cytotoxic T lymphocytes kill infected cells and, in epitope spreading, release hidden self-antigens; they do not drive B-cell affinity maturation.",
+          "D": "Neutrophils are innate effector cells responsible for autoinflammatory tissue damage, not immune-complex presentation to B cells.",
+          "E": "Plasma cells secrete antibody; they are a product of B-cell maturation rather than the cells presenting immune complexes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "follicular dendritic cells",
+        "affinity maturation",
+        "epitope spreading"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
+    },
+    {
+      "id": "im21-036",
+      "stem": "A patient has a chronic autoimmune disease in which regulatory T-cell activity is impaired. Which of the following best explains how this impairment sustains chronic inflammation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Unchecked T-cell responses expand epitope recognition"
+        },
+        {
+          "label": "B",
+          "text": "Inflammasome activity increases and IL-1 is overproduced"
+        },
+        {
+          "label": "C",
+          "text": "Negative selection in the thymus becomes more stringent"
+        },
+        {
+          "label": "D",
+          "text": "Autoreactive B cells undergo receptor editing"
+        },
+        {
+          "label": "E",
+          "text": "MHC class II expression is lost from antigen-presenting cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "When regulatory T-cell activity is impaired, unchecked T-cell responses lead to expanding epitope recognition, fueling chronic inflammation.",
+        "whyCorrect": "The brick states that regulatory T cells ordinarily suppress excessive immune activation and maintain tolerance, and that in diseases where Treg activity is impaired, unchecked T-cell responses lead to expanding epitope recognition, fueling chronic inflammation. This is one of the amplification loops that prolongs or exacerbates autoimmune damage.",
+        "whyWrongByChoice": {
+          "B": "IL-1 overproduction from excess inflammasome activity is the innate mechanism of autoinflammatory disease, not a consequence of Treg impairment.",
+          "C": "Treg impairment affects peripheral suppression; it does not make thymic negative selection more stringent, and stricter selection would reduce, not sustain, autoimmunity.",
+          "D": "Receptor editing is a bone marrow central tolerance process for developing B cells and is not triggered by loss of Treg activity.",
+          "E": "Loss of MHC class II would reduce antigen presentation to helper T cells; the brick describes enhanced, not reduced, presentation during amplification."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "regulatory T cells",
+        "amplification",
+        "epitope spreading"
       ],
       "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
       "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases"
