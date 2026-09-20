@@ -8,34 +8,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Oncogenic viral protein"
-        },
-        {
-          "label": "B",
-          "text": "Neoantigen produced by a point mutation"
-        },
-        {
-          "label": "C",
           "text": "Aberrantly-expressed self-protein"
         },
         {
+          "label": "B",
+          "text": "Alloantigen recognized by preformed antibodies"
+        },
+        {
+          "label": "C",
+          "text": "Neoantigen produced by a point mutation"
+        },
+        {
           "label": "D",
-          "text": "Product of a mutated proto-oncogene"
+          "text": "Oncogenic viral protein"
         },
         {
           "label": "E",
-          "text": "Alloantigen recognized by preformed antibodies"
+          "text": "Product of a mutated proto-oncogene"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "Telomerase is a normal self-protein abnormally expressed by most cancers, halting the telomere shortening seen in senescence.",
         "whyCorrect": "The brick lists telomerase as the example of an aberrantly-expressed self-protein: it is expressed in the vast majority of cancers and halts the normal telomere shortening that occurs in senescence. Because it is a normal protein expressed abnormally (rather than a mutated or viral product), it is categorized as an aberrantly-expressed self-protein.",
         "whyWrongByChoice": {
-          "A": "Oncogenic viral proteins come from cancer-causing viruses such as HPV; telomerase is an endogenous human enzyme, not a viral product.",
-          "B": "A neoantigen arises from a mutation that changes a self-protein; telomerase here is not mutated but simply expressed abnormally.",
-          "D": "Oncogene products come from mutated proto-oncogenes; telomerase re-expression is not described as an oncogene product in the brick.",
-          "E": "Alloantigens and preformed antibodies belong to transplant rejection, not tumor antigen classification."
+          "B": "Alloantigens and preformed antibodies belong to transplant rejection, not tumor antigen classification.",
+          "C": "A neoantigen arises from a mutation that changes a self-protein; telomerase here is not mutated but simply expressed abnormally.",
+          "D": "Oncogenic viral proteins come from cancer-causing viruses such as HPV; telomerase is an endogenous human enzyme, not a viral product.",
+          "E": "Oncogene products come from mutated proto-oncogenes; telomerase re-expression is not described as an oncogene product in the brick."
         }
       },
       "difficulty": "medium",
@@ -65,11 +65,11 @@
         },
         {
           "label": "D",
-          "text": "Th1 cells presenting tumor antigen on their own MHC class I"
+          "text": "Regulatory T cells inducing tolerance to the tumor"
         },
         {
           "label": "E",
-          "text": "Regulatory T cells inducing tolerance to the tumor"
+          "text": "Th1 cells presenting tumor antigen on their own MHC class I"
         }
       ],
       "correctAnswer": "B",
@@ -79,8 +79,8 @@
         "whyWrongByChoice": {
           "A": "CTLs recognize peptide on MHC class I, not class II, and their response fails precisely because MHC I is downregulated.",
           "C": "The dominant anti-tumor response described is cell-mediated (CTLs and NK cells), not antibody-mediated by plasma cells.",
-          "D": "Th1 cells do not present tumor antigen on MHC I to kill tumor cells; they help coordinate responses via cytokines.",
-          "E": "Regulatory T cells suppress immune responses rather than serve as the dominant anti-tumor effector."
+          "D": "Regulatory T cells suppress immune responses rather than serve as the dominant anti-tumor effector.",
+          "E": "Th1 cells do not present tumor antigen on MHC I to kill tumor cells; they help coordinate responses via cytokines."
         }
       },
       "difficulty": "medium",
@@ -99,15 +99,15 @@
       "choices": [
         {
           "label": "A",
-          "text": "They interact with p53 and help prevent apoptosis of cancer cells"
-        },
-        {
-          "label": "B",
           "text": "They activate telomerase to lengthen telomeres directly"
         },
         {
-          "label": "C",
+          "label": "B",
           "text": "They downregulate class I MHC to hide from cytotoxic T cells"
+        },
+        {
+          "label": "C",
+          "text": "They interact with p53 and help prevent apoptosis of cancer cells"
         },
         {
           "label": "D",
@@ -118,13 +118,13 @@
           "text": "They trigger antibody-dependent cellular cytotoxicity against the tumor"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "HPV is an oncogenic virus whose proteins interact with p53 and help block apoptosis of cancer cells.",
         "whyCorrect": "The brick explicitly states that cancer can be caused by viruses like HPV, and that HPV proteins interact with p53 (described as an oncogene) and help prevent apoptosis of cancer cells. Blocking apoptosis allows the malignant cells to survive and proliferate.",
         "whyWrongByChoice": {
-          "B": "Telomerase re-expression is a separate aberrant self-protein mechanism, not the described action of HPV proteins.",
-          "C": "MHC class I downregulation is a general tumor evasion (low immunogenicity) strategy, not the specific HPV mechanism taught here.",
+          "A": "Telomerase re-expression is a separate aberrant self-protein mechanism, not the described action of HPV proteins.",
+          "B": "MHC class I downregulation is a general tumor evasion (low immunogenicity) strategy, not the specific HPV mechanism taught here.",
           "D": "TGF-beta suppression of Th1 cells is a tumor immune-suppression mechanism, not an action of HPV proteins.",
           "E": "ADCC is an immune effector mechanism that damages tumors; it is not how HPV proteins promote cancer survival."
         }
@@ -145,34 +145,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Low immunogenicity through MHC class I downregulation"
+          "text": "Antigenic modulation through ADCC-based selection of antigen-loss variants"
         },
         {
           "label": "B",
-          "text": "Antigenic modulation through ADCC-based selection"
-        },
-        {
-          "label": "C",
           "text": "Immune privilege through an extracellular matrix barrier and PD-L1 upregulation"
         },
         {
+          "label": "C",
+          "text": "Immune suppression through TGF-beta and IL-10 secretion into the microenvironment"
+        },
+        {
           "label": "D",
-          "text": "Peripheral tolerance from presenting antigen without co-stimulation"
+          "text": "Low immunogenicity through MHC class I and co-stimulatory molecule downregulation"
         },
         {
           "label": "E",
-          "text": "Immune suppression through TGF-beta and IL-10 secretion"
+          "text": "Peripheral tolerance from presenting antigen without co-stimulatory signals"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Creating an immune-privileged site uses secreted extracellular matrix to block access and PD-L1 to inactivate infiltrating immune cells.",
         "whyCorrect": "The brick describes immune privilege as tumors secreting extracellular matrix components to physically block immune cell access to the tumor and upregulating PD-L1 to inactivate any immune cells that do infiltrate. Both features in this vignette match that strategy.",
         "whyWrongByChoice": {
-          "A": "Low immunogenicity involves downregulating MHC I, adhesion, and co-stimulatory molecules, not building an ECM barrier or using PD-L1.",
-          "B": "Antigenic modulation selects for cells lacking a targeted antigen via antibody-mediated ADCC, which is not described here.",
-          "D": "Peripheral tolerance results from presenting self-peptide without co-stimulation; it does not involve a physical ECM barrier or PD-L1.",
-          "E": "Immune suppression via TGF-beta and IL-10 shifts cytokine and cell populations rather than physically excluding and inactivating infiltrating cells."
+          "A": "Antigenic modulation selects for cells lacking a targeted antigen via antibody-mediated ADCC, which is not described here.",
+          "C": "Immune suppression via TGF-beta and IL-10 shifts cytokine and cell populations rather than physically excluding and inactivating infiltrating cells.",
+          "D": "Low immunogenicity involves downregulating MHC I, adhesion, and co-stimulatory molecules, not building an ECM barrier or using PD-L1.",
+          "E": "Peripheral tolerance results from presenting self-peptide without co-stimulation; it does not involve a physical ECM barrier or PD-L1."
         }
       },
       "difficulty": "hard",
@@ -191,7 +191,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "TGF-beta and IL-10"
+          "text": "C3a and C5a"
         },
         {
           "label": "B",
@@ -199,26 +199,26 @@
         },
         {
           "label": "C",
-          "text": "Perforin and granzyme"
-        },
-        {
-          "label": "D",
           "text": "IL-2 and TNF-alpha"
         },
         {
+          "label": "D",
+          "text": "Perforin and granzyme"
+        },
+        {
           "label": "E",
-          "text": "C3a and C5a"
+          "text": "TGF-beta and IL-10"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "TGF-beta and IL-10 are the cytokines the brick names as critical to tumor-driven immune suppression.",
         "whyCorrect": "The brick states that TGF-beta and IL-10 are cytokines critical for immune suppression, producing suppression of M1 macrophages with induction of M2s, suppression of Th1 cells with induction of regulatory T cells, and decreased activating receptors on NK cells, exactly the picture described.",
         "whyWrongByChoice": {
+          "A": "C3a and C5a are complement anaphylatoxins that recruit and activate inflammatory cells, not tumor immune-suppression cytokines.",
           "B": "IFN-gamma and IL-12 are pro-inflammatory cytokines that activate NK cells and Th1 responses, the opposite of the suppressive state shown.",
-          "C": "Perforin and granzyme are cytotoxic effector molecules used by CTLs and NK cells to kill targets, not suppressive cytokines.",
-          "D": "IL-2 and TNF-alpha promote immune activation rather than the suppression described.",
-          "E": "C3a and C5a are complement anaphylatoxins that recruit and activate inflammatory cells, not tumor immune-suppression cytokines."
+          "C": "IL-2 and TNF-alpha promote immune activation rather than the suppression described.",
+          "D": "Perforin and granzyme are cytotoxic effector molecules used by CTLs and NK cells to kill targets, not suppressive cytokines."
         }
       },
       "difficulty": "medium",
@@ -238,34 +238,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Autograft"
-        },
-        {
-          "label": "B",
-          "text": "Isograft"
-        },
-        {
-          "label": "C",
           "text": "Allograft"
         },
         {
+          "label": "B",
+          "text": "Autograft"
+        },
+        {
+          "label": "C",
+          "text": "Isograft"
+        },
+        {
           "label": "D",
-          "text": "Xenograft"
+          "text": "Syngraft"
         },
         {
           "label": "E",
-          "text": "Syngraft"
+          "text": "Xenograft"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "A graft transferred between different species, such as a pig valve into a human, is a xenograft.",
         "whyCorrect": "The brick defines xenografts as grafts between species, giving the example of pig heart valves, where 'xeno' means foreign. A pig-derived valve implanted in a human is therefore a xenograft.",
         "whyWrongByChoice": {
-          "A": "An autograft is within the same person (self to self), such as skin moved from thigh to chest.",
-          "B": "An isograft is between genetically identical individuals, such as identical twins.",
-          "C": "An allograft is between genetically different people of the same species, not between species.",
-          "E": "Syngraft is not one of the four graft categories taught in the brick; the correct term for a between-species graft is xenograft."
+          "A": "An allograft is between genetically different people of the same species, not between species.",
+          "B": "An autograft is within the same person (self to self), such as skin moved from thigh to chest.",
+          "C": "An isograft is between genetically identical individuals, such as identical twins.",
+          "D": "Syngraft is not one of the four graft categories taught in the brick; the correct term for a between-species graft is xenograft."
         }
       },
       "difficulty": "easy",
@@ -283,34 +283,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "MHC genes are highly polymorphic"
-        },
-        {
-          "label": "B",
-          "text": "MHC molecules are identical across all humans, so matching is only a formality"
-        },
-        {
-          "label": "C",
           "text": "Matching MHC prevents graft-versus-host disease in all solid organ transplants"
         },
         {
+          "label": "B",
+          "text": "MHC class I is encoded by the beta-1 locus and rarely varies between people"
+        },
+        {
+          "label": "C",
+          "text": "MHC genes are highly polymorphic"
+        },
+        {
           "label": "D",
-          "text": "Only ABO blood group, not MHC, influences solid organ rejection"
+          "text": "MHC molecules are identical across all humans, so matching is only a formality"
         },
         {
           "label": "E",
-          "text": "MHC class I is encoded by the beta-1 locus and rarely varies between people"
+          "text": "Only ABO blood group, not MHC, influences solid organ rejection"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "MHC genes are among the most polymorphic in the genome, so the closer the donor-recipient match, the lower the alloimmune response and the better the transplant odds.",
         "whyCorrect": "The brick emphasizes that MHC genes are highly polymorphic and are the genes seen to be most critical to match between donor and recipient to prevent an immune response. It states that the closer the blood and MHC match, the better the odds of a successful transplant.",
         "whyWrongByChoice": {
-          "B": "MHC molecules are not identical across humans; they are highly polymorphic, which is precisely why matching matters.",
-          "C": "Matching reduces rejection, but graft-versus-host disease is a distinct problem tied to donor immune cells, not something MHC matching prevents in all solid organ transplants.",
-          "D": "Both ABO blood group and MHC influence transplant outcome; MHC matching is specifically stressed as critical.",
-          "E": "MHC class I is matched at the alpha loci and is highly polymorphic; it is the beta-1 loci that pertain to class II, and neither rarely varies."
+          "A": "Matching reduces rejection, but graft-versus-host disease is a distinct problem tied to donor immune cells, not something MHC matching prevents in all solid organ transplants.",
+          "B": "MHC class I is matched at the alpha loci and is highly polymorphic; it is the beta-1 loci that pertain to class II, and neither rarely varies.",
+          "D": "MHC molecules are not identical across humans; they are highly polymorphic, which is precisely why matching matters.",
+          "E": "Both ABO blood group and MHC influence transplant outcome; MHC matching is specifically stressed as critical."
         }
       },
       "difficulty": "medium",
@@ -329,33 +329,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "Preformed recipient antibodies binding donor alloantigens"
+          "text": "Donor T cells recognizing and attacking recipient tissues"
         },
         {
           "label": "B",
-          "text": "Recipient cytotoxic T cell-mediated apoptosis of graft cells developing over weeks"
-        },
-        {
-          "label": "C",
           "text": "Helper T cell-driven smooth muscle proliferation over several years"
         },
         {
+          "label": "C",
+          "text": "Preformed recipient antibodies binding donor alloantigens"
+        },
+        {
           "label": "D",
-          "text": "Donor T cells recognizing and attacking recipient tissues"
+          "text": "Recipient cytotoxic T cell-mediated apoptosis of graft cells developing over weeks"
         },
         {
           "label": "E",
           "text": "Type IV delayed hypersensitivity building up over several days"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Hyperacute rejection occurs within minutes to 24 hours from preformed recipient antibodies against donor alloantigens that activate complement and inflammation.",
         "whyCorrect": "The brick describes hyperacute rejection (a type 2 hypersensitivity) as occurring within minutes to 24 hours, mediated by preformed recipient antibodies specific to donor alloantigens. These trigger complement activation, with C4d and C3d deposition, membrane attack complexes, and Fc-mediated inflammation, producing thrombosis, ischemia, and necrosis, exactly as shown.",
         "whyWrongByChoice": {
-          "B": "CTL-mediated apoptosis of graft cells over weeks describes acute rejection, not a reaction occurring within minutes.",
-          "C": "Helper T cell-driven smooth muscle proliferation is chronic rejection, which develops over months to years.",
-          "D": "Donor T cells attacking recipient tissues describes graft-versus-host disease, not rejection of the graft.",
+          "A": "Donor T cells attacking recipient tissues describes graft-versus-host disease, not rejection of the graft.",
+          "B": "Helper T cell-driven smooth muscle proliferation is chronic rejection, which develops over months to years.",
+          "D": "CTL-mediated apoptosis of graft cells over weeks describes acute rejection, not a reaction occurring within minutes.",
           "E": "A type IV delayed hypersensitivity building over days does not match a reaction that begins within minutes of reperfusion."
         }
       },
@@ -375,34 +375,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Recipient cytotoxic T cells recognizing alloantigens"
-        },
-        {
-          "label": "B",
-          "text": "Preformed antibodies and complement causing injury within minutes"
-        },
-        {
-          "label": "C",
           "text": "Arteriosclerosis from chronic helper T cell cytokines over years"
         },
         {
-          "label": "D",
+          "label": "B",
           "text": "Donor lymphocytes attacking the recipient's skin and gut"
         },
         {
-          "label": "E",
+          "label": "C",
           "text": "IgE-mediated type I hypersensitivity to graft antigens"
+        },
+        {
+          "label": "D",
+          "text": "Preformed antibodies and complement causing injury within minutes"
+        },
+        {
+          "label": "E",
+          "text": "Recipient cytotoxic T cells recognizing alloantigens"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Acute rejection occurs about one week to several months post-transplant and features recipient CTLs recognizing alloantigens on donor MHC I, with a lymphocyte-rich vasculitis-like picture.",
         "whyCorrect": "The brick states acute rejection occurs one week to several months after transplant and that recipient CTLs recognize alloantigens presented on donor MHC I to induce apoptosis of graft cells. Histologically the graft resembles vasculitis with a dense interstitial infiltrate of lymphocytes, matching this three-week presentation.",
         "whyWrongByChoice": {
-          "B": "Preformed antibody and complement injury within minutes is hyperacute rejection, not a reaction at three weeks.",
-          "C": "Arteriosclerosis from chronic helper T cell cytokines is chronic rejection, which unfolds over months to years.",
-          "D": "Donor lymphocytes attacking recipient skin and gut describes graft-versus-host disease, not rejection of the kidney.",
-          "E": "Type I IgE-mediated hypersensitivity is not the mechanism of acute cellular rejection described in the brick."
+          "A": "Arteriosclerosis from chronic helper T cell cytokines is chronic rejection, which unfolds over months to years.",
+          "B": "Donor lymphocytes attacking recipient skin and gut describes graft-versus-host disease, not rejection of the kidney.",
+          "C": "Type I IgE-mediated hypersensitivity is not the mechanism of acute cellular rejection described in the brick.",
+          "D": "Preformed antibody and complement injury within minutes is hyperacute rejection, not a reaction at three weeks."
         }
       },
       "difficulty": "medium",
@@ -421,33 +421,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "Recipient helper T cell cytokines stimulating vascular smooth muscle proliferation"
+          "text": "Complement-mediated membrane attack complexes forming within 24 hours of transplantation"
         },
         {
           "label": "B",
-          "text": "Preformed antibodies causing immediate thrombosis of the graft"
+          "text": "Donor NK cells lysing the recipient's enterocytes and skin keratinocytes"
         },
         {
           "label": "C",
-          "text": "Donor NK cells lysing the recipient's enterocytes"
+          "text": "Preformed antibodies causing immediate thrombosis of the graft vasculature"
         },
         {
           "label": "D",
-          "text": "Complement-mediated membrane attack complexes forming within 24 hours"
+          "text": "Recipient helper T cell cytokines stimulating vascular smooth muscle proliferation"
         },
         {
           "label": "E",
-          "text": "Type I hypersensitivity to inhaled allergens"
+          "text": "Type I hypersensitivity to inhaled environmental allergens in the airway"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Chronic rejection develops over months to years as recipient helper T cell cytokines drive vascular smooth muscle proliferation, producing arteriosclerosis.",
         "whyCorrect": "The brick states that chronic rejection occurs months to years after transplant, likely from recipient helper T cells recognizing alloantigens on MHC II, whose cytokines (IFN-gamma and others) stimulate proliferation of vascular smooth muscle cells. The resulting arteriosclerosis compromises graft blood flow, and lung transplants specifically show thickened small airways.",
         "whyWrongByChoice": {
-          "B": "Preformed antibodies causing immediate thrombosis is hyperacute rejection occurring within minutes to 24 hours, not years later.",
-          "C": "Donor NK cells lysing recipient enterocytes describes graft-versus-host disease, not chronic rejection of the graft.",
-          "D": "Rapid complement-mediated MAC formation within 24 hours is a hyperacute mechanism, not the slow arteriosclerotic process of chronic rejection.",
+          "A": "Rapid complement-mediated MAC formation within 24 hours is a hyperacute mechanism, not the slow arteriosclerotic process of chronic rejection.",
+          "B": "Donor NK cells lysing recipient enterocytes describes graft-versus-host disease, not chronic rejection of the graft.",
+          "C": "Preformed antibodies causing immediate thrombosis is hyperacute rejection occurring within minutes to 24 hours, not years later.",
           "E": "Type I hypersensitivity to inhaled allergens is unrelated to the alloimmune helper T cell mechanism of chronic rejection."
         }
       },
@@ -467,33 +467,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "Graft-versus-host disease mediated by donor T cells"
-        },
-        {
-          "label": "B",
-          "text": "Hyperacute rejection from preformed recipient antibodies"
-        },
-        {
-          "label": "C",
           "text": "Acute rejection of the graft by recipient cytotoxic T cells"
         },
         {
-          "label": "D",
+          "label": "B",
           "text": "Chronic rejection with graft arteriosclerosis"
+        },
+        {
+          "label": "C",
+          "text": "Graft-versus-host disease mediated by donor T cells"
+        },
+        {
+          "label": "D",
+          "text": "Hyperacute rejection from preformed recipient antibodies"
         },
         {
           "label": "E",
           "text": "Recurrence of leukemia"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Graft-versus-host disease occurs when donor immune cells recognize recipient tissues as foreign, classically affecting skin, liver, and GI tract.",
         "whyCorrect": "The brick describes GVHD as occurring with allogeneic stem cell transplants when donor immune cells mount a response against the recipient, with donor T cells as the primary effectors and CTLs and NK cells causing tissue damage. It most commonly affects skin, liver, and GI tract, presenting with maculopapular rash, jaundice, and diarrhea, precisely this patient's picture.",
         "whyWrongByChoice": {
-          "B": "Hyperacute rejection is the recipient's preformed antibodies attacking a solid organ graft within minutes, not a weeks-later multi-organ syndrome after stem cell transplant.",
-          "C": "Acute rejection is the recipient attacking the graft; here the donor cells are attacking the recipient's own tissues.",
-          "D": "Chronic rejection causes graft arteriosclerosis over years and does not explain rash, jaundice, and diarrhea a few weeks post-transplant.",
+          "A": "Acute rejection is the recipient attacking the graft; here the donor cells are attacking the recipient's own tissues.",
+          "B": "Chronic rejection causes graft arteriosclerosis over years and does not explain rash, jaundice, and diarrhea a few weeks post-transplant.",
+          "D": "Hyperacute rejection is the recipient's preformed antibodies attacking a solid organ graft within minutes, not a weeks-later multi-organ syndrome after stem cell transplant.",
           "E": "Blood tests are otherwise normal with no indication of relapse; the rash, jaundice, and diarrhea point to GVHD rather than recurrent leukemia."
         }
       },
@@ -513,34 +513,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Immunologic memory to the donor's alloantigens"
+          "text": "Development of tolerance to the donor after the first graft"
         },
         {
           "label": "B",
-          "text": "Preformed antibodies that were present before any transplant"
-        },
-        {
-          "label": "C",
-          "text": "Loss of MHC matching on the second graft"
-        },
-        {
-          "label": "D",
           "text": "Graft-versus-host disease caused by donor memory cells"
         },
         {
+          "label": "C",
+          "text": "Immunologic memory to the donor's alloantigens"
+        },
+        {
+          "label": "D",
+          "text": "Loss of MHC matching on the second graft"
+        },
+        {
           "label": "E",
-          "text": "Development of tolerance to the donor after the first graft"
+          "text": "Preformed antibodies that were present before any transplant"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Because the adaptive immune response generates memory, a repeat graft sharing alloantigens is rejected faster (second-set rejection).",
         "whyCorrect": "The brick teaches that adaptive immune responses generate memory, so allografts generate memory to alloantigens, and additional allografts from the same donor (or donors with similar alloantigens) are rejected faster. The 6-day second-set rejection reflects memory cells formed during the first (14-day) rejection.",
         "whyWrongByChoice": {
-          "B": "Preformed antibodies present before any transplant would cause hyperacute rejection of the first graft as well; here the first graft took 14 days.",
-          "C": "Both grafts came from the same donor with the same MHC, so a change in matching is not the cause of the faster rejection.",
-          "D": "Graft-versus-host disease involves donor cells attacking the host; this scenario is host rejection of donor skin, accelerated by host memory.",
-          "E": "Tolerance would make the second graft survive longer, not be rejected faster."
+          "A": "Tolerance would make the second graft survive longer, not be rejected faster.",
+          "B": "Graft-versus-host disease involves donor cells attacking the host; this scenario is host rejection of donor skin, accelerated by host memory.",
+          "D": "Both grafts came from the same donor with the same MHC, so a change in matching is not the cause of the faster rejection.",
+          "E": "Preformed antibodies present before any transplant would cause hyperacute rejection of the first graft as well; here the first graft took 14 days."
         }
       },
       "difficulty": "medium",
@@ -559,34 +559,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Autograft; the graft introduces no foreign antigens"
-        },
-        {
-          "label": "B",
-          "text": "Isograft; the graft introduces no foreign antigens"
-        },
-        {
-          "label": "C",
           "text": "Allograft; a hypersensitivity reaction to alloantigens is expected"
         },
         {
+          "label": "B",
+          "text": "Allograft; the graft introduces no foreign antigens"
+        },
+        {
+          "label": "C",
+          "text": "Autograft; the graft introduces no foreign antigens"
+        },
+        {
           "label": "D",
-          "text": "Xenograft; preformed antibodies will bind the graft within hours"
+          "text": "Isograft; the graft introduces no foreign antigens"
         },
         {
           "label": "E",
-          "text": "Allograft; the graft introduces no foreign antigens"
+          "text": "Xenograft; preformed antibodies will bind the graft within hours"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "A graft between genetically identical people (twins) is an isograft, and because no foreign antigens are introduced, a hypersensitivity reaction is not expected.",
         "whyCorrect": "The brick defines isografts as grafts between genetically identical people such as twins ('iso' = identical). It also states that unless the graft is an autograft or isograft, any graft exposes the immune system to foreign antigens and a hypersensitivity reaction is possible; an isograft from an identical twin therefore introduces no foreign antigens.",
         "whyWrongByChoice": {
-          "A": "An autograft is tissue moved within the same person ('auto' = self), such as skin from the leg to the chest, not tissue from a twin.",
-          "C": "An allograft is between genetically different people; identical twins are genetically identical, so no alloantigens are introduced.",
-          "D": "A xenograft is between species (e.g., pig heart valves); a human twin donor is not a xenograft.",
-          "E": "Although an allograft is the most common graft in the United States, it is defined by genetic difference and does expose the recipient to foreign antigens."
+          "A": "An allograft is between genetically different people; identical twins are genetically identical, so no alloantigens are introduced.",
+          "B": "Although an allograft is the most common graft in the United States, it is defined by genetic difference and does expose the recipient to foreign antigens.",
+          "C": "An autograft is tissue moved within the same person ('auto' = self), such as skin from the leg to the chest, not tissue from a twin.",
+          "E": "A xenograft is between species (e.g., pig heart valves); a human twin donor is not a xenograft."
         }
       },
       "difficulty": "easy",
@@ -605,33 +605,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "Recipient Th1 cells releasing cytokines that recruit neutrophils and macrophages"
-        },
-        {
-          "label": "B",
-          "text": "Recipient cytotoxic T cells recognizing alloantigens on donor MHC class I"
-        },
-        {
-          "label": "C",
           "text": "Isoagglutinins in her plasma directed against ABO antigens she does not express"
         },
         {
-          "label": "D",
+          "label": "B",
           "text": "Memory cells formed during an earlier graft from a donor with similar alloantigens"
+        },
+        {
+          "label": "C",
+          "text": "Recipient cytotoxic T cells recognizing alloantigens on donor MHC class I"
+        },
+        {
+          "label": "D",
+          "text": "Recipient Th1 cells releasing cytokines that recruit neutrophils and macrophages"
         },
         {
           "label": "E",
           "text": "Viable donor lymphocytes engrafting and mounting a response against her tissues"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "People often have antibodies (isoagglutinins) against ABO antigens they lack, and these cause transfused cells with different ABO genes to agglutinate.",
         "whyCorrect": "The brick's clinical correlation explains that ABO blood group genes are critical for preventing an immune response in transplantation. People often have antibodies against antigens they do not have; these antibodies, called isoagglutinins, cause blood transfusions from people with different ABO genes to agglutinate. A group A recipient's isoagglutinins against the B antigen explain the immediate agglutination.",
         "whyWrongByChoice": {
-          "A": "Th1 cytokine-driven recruitment of neutrophils and macrophages is an acute rejection mechanism and does not agglutinate red cells.",
-          "B": "CTL recognition of alloantigens on donor MHC class I is the direct cytotoxicity mechanism of acute rejection, which takes a week or more, not an immediate agglutination reaction.",
-          "D": "Memory to alloantigens accelerates rejection of a repeat graft; this patient's reaction is due to preexisting isoagglutinins, not a prior graft.",
+          "B": "Memory to alloantigens accelerates rejection of a repeat graft; this patient's reaction is due to preexisting isoagglutinins, not a prior graft.",
+          "C": "CTL recognition of alloantigens on donor MHC class I is the direct cytotoxicity mechanism of acute rejection, which takes a week or more, not an immediate agglutination reaction.",
+          "D": "Th1 cytokine-driven recruitment of neutrophils and macrophages is an acute rejection mechanism and does not agglutinate red cells.",
           "E": "Engraftment of viable donor lymphocytes causes transfusion-associated GVHD, a delayed multisystem disorder, not immediate agglutination of the transfused cells."
         }
       },
@@ -651,11 +651,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Alpha-2 and alpha-3 loci of class I MHC and beta-2 locus of class II MHC"
+          "text": "Alpha-1 and alpha-2 loci of class I MHC and beta-1 locus of class II MHC"
         },
         {
           "label": "B",
-          "text": "Alpha-1 and alpha-2 loci of class I MHC and beta-1 locus of class II MHC"
+          "text": "Alpha-1 and alpha-2 loci of class I MHC and beta-2 locus of class II MHC"
         },
         {
           "label": "C",
@@ -667,18 +667,18 @@
         },
         {
           "label": "E",
-          "text": "Alpha-1 and alpha-2 loci of class I MHC and beta-2 locus of class II MHC"
+          "text": "Alpha-2 and alpha-3 loci of class I MHC and beta-2 locus of class II MHC"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "The alpha-1 and alpha-2 loci of class I MHC and the beta-1 locus of class II MHC are the most polymorphic regions and the most critical to match in transplantation.",
         "whyCorrect": "The brick states that two groups of MHC genes seem most critical to match between donor and recipient to prevent an immune response: the alpha-1 and alpha-2 loci for class I MHC and the beta-1 loci for class II MHC. These are also the most polymorphic regions, as shown by the variability plots in the brick's figure.",
         "whyWrongByChoice": {
-          "A": "The class I alpha-3 region and class II beta-2 region show comparatively little variability and are not the critical matching regions.",
+          "B": "The class I alpha-1 and alpha-2 loci are correct, but class II beta-2 is a low-variability region; the critical class II locus is beta-1.",
           "C": "Class I alpha-3 is one of the least variable regions, and the class II region that matters is beta-1, not alpha-1.",
           "D": "Neither class I alpha-3 nor class II alpha-2 is identified as highly polymorphic; class I needs alpha-1 and alpha-2, and class II needs beta-1.",
-          "E": "The class I alpha-1 and alpha-2 loci are correct, but class II beta-2 is a low-variability region; the critical class II locus is beta-1."
+          "E": "The class I alpha-3 region and class II beta-2 region show comparatively little variability and are not the critical matching regions."
         }
       },
       "difficulty": "hard",
@@ -697,33 +697,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "C3a and C5a"
+          "text": "C1 complex"
         },
         {
           "label": "B",
-          "text": "C4d and C3d"
+          "text": "C3a and C5a"
         },
         {
           "label": "C",
-          "text": "C5b through C9"
+          "text": "C4d and C3d"
         },
         {
           "label": "D",
-          "text": "C1 complex"
+          "text": "C5b through C9"
         },
         {
           "label": "E",
           "text": "IgG and IgM"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "C3a and C5a are generated during complement activation in hyperacute rejection and attract and activate neutrophils, monocytes, and eosinophils.",
         "whyCorrect": "The brick lists the complement effector mechanisms of hyperacute rejection: C4d and C3d are deposited on transplanted cells for opsonization, C3a and C5a are generated and attract and activate neutrophils, monocytes, and eosinophils, and membrane attack complexes punch holes in membranes. The chemoattractant and activating fragments are therefore C3a and C5a.",
         "whyWrongByChoice": {
-          "B": "C4d and C3d are deposited on transplanted cells to mark them for destruction by phagocytes (opsonization), not to attract inflammatory cells.",
-          "C": "C5b-C9 forms the membrane attack complex, which damages cells by punching holes in their membranes rather than recruiting leukocytes.",
-          "D": "The C1 complex binds recipient IgG or IgM to initiate the classical pathway; it is the trigger, not the chemoattractant product.",
+          "A": "The C1 complex binds recipient IgG or IgM to initiate the classical pathway; it is the trigger, not the chemoattractant product.",
+          "C": "C4d and C3d are deposited on transplanted cells to mark them for destruction by phagocytes (opsonization), not to attract inflammatory cells.",
+          "D": "C5b-C9 forms the membrane attack complex, which damages cells by punching holes in their membranes rather than recruiting leukocytes.",
           "E": "IgG and IgM are the preformed recipient antibodies that start the cascade; they are not complement fragments."
         }
       },
@@ -744,11 +744,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Chemotaxis toward IFN-gamma released by Th1 cells"
+          "text": "Binding of IgG through Fc receptors"
         },
         {
           "label": "B",
-          "text": "T cell receptor recognition of alloantigen on donor MHC class I"
+          "text": "Chemotaxis toward IFN-gamma released by Th1 cells"
         },
         {
           "label": "C",
@@ -756,22 +756,22 @@
         },
         {
           "label": "D",
-          "text": "Binding of IgG through Fc receptors"
+          "text": "Recognition of stress-associated signals independent of antibody"
         },
         {
           "label": "E",
-          "text": "Recognition of stress-associated signals independent of antibody"
+          "text": "T cell receptor recognition of alloantigen on donor MHC class I"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "In Fc-mediated inflammation, neutrophils, monocytes, and NK cells bind IgG through Fc receptors and injure the graft with ROS, RNS, perforin, and granzymes.",
         "whyCorrect": "The brick names two major effector mechanisms of hyperacute rejection: complement activation and Fc-mediated inflammation. In the latter, neutrophils, monocytes, and NK cells bind IgG via Fc receptors and injure the transplant by releasing reactive oxygen species, reactive nitrogen species, perforin, and granzymes, exactly as seen in this biopsy.",
         "whyWrongByChoice": {
-          "A": "Th1 cytokine recruitment of neutrophils and macrophages is an acute rejection mechanism that develops over a week or more, not within the minutes-to-hours window of hyperacute rejection.",
-          "B": "TCR recognition of alloantigen on donor MHC class I is the direct cytotoxicity of acute rejection by CTLs, and neutrophils, monocytes, and NK cells do not use a TCR.",
+          "B": "Th1 cytokine recruitment of neutrophils and macrophages is an acute rejection mechanism that develops over a week or more, not within the minutes-to-hours window of hyperacute rejection.",
           "C": "C4d and C3d opsonization marks cells for phagocytosis; the cells here are engaged by antibody itself and are releasing cytotoxic mediators rather than phagocytosing.",
-          "E": "NK cells can recognize stress signals independent of antibody, but in this antibody-coated graft the cells are bound to IgG, which is the Fc receptor mechanism."
+          "D": "NK cells can recognize stress signals independent of antibody, but in this antibody-coated graft the cells are bound to IgG, which is the Fc receptor mechanism.",
+          "E": "TCR recognition of alloantigen on donor MHC class I is the direct cytotoxicity of acute rejection by CTLs, and neutrophils, monocytes, and NK cells do not use a TCR."
         }
       },
       "difficulty": "medium",
@@ -794,30 +794,30 @@
         },
         {
           "label": "B",
-          "text": "Increase the dose of calcineurin inhibitor and observe"
-        },
-        {
-          "label": "C",
           "text": "Gamma-irradiate the graft to inactivate donor lymphocytes"
         },
         {
+          "label": "C",
+          "text": "Increase the dose of calcineurin inhibitor and observe"
+        },
+        {
           "label": "D",
-          "text": "Wait 5 to 8 days for alloantigen-specific effector cells to form"
+          "text": "Remove the graft as soon as possible"
         },
         {
           "label": "E",
-          "text": "Remove the graft as soon as possible"
+          "text": "Wait 5 to 8 days for alloantigen-specific effector cells to form"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Hyperacute rejection is so severe and rapid that the graft may necrose during surgery, and the graft must be removed as soon as possible.",
         "whyCorrect": "The brick states that hyperacute rejection ultimately causes ischemia and necrosis, that the reaction is so severe and rapid that the graft may show signs of necrosis during the transplantation surgery, and that in cases of hyperacute rejection the graft must be removed as soon as possible.",
         "whyWrongByChoice": {
           "A": "mTOR inhibitors such as sirolimus are part of maintenance immunosuppression and do not reverse hyperacute rejection.",
-          "B": "Immunosuppressive drugs prevent T cell-driven rejection and GVHD; they cannot undo preformed-antibody and complement-mediated necrosis already under way.",
-          "C": "Gamma-irradiation is used on blood products to prevent transfusion-associated GVHD by disabling donor lymphocytes; it has no role in a necrosing solid organ graft.",
-          "D": "The 5 to 8 day lag applies to the generation of effector T cells and antibodies in acute rejection; hyperacute rejection is driven by preformed antibodies and is already destroying the graft."
+          "B": "Gamma-irradiation is used on blood products to prevent transfusion-associated GVHD by disabling donor lymphocytes; it has no role in a necrosing solid organ graft.",
+          "C": "Immunosuppressive drugs prevent T cell-driven rejection and GVHD; they cannot undo preformed-antibody and complement-mediated necrosis already under way.",
+          "E": "The 5 to 8 day lag applies to the generation of effector T cells and antibodies in acute rejection; hyperacute rejection is driven by preformed antibodies and is already destroying the graft."
         }
       },
       "difficulty": "easy",
@@ -840,11 +840,11 @@
         },
         {
           "label": "B",
-          "text": "Type 2 only"
+          "text": "Type 2 and type 4"
         },
         {
           "label": "C",
-          "text": "Type 2 and type 4"
+          "text": "Type 2 only"
         },
         {
           "label": "D",
@@ -855,13 +855,13 @@
           "text": "Type 4 only"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Acute rejection is primarily mediated by type 2 (antibody against cell-associated antigen) and type 4 (T cell-mediated) hypersensitivity reactions.",
         "whyCorrect": "The brick states that acute rejection occurs 1 week to several months after transplant and is primarily mediated by type 2 and type 4 HSRs. Its effector mechanisms are direct CTL cytotoxicity and Th1 cytokines (type 4) plus alloantibodies that bind vascular endothelium (type 2), matching the combined cell damage and endothelialitis on this biopsy.",
         "whyWrongByChoice": {
           "A": "Type 1 reactions are IgE responses to allergens and type 3 reactions target soluble antigens; neither is the primary mechanism of graft rejection.",
-          "B": "Hyperacute rejection is primarily a type 2 HSR alone; acute rejection adds T cell-mediated (type 4) damage, which is evident here.",
+          "C": "Hyperacute rejection is primarily a type 2 HSR alone; acute rejection adds T cell-mediated (type 4) damage, which is evident here.",
           "D": "Type 3 reactions involve soluble antigen immune complexes, whereas graft alloantigens are cell- or tissue-associated (type 2).",
           "E": "The alloantibody deposition and endothelialitis represent a type 2 antibody-mediated component in addition to the type 4 T cell damage."
         }
@@ -883,34 +883,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Recipient APCs that migrated into the graft, on MHC class II"
-        },
-        {
-          "label": "B",
-          "text": "Donor parenchymal cells within the graft, on MHC class I"
-        },
-        {
-          "label": "C",
           "text": "Donor endothelial cells lining graft vessels, on MHC class II"
         },
         {
+          "label": "B",
+          "text": "Donor macrophages carried inside the graft, on MHC class II"
+        },
+        {
+          "label": "C",
+          "text": "Donor parenchymal cells within the graft, on MHC class I"
+        },
+        {
           "label": "D",
-          "text": "Recipient B cells in the spleen, on MHC class I"
+          "text": "Recipient APCs that migrated into the graft, on MHC class II"
         },
         {
           "label": "E",
-          "text": "Donor macrophages carried inside the graft, on MHC class II"
+          "text": "Recipient B cells in the spleen, on MHC class I"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "In the Th1 cytokine arm of acute rejection, recipient Th1 cells recognize alloantigens presented on MHC class II by recipient APCs that have migrated into donor tissue.",
         "whyCorrect": "The brick describes the Th1 cytokine mechanism of acute rejection: recipient Th1 cells recognize alloantigens presented on MHC II on recipient antigen-presenting cells that have migrated into donor tissues. Activated Th1 cells then release cytokines that recruit neutrophils and macrophages and promote their activation.",
         "whyWrongByChoice": {
-          "B": "Donor parenchymal cells presenting alloantigen on donor MHC class I are the targets of recipient CTLs in direct cytotoxicity, not the activators of Th1 cells.",
-          "C": "Donor endothelial cells are the surfaces bound by alloantibodies in the antibody-mediated arm; Th1 activation is described via recipient APCs.",
-          "D": "MHC class I does not present to helper T cells, and the brick locates the presenting recipient APCs within the donor tissue rather than the spleen.",
-          "E": "The brick specifies that the presenting cells are recipient APCs that migrated into the graft, not donor-derived macrophages."
+          "A": "Donor endothelial cells are the surfaces bound by alloantibodies in the antibody-mediated arm; Th1 activation is described via recipient APCs.",
+          "B": "The brick specifies that the presenting cells are recipient APCs that migrated into the graft, not donor-derived macrophages.",
+          "C": "Donor parenchymal cells presenting alloantigen on donor MHC class I are the targets of recipient CTLs in direct cytotoxicity, not the activators of Th1 cells.",
+          "E": "MHC class I does not present to helper T cells, and the brick locates the presenting recipient APCs within the donor tissue rather than the spleen."
         }
       },
       "difficulty": "hard",
@@ -930,34 +930,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Donor MHC class I had to be downregulated before antibody binding"
-        },
-        {
-          "label": "B",
-          "text": "Preformed isoagglutinins were consumed and had to be slowly regenerated"
-        },
-        {
-          "label": "C",
-          "text": "Complement was depleted by surgery and slowly restored"
-        },
-        {
-          "label": "D",
           "text": "Alloantibodies against the donor formed only after the transplant"
         },
         {
-          "label": "E",
+          "label": "B",
+          "text": "Complement was depleted by surgery and slowly restored"
+        },
+        {
+          "label": "C",
+          "text": "Donor MHC class I had to be downregulated before antibody binding"
+        },
+        {
+          "label": "D",
           "text": "Memory cells from an earlier graft required weeks of reactivation"
+        },
+        {
+          "label": "E",
+          "text": "Preformed isoagglutinins were consumed and had to be slowly regenerated"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "Antibody-mediated acute rejection uses the same mechanism as hyperacute rejection but occurs later because the alloantibodies form after transplantation.",
         "whyCorrect": "The brick describes antibody-mediated responses in acute rejection: alloantibodies that form after transplantation bind alloantigens on vascular endothelial cells. The mechanism of damage is equivalent to hyperacute rejection but occurs later due to the time it takes to form an antibody response. With no antibodies detected before surgery, the injury at four weeks reflects newly formed alloantibodies.",
         "whyWrongByChoice": {
-          "A": "Alloantibodies bind alloantigens on the endothelial surface; downregulation of MHC class I is a tumor evasion strategy, not a prerequisite for antibody binding.",
-          "B": "Isoagglutinins are preexisting ABO antibodies that would cause immediate agglutination and hyperacute injury, not a delayed response; pre-transplant testing showed no antibodies against the donor.",
-          "C": "The brick does not describe complement depletion by surgery; the delay reflects antibody formation, not complement availability.",
-          "E": "There is no earlier graft in this history, and memory would produce faster, not delayed, rejection."
+          "B": "The brick does not describe complement depletion by surgery; the delay reflects antibody formation, not complement availability.",
+          "C": "Alloantibodies bind alloantigens on the endothelial surface; downregulation of MHC class I is a tumor evasion strategy, not a prerequisite for antibody binding.",
+          "D": "There is no earlier graft in this history, and memory would produce faster, not delayed, rejection.",
+          "E": "Isoagglutinins are preexisting ABO antibodies that would cause immediate agglutination and hyperacute injury, not a delayed response; pre-transplant testing showed no antibodies against the donor."
         }
       },
       "difficulty": "medium",
@@ -976,34 +976,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "The liver secretes extracellular matrix that blocks lymphocyte entry"
-        },
-        {
-          "label": "B",
           "text": "Alloantigens are not expressed on graft cells until the second week after surgery"
         },
         {
-          "label": "C",
+          "label": "B",
           "text": "Effector T cells and antibodies take at least 5 to 8 days to be generated"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "Preformed antibodies neutralize alloantigens during the first week"
         },
         {
-          "label": "E",
+          "label": "D",
           "text": "Recipient APCs cannot enter the graft until the vessels heal"
+        },
+        {
+          "label": "E",
+          "text": "The liver secretes extracellular matrix that blocks lymphocyte entry"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Acute rejection is mediated by effector T cells and antibodies formed after transplantation, which take at least 5 to 8 days to generate because of T and B cell activation requirements.",
         "whyCorrect": "The brick states that acute rejection is mediated by effector T cells and antibodies formed following transplantation, and that these immune components take at least 5 to 8 days to be generated due to the requirements of T and B cell activation. Acute rejection therefore begins about 1 week to several months after transplant, so day 4 biopsies are expected to be clear.",
         "whyWrongByChoice": {
-          "A": "Secreting extracellular matrix to block immune access is a tumor immune-privilege strategy, not a property of a transplanted liver.",
-          "B": "Alloantigens such as donor MHC are present on graft cells from the start; the delay lies in the recipient's adaptive response, not antigen expression.",
-          "D": "Preformed antibodies would cause hyperacute rejection within minutes to 24 hours rather than protecting the graft.",
-          "E": "The brick describes recipient APCs migrating into donor tissue as part of acute rejection but does not tie this to vessel healing; the limiting step is lymphocyte activation."
+          "A": "Alloantigens such as donor MHC are present on graft cells from the start; the delay lies in the recipient's adaptive response, not antigen expression.",
+          "C": "Preformed antibodies would cause hyperacute rejection within minutes to 24 hours rather than protecting the graft.",
+          "D": "The brick describes recipient APCs migrating into donor tissue as part of acute rejection but does not tie this to vessel healing; the limiting step is lymphocyte activation.",
+          "E": "Secreting extracellular matrix to block immune access is a tumor immune-privilege strategy, not a property of a transplanted liver."
         }
       },
       "difficulty": "medium",
@@ -1034,14 +1034,14 @@
         },
         {
           "label": "D",
-          "text": "Telomerase activity and telomere shortening"
+          "text": "NF-kB, mTOR, calcineurin, and lymphocyte proliferation"
         },
         {
           "label": "E",
-          "text": "NF-kB, mTOR, calcineurin, and lymphocyte proliferation"
+          "text": "Telomerase activity and telomere shortening"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Post-transplant immunosuppressants collectively inhibit NF-kB, mTOR, calcineurin, lymphocyte proliferation, and cytokine production.",
         "whyCorrect": "The brick's clinical correlation lists azathioprine, cyclosporine, mycophenolate mofetil, prednisone, sirolimus, and tacrolimus as common medicines after organ transplantation and states that collectively they inhibit NF-kB, mTOR, calcineurin, lymphocyte proliferation, and cytokine production, preventing transplant-related HSRs (rejection or GVHD).",
@@ -1049,7 +1049,7 @@
           "A": "ABO antigens are matched before transplantation; they are not a target of immunosuppressive drugs.",
           "B": "C1 binding and MAC formation are complement events in hyperacute rejection; the listed drugs target lymphocyte signaling and proliferation, not complement.",
           "C": "Fc receptor binding by neutrophils and NK cells drives Fc-mediated inflammation, but the brick does not describe these drugs as acting on Fc receptors.",
-          "D": "Telomerase is an aberrantly expressed self-protein in tumors and is unrelated to transplant immunosuppression."
+          "E": "Telomerase is an aberrantly expressed self-protein in tumors and is unrelated to transplant immunosuppression."
         }
       },
       "difficulty": "easy",
@@ -1073,19 +1073,19 @@
         },
         {
           "label": "B",
-          "text": "Yes; immunosuppressants reverse vascular smooth muscle proliferation"
+          "text": "No; this is graft-versus-host disease and requires donor lymphocyte removal"
         },
         {
           "label": "C",
-          "text": "Yes; the injury is antibody-mediated and resolves with treatment"
-        },
-        {
-          "label": "D",
           "text": "No; this is hyperacute rejection and the graft must be removed today"
         },
         {
+          "label": "D",
+          "text": "Yes; immunosuppressants reverse vascular smooth muscle proliferation"
+        },
+        {
           "label": "E",
-          "text": "No; this is graft-versus-host disease and requires donor lymphocyte removal"
+          "text": "Yes; the injury is antibody-mediated and resolves with treatment"
         }
       ],
       "correctAnswer": "A",
@@ -1093,10 +1093,10 @@
         "summary": "Chronic rejection in a liver transplant produces fibrotic, nonfunctional bile ducts; immunosuppressants prevent chronic rejection, but once fibrosis occurs the organ is no longer viable.",
         "whyCorrect": "The brick states that the pathology of chronic rejection is arteriosclerosis and that its specific changes differ by organ, with chronic rejection in liver transplant showing fibrotic and nonfunctional bile ducts. It adds that immunosuppressive drugs act to prevent chronic rejection; however, once fibrosis occurs, the organ is no longer viable.",
         "whyWrongByChoice": {
-          "B": "Immunosuppressants are preventive; the brick does not describe them reversing established smooth muscle proliferation or fibrosis.",
-          "C": "Chronic rejection is driven by helper T cell cytokines, not antibodies, and established fibrosis does not resolve with treatment.",
-          "D": "Hyperacute rejection occurs within minutes to 24 hours of transplant, not 5 years later with slowly developing fibrosis.",
-          "E": "GVHD is donor immune cells attacking recipient skin, liver, and GI tract; here the recipient's immune response has damaged the graft's own bile ducts and vessels."
+          "B": "GVHD is donor immune cells attacking recipient skin, liver, and GI tract; here the recipient's immune response has damaged the graft's own bile ducts and vessels.",
+          "C": "Hyperacute rejection occurs within minutes to 24 hours of transplant, not 5 years later with slowly developing fibrosis.",
+          "D": "Immunosuppressants are preventive; the brick does not describe them reversing established smooth muscle proliferation or fibrosis.",
+          "E": "Chronic rejection is driven by helper T cell cytokines, not antibodies, and established fibrosis does not resolve with treatment."
         }
       },
       "difficulty": "medium",
@@ -1115,34 +1115,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Preformed isoagglutinins against the second donor's ABO antigens"
+          "text": "Chronic rejection carried over from the first graft's vessels"
         },
         {
           "label": "B",
-          "text": "Memory cells from the first graft recognize the shared alloantigens"
-        },
-        {
-          "label": "C",
           "text": "Donor lymphocytes carried in the second graft attack her tissues"
         },
         {
+          "label": "C",
+          "text": "Memory cells from the first graft recognize the shared alloantigens"
+        },
+        {
           "label": "D",
-          "text": "Suppression of her regulatory T cells by the post-transplant immunosuppressive drugs"
+          "text": "Preformed isoagglutinins against the second donor's ABO antigens"
         },
         {
           "label": "E",
-          "text": "Chronic rejection carried over from the first graft's vessels"
+          "text": "Suppression of her regulatory T cells by the post-transplant immunosuppressive drugs"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Allografts generate memory to alloantigens, so later grafts from the same donor or from other donors with similar alloantigens are rejected faster.",
         "whyCorrect": "The brick explains that an adaptive immune response generates memory, so allografts generate memory to alloantigens. Additional allografts from the same donor, or from multiple donors with similar alloantigens, result in faster rejection. Because the second donor shares HLA alleles with the first, the memory formed during the first rejection accelerates rejection of the second graft.",
         "whyWrongByChoice": {
-          "A": "Isoagglutinins are ABO antibodies unrelated to prior grafts; the stem's cue is shared HLA alleles, not an ABO mismatch.",
-          "C": "Donor lymphocytes attacking recipient tissue is GVHD, which causes rash, jaundice, and diarrhea rather than accelerated rejection of the graft.",
-          "D": "The brick does not describe immunosuppressants suppressing regulatory T cells to accelerate rejection; they inhibit lymphocyte proliferation and cytokine production.",
-          "E": "Chronic rejection is a months-to-years process in a given graft's vessels and cannot be transferred from a removed graft to a new one."
+          "A": "Chronic rejection is a months-to-years process in a given graft's vessels and cannot be transferred from a removed graft to a new one.",
+          "B": "Donor lymphocytes attacking recipient tissue is GVHD, which causes rash, jaundice, and diarrhea rather than accelerated rejection of the graft.",
+          "D": "Isoagglutinins are ABO antibodies unrelated to prior grafts; the stem's cue is shared HLA alleles, not an ABO mismatch.",
+          "E": "The brick does not describe immunosuppressants suppressing regulatory T cells to accelerate rejection; they inhibit lymphocyte proliferation and cytokine production."
         }
       },
       "difficulty": "medium",
@@ -1161,34 +1161,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Liver grafts require only ABO matching"
-        },
-        {
-          "label": "B",
-          "text": "The liver expresses abundant MHC class I"
-        },
-        {
-          "label": "C",
           "text": "Fibrotic bile ducts release inflammatory cytokines"
         },
         {
+          "label": "B",
+          "text": "Hepatocytes present alloantigens on MHC class II"
+        },
+        {
+          "label": "C",
+          "text": "Liver grafts require only ABO matching"
+        },
+        {
           "label": "D",
-          "text": "The liver is an organ rich in donor immune cells"
+          "text": "The liver expresses abundant MHC class I"
         },
         {
           "label": "E",
-          "text": "Hepatocytes present alloantigens on MHC class II"
+          "text": "The liver is an organ rich in donor immune cells"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "GVHD occurs most often with HSC transplants but can also follow transplants of organs rich in immune cells, such as the liver, or transfusion of non-irradiated blood.",
         "whyCorrect": "The brick states that GVHD occurs most frequently with HSC transplants but may also occur in transplants of organs rich in immune cells, such as liver transplants, or a transfusion of non-irradiated blood. Immune cells from the graft recognize the recipient's tissue as foreign, producing the rash and diarrhea typical of GVHD affecting skin and GI tract.",
         "whyWrongByChoice": {
-          "A": "Both ABO and MHC matching influence transplant outcomes; matching requirements do not explain the presence of attacking donor lymphocytes.",
-          "B": "MHC class I on graft cells is what recipient CTLs attack in rejection; it does not explain donor cells attacking the recipient.",
-          "C": "Fibrotic bile ducts are a feature of chronic rejection years later, not a source of donor lymphocytes at three weeks.",
-          "E": "Hepatocytes presenting alloantigen would drive rejection by recipient T cells, not GVHD by donor lymphocytes."
+          "A": "Fibrotic bile ducts are a feature of chronic rejection years later, not a source of donor lymphocytes at three weeks.",
+          "B": "Hepatocytes presenting alloantigen would drive rejection by recipient T cells, not GVHD by donor lymphocytes.",
+          "C": "Both ABO and MHC matching influence transplant outcomes; matching requirements do not explain the presence of attacking donor lymphocytes.",
+          "D": "MHC class I on graft cells is what recipient CTLs attack in rejection; it does not explain donor cells attacking the recipient."
         }
       },
       "difficulty": "medium",
@@ -1207,34 +1207,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Radiation inactivates preformed isoagglutinins in donor plasma"
-        },
-        {
-          "label": "B",
-          "text": "Radiation strips ABO antigens from the donor red blood cells"
-        },
-        {
-          "label": "C",
           "text": "Electrons damage lymphocyte DNA so donor lymphocytes cannot proliferate"
         },
         {
-          "label": "D",
+          "label": "B",
           "text": "Radiation denatures donor MHC molecules so recipient T cells cannot recognize them"
         },
         {
-          "label": "E",
+          "label": "C",
           "text": "Radiation depletes donor complement so C1 cannot bind IgG"
+        },
+        {
+          "label": "D",
+          "text": "Radiation inactivates preformed isoagglutinins in donor plasma"
+        },
+        {
+          "label": "E",
+          "text": "Radiation strips ABO antigens from the donor red blood cells"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "Gamma-irradiation prevents transfusion-associated GVHD by generating electrons that damage lymphocyte DNA, rendering donor lymphocytes unable to proliferate and engraft.",
         "whyCorrect": "The brick explains that gamma-irradiation is performed to prevent transfusion-associated GVHD, a rare and usually fatal complication caused by infusion of viable lymphocytes that engraft in the recipient and mount an immune response. Irradiation generates electrons that damage lymphocyte DNA, rendering the lymphocytes unable to proliferate. People who need irradiated blood include neonates and immunocompromised people.",
         "whyWrongByChoice": {
-          "A": "Isoagglutinins are antibodies in plasma; the purpose of irradiation is to disable donor lymphocytes, not antibodies.",
-          "B": "ABO antigens are handled by blood-group matching; irradiation targets lymphocyte DNA, not red cell antigens.",
-          "D": "Irradiation does not act by altering MHC molecules; it prevents donor lymphocytes from proliferating after infusion.",
-          "E": "Complement is not the target of irradiation, and transfusion-associated GVHD is a lymphocyte-mediated, not complement-mediated, process."
+          "B": "Irradiation does not act by altering MHC molecules; it prevents donor lymphocytes from proliferating after infusion.",
+          "C": "Complement is not the target of irradiation, and transfusion-associated GVHD is a lymphocyte-mediated, not complement-mediated, process.",
+          "D": "Isoagglutinins are antibodies in plasma; the purpose of irradiation is to disable donor lymphocytes, not antibodies.",
+          "E": "ABO antigens are handled by blood-group matching; irradiation targets lymphocyte DNA, not red cell antigens."
         }
       },
       "difficulty": "medium",
@@ -1253,19 +1253,19 @@
       "choices": [
         {
           "label": "A",
-          "text": "Conditioning triggers preformed recipient antibodies, which bind and destroy donor stem cells"
+          "text": "Chemotherapy induces recipient regulatory T cells, which suppress donor CTLs and NK cells"
         },
         {
           "label": "B",
-          "text": "Radiation damages the DNA of donor lymphocytes, so the graft's T cells cannot proliferate in the host"
-        },
-        {
-          "label": "C",
           "text": "Conditioning eliminates recipient antigen-presenting cells, so donor T cells never encounter host alloantigens"
         },
         {
+          "label": "C",
+          "text": "Conditioning triggers preformed recipient antibodies, which bind and destroy donor stem cells"
+        },
+        {
           "label": "D",
-          "text": "Chemotherapy induces recipient regulatory T cells, which suppress donor CTLs and NK cells"
+          "text": "Radiation damages the DNA of donor lymphocytes, so the graft's T cells cannot proliferate in the host"
         },
         {
           "label": "E",
@@ -1277,10 +1277,10 @@
         "summary": "In the afferent phase of GVHD, pre-transplant radiation or chemotherapy damages recipient tissue, increasing inflammatory cytokines and MHC antigen expression and enhancing APC presentation of alloantigens to donor T cells.",
         "whyCorrect": "The brick divides GVHD pathogenesis into three phases. In the afferent phase, radiation or chemotherapy before bone marrow transplantation damages recipient tissue, leading to increased levels of inflammatory cytokines and expression of MHC antigens; this enhances the APC's ability to present alloantigens to the donor T cells. This is followed by the efferent phase (donor T cell interaction with host APC) and effector phase (CTL and NK cell migration to target organs).",
         "whyWrongByChoice": {
-          "A": "Preformed recipient antibodies mediate hyperacute rejection of solid organs; GVHD is driven by donor T cells attacking recipient tissue.",
-          "B": "Radiation damaging donor lymphocyte DNA describes gamma-irradiation of blood products to prevent transfusion-associated GVHD; conditioning targets the recipient, not the graft.",
-          "C": "Conditioning enhances rather than eliminates alloantigen presentation; the efferent phase depends on donor T cells interacting with host APCs.",
-          "D": "The brick does not describe conditioning inducing regulatory T cells; it describes increased inflammatory cytokines that promote GVHD."
+          "A": "The brick does not describe conditioning inducing regulatory T cells; it describes increased inflammatory cytokines that promote GVHD.",
+          "B": "Conditioning enhances rather than eliminates alloantigen presentation; the efferent phase depends on donor T cells interacting with host APCs.",
+          "C": "Preformed recipient antibodies mediate hyperacute rejection of solid organs; GVHD is driven by donor T cells attacking recipient tissue.",
+          "D": "Radiation damaging donor lymphocyte DNA describes gamma-irradiation of blood products to prevent transfusion-associated GVHD; conditioning targets the recipient, not the graft."
         }
       },
       "difficulty": "hard",
@@ -1303,7 +1303,7 @@
         },
         {
           "label": "B",
-          "text": "Recipient CTLs are activated by the donor graft"
+          "text": "Donor isoagglutinins agglutinate circulating leukemic cells"
         },
         {
           "label": "C",
@@ -1315,7 +1315,7 @@
         },
         {
           "label": "E",
-          "text": "Donor isoagglutinins agglutinate circulating leukemic cells"
+          "text": "Recipient CTLs are activated by the donor graft"
         }
       ],
       "correctAnswer": "A",
@@ -1323,10 +1323,10 @@
         "summary": "GVHD can be beneficial when the donor immune system rejects the recipient's cancerous cells, called the graft-versus-tumor effect.",
         "whyCorrect": "The brick's clinical correlation notes that GVHD might actually be beneficial in rare cases: GVHD causes rejection of cancerous cells by the donor immune system, known as the graft-versus-tumor effect. The same donor immune cells that attack recipient tissues can also attack residual leukemia.",
         "whyWrongByChoice": {
-          "B": "The recipient's immune cells were eliminated by conditioning; GVHD and the graft-versus-tumor effect are mediated by donor, not recipient, cells.",
+          "B": "Isoagglutinins are ABO antibodies that agglutinate mismatched red blood cells; they play no role in the graft-versus-tumor effect.",
           "C": "Immunosuppressive drugs prevent and treat GVHD by inhibiting lymphocytes; they are not described as killing leukemic cells.",
           "D": "Telomerase expression promotes cancer cell survival by halting telomere shortening; inducing it would not reduce relapse.",
-          "E": "Isoagglutinins are ABO antibodies that agglutinate mismatched red blood cells; they play no role in the graft-versus-tumor effect."
+          "E": "The recipient's immune cells were eliminated by conditioning; GVHD and the graft-versus-tumor effect are mediated by donor, not recipient, cells."
         }
       },
       "difficulty": "easy",
@@ -1345,34 +1345,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Her original leukemic clone acquired donor MHC alleles through antigenic modulation"
-        },
-        {
-          "label": "B",
           "text": "Donor HSCs engrafted, and a cancer later developed within the donor-derived cells"
         },
         {
-          "label": "C",
+          "label": "B",
           "text": "Graft-versus-host disease transformed her own hematopoietic cells into a neoplasm"
         },
         {
+          "label": "C",
+          "text": "Her original leukemic clone acquired donor MHC alleles through antigenic modulation"
+        },
+        {
           "label": "D",
-          "text": "Residual recipient cells outcompeted the donor graft and then became malignant"
+          "text": "Preformed recipient antibodies caused hyperacute rejection of the donor stem cells"
         },
         {
           "label": "E",
-          "text": "Preformed recipient antibodies caused hyperacute rejection of the donor stem cells"
+          "text": "Residual recipient cells outcompeted the donor graft and then became malignant"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "When a post-transplant neoplasm is entirely of donor genotype, the donor HSCs must have engrafted and the cancer developed within donor cells that neither immune system eliminated.",
         "whyCorrect": "The brick's case connection reasons that because the second leukemia consisted solely of donor cells, the donor HSCs must have successfully engrafted. The recipient's own immune cells were killed by chemotherapy or radiation before transplant, so her immune system was either eliminated or unable to outcompete the donor cells. At some point cancer developed within donor cells, and neither the patient's inborn immune system nor the engrafted immune system was able to eliminate it.",
         "whyWrongByChoice": {
-          "A": "Antigenic modulation is selection of tumor cells expressing less antigen under ADCC pressure; it does not change a cell's genotype to the donor's.",
-          "C": "GVHD is donor immune cells damaging recipient skin, liver, and GI tract; it would not produce malignant cells of donor genotype from her own cells.",
-          "D": "If recipient cells had outcompeted the graft, the neoplasm would carry her genotype, not the donor's.",
-          "E": "Hyperacute rejection of the graft would have prevented engraftment, yet the malignant cells are donor-derived, proving the graft engrafted."
+          "B": "GVHD is donor immune cells damaging recipient skin, liver, and GI tract; it would not produce malignant cells of donor genotype from her own cells.",
+          "C": "Antigenic modulation is selection of tumor cells expressing less antigen under ADCC pressure; it does not change a cell's genotype to the donor's.",
+          "D": "Hyperacute rejection of the graft would have prevented engraftment, yet the malignant cells are donor-derived, proving the graft engrafted.",
+          "E": "If recipient cells had outcompeted the graft, the neoplasm would carry her genotype, not the donor's."
         }
       },
       "difficulty": "hard",
@@ -1391,7 +1391,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Telomerase gene"
+          "text": "Neoantigen"
         },
         {
           "label": "B",
@@ -1399,7 +1399,7 @@
         },
         {
           "label": "C",
-          "text": "Neoantigen"
+          "text": "Oncogenic viral gene"
         },
         {
           "label": "D",
@@ -1407,7 +1407,7 @@
         },
         {
           "label": "E",
-          "text": "Oncogenic viral gene"
+          "text": "Telomerase gene"
         }
       ],
       "correctAnswer": "D",
@@ -1415,10 +1415,10 @@
         "summary": "A proto-oncogene regulates normal cell division; once mutated so that it causes cancer, it is called an oncogene.",
         "whyCorrect": "The brick states that oncogenes are mutated genes that cause cancer, and that before an oncogene becomes mutated it is called a proto-oncogene, which plays a role in regulating normal cell division. The unmutated regulator of cell division in this report is therefore a proto-oncogene.",
         "whyWrongByChoice": {
-          "A": "Telomerase is an aberrantly expressed self-protein in most cancers that halts telomere shortening; it is not the regulator of cell division described here.",
+          "A": "A neoantigen is a new antigen within a mutated self-protein that differs substantially from normal; it is a protein feature, not the gene's pre-mutation name.",
           "B": "Oncogene is the term for the gene after it has mutated and causes cancer, not before.",
-          "C": "A neoantigen is a new antigen within a mutated self-protein that differs substantially from normal; it is a protein feature, not the gene's pre-mutation name.",
-          "E": "Oncogenic viral proteins come from viruses such as HPV; this gene is the patient's own."
+          "C": "Oncogenic viral proteins come from viruses such as HPV; this gene is the patient's own.",
+          "E": "Telomerase is an aberrantly expressed self-protein in most cancers that halts telomere shortening; it is not the regulator of cell division described here."
         }
       },
       "difficulty": "easy",
@@ -1437,11 +1437,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "IgG binding to Fc receptors with ADCC"
+          "text": "Assembly of the C5b-C9 membrane attack complex"
         },
         {
           "label": "B",
-          "text": "Assembly of the C5b-C9 membrane attack complex"
+          "text": "IgG binding to Fc receptors with ADCC"
         },
         {
           "label": "C",
@@ -1449,11 +1449,11 @@
         },
         {
           "label": "D",
-          "text": "Secretion of TGF-beta and IL-10"
+          "text": "Reactive oxygen species from recruited neutrophils"
         },
         {
           "label": "E",
-          "text": "Reactive oxygen species from recruited neutrophils"
+          "text": "Secretion of TGF-beta and IL-10"
         }
       ],
       "correctAnswer": "C",
@@ -1461,10 +1461,10 @@
         "summary": "When a neoantigen is presented on class I MHC, CTLs induce apoptosis of the cancer cell via perforin and granzymes or Fas-FasL interactions.",
         "whyCorrect": "The brick states that when a neoantigen is expressed and can be presented by class I MHC, CTLs can respond and induce apoptosis in the cancer cell via perforin and granzymes or Fas-FasL interactions. The brick's figure shows the CD8+ T cell delivering perforin and granzymes to the cancer cell.",
         "whyWrongByChoice": {
-          "A": "ADCC involves antibody-bound cells being killed by cells bearing Fc receptors such as NK cells, not TCR-mediated CTL killing.",
-          "B": "The membrane attack complex is a complement product that punches holes in membranes during hyperacute rejection; CTLs do not assemble complement.",
-          "D": "TGF-beta and IL-10 are immunosuppressive cytokines that tumors use to blunt Th1 and M1 responses, not CTL killing mediators.",
-          "E": "Reactive oxygen species from neutrophils are part of Fc-mediated inflammation in hyperacute rejection, not the CTL apoptosis pathway."
+          "A": "The membrane attack complex is a complement product that punches holes in membranes during hyperacute rejection; CTLs do not assemble complement.",
+          "B": "ADCC involves antibody-bound cells being killed by cells bearing Fc receptors such as NK cells, not TCR-mediated CTL killing.",
+          "D": "Reactive oxygen species from neutrophils are part of Fc-mediated inflammation in hyperacute rejection, not the CTL apoptosis pathway.",
+          "E": "TGF-beta and IL-10 are immunosuppressive cytokines that tumors use to blunt Th1 and M1 responses, not CTL killing mediators."
         }
       },
       "difficulty": "medium",
@@ -1492,26 +1492,26 @@
         },
         {
           "label": "C",
-          "text": "TGF-beta"
-        },
-        {
-          "label": "D",
           "text": "IL-10"
         },
         {
-          "label": "E",
+          "label": "D",
           "text": "IL-12"
+        },
+        {
+          "label": "E",
+          "text": "TGF-beta"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "In the NK cell response to tumors with poor MHC I presentation, NK-derived IFN-gamma stimulates macrophages to release IL-12, which activates NK cells.",
         "whyCorrect": "The brick states that when tumor-associated antigens cannot be presented by MHC I, for example when changes do not yield peptides compatible with the peptide-binding groove, NK cells make up the dominant immune response. The brick's figure of this response shows the NK cell releasing IFN-gamma onto a macrophage, the macrophage releasing IL-12, and IL-12 driving activation of NK cells, which then kill the cancer cell with perforin and granzymes.",
         "whyWrongByChoice": {
           "A": "C5a is a complement fragment that attracts and activates neutrophils, monocytes, and eosinophils in hyperacute rejection, not a macrophage cytokine in the anti-tumor loop.",
           "B": "IFN-gamma is the cytokine released by the NK cell to stimulate the macrophage, not the macrophage's reply.",
-          "C": "TGF-beta is a tumor-derived suppressive cytokine that decreases activating receptors on NK cells rather than activating them.",
-          "D": "IL-10 is a suppressive cytokine that induces M2 macrophages and regulatory T cells; it does not activate NK cells."
+          "C": "IL-10 is a suppressive cytokine that induces M2 macrophages and regulatory T cells; it does not activate NK cells.",
+          "E": "TGF-beta is a tumor-derived suppressive cytokine that decreases activating receptors on NK cells rather than activating them."
         }
       },
       "difficulty": "hard",
@@ -1531,7 +1531,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Peripheral tolerance to the tumor antigens"
+          "text": "Activation of NK cells through stress-associated signals"
         },
         {
           "label": "B",
@@ -1539,26 +1539,26 @@
         },
         {
           "label": "C",
-          "text": "Selection of antigen-loss tumor variants through ADCC"
+          "text": "Generation of memory cells that accelerate tumor rejection"
         },
         {
           "label": "D",
-          "text": "Activation of NK cells through stress-associated signals"
+          "text": "Peripheral tolerance to the tumor antigens"
         },
         {
           "label": "E",
-          "text": "Generation of memory cells that accelerate tumor rejection"
+          "text": "Selection of antigen-loss tumor variants through ADCC"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "In the absence of co-stimulatory molecules, presented tumor self-peptides induce T cell peripheral tolerance, allowing the tumor to be treated as a tolerogen.",
         "whyCorrect": "The brick lists tolerance as a tumor evasion strategy: in the absence of co-stimulatory molecules, any presented self-peptides may induce T cell peripheral tolerance. Its figure shows that without co-stimulation, tumor antigens are taken up and presented by APCs to tolerize T cells, so the tumor is treated as a self antigen (tolerogen).",
         "whyWrongByChoice": {
+          "A": "NK cell activation by stress signals is independent of T cell antigen presentation and is not the consequence of missing co-stimulation.",
           "B": "Th1 differentiation requires proper activation; presentation without co-stimulation tolerizes rather than activates T cells.",
-          "C": "Selection of antigen-loss variants is antigenic modulation driven by antibody and ADCC, a separate evasion strategy not involving T cell co-stimulation.",
-          "D": "NK cell activation by stress signals is independent of T cell antigen presentation and is not the consequence of missing co-stimulation.",
-          "E": "Memory generation follows productive activation; tolerized T cells do not form memory that accelerates rejection."
+          "C": "Memory generation follows productive activation; tolerized T cells do not form memory that accelerates rejection.",
+          "E": "Selection of antigen-loss variants is antigenic modulation driven by antibody and ADCC, a separate evasion strategy not involving T cell co-stimulation."
         }
       },
       "difficulty": "medium",
@@ -1577,11 +1577,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Low immunogenicity"
+          "text": "Antigenic modulation"
         },
         {
           "label": "B",
-          "text": "Antigenic modulation"
+          "text": "Creation of an immune-privileged site"
         },
         {
           "label": "C",
@@ -1589,22 +1589,22 @@
         },
         {
           "label": "D",
-          "text": "Tumor-induced immune suppression"
+          "text": "Low immunogenicity"
         },
         {
           "label": "E",
-          "text": "Creation of an immune-privileged site"
+          "text": "Tumor-induced immune suppression"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "Antigenic modulation occurs when antibody binding and ADCC select for cancer cells that present less of the targeted tumor-associated antigen.",
         "whyCorrect": "The brick defines antigenic modulation: if antibodies bind tumor antigens and mediate antibody-dependent cellular cytotoxicity, cancer cells that present less tumor-associated antigen are selected for. Its figure describes antibody against tumor cell-surface antigens inducing endocytosis and degradation of the antigen and immune selection of antigen-loss variants, exactly what the antigen-negative relapse shows.",
         "whyWrongByChoice": {
-          "A": "Low immunogenicity refers to downregulating class I MHC, adhesion molecules, or co-stimulatory molecules, not loss of a specific antibody-targeted antigen under ADCC pressure.",
+          "B": "Immune privilege involves extracellular matrix barriers and PD-L1 upregulation, neither of which is described in this relapse.",
           "C": "Peripheral tolerance results from presenting antigen without co-stimulation; it does not involve antibody-driven selection of antigen-loss variants.",
-          "D": "Immune suppression uses TGF-beta and IL-10 to induce Tregs and M2 macrophages; the tumor here escaped by losing the antigen, not by suppressing effectors.",
-          "E": "Immune privilege involves extracellular matrix barriers and PD-L1 upregulation, neither of which is described in this relapse."
+          "D": "Low immunogenicity refers to downregulating class I MHC, adhesion molecules, or co-stimulatory molecules, not loss of a specific antibody-targeted antigen under ADCC pressure.",
+          "E": "Immune suppression uses TGF-beta and IL-10 to induce Tregs and M2 macrophages; the tumor here escaped by losing the antigen, not by suppressing effectors."
         }
       },
       "difficulty": "medium",
@@ -1623,34 +1623,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "It is presented on class II MHC rather than class I"
-        },
-        {
-          "label": "B",
-          "text": "It is encoded by an oncogenic virus whose genome is integrated in the tumor"
-        },
-        {
-          "label": "C",
           "text": "It contains a neoantigen generated by a point mutation"
         },
         {
+          "label": "B",
+          "text": "It is coated by surface IgG that triggers NK cell killing"
+        },
+        {
+          "label": "C",
+          "text": "It is encoded by an oncogenic virus whose genome is integrated in the tumor"
+        },
+        {
           "label": "D",
-          "text": "Its normal expression is so limited that CTLs can recognize it"
+          "text": "It is presented on class II MHC rather than class I"
         },
         {
           "label": "E",
-          "text": "It is coated by surface IgG that triggers NK cell killing"
+          "text": "Its normal expression is so limited that CTLs can recognize it"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Some aberrantly expressed self-proteins, such as fetal proteins, have such limited normal expression that CTLs can recognize them on tumor cells.",
         "whyCorrect": "The brick explains that some aberrantly-expressed self-proteins, such as fetal proteins, have such limited expression that CTLs can recognize them. Because the fetal protein is presented in class I MHC on the tumor and is essentially absent elsewhere in the adult, the CTL response proceeds even though the protein is unmutated self.",
         "whyWrongByChoice": {
-          "A": "CTLs recognize peptides presented in class I MHC; presentation on class II would engage helper T cells, not CTLs.",
-          "B": "The stem describes a normal fetal self-protein, not an oncogenic viral protein such as those of HPV.",
-          "C": "The protein is stated to be unmutated, so it does not contain a mutation-derived neoantigen.",
-          "E": "Surface-bound IgG recognized by NK cells is an antibody-dependent mechanism; the stem describes CTL recognition of a presented self-protein."
+          "A": "The protein is stated to be unmutated, so it does not contain a mutation-derived neoantigen.",
+          "B": "Surface-bound IgG recognized by NK cells is an antibody-dependent mechanism; the stem describes CTL recognition of a presented self-protein.",
+          "C": "The stem describes a normal fetal self-protein, not an oncogenic viral protein such as those of HPV.",
+          "D": "CTLs recognize peptides presented in class I MHC; presentation on class II would engage helper T cells, not CTLs."
         }
       },
       "difficulty": "hard",
@@ -1669,7 +1669,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Yolk sac"
+          "text": "Bone marrow"
         },
         {
           "label": "B",
@@ -1677,26 +1677,26 @@
         },
         {
           "label": "C",
-          "text": "Bone marrow"
-        },
-        {
-          "label": "D",
           "text": "Spleen"
         },
         {
-          "label": "E",
+          "label": "D",
           "text": "Thymus"
+        },
+        {
+          "label": "E",
+          "text": "Yolk sac"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Hematopoiesis begins in the extraembryonic yolk sac before shifting to the fetal liver and finally the bone marrow.",
         "whyCorrect": "Until roughly 2 months (about 8 weeks) post-fertilization, hematopoietic stem cells and the developing myeloid and lymphoid cells are made primarily by the yolk sac, an extraembryonic structure. Only later does blood formation move into the embryo proper.",
         "whyWrongByChoice": {
+          "A": "The bone marrow does not become the primary hematopoietic site until roughly 7-8 months post-fertilization.",
           "B": "The fetal liver becomes the dominant site later, from about weeks 10-24, not at 4 weeks.",
-          "C": "The bone marrow does not become the primary hematopoietic site until roughly 7-8 months post-fertilization.",
-          "D": "The spleen only makes a minor contribution during mid-gestation, not at the earliest stage.",
-          "E": "The thymus is the site of T-cell maturation and contributes only minimally to hematopoiesis, not at 4 weeks."
+          "C": "The spleen only makes a minor contribution during mid-gestation, not at the earliest stage.",
+          "D": "The thymus is the site of T-cell maturation and contributes only minimally to hematopoiesis, not at 4 weeks."
         }
       },
       "difficulty": "easy",
@@ -1715,34 +1715,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Neutrophils"
-        },
-        {
-          "label": "B",
-          "text": "Microglia"
-        },
-        {
-          "label": "C",
           "text": "Alveolar macrophages"
         },
         {
-          "label": "D",
+          "label": "B",
           "text": "Epidermal Langerhans cells"
         },
         {
-          "label": "E",
+          "label": "C",
           "text": "Mast cells"
+        },
+        {
+          "label": "D",
+          "text": "Microglia"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophils"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Neutrophils are short-lived circulating cells made continuously in the marrow, unlike fetal-derived tissue-resident cells.",
         "whyCorrect": "Neutrophils are circulating cells that are not tissue-resident; they survive in tissues only a few days and must be replenished from bone marrow throughout life. Many tissue-resident populations, by contrast, originate at least in part from fetal sources and self-renew.",
         "whyWrongByChoice": {
-          "B": "Microglia are macrophages derived exclusively from the fetus and self-renew without bone marrow input.",
-          "C": "Alveolar macrophages are tissue-resident cells derived at least in part from the fetus.",
-          "D": "Langerhans cells are fetal-derived epidermal macrophage-like cells, not marrow-exclusive.",
-          "E": "Mast cell populations are at least partially derived from the fetus."
+          "A": "Alveolar macrophages are tissue-resident cells derived at least in part from the fetus.",
+          "B": "Langerhans cells are fetal-derived epidermal macrophage-like cells, not marrow-exclusive.",
+          "C": "Mast cell populations are at least partially derived from the fetus.",
+          "D": "Microglia are macrophages derived exclusively from the fetus and self-renew without bone marrow input."
         }
       },
       "difficulty": "medium",
@@ -1761,34 +1761,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Microglia"
+          "text": "Alveolar macrophages"
         },
         {
           "label": "B",
-          "text": "Kupffer cells"
-        },
-        {
-          "label": "C",
-          "text": "Neutrophils"
-        },
-        {
-          "label": "D",
           "text": "B-1 cells"
         },
         {
+          "label": "C",
+          "text": "Kupffer cells"
+        },
+        {
+          "label": "D",
+          "text": "Microglia"
+        },
+        {
           "label": "E",
-          "text": "Alveolar macrophages"
+          "text": "Neutrophils"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Microglia are fetal-derived CNS macrophages whose aging is tied to neurodegenerative disease.",
         "whyCorrect": "Microglia support and protect the central nervous system and are derived exclusively from the fetus. Aging affects microglia through telomere shortening, DNA damage, and oxidative stress, impairing self-renewal; this dysfunction is associated with cognitive decline and with Alzheimer's and Parkinson's disease.",
         "whyWrongByChoice": {
-          "B": "Kupffer cells are liver macrophages of fetal origin that are gradually replaced by marrow-derived cells, not a CNS population.",
-          "C": "Neutrophils are short-lived circulating marrow-derived cells, not brain-resident macrophages.",
-          "D": "B-1 cells are a fetal-derived B-lymphocyte subset that secretes low-affinity IgM, not CNS macrophages.",
-          "E": "Alveolar macrophages reside in the lung, not the brain."
+          "A": "Alveolar macrophages reside in the lung, not the brain.",
+          "B": "B-1 cells are a fetal-derived B-lymphocyte subset that secretes low-affinity IgM, not CNS macrophages.",
+          "C": "Kupffer cells are liver macrophages of fetal origin that are gradually replaced by marrow-derived cells, not a CNS population.",
+          "E": "Neutrophils are short-lived circulating marrow-derived cells, not brain-resident macrophages."
         }
       },
       "difficulty": "medium",
@@ -1807,34 +1807,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Third pharyngeal pouch endoderm"
+          "text": "Fetal liver endodermal cells"
         },
         {
           "label": "B",
-          "text": "Neural crest ectoderm"
+          "text": "Neural crest ectodermal cells"
         },
         {
           "label": "C",
-          "text": "Yolk sac mesoderm"
+          "text": "Paraxial mesoderm of the somites"
         },
         {
           "label": "D",
-          "text": "Paraxial mesoderm (somites)"
+          "text": "Third pharyngeal pouch endoderm"
         },
         {
           "label": "E",
-          "text": "Fetal liver endoderm"
+          "text": "Yolk sac mesoderm and blood islands"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "The thymic stroma originates from endodermal cells of the ventral third pharyngeal pouch.",
         "whyCorrect": "The thymus originates during early gestation from endodermal cells of the ventral third pharyngeal pouch. Its stromal (supportive, non-hemopoietic) cells, including cortical and medullary thymic epithelial cells, fibroblasts, connective tissue cells, and endothelial cells, all arise from the third pharyngeal pouch.",
         "whyWrongByChoice": {
+          "A": "Developing T cells are hematopoietic and invade the thymus; the fetal liver does not form the thymic stroma.",
           "B": "The brick attributes thymic stroma to third pharyngeal pouch endoderm, not neural crest ectoderm.",
-          "C": "The yolk sac is a hematopoietic source, not the origin of the thymic stromal framework.",
-          "D": "Somites are nascent body segments and do not give rise to the thymic stroma.",
-          "E": "Developing T cells are hematopoietic and invade the thymus; the fetal liver does not form the thymic stroma."
+          "C": "Somites are nascent body segments and do not give rise to the thymic stroma.",
+          "E": "The yolk sac is a hematopoietic source, not the origin of the thymic stromal framework."
         }
       },
       "difficulty": "medium",
@@ -1853,34 +1853,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Neonatal Fc receptor (FcRn)"
-        },
-        {
-          "label": "B",
-          "text": "Polymeric immunoglobulin receptor (pIgR)"
-        },
-        {
-          "label": "C",
-          "text": "Fc-gamma receptor III (CD16)"
-        },
-        {
-          "label": "D",
           "text": "Complement receptor 1 (CR1)"
         },
         {
-          "label": "E",
+          "label": "B",
+          "text": "Fc-gamma receptor III (CD16)"
+        },
+        {
+          "label": "C",
           "text": "Mannose receptor"
+        },
+        {
+          "label": "D",
+          "text": "Neonatal Fc receptor (FcRn)"
+        },
+        {
+          "label": "E",
+          "text": "Polymeric immunoglobulin receptor (pIgR)"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Transplacental IgG transfer is mediated by the neonatal Fc receptor (FcRn).",
         "whyCorrect": "During the prenatal period, the fetus acquires IgG by transplacental transport. The neonatal Fc receptor (FcRn) binds IgG at the fetal-parent interface of the placenta and transcytoses it into the fetal circulation, so neonates are born with IgG levels equivalent to adults.",
         "whyWrongByChoice": {
-          "B": "The polymeric immunoglobulin receptor transports IgA across mucosal epithelium (for example into breastmilk), not IgG across the placenta.",
-          "C": "CD16 mediates antibody-dependent cellular cytotoxicity by NK cells, not placental IgG transfer.",
-          "D": "Complement receptor 1 binds complement fragments, not IgG for transplacental transport.",
-          "E": "The mannose receptor is a pattern-recognition receptor for pathogen uptake, not an antibody-transport receptor."
+          "A": "Complement receptor 1 binds complement fragments, not IgG for transplacental transport.",
+          "B": "CD16 mediates antibody-dependent cellular cytotoxicity by NK cells, not placental IgG transfer.",
+          "C": "The mannose receptor is a pattern-recognition receptor for pathogen uptake, not an antibody-transport receptor.",
+          "E": "The polymeric immunoglobulin receptor transports IgA across mucosal epithelium (for example into breastmilk), not IgG across the placenta."
         }
       },
       "difficulty": "medium",
@@ -1899,34 +1899,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Maternal transplacental IgG has waned before the infant produces enough of its own"
-        },
-        {
-          "label": "B",
-          "text": "The infant has a congenital absence of the thymus and cannot make T cells"
-        },
-        {
-          "label": "C",
-          "text": "The neonatal Fc receptor is defective and cannot bind IgG"
-        },
-        {
-          "label": "D",
           "text": "Maternal IgG continues to rise and suppresses the infant's own antibody production"
         },
         {
-          "label": "E",
+          "label": "B",
+          "text": "Maternal transplacental IgG has waned before the infant produces enough of its own"
+        },
+        {
+          "label": "C",
+          "text": "The infant has a congenital absence of the thymus and cannot make T cells"
+        },
+        {
+          "label": "D",
           "text": "The infant permanently lacks the ability to class-switch to IgG"
+        },
+        {
+          "label": "E",
+          "text": "The neonatal Fc receptor is defective and cannot bind IgG"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Between 3 and 12 months, a 'danger zone' occurs as maternal IgG wanes before the infant's own IgG is fully generated.",
         "whyCorrect": "Between 3 and 12 months after birth, transplacental (maternal) IgG wanes in the blood while the child has not yet generated much of its own immunoglobulin. This transient trough in humoral immunity leaves the infant more susceptible to infection.",
         "whyWrongByChoice": {
-          "B": "Recurrent infection at this age reflects the normal antibody 'danger zone,' not congenital athymia; nothing suggests a T-cell developmental defect.",
-          "C": "FcRn functions normally; neonates are in fact born with adult-equivalent IgG because of it.",
-          "D": "Maternal IgG is waning, not rising, during this window, and it does not suppress the infant's own production.",
-          "E": "The infant is beginning to make its own immunoglobulin; there is no permanent class-switching defect implied."
+          "A": "Maternal IgG is waning, not rising, during this window, and it does not suppress the infant's own production.",
+          "C": "Recurrent infection at this age reflects the normal antibody 'danger zone,' not congenital athymia; nothing suggests a T-cell developmental defect.",
+          "D": "The infant is beginning to make its own immunoglobulin; there is no permanent class-switching defect implied.",
+          "E": "FcRn functions normally; neonates are in fact born with adult-equivalent IgG because of it."
         }
       },
       "difficulty": "medium",
@@ -1945,33 +1945,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "Polymeric immunoglobulin receptor (pIgR)"
+          "text": "Fc-epsilon receptor I on mast cells"
         },
         {
           "label": "B",
-          "text": "Neonatal Fc receptor (FcRn)"
+          "text": "J chain acting alone without a transport receptor"
         },
         {
           "label": "C",
-          "text": "J chain acting alone"
+          "text": "Neonatal Fc receptor (FcRn) for IgG"
         },
         {
           "label": "D",
-          "text": "Fc-epsilon receptor I"
+          "text": "Polymeric immunoglobulin receptor (pIgR)"
         },
         {
           "label": "E",
-          "text": "Toll-like receptor 4"
+          "text": "Toll-like receptor 4 binding LPS"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Secretory IgA is transported across the mammary epithelium into breastmilk by the polymeric immunoglobulin receptor.",
         "whyCorrect": "sIgA is generated from plasma cells in the lamina propria of the mammary glands and is then transported across the mammary alveolar epithelium into breastmilk by the polymeric immunoglobulin receptor (pIgR). This sIgA coats the infant's mucosal surfaces.",
         "whyWrongByChoice": {
-          "B": "FcRn transports IgG (for example across the placenta), not IgA across mammary epithelium.",
-          "C": "The J chain joins IgA monomers but does not by itself carry IgA across the epithelium; pIgR performs the transcytosis.",
-          "D": "Fc-epsilon receptor I binds IgE on mast cells and basophils, not IgA for secretion.",
+          "A": "Fc-epsilon receptor I binds IgE on mast cells and basophils, not IgA for secretion.",
+          "B": "The J chain joins IgA monomers but does not by itself carry IgA across the epithelium; pIgR performs the transcytosis.",
+          "C": "FcRn transports IgG (for example across the placenta), not IgA across mammary epithelium.",
           "E": "TLR4 is a pattern-recognition receptor for LPS and does not transport antibody into milk."
         }
       },
@@ -1991,11 +1991,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Macrophages"
+          "text": "Lactoferrin"
         },
         {
           "label": "B",
-          "text": "Lactoferrin"
+          "text": "Lymphocytes"
         },
         {
           "label": "C",
@@ -2003,21 +2003,21 @@
         },
         {
           "label": "D",
-          "text": "Lymphocytes"
+          "text": "Macrophages"
         },
         {
           "label": "E",
           "text": "Oligosaccharides"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Breastmilk macrophages carry engulfed sIgA and release it onto bacteria in the infant gut.",
         "whyCorrect": "Breastmilk contains up to about 1 million immune cells per milliliter, and the majority (55-60%) are macrophages. These breastmilk macrophages contain engulfed sIgA that they release upon contact with bacteria in the lumen of the infant gut.",
         "whyWrongByChoice": {
-          "B": "Lactoferrin competes for ferric iron to inhibit bacterial growth; it does not carry and release sIgA.",
+          "A": "Lactoferrin competes for ferric iron to inhibit bacterial growth; it does not carry and release sIgA.",
+          "B": "Breastmilk lymphocytes are predominantly T cells that express cytokines; they are a minority (5-10%) of milk cells and are not the sIgA-releasing population.",
           "C": "Lysozyme cleaves peptidoglycan in bacterial cell walls and is not a cell that transports sIgA.",
-          "D": "Breastmilk lymphocytes are predominantly T cells that express cytokines; they are a minority (5-10%) of milk cells and are not the sIgA-releasing population.",
           "E": "Oligosaccharides are prebiotic carbohydrates that feed beneficial gut microbiota, not cells that deliver sIgA."
         }
       },
@@ -2037,33 +2037,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "Lactoferrin"
+          "text": "Defensins"
         },
         {
           "label": "B",
-          "text": "Lysozyme"
+          "text": "Lactoferrin"
         },
         {
           "label": "C",
-          "text": "Oligosaccharides"
+          "text": "Lysozyme"
         },
         {
           "label": "D",
-          "text": "Defensins"
+          "text": "Oligosaccharides"
         },
         {
           "label": "E",
           "text": "Secretory IgA"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Lactoferrin inhibits bacterial growth by competing for ferric iron.",
         "whyCorrect": "Lactoferrin is a breastmilk protein that competes for ferric iron and thereby inhibits bacterial growth. By sequestering the iron that bacteria need, it starves them of an essential nutrient.",
         "whyWrongByChoice": {
-          "B": "Lysozyme cleaves peptidoglycans in bacterial cell walls rather than binding iron.",
-          "C": "Oligosaccharides are prebiotics that feed beneficial gut bacteria such as Bifidobacteria and block pathogen binding, not iron chelators.",
-          "D": "Defensins are small molecules that disrupt viral envelopes and target bacteria and viruses, not iron-binding proteins.",
+          "A": "Defensins are small molecules that disrupt viral envelopes and target bacteria and viruses, not iron-binding proteins.",
+          "C": "Lysozyme cleaves peptidoglycans in bacterial cell walls rather than binding iron.",
+          "D": "Oligosaccharides are prebiotics that feed beneficial gut bacteria such as Bifidobacteria and block pathogen binding, not iron chelators.",
           "E": "Secretory IgA coats mucosal surfaces in a non-inflammatory way; it does not sequester iron."
         }
       },
@@ -2083,34 +2083,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "The skin flora of the primary parent or caregiver"
-        },
-        {
-          "label": "B",
-          "text": "The vaginal flora of the person who birthed the infant"
-        },
-        {
-          "label": "C",
           "text": "The intestinal flora of an older sibling"
         },
         {
-          "label": "D",
+          "label": "B",
+          "text": "The oral flora of a grandparent who visits on day three"
+        },
+        {
+          "label": "C",
           "text": "The skin flora of the obstetrician"
         },
         {
+          "label": "D",
+          "text": "The skin flora of the primary parent or caregiver"
+        },
+        {
           "label": "E",
-          "text": "The oral flora of a grandparent who visits on day three"
+          "text": "The vaginal flora of the person who birthed the infant"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "A C-section infant's skin flora most resembles the skin flora of whoever spends the most time in skin-to-skin contact, usually the primary caregiver.",
         "whyCorrect": "This individual almost certainly spends the most time in skin-to-skin contact with the infant, so their skin microbes seed the newborn's skin. Providing the greatest chance of microbial transfer, the primary parent or caregiver's skin flora is the best match.",
         "whyWrongByChoice": {
-          "B": "Vaginal flora would be relevant to a vaginal delivery, not a Cesarean section, where that exposure is minimal to absent.",
-          "C": "An older sibling would only contribute if in close contact, and intestinal flora is not the skin source acquired through skin-to-skin contact.",
-          "D": "Good hospital staff practices, such as wearing gloves, make transfer of significant microbes from the obstetrician unlikely.",
-          "E": "A grandparent visiting once on day three contributes far less than the caregiver in constant skin-to-skin contact, and oral flora is not the skin source."
+          "A": "An older sibling would only contribute if in close contact, and intestinal flora is not the skin source acquired through skin-to-skin contact.",
+          "B": "A grandparent visiting once on day three contributes far less than the caregiver in constant skin-to-skin contact, and oral flora is not the skin source.",
+          "C": "Good hospital staff practices, such as wearing gloves, make transfer of significant microbes from the obstetrician unlikely.",
+          "E": "Vaginal flora would be relevant to a vaginal delivery, not a Cesarean section, where that exposure is minimal to absent."
         }
       },
       "difficulty": "medium",
@@ -2129,34 +2129,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "White blood cell count of 25,000 cells/mm^3"
-        },
-        {
-          "label": "B",
           "text": "A small amount of vestigial thymus, not visible on chest X-ray"
         },
         {
-          "label": "C",
+          "label": "B",
           "text": "Absence of a visible thymus on chest X-ray"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "Reduced CD4+/CD8+ ratio relative to a young adult"
         },
         {
-          "label": "E",
+          "label": "D",
           "text": "Reduced naive B cells relative to a young adult"
+        },
+        {
+          "label": "E",
+          "text": "White blood cell count of 25,000 cells/mm^3"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "A WBC of 25,000 is above the adult normal range and is abnormal, whereas thymic involution and reduced naive T/B cells are expected with age.",
         "whyCorrect": "Normal adult WBC counts are 4000-11,000 cells/mm^3, so 25,000 cells/mm^3 is clearly elevated and abnormal. The other findings reflect normal aging.",
         "whyWrongByChoice": {
-          "B": "Age-related thymic hypoplasia is normal in adults; a vestigial thymus that cannot be seen on chest X-ray is expected.",
-          "C": "Absence of a visible thymus on chest X-ray reflects normal age-related thymic regression, not disease.",
-          "D": "A reduced CD4+/CD8+ ratio relative to a young adult is a recognized age-related change.",
-          "E": "Reduced naive B-cell production relative to a young adult is expected with immunosenescence."
+          "A": "Age-related thymic hypoplasia is normal in adults; a vestigial thymus that cannot be seen on chest X-ray is expected.",
+          "B": "Absence of a visible thymus on chest X-ray reflects normal age-related thymic regression, not disease.",
+          "C": "A reduced CD4+/CD8+ ratio relative to a young adult is a recognized age-related change.",
+          "D": "Reduced naive B-cell production relative to a young adult is expected with immunosenescence."
         }
       },
       "difficulty": "medium",
@@ -2175,34 +2175,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Decreased production of naive CD4+ and CD8+ T cells"
-        },
-        {
-          "label": "B",
-          "text": "Increased output of naive T cells from an enlarging thymus"
-        },
-        {
-          "label": "C",
           "text": "An increased CD4+/CD8+ ratio compared with a young adult"
         },
         {
-          "label": "D",
+          "label": "B",
+          "text": "Decreased production of naive CD4+ and CD8+ T cells"
+        },
+        {
+          "label": "C",
           "text": "Enhanced antibody affinity and reduced autoantibody levels"
         },
         {
-          "label": "E",
+          "label": "D",
           "text": "Improved class-switching and expanded naive B-cell production"
+        },
+        {
+          "label": "E",
+          "text": "Increased output of naive T cells from an enlarging thymus"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Thymic involution reduces naive CD4+/CD8+ T-cell output and shifts the T-cell pool toward memory and effector cells.",
         "whyCorrect": "In late life, age-related regression of the thymus alters the circulating T-cell pool: production of naive CD4+ and CD8+ T cells declines, while the percentages of memory T cells and non-proliferative effector T cells increase. Additional changes include a decreased CD4+/CD8+ ratio and skewing toward Th17 and regulatory T-cell subsets.",
         "whyWrongByChoice": {
-          "B": "The aging thymus involutes and its output declines; it does not enlarge or increase naive T-cell production.",
-          "C": "Aging is associated with a decreased, not increased, CD4+/CD8+ ratio.",
-          "D": "With age, general antibody affinity declines while autoantibody levels increase, the opposite of this choice.",
-          "E": "Class-switching becomes impaired and naive B-cell production declines with age, not improves."
+          "A": "Aging is associated with a decreased, not increased, CD4+/CD8+ ratio.",
+          "C": "With age, general antibody affinity declines while autoantibody levels increase, the opposite of this choice.",
+          "D": "Class-switching becomes impaired and naive B-cell production declines with age, not improves.",
+          "E": "The aging thymus involutes and its output declines; it does not enlarge or increase naive T-cell production."
         }
       },
       "difficulty": "hard",
@@ -2221,34 +2221,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Liver"
-        },
-        {
-          "label": "B",
-          "text": "Yolk sac"
-        },
-        {
-          "label": "C",
           "text": "Bone marrow"
         },
         {
-          "label": "D",
+          "label": "B",
+          "text": "Liver"
+        },
+        {
+          "label": "C",
           "text": "Spleen"
         },
         {
-          "label": "E",
+          "label": "D",
           "text": "Thymus"
+        },
+        {
+          "label": "E",
+          "text": "Yolk sac"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "From weeks 10-24 post fertilization, the liver is the primary site of hematopoiesis.",
         "whyCorrect": "In weeks 10-24, hematopoiesis primarily occurs in the fetal liver, with some contribution from the spleen, thymus, and bone marrow. A 16-week fetus therefore falls squarely in the hepatic phase of blood cell production.",
         "whyWrongByChoice": {
-          "B": "The yolk sac is the primary source of hematopoietic stem cells only until roughly 2 months (about 8 weeks) post fertilization.",
-          "C": "The bone marrow is seeded by liver-derived HSCs at about 12 weeks but does not become the primary site until 7-8 months post fertilization.",
-          "D": "The spleen makes only a minor contribution during mid-gestation and is never the primary site.",
-          "E": "The thymus contributes only minimally to hematopoiesis; it is the site of T-cell maturation."
+          "A": "The bone marrow is seeded by liver-derived HSCs at about 12 weeks but does not become the primary site until 7-8 months post fertilization.",
+          "C": "The spleen makes only a minor contribution during mid-gestation and is never the primary site.",
+          "D": "The thymus contributes only minimally to hematopoiesis; it is the site of T-cell maturation.",
+          "E": "The yolk sac is the primary source of hematopoietic stem cells only until roughly 2 months (about 8 weeks) post fertilization."
         }
       },
       "difficulty": "easy",
@@ -2267,11 +2267,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Pelvic bones"
+          "text": "Femoral shaft"
         },
         {
           "label": "B",
-          "text": "Sternum"
+          "text": "Pelvic bones"
         },
         {
           "label": "C",
@@ -2279,21 +2279,21 @@
         },
         {
           "label": "D",
-          "text": "Femoral shaft"
+          "text": "Sternum"
         },
         {
           "label": "E",
           "text": "Vertebrae"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Donor HSCs are harvested by pulling bone marrow from the pelvic bones with large hollow needles.",
         "whyCorrect": "Bone marrow harvesting is the procedure used to obtain donor HSCs for HSC transplant. Providers use large hollow needles that pull bone marrow from the donor's pelvic bones, one of the few sites where hematopoiesis still occurs in adults.",
         "whyWrongByChoice": {
-          "B": "The sternum is an adult hematopoietic site, but it is not the site described for bone marrow harvesting.",
+          "A": "In adults, hematopoietic marrow is limited to the skull, sternum, vertebrae, and pelvic bones; the femoral shaft is not among these sites.",
           "C": "The skull contains hematopoietic marrow in adults, but marrow is not harvested from it for transplant.",
-          "D": "In adults, hematopoietic marrow is limited to the skull, sternum, vertebrae, and pelvic bones; the femoral shaft is not among these sites.",
+          "D": "The sternum is an adult hematopoietic site, but it is not the site described for bone marrow harvesting.",
           "E": "The vertebrae are an adult hematopoietic site, but harvesting for transplant uses the pelvic bones."
         }
       },
@@ -2313,34 +2313,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Fetal in origin at first, gradually replaced by bone-marrow-derived cells"
-        },
-        {
-          "label": "B",
-          "text": "Fetal in origin throughout life, never replenished by bone-marrow-derived cells"
-        },
-        {
-          "label": "C",
           "text": "Bone marrow in origin from birth, with no fetal contribution at any stage"
         },
         {
+          "label": "B",
+          "text": "Circulating neutrophils in origin, replenished every few days from the marrow"
+        },
+        {
+          "label": "C",
+          "text": "Fetal in origin at first, gradually replaced by bone-marrow-derived cells"
+        },
+        {
           "label": "D",
-          "text": "Third pharyngeal pouch in origin, persisting as a non-hematopoietic stroma"
+          "text": "Fetal in origin throughout life, never replenished by bone-marrow-derived cells"
         },
         {
           "label": "E",
-          "text": "Circulating neutrophils in origin, replenished every few days from the marrow"
+          "text": "Third pharyngeal pouch in origin, persisting as a non-hematopoietic stroma"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Kupffer cells begin as fetal-derived tissue-resident macrophages but are gradually replaced by bone-marrow-derived cells over life.",
         "whyCorrect": "Some initially tissue-resident macrophage populations, such as liver Kupffer cells, are of fetal origin but are gradually replaced with bone-marrow-derived cells over a person's life. This contrasts with microglia and brain-resident mast cells, which are not replenished by bone-marrow-derived cells at all and instead self-renew.",
         "whyWrongByChoice": {
-          "B": "Lifelong fetal origin without marrow replenishment describes microglia and brain-resident mast cells, not Kupffer cells.",
-          "C": "Kupffer cells are initially of fetal origin; they are not exclusively marrow-derived from birth.",
-          "D": "The third pharyngeal pouch gives rise to thymic stroma, not to liver macrophages.",
-          "E": "Kupffer cells are macrophages, not neutrophils, and neutrophils are the short-lived circulating population, not a tissue-resident one."
+          "A": "Kupffer cells are initially of fetal origin; they are not exclusively marrow-derived from birth.",
+          "B": "Kupffer cells are macrophages, not neutrophils, and neutrophils are the short-lived circulating population, not a tissue-resident one.",
+          "D": "Lifelong fetal origin without marrow replenishment describes microglia and brain-resident mast cells, not Kupffer cells.",
+          "E": "The third pharyngeal pouch gives rise to thymic stroma, not to liver macrophages."
         }
       },
       "difficulty": "medium",
@@ -2363,19 +2363,19 @@
         },
         {
           "label": "B",
-          "text": "Tissue-resident NK cells"
-        },
-        {
-          "label": "C",
-          "text": "Regulatory T cells"
-        },
-        {
-          "label": "D",
           "text": "Langerhans cells"
         },
         {
-          "label": "E",
+          "label": "C",
           "text": "Mast cells"
+        },
+        {
+          "label": "D",
+          "text": "Regulatory T cells"
+        },
+        {
+          "label": "E",
+          "text": "Tissue-resident NK cells"
         }
       ],
       "correctAnswer": "A",
@@ -2383,10 +2383,10 @@
         "summary": "B-1 cells are fetal-derived B cells that secrete limited-specificity antibody in a T-cell-independent manner.",
         "whyCorrect": "Some subsets of lymphoid cells are derived from fetal tissues. One subset is B-1 cells, B cells that function in a T-cell-independent manner, secreting antibodies with limited specificity in peripheral tissues.",
         "whyWrongByChoice": {
-          "B": "Tissue-resident NK cells also first emerge independent of bone marrow HSCs, but they do not secrete antibodies.",
-          "C": "Regulatory T cells are T lymphocytes and do not secrete antibody; the described population is T-cell independent.",
-          "D": "Langerhans cells are fetal-derived epidermal macrophages, not antibody-secreting lymphoid cells.",
-          "E": "Mast cells are fetal-derived tissue-resident cells but are myeloid, not antibody-secreting lymphoid cells."
+          "B": "Langerhans cells are fetal-derived epidermal macrophages, not antibody-secreting lymphoid cells.",
+          "C": "Mast cells are fetal-derived tissue-resident cells but are myeloid, not antibody-secreting lymphoid cells.",
+          "D": "Regulatory T cells are T lymphocytes and do not secrete antibody; the described population is T-cell independent.",
+          "E": "Tissue-resident NK cells also first emerge independent of bone marrow HSCs, but they do not secrete antibodies."
         }
       },
       "difficulty": "medium",
@@ -2405,15 +2405,15 @@
       "choices": [
         {
           "label": "A",
-          "text": "Fetal liver"
+          "text": "Bone marrow"
         },
         {
           "label": "B",
-          "text": "Yolk sac"
+          "text": "Fetal liver"
         },
         {
           "label": "C",
-          "text": "Bone marrow"
+          "text": "Spleen"
         },
         {
           "label": "D",
@@ -2421,18 +2421,18 @@
         },
         {
           "label": "E",
-          "text": "Spleen"
+          "text": "Yolk sac"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Thymocytes invade the thymus from the fetal liver, the source of hematopoietic stem cells at weeks 9-10.",
         "whyCorrect": "Developing T cells are hematopoietic, unlike the thymic stroma. At 9-10 weeks post fertilization, prothymocytes invade the thymus from the fetal liver, which is the site of hematopoiesis during weeks 10-24. Vascularization follows in the next few weeks, with subsequent migration of dendritic cells and macrophages into the thymus.",
         "whyWrongByChoice": {
-          "B": "The yolk sac phase of hematopoiesis ends at roughly 8 weeks, before prothymocytes seed the thymus.",
-          "C": "The bone marrow is only being seeded at about 12 weeks and does not become the primary hematopoietic site until 7-8 months.",
+          "A": "The bone marrow is only being seeded at about 12 weeks and does not become the primary hematopoietic site until 7-8 months.",
+          "C": "The spleen makes only a minor contribution to hematopoiesis during mid-gestation and is not the source of thymocytes.",
           "D": "The third pharyngeal pouch gives rise to the non-hemopoietic thymic stroma, not to thymocytes.",
-          "E": "The spleen makes only a minor contribution to hematopoiesis during mid-gestation and is not the source of thymocytes."
+          "E": "The yolk sac phase of hematopoiesis ends at roughly 8 weeks, before prothymocytes seed the thymus."
         }
       },
       "difficulty": "medium",
@@ -2451,34 +2451,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Regulation of dendritic cells and differentiation of regulatory T cells"
+          "text": "Formation of the fibroblast and connective tissue framework"
         },
         {
           "label": "B",
-          "text": "Positive selection of thymocytes on cortical epithelial cells"
-        },
-        {
-          "label": "C",
-          "text": "Vascularization of the thymus during early gestation"
-        },
-        {
-          "label": "D",
           "text": "Generation of hematopoietic stem cells to seed the bone marrow"
         },
         {
+          "label": "C",
+          "text": "Positive selection of thymocytes on cortical epithelial cells"
+        },
+        {
+          "label": "D",
+          "text": "Regulation of dendritic cells and differentiation of regulatory T cells"
+        },
+        {
           "label": "E",
-          "text": "Formation of the fibroblast and connective tissue framework"
+          "text": "Vascularization of the thymus during early gestation"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Hassall's corpuscles are medullary groups of TECs that appear to regulate dendritic cells and regulatory T-cell differentiation.",
         "whyCorrect": "Hassall's corpuscles are rounded groups of thymic epithelial cells unique to the thymic medulla that develop in week 16. These corpuscles appear to function in the regulation of dendritic cells and the differentiation of regulatory T cells.",
         "whyWrongByChoice": {
-          "B": "Positive selection is a function of the thymic cortex, whereas these structures are unique to the medulla.",
-          "C": "Vascularization occurs in the weeks after prothymocytes invade and is not a function of Hassall's corpuscles.",
-          "D": "The thymic stroma is not hemopoietic; HSCs are generated by the yolk sac, liver, and marrow, not by thymic epithelial structures.",
-          "E": "Fibroblasts and connective tissue cells are separate stromal components derived from the third pharyngeal pouch, not the function of Hassall's corpuscles."
+          "A": "Fibroblasts and connective tissue cells are separate stromal components derived from the third pharyngeal pouch, not the function of Hassall's corpuscles.",
+          "B": "The thymic stroma is not hemopoietic; HSCs are generated by the yolk sac, liver, and marrow, not by thymic epithelial structures.",
+          "C": "Positive selection is a function of the thymic cortex, whereas these structures are unique to the medulla.",
+          "E": "Vascularization occurs in the weeks after prothymocytes invade and is not a function of Hassall's corpuscles."
         }
       },
       "difficulty": "medium",
@@ -2497,34 +2497,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Transplacental IgG acquired before birth still provides passive protection"
-        },
-        {
-          "label": "B",
-          "text": "Secretory IgA delivered by the polymeric immunoglobulin receptor is still present"
-        },
-        {
-          "label": "C",
           "text": "Germinal centers in the intestinal Peyer's patches already generate antibody"
         },
         {
-          "label": "D",
+          "label": "B",
           "text": "Lactoferrin in the infant gut continues to sequester ferric iron from bacteria"
         },
         {
-          "label": "E",
+          "label": "C",
           "text": "Milk macrophages continue to release engulfed sIgA onto luminal bacteria"
+        },
+        {
+          "label": "D",
+          "text": "Secretory IgA delivered by the polymeric immunoglobulin receptor is still present"
+        },
+        {
+          "label": "E",
+          "text": "Transplacental IgG acquired before birth still provides passive protection"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "A formula-fed infant still has transplacental IgG and a developing mucosal immune system, so 'fed is best' rather than 'breast is best.'",
         "whyCorrect": "Many other portions of the infant's immune system can aid in defense against pathogens, such as transplacental IgG and the developing mucosal immune system. Transplacental IgG, transported by FcRn before birth, is present at adult-equivalent levels at birth and only wanes over the following months. The infant may have more mucosal infections than a breastfed child, but exposure to pathogens and sanitation affect infection rates as well, and proper caloric intake is vital for growth.",
         "whyWrongByChoice": {
-          "B": "Secretory IgA transported by pIgR is a breastmilk component and is not supplied to a formula-fed infant.",
-          "C": "Germinal centers and activated lymphocytes are found in the intestinal mucosa only after weaning; neonatal Peyer's patch lymphocytes remain naive.",
-          "D": "Lactoferrin is a breastmilk protein; it is not available to a formula-fed infant.",
-          "E": "Breastmilk macrophages carrying engulfed sIgA are delivered only through breastmilk."
+          "A": "Germinal centers and activated lymphocytes are found in the intestinal mucosa only after weaning; neonatal Peyer's patch lymphocytes remain naive.",
+          "B": "Lactoferrin is a breastmilk protein; it is not available to a formula-fed infant.",
+          "C": "Breastmilk macrophages carrying engulfed sIgA are delivered only through breastmilk.",
+          "D": "Secretory IgA transported by pIgR is a breastmilk component and is not supplied to a formula-fed infant."
         }
       },
       "difficulty": "medium",
@@ -2543,34 +2543,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Neutrophils"
-        },
-        {
-          "label": "B",
-          "text": "T lymphocytes"
-        },
-        {
-          "label": "C",
           "text": "B lymphocytes"
         },
         {
-          "label": "D",
+          "label": "B",
           "text": "Eosinophils"
         },
         {
-          "label": "E",
+          "label": "C",
           "text": "Mast cells"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophils"
+        },
+        {
+          "label": "E",
+          "text": "T lymphocytes"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Breastmilk immune cells are mostly macrophages (55-60%), followed by neutrophils (30-40%) and lymphocytes (5-10%).",
         "whyCorrect": "Breastmilk contains up to 1 million immune cells per milliliter. The majority (55-60%) are macrophages, but neutrophils (30-40%) and lymphocytes (5-10%) are also present, making neutrophils the second most abundant population.",
         "whyWrongByChoice": {
-          "B": "Lymphocytes make up only 5-10% of breastmilk immune cells; although they are predominantly T cells, they are far fewer than neutrophils.",
-          "C": "B lymphocytes are a minority of the already small lymphocyte fraction, which is predominantly T cells.",
-          "D": "Eosinophils are not described as a major cellular component of breastmilk.",
-          "E": "Mast cells are not described as a major cellular component of breastmilk."
+          "A": "B lymphocytes are a minority of the already small lymphocyte fraction, which is predominantly T cells.",
+          "B": "Eosinophils are not described as a major cellular component of breastmilk.",
+          "C": "Mast cells are not described as a major cellular component of breastmilk.",
+          "E": "Lymphocytes make up only 5-10% of breastmilk immune cells; although they are predominantly T cells, they are far fewer than neutrophils."
         }
       },
       "difficulty": "easy",
@@ -2589,34 +2589,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "TGF-beta"
-        },
-        {
-          "label": "B",
-          "text": "TNF-alpha"
-        },
-        {
-          "label": "C",
-          "text": "IL-6"
-        },
-        {
-          "label": "D",
           "text": "IL-1"
         },
         {
-          "label": "E",
+          "label": "B",
+          "text": "IL-6"
+        },
+        {
+          "label": "C",
           "text": "Perforin"
+        },
+        {
+          "label": "D",
+          "text": "TGF-beta"
+        },
+        {
+          "label": "E",
+          "text": "TNF-alpha"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Breastmilk TGF-beta and IL-10 are thought to promote infant tolerance to ingested antigens.",
         "whyCorrect": "Many cytokines can be found in breastmilk. Some, like TGF-beta and IL-10, are thought to be important for infant development of tolerance to ingested antigens. Together with mucosal antigens passed in milk (bound to IgA or trafficked by immune cells), these anti-inflammatory cytokines support the generation of tolerance.",
         "whyWrongByChoice": {
-          "B": "TNF-alpha is a pro-inflammatory cytokine, the type that aged dendritic cells and macrophages overproduce; it is not the tolerance-promoting breastmilk cytokine.",
-          "C": "IL-6 is a pro-inflammatory cytokine, not the anti-inflammatory signal associated with oral tolerance in breastmilk.",
-          "D": "IL-1 is a pro-inflammatory cytokine and is not described as promoting tolerance to ingested antigens.",
-          "E": "Perforin is a cytotoxic molecule produced by CD8+ and NK cells, not a tolerance-promoting cytokine in breastmilk."
+          "A": "IL-1 is a pro-inflammatory cytokine and is not described as promoting tolerance to ingested antigens.",
+          "B": "IL-6 is a pro-inflammatory cytokine, not the anti-inflammatory signal associated with oral tolerance in breastmilk.",
+          "C": "Perforin is a cytotoxic molecule produced by CD8+ and NK cells, not a tolerance-promoting cytokine in breastmilk.",
+          "E": "TNF-alpha is a pro-inflammatory cytokine, the type that aged dendritic cells and macrophages overproduce; it is not the tolerance-promoting breastmilk cytokine."
         }
       },
       "difficulty": "medium",
@@ -2635,7 +2635,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Lysozyme"
+          "text": "Defensins"
         },
         {
           "label": "B",
@@ -2643,7 +2643,7 @@
         },
         {
           "label": "C",
-          "text": "Defensins"
+          "text": "Lysozyme"
         },
         {
           "label": "D",
@@ -2654,13 +2654,13 @@
           "text": "Secretory IgA"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Lysozyme is the breastmilk enzyme that cleaves bacterial cell wall peptidoglycans.",
         "whyCorrect": "Lysozyme is an enzyme in human breastmilk that cleaves peptidoglycans in the cell walls of bacteria, providing direct antibacterial activity in the infant gut.",
         "whyWrongByChoice": {
+          "A": "Defensins contain lipids that disrupt viral envelopes and glycosylated proteins that inhibit bacteria and viruses; they do not enzymatically cleave peptidoglycan.",
           "B": "Lactoferrin competes for ferric iron to inhibit bacterial growth; it is not a peptidoglycan-cleaving enzyme.",
-          "C": "Defensins contain lipids that disrupt viral envelopes and glycosylated proteins that inhibit bacteria and viruses; they do not enzymatically cleave peptidoglycan.",
           "D": "Oligosaccharides are prebiotic carbohydrates that feed beneficial microbiota and block pathogen binding, not enzymes.",
           "E": "Secretory IgA coats mucosal surfaces in a non-inflammatory fashion; it has no enzymatic activity against cell walls."
         }
@@ -2681,7 +2681,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Oligosaccharides"
+          "text": "Defensins"
         },
         {
           "label": "B",
@@ -2693,22 +2693,22 @@
         },
         {
           "label": "D",
-          "text": "Defensins"
+          "text": "Macrophages"
         },
         {
           "label": "E",
-          "text": "Macrophages"
+          "text": "Oligosaccharides"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Breastmilk oligosaccharides are prebiotics that feed beneficial gut microbiota such as Bifidobacteria.",
         "whyCorrect": "Oligosaccharides in breastmilk are carbohydrates that act as prebiotics; they feed infant beneficial gut microbiota such as Bifidobacteria. They also inhibit binding of pathogenic bacteria to the gut.",
         "whyWrongByChoice": {
+          "A": "Defensins disrupt viral envelopes and inhibit bacteria and viruses; they do not nourish the microbiota.",
           "B": "Lactoferrin inhibits bacterial growth by competing for ferric iron; it does not feed beneficial bacteria.",
           "C": "Lysozyme cleaves bacterial peptidoglycan and is antibacterial rather than prebiotic.",
-          "D": "Defensins disrupt viral envelopes and inhibit bacteria and viruses; they do not nourish the microbiota.",
-          "E": "Breastmilk macrophages carry and release sIgA onto luminal bacteria; they are not a nutrient source for Bifidobacteria."
+          "D": "Breastmilk macrophages carry and release sIgA onto luminal bacteria; they are not a nutrient source for Bifidobacteria."
         }
       },
       "difficulty": "medium",
@@ -2731,11 +2731,11 @@
         },
         {
           "label": "B",
-          "text": "Lysozyme"
+          "text": "Lactoferrin"
         },
         {
           "label": "C",
-          "text": "Lactoferrin"
+          "text": "Lysozyme"
         },
         {
           "label": "D",
@@ -2751,8 +2751,8 @@
         "summary": "Breastmilk defensins are small molecules with envelope-disrupting lipids and antimicrobial glycosylated proteins.",
         "whyCorrect": "Defensins are a class of small molecules in breastmilk. This class contains lipids that disrupt viral envelopes and glycosylated proteins that inhibit bacteria and viruses, giving them activity against both types of pathogen.",
         "whyWrongByChoice": {
-          "B": "Lysozyme is a single enzyme that cleaves bacterial peptidoglycan; it has no described antiviral lipid component.",
-          "C": "Lactoferrin is a protein that competes for ferric iron to limit bacterial growth; it does not disrupt viral envelopes.",
+          "B": "Lactoferrin is a protein that competes for ferric iron to limit bacterial growth; it does not disrupt viral envelopes.",
+          "C": "Lysozyme is a single enzyme that cleaves bacterial peptidoglycan; it has no described antiviral lipid component.",
           "D": "Oligosaccharides are prebiotic carbohydrates that feed beneficial bacteria and block pathogen binding, not antiviral lipids.",
           "E": "TGF-beta is a cytokine associated with tolerance to ingested antigens, not a direct antimicrobial molecule."
         }
@@ -2773,33 +2773,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "Breastmilk exclusively until 6 months, with continued breastfeeding until 1 year"
+          "text": "Breastmilk exclusively until 1 month, with continued breastfeeding until 6 months"
         },
         {
           "label": "B",
-          "text": "Breastmilk exclusively until 3 months, with continued breastfeeding until 6 months"
-        },
-        {
-          "label": "C",
           "text": "Breastmilk exclusively until 12 months, with continued breastfeeding until 2 years"
         },
         {
+          "label": "C",
+          "text": "Breastmilk exclusively until 3 months, with continued breastfeeding until 6 months"
+        },
+        {
           "label": "D",
-          "text": "Breastmilk exclusively until 1 month, with continued breastfeeding until 6 months"
+          "text": "Breastmilk exclusively until 6 months, with continued breastfeeding until 1 year"
         },
         {
           "label": "E",
           "text": "Breastmilk exclusively until 9 months, with continued breastfeeding until 18 months"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "The AAP recommends exclusive breastmilk until 6 months and continued breastfeeding until one year of age.",
         "whyCorrect": "Research suggests breastfed infants are less likely to develop ear infections, allergies, and gastrointestinal infections. The American Academy of Pediatrics recommends breast milk as the exclusive nutrition for infants until 6 months, with continued breast feeding until one year of age.",
         "whyWrongByChoice": {
-          "B": "Three months of exclusive breastfeeding and stopping at 6 months falls short of the AAP recommendation.",
-          "C": "Exclusive breastmilk for the full first year and continued feeding to 2 years exceeds the stated recommendation.",
-          "D": "One month of exclusive breastmilk is far shorter than the 6-month recommendation.",
+          "A": "One month of exclusive breastmilk is far shorter than the 6-month recommendation.",
+          "B": "Exclusive breastmilk for the full first year and continued feeding to 2 years exceeds the stated recommendation.",
+          "C": "Three months of exclusive breastfeeding and stopping at 6 months falls short of the AAP recommendation.",
           "E": "Nine months exclusive and 18 months total do not match the recommended 6-month and 1-year milestones."
         }
       },
@@ -2819,34 +2819,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Paneth cells"
-        },
-        {
-          "label": "B",
-          "text": "Goblet cells"
-        },
-        {
-          "label": "C",
-          "text": "Enterocytes"
-        },
-        {
-          "label": "D",
           "text": "Dendritic cells"
         },
         {
-          "label": "E",
+          "label": "B",
+          "text": "Enterocytes"
+        },
+        {
+          "label": "C",
+          "text": "Goblet cells"
+        },
+        {
+          "label": "D",
           "text": "Naive T cells"
+        },
+        {
+          "label": "E",
+          "text": "Paneth cells"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Neonatal intestines lack Paneth cells, a major source of antimicrobial substances in adults.",
         "whyCorrect": "Immediately after birth, neonatal intestines lack Paneth cells, which are a major source of antimicrobial substances in the adult tissue. This absence, along with an unestablished normal flora, contributes to neonatal vulnerability to mucosal infections.",
         "whyWrongByChoice": {
-          "B": "Goblet cells are present in the neonate; they simply make little mucus compared with those in an adult.",
-          "C": "Enterocytes line the neonatal intestinal epithelium and are not absent.",
-          "D": "Dendritic cells are part of the neonatal Peyer's patch and are present at birth.",
-          "E": "T cells begin to populate the intestine immediately after birth, found in Peyer's patches, where they remain naive."
+          "A": "Dendritic cells are part of the neonatal Peyer's patch and are present at birth.",
+          "B": "Enterocytes line the neonatal intestinal epithelium and are not absent.",
+          "C": "Goblet cells are present in the neonate; they simply make little mucus compared with those in an adult.",
+          "D": "T cells begin to populate the intestine immediately after birth, found in Peyer's patches, where they remain naive."
         }
       },
       "difficulty": "hard",
@@ -2865,11 +2865,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "T and B cells are found only in Peyer's patches and remain naive"
+          "text": "Germinal centers with activated lymphocytes fill the lamina propria"
         },
         {
           "label": "B",
-          "text": "Germinal centers with activated lymphocytes fill the lamina propria"
+          "text": "Goblet cells produce mucus in amounts comparable to those of an adult"
         },
         {
           "label": "C",
@@ -2881,18 +2881,18 @@
         },
         {
           "label": "E",
-          "text": "Goblet cells produce mucus in amounts comparable to those of an adult"
+          "text": "T and B cells are found only in Peyer's patches and remain naive"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Before weaning, intestinal T and B cells are confined to Peyer's patches and stay naive; germinal centers appear only after weaning.",
         "whyCorrect": "T and B cells begin to populate the intestine immediately after birth, but they are only found in Peyer's patches and remain naive throughout the neonatal phase. Germinal centers and activated lymphocytes can only be found in the intestinal mucosa after weaning.",
         "whyWrongByChoice": {
-          "B": "Germinal centers and activated lymphocytes are found in the intestinal mucosa only after weaning, not at 10 days of life.",
+          "A": "Germinal centers and activated lymphocytes are found in the intestinal mucosa only after weaning, not at 10 days of life.",
+          "B": "Neonatal goblet cells are present but make little mucus compared with those in an adult.",
           "C": "M cells are not initially present at birth; they can be seen only after the second week after birth.",
-          "D": "Neonatal intestines lack Paneth cells, so they cannot supply antimicrobial substances at this age.",
-          "E": "Neonatal goblet cells are present but make little mucus compared with those in an adult."
+          "D": "Neonatal intestines lack Paneth cells, so they cannot supply antimicrobial substances at this age."
         }
       },
       "difficulty": "hard",
@@ -2915,19 +2915,19 @@
         },
         {
           "label": "B",
-          "text": "Transient low IgG levels"
+          "text": "Impaired class-switching"
         },
         {
           "label": "C",
-          "text": "Thymic hypoplasia"
-        },
-        {
-          "label": "D",
           "text": "Reduced CD4+/CD8+ ratio"
         },
         {
+          "label": "D",
+          "text": "Thymic hypoplasia"
+        },
+        {
           "label": "E",
-          "text": "Impaired class-switching"
+          "text": "Transient low IgG levels"
         }
       ],
       "correctAnswer": "A",
@@ -2935,10 +2935,10 @@
         "summary": "Bifidobacteria presence is associated with reduced risk of atopy, so its absence raises atopy risk.",
         "whyCorrect": "Antibiotic use, lifestyle, sanitation and hygiene, and dietary habits have shifted the microbiome in industrialized society, and in the United States roughly 25% of infants lack detectable Bifidobacteria. This genus is the cornerstone of infant microbiome establishment, and its presence is associated with a reduced risk of atopy; the early microbiome may help prevent atopy and other non-inherited disorders.",
         "whyWrongByChoice": {
-          "B": "Transient low IgG between 3 and 12 months results from waning transplacental IgG, not from the microbiome.",
-          "C": "Thymic hypoplasia is a normal age-related change in adults and is unrelated to gut Bifidobacteria.",
-          "D": "A reduced CD4+/CD8+ ratio is an age-related T-cell change of late life, not a consequence of the infant microbiome.",
-          "E": "Impaired class-switching is a feature of immunosenescence in older adults, not of an infant lacking Bifidobacteria."
+          "B": "Impaired class-switching is a feature of immunosenescence in older adults, not of an infant lacking Bifidobacteria.",
+          "C": "A reduced CD4+/CD8+ ratio is an age-related T-cell change of late life, not a consequence of the infant microbiome.",
+          "D": "Thymic hypoplasia is a normal age-related change in adults and is unrelated to gut Bifidobacteria.",
+          "E": "Transient low IgG between 3 and 12 months results from waning transplacental IgG, not from the microbiome."
         }
       },
       "difficulty": "medium",
@@ -2957,34 +2957,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Within the expected range for a newborn"
-        },
-        {
-          "label": "B",
           "text": "Above the expected range for a newborn"
         },
         {
-          "label": "C",
+          "label": "B",
           "text": "Below the expected range for a newborn"
         },
         {
+          "label": "C",
+          "text": "Within the expected range for a 2-year-old child"
+        },
+        {
           "label": "D",
-          "text": "Within the expected range for an adult"
+          "text": "Within the expected range for a newborn"
         },
         {
           "label": "E",
-          "text": "Within the expected range for a 2-year-old child"
+          "text": "Within the expected range for an adult"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Newborns normally have far more total WBCs (9,000-30,000 cells/mm^3) than adults (4,000-11,000 cells/mm^3).",
         "whyCorrect": "The total WBC count varies greatly from neonate to adolescent. Young children, particularly newborns, have many more total WBCs; the newborn range is 9,000-30,000 cells/mm^3, so 22,000 cells/mm^3 in a 12-hour-old is within expected limits.",
         "whyWrongByChoice": {
-          "B": "22,000 cells/mm^3 is below the upper newborn limit of 30,000 cells/mm^3.",
-          "C": "22,000 cells/mm^3 is well above the lower newborn limit of 9,000 cells/mm^3.",
-          "D": "The adult range is 4,000-11,000 cells/mm^3; 22,000 would be abnormal for an adult, but this patient is a newborn.",
-          "E": "Children under 2 years have a range of 6,200-17,000 cells/mm^3, so 22,000 would exceed the expected range for a 2-year-old."
+          "A": "22,000 cells/mm^3 is below the upper newborn limit of 30,000 cells/mm^3.",
+          "B": "22,000 cells/mm^3 is well above the lower newborn limit of 9,000 cells/mm^3.",
+          "C": "Children under 2 years have a range of 6,200-17,000 cells/mm^3, so 22,000 would exceed the expected range for a 2-year-old.",
+          "E": "The adult range is 4,000-11,000 cells/mm^3; 22,000 would be abnormal for an adult, but this patient is a newborn."
         }
       },
       "difficulty": "medium",
@@ -3003,34 +3003,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Expected for age, because young children have more lymphocytes than neutrophils"
-        },
-        {
-          "label": "B",
-          "text": "Abnormal, because neutrophils should be 50-70% of WBCs at every age"
-        },
-        {
-          "label": "C",
           "text": "Abnormal, because lymphocytes should fall to 20-40% by 6 months of age"
         },
         {
+          "label": "B",
+          "text": "Abnormal, because monocytes should be the predominant leukocyte in infancy"
+        },
+        {
+          "label": "C",
+          "text": "Abnormal, because neutrophils should be 50-70% of WBCs at every age"
+        },
+        {
           "label": "D",
-          "text": "Expected only during the first 24 hours of life, when lymphocytes predominate"
+          "text": "Expected for age, because young children have more lymphocytes than neutrophils"
         },
         {
           "label": "E",
-          "text": "Abnormal, because monocytes should be the predominant leukocyte in infancy"
+          "text": "Expected only during the first 24 hours of life, when lymphocytes predominate"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Young children normally have more lymphocytes than neutrophils (about 60% of WBCs), the reverse of the adult differential.",
         "whyCorrect": "WBC differentials change throughout the lifespan. Adult WBCs are predominantly neutrophils (50-70%) followed by lymphocytes (20-40%), but young children typically have more lymphocytes than neutrophils, with lymphocytes making up about 60% of WBCs. A 1-year-old with 61% lymphocytes is therefore normal.",
         "whyWrongByChoice": {
-          "B": "The neutrophil range of 50-70% applies to adults, not to young children, in whom lymphocytes predominate.",
-          "C": "Lymphocytes remain around 60% of WBCs through early childhood; the 20-40% range is the adult value.",
-          "D": "In the first 24 hours of life neutrophils actually predominate; lymphocyte predominance develops over the following weeks and persists through early childhood.",
-          "E": "Monocytes are a minor population (2-9% in adults) and never predominate at any age."
+          "A": "Lymphocytes remain around 60% of WBCs through early childhood; the 20-40% range is the adult value.",
+          "B": "Monocytes are a minor population (2-9% in adults) and never predominate at any age.",
+          "C": "The neutrophil range of 50-70% applies to adults, not to young children, in whom lymphocytes predominate.",
+          "E": "In the first 24 hours of life neutrophils actually predominate; lymphocyte predominance develops over the following weeks and persists through early childhood."
         }
       },
       "difficulty": "medium",
@@ -3049,11 +3049,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Expected adipose infiltration that begins around the time of puberty"
+          "text": "Absence of Hassall's corpuscles from the thymic medulla"
         },
         {
           "label": "B",
-          "text": "Premature immunosenescence, normally seen only after age 65"
+          "text": "Expected adipose infiltration that begins around the time of puberty"
         },
         {
           "label": "C",
@@ -3061,22 +3061,22 @@
         },
         {
           "label": "D",
-          "text": "Absence of Hassall's corpuscles from the thymic medulla"
+          "text": "Maximal thymic output, which peaks during adolescence"
         },
         {
           "label": "E",
-          "text": "Maximal thymic output, which peaks during adolescence"
+          "text": "Premature immunosenescence, normally seen only after age 65"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Around puberty, adipose infiltrates the thymus, changing its gross appearance from pink to yellow as part of age-related involution.",
         "whyCorrect": "The thymus reaches its maximal output during early postnatal life and declines thereafter in size and output through age-related involution. Around the time of puberty, adipose can be seen infiltrating the tissue; this infiltration is substantial and changes the gross appearance of the thymus so that it becomes less pink and more yellow.",
         "whyWrongByChoice": {
-          "B": "Immunosenescence refers to the immune decline of those older than 65; fatty thymic involution beginning at puberty is normal, not premature.",
+          "A": "Hassall's corpuscles are medullary structures that regulate dendritic cells and Treg differentiation; their absence is not the cause of fatty change.",
           "C": "Failure of stromal formation would prevent thymic development altogether; it does not explain fatty infiltration of a formed gland.",
-          "D": "Hassall's corpuscles are medullary structures that regulate dendritic cells and Treg differentiation; their absence is not the cause of fatty change.",
-          "E": "Thymic output is maximal in early postnatal life, not adolescence, and declines from then on."
+          "D": "Thymic output is maximal in early postnatal life, not adolescence, and declines from then on.",
+          "E": "Immunosenescence refers to the immune decline of those older than 65; fatty thymic involution beginning at puberty is normal, not premature."
         }
       },
       "difficulty": "medium",
@@ -3095,34 +3095,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Less IL-10, more TNF-alpha and IL-6"
+          "text": "Less IL-6, more IL-10 and IL-1"
         },
         {
           "label": "B",
-          "text": "More IL-10, less TNF-alpha and IL-6"
-        },
-        {
-          "label": "C",
-          "text": "More IL-10, more TNF-alpha and IL-1"
-        },
-        {
-          "label": "D",
           "text": "Less IL-10, less TNF-alpha and IL-1"
         },
         {
+          "label": "C",
+          "text": "Less IL-10, more TNF-alpha and IL-6"
+        },
+        {
+          "label": "D",
+          "text": "More IL-10, less TNF-alpha and IL-6"
+        },
+        {
           "label": "E",
-          "text": "Less IL-6, more IL-10 and IL-1"
+          "text": "More IL-10, more TNF-alpha and IL-1"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Aged dendritic cells and macrophages make less anti-inflammatory IL-10 and more pro-inflammatory TNF-alpha, IL-6, and IL-1.",
         "whyCorrect": "In late life, dendritic cells and macrophages produce less anti-inflammatory IL-10 and more pro-inflammatory cytokines (TNF-alpha, IL-6, and IL-1). This shift underlies the chronic low-grade inflammation associated with immunosenescence, which increases the risk of noncommunicable diseases such as Alzheimer's disease, cardiovascular disease, and autoimmune diseases.",
         "whyWrongByChoice": {
-          "B": "More IL-10 with fewer pro-inflammatory cytokines is the opposite of the aging pattern and would not produce chronic inflammation.",
-          "C": "IL-10 production decreases, not increases, with age.",
-          "D": "Pro-inflammatory TNF-alpha and IL-1 increase with age; they do not decrease alongside IL-10.",
-          "E": "IL-6 increases and IL-10 decreases with age, the reverse of this pattern."
+          "A": "IL-6 increases and IL-10 decreases with age, the reverse of this pattern.",
+          "B": "Pro-inflammatory TNF-alpha and IL-1 increase with age; they do not decrease alongside IL-10.",
+          "D": "More IL-10 with fewer pro-inflammatory cytokines is the opposite of the aging pattern and would not produce chronic inflammation.",
+          "E": "IL-10 production decreases, not increases, with age."
         }
       },
       "difficulty": "medium",
@@ -3149,11 +3149,11 @@
         },
         {
           "label": "C",
-          "text": "Increased trafficking to tissues and normal phagocytosis"
+          "text": "Increased peroxide production and decreased trafficking to tissues"
         },
         {
           "label": "D",
-          "text": "Increased peroxide production and decreased trafficking to tissues"
+          "text": "Increased trafficking to tissues and normal phagocytosis"
         },
         {
           "label": "E",
@@ -3166,8 +3166,8 @@
         "whyCorrect": "Among the late-life changes that reduce the ability to fight infection, neutrophils show declines in the formation of neutrophil extracellular traps, peroxide production, phagocytosis, and trafficking. A normal neutrophil count can therefore coexist with impaired neutrophil function in an older adult.",
         "whyWrongByChoice": {
           "B": "Extracellular trap formation declines rather than increases with age.",
-          "C": "Trafficking declines with age, and phagocytosis is reduced rather than normal.",
-          "D": "Peroxide production declines with age; it does not increase.",
+          "C": "Peroxide production declines with age; it does not increase.",
+          "D": "Trafficking declines with age, and phagocytosis is reduced rather than normal.",
           "E": "Both extracellular trap formation and phagocytosis decline in aged neutrophils."
         }
       },
@@ -3187,34 +3187,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Decreased capacity to produce lymphoid progenitors, with a bias toward myeloid progenitors"
+          "text": "Complete loss of HSCs, with leukocytes supplied only by fetal-derived tissue-resident pools"
         },
         {
           "label": "B",
-          "text": "Decreased capacity to produce myeloid progenitors, with a bias toward lymphoid progenitors"
+          "text": "Decreased capacity to produce lymphoid progenitors, with a bias toward myeloid progenitors"
         },
         {
           "label": "C",
-          "text": "Increased capacity to produce both lymphoid and myeloid progenitors"
+          "text": "Decreased capacity to produce myeloid progenitors, with a bias toward lymphoid progenitors"
         },
         {
           "label": "D",
-          "text": "Replacement of marrow HSCs by self-renewing yolk-sac-derived progenitors"
+          "text": "Increased capacity to produce both lymphoid and myeloid progenitors"
         },
         {
           "label": "E",
-          "text": "Complete loss of HSCs, with leukocytes supplied only by fetal-derived tissue-resident pools"
+          "text": "Replacement of marrow HSCs by self-renewing yolk-sac-derived progenitors"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Aged HSCs lose lymphoid potential and become biased toward myeloid progenitors.",
         "whyCorrect": "In late life, HSCs have a decreased capacity to produce lymphoid progenitors and are biased toward myeloid progenitors. This contributes to the decline in naive B-cell production and the absolute B-cell count seen with immunosenescence.",
         "whyWrongByChoice": {
-          "B": "The aging bias runs toward myeloid, not lymphoid, progenitors.",
-          "C": "Aged HSCs do not gain capacity; lymphoid output specifically declines.",
-          "D": "Yolk-sac-derived progenitors seed certain tissue-resident populations during fetal life; they do not replace adult marrow HSCs.",
-          "E": "The bone marrow produces leukocytes throughout the rest of a person's life; HSCs are not lost entirely, and neutrophils in particular require continuous marrow output."
+          "A": "The bone marrow produces leukocytes throughout the rest of a person's life; HSCs are not lost entirely, and neutrophils in particular require continuous marrow output.",
+          "C": "The aging bias runs toward myeloid, not lymphoid, progenitors.",
+          "D": "Aged HSCs do not gain capacity; lymphoid output specifically declines.",
+          "E": "Yolk-sac-derived progenitors seed certain tissue-resident populations during fetal life; they do not replace adult marrow HSCs."
         }
       },
       "difficulty": "hard",
@@ -3233,11 +3233,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Decreased general antibody affinity with increased autoantibody levels"
+          "text": "Decreased general antibody affinity with decreased autoantibody levels"
         },
         {
           "label": "B",
-          "text": "Increased general antibody affinity with increased autoantibody levels"
+          "text": "Decreased general antibody affinity with increased autoantibody levels"
         },
         {
           "label": "C",
@@ -3245,21 +3245,21 @@
         },
         {
           "label": "D",
-          "text": "Decreased general antibody affinity with decreased autoantibody levels"
+          "text": "Increased general antibody affinity with increased autoantibody levels"
         },
         {
           "label": "E",
           "text": "Unchanged general antibody affinity with decreased autoantibody levels"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "With aging, general antibody affinity declines while autoantibody levels rise.",
         "whyCorrect": "Among the B-cell changes of late life, general antibody affinity declines, but levels of autoantibodies increase. This accompanies a decline in the absolute B-cell count, reduced naive B-cell production, and impaired class-switching, and it fits with the increased risk of autoimmune disease associated with immunosenescence.",
         "whyWrongByChoice": {
-          "B": "Antibody affinity declines rather than increases with age.",
+          "A": "Autoantibody levels increase with age rather than decrease.",
           "C": "Both directions are wrong: affinity falls and autoantibodies rise in late life.",
-          "D": "Autoantibody levels increase with age rather than decrease.",
+          "D": "Antibody affinity declines rather than increases with age.",
           "E": "Affinity is not unchanged; it declines, and autoantibodies increase rather than decrease."
         }
       },
