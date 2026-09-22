@@ -325,7 +325,7 @@
     },
     {
       "id": "im01-008",
-      "stem": "Innate immune cells detect conserved microbial structures such as peptidoglycan, but they cannot tell one bacterial species from another. The receptors responsible for this broad, non-specific recognition are best described as which of the following?",
+      "stem": "Innate immune cells detect conserved microbial structures such as peptidoglycan, but they cannot tell one bacterial species from another. The receptors responsible for this broad, non-specific detection are best described as which of the following?",
       "choices": [
         {
           "label": "A",
@@ -601,7 +601,7 @@
     },
     {
       "id": "im01-014",
-      "stem": "A pathologist examining a lung specimen notes organized collections of secondary lymphoid tissue within the mucosa of the bronchi. Which of the following is the most specific name for this tissue?",
+      "stem": "A pathologist examining a lung specimen notes organized collections of secondary lymphoid tissue within the mucosa of a large airway. Which of the following is the most specific name for this tissue?",
       "choices": [
         {
           "label": "A",
@@ -877,7 +877,7 @@
     },
     {
       "id": "im01-020",
-      "stem": "A 25-year-old woman with seasonal allergic rhinitis has a peripheral blood smear showing increased numbers of a circulating granulocyte whose basophilic granules release histamine and heparin on cell activation. Which cell is it?",
+      "stem": "A 25-year-old woman with seasonal allergic rhinitis has a peripheral blood smear showing increased numbers of a circulating granulocyte whose dark blue-purple granules release histamine and heparin on cell activation. Which cell is it?",
       "choices": [
         {
           "label": "A",
@@ -2222,7 +2222,7 @@
     },
     {
       "id": "im02-013",
-      "stem": "A 62-year-old man has an acute myocardial infarction. Within hours, neutrophils and macrophages accumulate in the necrotic myocardium even though no microorganisms are present. Pattern recognition receptors on local cells have been activated by molecules released from the dying cardiomyocytes. Which of the following best characterizes the molecules that triggered this response?",
+      "stem": "A 62-year-old man has an acute myocardial infarction. Within hours, neutrophils and macrophages accumulate in the infarcted myocardium even though no microorganisms are present. Pattern recognition receptors on local cells have been activated by molecules released from the dying cardiomyocytes. Which of the following best characterizes the molecules that triggered this response?",
       "choices": [
         {
           "label": "A",
@@ -2410,7 +2410,7 @@
     },
     {
       "id": "im02-017",
-      "stem": "A research group generates macrophages that lack all interferon regulatory factors (IRFs) but retain intact NF-κB signaling. The cells are stimulated with lipopolysaccharide through TLR4. Compared with normal macrophages, which of the following responses is most likely to be selectively lost in the mutant cells?",
+      "stem": "A research group generates macrophages that lack every member of the IRF transcription factor family, including IRF3 and IRF7, but retain intact NF-κB signaling. The cells are stimulated with lipopolysaccharide through TLR4. Compared with normal macrophages, which of the following responses is most likely to be selectively lost in the mutant cells?",
       "choices": [
         {
           "label": "A",
@@ -3219,25 +3219,25 @@
         },
         {
           "label": "C",
-          "text": "Stress ligands engage NK activating receptors and override MHC class I inhibition"
+          "text": "Stress ligands are presented as peptides to the antigen receptor of the NK cell"
         },
         {
           "label": "D",
-          "text": "Tumor peptides are presented to the antigen receptor of the NK cell"
+          "text": "Stress ligands engage NK activating receptors and override MHC class I inhibition"
         },
         {
           "label": "E",
           "text": "Tumor-secreted IL-12 provides a stimulatory cytokine signal to the NK cell"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "An increased activating ligand signal is one of the three factors that promote NK-cell activation, alongside stimulatory cytokines and decreased MHC class I.",
         "whyCorrect": "The brick's NK-activation figure lists three factors that promote NK-cell activation: stimulatory cytokines, a decreased MHC class I signal, and an increased activating ligand signal. It shows a stimulatory ligand on the target engaging an activating receptor on the NK cell, and summarizes that NK cells recognize cells that lack MHC or express stress ligands. Here MHC class I is normal, so the stress ligand-activating receptor signal is what triggers lytic granule release.",
         "whyWrongByChoice": {
           "A": "No antibody is present in this co-culture, so CD16-mediated ADCC cannot explain the killing.",
           "B": "MHC class I expression is normal on these tumor cells, so the missing-self mechanism does not apply.",
-          "D": "NK cells are lymphocytes that do not express antigen receptors, so they cannot recognize presented peptides.",
+          "C": "NK cells are lymphocytes that do not express antigen receptors, so they cannot recognize presented peptides.",
           "E": "IL-12 is secreted by activated macrophages, not tumor cells, and no macrophages are present."
         }
       },
@@ -3762,7 +3762,7 @@
     },
     {
       "id": "im03-010",
-      "stem": "Five days after a laceration, the macrophages in the healing wound have shifted to an anti-inflammatory phenotype induced by TGF-beta and IL-4. They now secrete IL-10 and TGF-beta and stop the M1 program. What is the primary role of these macrophages at this stage?",
+      "stem": "Five days after a laceration, the macrophages at the injury site have shifted to an anti-inflammatory phenotype induced by TGF-beta and IL-4. They now secrete IL-10 and TGF-beta and stop the M1 program. What is the primary role of these macrophages at this stage?",
       "choices": [
         {
           "label": "A",
@@ -6219,7 +6219,7 @@
     },
     {
       "id": "im04-027",
-      "stem": "Although it was discovered after the classical pathway and named as an alternative to it, one of the three complement activation pathways is responsible for producing most of the C3b and 80-90% of the membrane attack complexes generated during an immune response. Which pathway is this?",
+      "stem": "Although it was discovered after the classical pathway, one of the three complement activation pathways is responsible for producing most of the C3b and 80-90% of the membrane attack complexes generated during an immune response. Which pathway is this?",
       "choices": [
         {
           "label": "A",
@@ -7247,11 +7247,11 @@
         },
         {
           "label": "B",
-          "text": "Inherited in an X-linked rather than an autosomal pattern"
+          "text": "Congenital rather than acquired later in life"
         },
         {
           "label": "C",
-          "text": "Present from birth rather than developing later in life"
+          "text": "Inherited in an X-linked rather than an autosomal pattern"
         },
         {
           "label": "D",
@@ -7262,13 +7262,13 @@
           "text": "Uniformly fatal rather than variable in severity"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Inborn errors of immunity (primary immunodeficiencies) are present at birth, whereas acquired (secondary) immunodeficiencies develop at some point after birth.",
         "whyCorrect": "IEIs are inherited immunodeficiencies present at birth. They differ from acquired, or secondary, immunodeficiencies specifically in timing: acquired immunodeficiencies develop after birth (for example, following chemotherapy), whereas an IEI is a defect the child is born with.",
         "whyWrongByChoice": {
           "A": "IEIs are caused by genetic mutations, not by pathogens; it is secondary immunodeficiencies that may follow external insults.",
-          "B": "Inheritance patterns vary among IEIs: LAD-I and CHS are autosomal recessive, while CGD is typically X-linked.",
+          "C": "Inheritance patterns vary among IEIs: LAD-I and CHS are autosomal recessive, while CGD is typically X-linked.",
           "D": "IEIs can affect either the innate or the adaptive immune system; this brick focuses on innate IEIs, but the category is not limited to them.",
           "E": "IEIs vary greatly in severity and presentation depending on the mutation; they are not uniformly fatal."
         }
@@ -8121,11 +8121,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Cells fluoresce because rhodamine is produced"
+          "text": "Cells fail to turn blue because superoxide is not generated"
         },
         {
           "label": "B",
-          "text": "Cells remain colorless because superoxide is not generated"
+          "text": "Cells fluoresce because rhodamine is produced"
         },
         {
           "label": "C",
@@ -8140,12 +8140,12 @@
           "text": "Cells turn deep blue because hydrogen peroxide accumulates"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "In the nitroblue tetrazolium (NBT) test, CGD neutrophils fail to turn the colorless compound blue because they lack NADPH oxidase.",
         "whyCorrect": "The older test for NADPH oxidase function measures the oxidation of a colorless compound, nitroblue tetrazolium (NBT), to a blue compound and quantifies the amount of blue dye produced. Because CGD phagocytes lack functional NADPH oxidase and cannot begin the oxidative burst, the compound stays colorless.",
         "whyWrongByChoice": {
-          "A": "Fluorescent rhodamine is the readout of the dihydrorhodamine (DHR) flow cytometry test, not the NBT test, and CGD cells produce little to none.",
+          "B": "Fluorescent rhodamine is the readout of the dihydrorhodamine (DHR) flow cytometry test, not the NBT test, and CGD cells produce little to none.",
           "C": "Although myeloperoxidase is intact in CGD, the NBT test depends on NADPH oxidase activity, which is absent.",
           "D": "Bacterial catalase destroys hydrogen peroxide and protects microbes; it would not restore color change in the assay.",
           "E": "Without NADPH oxidase, no superoxide is made, so hydrogen peroxide is not produced by the neutrophil and no blue product forms."
@@ -8321,7 +8321,7 @@
         },
         {
           "label": "E",
-          "text": "Surgical removal of the granuloma"
+          "text": "Surgical removal of the obstructing lesion"
         }
       ],
       "correctAnswer": "E",

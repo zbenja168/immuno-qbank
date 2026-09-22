@@ -662,7 +662,7 @@
     },
     {
       "id": "im11-015",
-      "stem": "A double-positive (CD4+/CD8+) thymocyte in the thymic cortex binds a self-peptide presented on MHC by a thymic epithelial cell with weak affinity. Which of the following is the most likely immediate result of this interaction?",
+      "stem": "A thymocyte in the thymic cortex that expresses both CD4 and CD8 binds a self-peptide presented on MHC by a thymic epithelial cell with weak affinity. Which of the following is the most likely immediate result of this interaction?",
       "choices": [
         {
           "label": "A",
@@ -901,7 +901,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Apoptosis within the bone marrow"
+          "text": "Clonal deletion by apoptosis"
         },
         {
           "label": "B",
@@ -1577,7 +1577,7 @@
         },
         {
           "label": "E",
-          "text": "Tolerogenic dendritic cells convert even effector T cells into induced Tregs"
+          "text": "Tolerogenic dendritic cells convert even already-primed T cells into induced Tregs"
         }
       ],
       "correctAnswer": "E",
@@ -1990,7 +1990,7 @@
         },
         {
           "label": "D",
-          "text": "Type III, immune-complex mediated"
+          "text": "Type III"
         },
         {
           "label": "E",
@@ -2112,7 +2112,7 @@
     },
     {
       "id": "im21-010",
-      "stem": "A patient with an established autoimmune disease initially had antibodies to a single self-protein, but over years develops reactivity to several additional self-antigens as tissue damage releases previously hidden epitopes. Which phenomenon best describes this expansion?",
+      "stem": "A patient with an established autoimmune disease initially had antibodies to a single self-protein, but over years develops reactivity to several additional self-antigens as tissue damage releases previously hidden self-proteins. Which phenomenon best describes this expansion?",
       "choices": [
         {
           "label": "A",
@@ -2847,7 +2847,7 @@
     },
     {
       "id": "im21-026",
-      "stem": "A 29-year-old woman with two episodes of transient visual loss and limb weakness separated by several months is diagnosed with multiple sclerosis. Which of the following genetic variants is associated with her disease?",
+      "stem": "A 29-year-old woman with two episodes of transient visual loss and limb weakness separated by several months is diagnosed with multiple sclerosis. Which of the following genetic findings is associated with her disease?",
       "choices": [
         {
           "label": "A",

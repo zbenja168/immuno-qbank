@@ -4,7 +4,7 @@
   "questions": [
     {
       "id": "im22-001",
-      "stem": "A 55-year-old man is diagnosed with colon adenocarcinoma. Researchers analyzing his tumor find that the malignant cells express an enzyme that is essentially absent from his normal somatic cells, maintains the ends of chromosomes, and prevents the replicative senescence that normally limits cell division. This enzyme is expressed in the vast majority of human cancers. Which of the following best classifies this tumor antigen?",
+      "stem": "A 55-year-old man is diagnosed with colon adenocarcinoma. Researchers analyzing his tumor find that the malignant cells produce an enzyme that is essentially absent from his normal somatic cells, maintains the ends of chromosomes, and prevents the replicative senescence that normally limits cell division. This enzyme is found in the vast majority of human cancers. Which of the following best classifies this tumor antigen?",
       "choices": [
         {
           "label": "A",
@@ -141,7 +141,7 @@
     },
     {
       "id": "im22-004",
-      "stem": "A pathologist examining a solid tumor notes that immune cells are largely excluded from the tumor mass by a dense barrier of secreted extracellular matrix. The few lymphocytes that do infiltrate are found to be functionally inactivated by a ligand the tumor has upregulated on its surface. Which tumor evasion strategy is illustrated?",
+      "stem": "A pathologist examining a solid tumor notes that immune cells are largely excluded from the tumor mass by a dense sheath of secreted collagen and other stromal proteins. The few lymphocytes that do infiltrate are found to be functionally inactivated by an inhibitory ligand displayed on the tumor surface. Which tumor evasion strategy is illustrated?",
       "choices": [
         {
           "label": "A",
@@ -479,7 +479,7 @@
         },
         {
           "label": "D",
-          "text": "Hyperacute rejection from preformed recipient antibodies"
+          "text": "Hyperacute rejection from preformed recipient antibodies against donor antigens"
         },
         {
           "label": "E",
@@ -1177,7 +1177,7 @@
         },
         {
           "label": "E",
-          "text": "The liver is an organ rich in donor immune cells"
+          "text": "The liver is rich in immune cells that travel with the graft"
         }
       ],
       "correctAnswer": "E",
@@ -1619,7 +1619,7 @@
     },
     {
       "id": "im22-036",
-      "stem": "A hepatocellular carcinoma re-expresses a protein that is normally produced only during fetal life and is essentially absent from adult tissues. Although the protein is unmutated, cytotoxic T lymphocytes are found to recognize and kill the tumor cells presenting it. Which of the following best explains why CTLs can respond to this self-protein?",
+      "stem": "A hepatocellular carcinoma re-expresses a protein that is normally produced only during fetal life and is essentially absent from adult tissues. Although the protein is unmutated, cytotoxic T lymphocytes are found to attack and kill the tumor cells presenting it. Which of the following best explains why CTLs can respond to this self-protein?",
       "choices": [
         {
           "label": "A",
@@ -3053,7 +3053,7 @@
         },
         {
           "label": "B",
-          "text": "Expected adipose infiltration that begins around the time of puberty"
+          "text": "Expected fatty involution that begins around the time of puberty"
         },
         {
           "label": "C",

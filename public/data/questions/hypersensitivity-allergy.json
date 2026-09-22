@@ -50,7 +50,7 @@
     },
     {
       "id": "im12-002",
-      "stem": "A 30-year-old woman presents with fatigue, joint pain, and a malar (facial) rash. Laboratory studies reveal antibodies directed against nuclear antigens and DNA, and she is diagnosed with systemic lupus erythematosus. A kidney biopsy shows glomerular deposits of antigen-antibody complexes. This disorder is best classified as which type of hypersensitivity reaction?",
+      "stem": "A 30-year-old woman presents with fatigue, joint pain, and a malar (facial) rash. Laboratory studies reveal antibodies directed against nuclear antigens and DNA, and she is diagnosed with systemic lupus erythematosus. A kidney biopsy shows granular glomerular deposits of IgG and complement. This disorder is best classified as which type of hypersensitivity reaction?",
       "choices": [
         {
           "label": "A",
@@ -1062,7 +1062,7 @@
     },
     {
       "id": "im12-024",
-      "stem": "A 24-year-old man presents with hemoptysis and hematuria. Studies show antibodies bound directly to an extracellular matrix protein in the basement membranes of his glomeruli and alveoli, with complement and activated phagocytes at these sites but little death of the underlying cells. He is diagnosed with Goodpasture's syndrome. Which of the following best classifies the mechanism of his tissue injury?",
+      "stem": "A 24-year-old man presents with hemoptysis and hematuria. Studies show antibodies bound directly to an extracellular matrix protein in the basement membranes of his glomeruli and alveoli, with complement and activated phagocytes at these sites but little direct lysis of the underlying cells. He is diagnosed with Goodpasture's syndrome. Which of the following best classifies the mechanism of his tissue injury?",
       "choices": [
         {
           "label": "A",
@@ -1384,7 +1384,7 @@
     },
     {
       "id": "im12-031",
-      "stem": "A 40-year-old man who has received several prior doses of a vaccine is given another intradermal booster. Six hours later the injection site is markedly swollen and edematous, and a biopsy shows neutrophils, complement deposition, and fibroid necrosis within small vessels. Which of the following best describes the underlying process?",
+      "stem": "A 40-year-old man who has received several prior doses of a vaccine is given another intradermal booster. Six hours later the injection site is markedly swollen and edematous, and a biopsy shows neutrophils, complement bound within small vessels, and fibroid necrosis. Which of the following best describes the underlying process?",
       "choices": [
         {
           "label": "A",

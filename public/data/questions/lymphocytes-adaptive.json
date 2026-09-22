@@ -335,7 +335,7 @@
         },
         {
           "label": "B",
-          "text": "CD40-CD40L interaction"
+          "text": "CD40-CD40L binding"
         },
         {
           "label": "C",
@@ -512,7 +512,7 @@
     },
     {
       "id": "im08-012",
-      "stem": "In a germinal center, a B cell rapidly divides and acquires point mutations in the complementarity-determining regions of its BCR within the dark zone, then migrates to the light zone where it must compete for antigen displayed on follicular dendritic cells; only the highest-affinity clones receive survival signals and persist. This coupled cycle of mutation and selection accomplishes which overall outcome?",
+      "stem": "In a germinal center, a B cell rapidly divides and acquires point mutations in the complementarity-determining regions of its BCR within the dark zone, then migrates to the light zone where it must compete for antigen displayed on follicular dendritic cells; only the clones that bind antigen most strongly receive survival signals and persist. This coupled cycle of mutation and selection accomplishes which overall outcome?",
       "choices": [
         {
           "label": "A",
@@ -1408,7 +1408,7 @@
         },
         {
           "label": "B",
-          "text": "Competition for survival signals within limited niches such as the bone marrow"
+          "text": "Competition for a restricted number of bone marrow niches that sustain them"
         },
         {
           "label": "C",
@@ -2356,7 +2356,7 @@
         },
         {
           "label": "E",
-          "text": "Most effector T cells die off once the infection is cleared"
+          "text": "Most effector T cells die by apoptosis during the contraction phase"
         }
       ],
       "correctAnswer": "E",
@@ -2382,7 +2382,7 @@
     },
     {
       "id": "im09-016",
-      "stem": "During thymic development, V(D)J recombination yields millions of possible T-cell receptors even though the genome contains a limited number of receptor gene segments. Which of the following pairs of mechanisms accounts for this diversity?",
+      "stem": "During thymic development, V(D)J recombination yields millions of possible T-cell receptors even though the genome contains a limited number of receptor gene segments. Which of the following pairs of mechanisms accounts for the number of distinct receptors produced?",
       "choices": [
         {
           "label": "A",
@@ -2617,7 +2617,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Her own bone marrow progenitors are intact and can mature within the transplanted thymus"
+          "text": "Her own hematopoietic progenitors are intact and can mature within the donor thymus"
         },
         {
           "label": "B",
@@ -3129,7 +3129,7 @@
     },
     {
       "id": "im09-032",
-      "stem": "An effector T cell leaves the blood and enters an infected tissue by diapedesis, using L-selectin, integrins, and cell adhesion molecules. Which of the following events causes the antigen-specific effector cell to be retained at the site of infection rather than continuing to migrate?",
+      "stem": "An effector T cell leaves the blood and enters an infected tissue by diapedesis, using selectins, chemokines, and cell adhesion molecules. Which of the following events causes the effector cell to be retained at the site of infection rather than continuing to migrate?",
       "choices": [
         {
           "label": "A",
@@ -3363,7 +3363,7 @@
     },
     {
       "id": "im10-001",
-      "stem": "A 34-year-old man with chronic viral hepatitis undergoes a liver biopsy that shows scattered apoptotic hepatocytes surrounded by CD8+ T lymphocytes, with little surrounding inflammation. One killing mechanism used by these lymphocytes relies on a membrane ligand that engages a death receptor on the target cell, triggering caspase activation. Which of the following molecules mediates this mechanism?",
+      "stem": "A 34-year-old man with chronic viral hepatitis undergoes a liver biopsy that shows scattered apoptotic hepatocytes surrounded by CD8+ T lymphocytes, with little surrounding inflammation. One killing mechanism used by these lymphocytes relies on a membrane-bound protein that engages a death receptor on the target cell, triggering caspase activation. Which of the following molecules mediates this mechanism?",
       "choices": [
         {
           "label": "A",
@@ -3413,7 +3413,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It binds Fas to initiate death-receptor signaling"
+          "text": "It binds Fas on the target cell membrane to initiate death-receptor signaling"
         },
         {
           "label": "B",

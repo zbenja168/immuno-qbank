@@ -1342,7 +1342,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Concanavalin A (ConA)"
+          "text": "Concanavalin A (ConA), a plant mitogen"
         },
         {
           "label": "B",
@@ -1350,7 +1350,7 @@
         },
         {
           "label": "C",
-          "text": "Phytohemagglutinin (PHA)"
+          "text": "Phytohemagglutinin (PHA), a plant mitogen"
         },
         {
           "label": "D",
@@ -2212,7 +2212,7 @@
     },
     {
       "id": "im18-013",
-      "stem": "A 22-year-old man sustains a spinal cord injury in a motor vehicle collision. In the acute setting, his physician prescribes an immunosuppressant to manage inflammation at the injury site. Which of the following general categories of indication for immunosuppressive therapy does this scenario represent?",
+      "stem": "A 22-year-old man sustains a spinal cord injury in a motor vehicle collision. Within hours of the injury, his physician prescribes an immunosuppressant to manage inflammation at the injury site. Which of the following general categories of indication for immunosuppressive therapy does this scenario represent?",
       "choices": [
         {
           "label": "A",
@@ -4627,7 +4627,7 @@
     },
     {
       "id": "im19-029",
-      "stem": "A pharmaceutical scientist explains that receptor fusion proteins such as etanercept remain in the circulation far longer than the unfused receptor would. Which of the following best explains this prolonged persistence?",
+      "stem": "A pharmaceutical scientist explains that receptor fusion proteins such as etanercept remain in the circulation far longer than the unfused receptor would. Which of the following best explains this persistence?",
       "choices": [
         {
           "label": "A",
@@ -5000,7 +5000,7 @@
     },
     {
       "id": "im20-001",
-      "stem": "A 20-year-old woman is bitten by a bat while camping, raising concern for rabies exposure. To provide protection that begins working immediately, before her own immune system has time to respond, her physician administers preformed antibodies against the pathogen. Which of the following best describes this intervention?",
+      "stem": "A 20-year-old woman is bitten by a bat while camping, raising concern for rabies exposure. To provide defense that begins working immediately, before her own immune system has time to respond, her physician administers preformed antibodies against the pathogen. Which of the following best describes this intervention?",
       "choices": [
         {
           "label": "A",
@@ -5136,7 +5136,7 @@
     },
     {
       "id": "im20-004",
-      "stem": "A child receives a booster dose of a vaccine several months after the initial series. Compared with the response to the first dose, the antibodies produced after the booster are both more abundant and bind the antigen with higher affinity. This improvement is primarily due to which of the following processes occurring in B cells?",
+      "stem": "A child receives a booster dose of a vaccine several months after the initial series. Compared with the response to the first dose, the antibodies produced after the booster are both more abundant and bind the antigen more tightly. This improvement is primarily due to which of the following processes occurring in B cells?",
       "choices": [
         {
           "label": "A",
@@ -5552,7 +5552,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It binds a single antigen rather than many antigens"
+          "text": "It binds one antigen rather than many antigens"
         },
         {
           "label": "B",
@@ -6326,7 +6326,7 @@
     },
     {
       "id": "im20-030",
-      "stem": "Conjugate vaccines used in the United States link the bacterial polysaccharide to either tetanus or diphtheria toxoid. In an infant who has already received the first doses of DTaP, which of the following is the immunologic advantage of choosing these particular carrier proteins?",
+      "stem": "Conjugate vaccines used in the United States link the bacterial polysaccharide to either tetanus or diphtheria toxoid. In an infant who has previously received the first doses of DTaP, which of the following is the immunologic advantage of choosing these particular carrier proteins?",
       "choices": [
         {
           "label": "A",
@@ -6527,7 +6527,7 @@
         },
         {
           "label": "D",
-          "text": "Do not give this vaccine again; prior anaphylaxis to a component contraindicates it"
+          "text": "Do not give this vaccine again; a prior severe allergic reaction to a component contraindicates it"
         },
         {
           "label": "E",

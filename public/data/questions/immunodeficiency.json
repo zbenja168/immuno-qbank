@@ -656,29 +656,29 @@
         },
         {
           "label": "B",
-          "text": "Caloric intake is spent by immune cells fighting ongoing infections"
-        },
-        {
-          "label": "C",
           "text": "Hypocalcemia from hypoparathyroidism impairs skeletal bone growth"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "Immunoglobulin replacement therapy suppresses appetite and feeding"
+        },
+        {
+          "label": "D",
+          "text": "Persistent immune activation consumes energy that would otherwise support growth"
         },
         {
           "label": "E",
           "text": "Toxic purine metabolites accumulate in the growth plates"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Failure to thrive is a hallmark of severe IEIs because an inefficient immune system is metabolically expensive.",
         "whyCorrect": "One hallmark of a severe IEI is failure to thrive, in which an infant has poor weight gain. The immune cells that are still functioning use much of the caloric intake to fight infections, including longer-term infections, so that energy is not available for growth.",
         "whyWrongByChoice": {
           "A": "Thymic absence impairs T cell development in DiGeorge syndrome; growth failure in IEIs is attributed to caloric diversion to infection, not to hormone deficiency.",
-          "C": "Hypocalcemia from hypoparathyroidism is a feature of DiGeorge syndrome and CMCC, not the general mechanism of failure to thrive across severe IEIs.",
-          "D": "Immunoglobulin replacement is a treatment for antibody deficiency; the brick does not describe it as a cause of poor growth.",
+          "B": "Hypocalcemia from hypoparathyroidism is a feature of DiGeorge syndrome and CMCC, not the general mechanism of failure to thrive across severe IEIs.",
+          "C": "Immunoglobulin replacement is a treatment for antibody deficiency; the brick does not describe it as a cause of poor growth.",
           "E": "Toxic metabolite accumulation is specific to ADA deficiency and damages lymphocytes; it is not the general explanation for failure to thrive in IEIs."
         }
       },
@@ -877,7 +877,7 @@
     },
     {
       "id": "im14-020",
-      "stem": "Genetic testing confirms a BTK mutation in a 9-month-old boy with absent peripheral B cells and low levels of all immunoglobulin classes. Which of the following is the mainstay of long-term management for this patient?",
+      "stem": "Genetic testing confirms a BTK mutation in a 9-month-old boy with absent peripheral B cells and low serum IgG, IgA, and IgM. Which of the following is the mainstay of long-term management for this patient?",
       "choices": [
         {
           "label": "A",
@@ -1338,7 +1338,7 @@
     },
     {
       "id": "im14-030",
-      "stem": "A state newborn screening program uses the T cell receptor excision circle (TREC) assay to identify infants with severe combined immunodeficiency. This assay detects which of the following?",
+      "stem": "A state newborn screening program uses the TREC assay to identify infants with severe combined immunodeficiency. This assay detects which of the following?",
       "choices": [
         {
           "label": "A",
@@ -1660,7 +1660,7 @@
     },
     {
       "id": "im15-001",
-      "stem": "A 13-month-old boy is brought in with his fourth episode of bacterial pneumonia and several weeks of watery diarrhea. A maternal uncle died of infection in infancy. Laboratory studies show elevated serum IgM with very low IgG, IgA, and IgE, and an absolute neutropenia. Flow cytometry shows that his activated T cells lack a key surface costimulatory ligand. Which of the following molecules is most likely defective?",
+      "stem": "A 13-month-old boy is brought in with his fourth episode of bacterial pneumonia and several weeks of watery diarrhea. A maternal uncle died of infection in infancy. Laboratory studies show elevated serum IgM with very low IgG, IgA, and IgE, and an absolute neutropenia. Flow cytometry shows that his activated T cells fail to express a key costimulatory surface molecule. Which of the following molecules is most likely defective?",
       "choices": [
         {
           "label": "A",
@@ -2786,7 +2786,7 @@
         },
         {
           "label": "E",
-          "text": "IgG may be normal now because of transplacental maternal IgG that will wane"
+          "text": "IgG may be normal now because of transplacental IgG from his mother that will wane"
         }
       ],
       "correctAnswer": "E",
@@ -3363,7 +3363,7 @@
     },
     {
       "id": "im16-002",
-      "stem": "A 47-year-old man has had three episodes of pneumonia over two years, each localized to the right middle lobe. His immunoglobulin levels, lymphocyte subsets, and complement studies are all normal. Which of the following is the most likely explanation for his recurrent infections?",
+      "stem": "A 47-year-old man has had three episodes of pneumonia over two years, each confined to the right middle lobe. His immunoglobulin levels, lymphocyte subsets, and complement studies are all normal. Which of the following is the most likely explanation for his recurrent infections?",
       "choices": [
         {
           "label": "A",
@@ -3546,7 +3546,7 @@
     },
     {
       "id": "im16-006",
-      "stem": "A 10-month-old boy has had recurrent bacterial sinopulmonary infections. Workup reveals absent B cells and markedly low serum immunoglobulins, and X-linked agammaglobulinemia is diagnosed. Which of the following is the most appropriate long-term treatment?",
+      "stem": "A 10-month-old boy has had recurrent bacterial sinopulmonary infections. Workup reveals absent B cells and markedly low serum antibody levels, and X-linked agammaglobulinemia is diagnosed. Which of the following is the most appropriate long-term treatment?",
       "choices": [
         {
           "label": "A",
@@ -4373,7 +4373,7 @@
     },
     {
       "id": "im16-024",
-      "stem": "A 3-year-old girl with trisomy 21 has had recurrent respiratory infections. Which of the following best categorizes her immunodeficiency?",
+      "stem": "A 3-year-old girl with trisomy 21 has had recurrent respiratory infections. Which of the following best categorizes her immune defect?",
       "choices": [
         {
           "label": "A",
