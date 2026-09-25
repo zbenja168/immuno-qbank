@@ -46,7 +46,8 @@
         "B cells"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "im14-002",
@@ -92,7 +93,8 @@
         "B-cell maturation"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "im14-003",
@@ -138,7 +140,8 @@
         "antibody deficiency"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "im14-004",
@@ -184,7 +187,8 @@
         "CATCH-22"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "im14-005",
@@ -230,7 +234,8 @@
         "pharyngeal pouches"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "im14-006",
@@ -276,7 +281,8 @@
         "common gamma chain"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "im14-007",
@@ -322,7 +328,8 @@
         "toxic metabolites"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "im14-008",
@@ -368,7 +375,8 @@
         "V(D)J recombination"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "im14-009",
@@ -414,7 +422,8 @@
         "transfusion"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "im14-010",
@@ -460,7 +469,8 @@
         "central tolerance"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "im14-011",
@@ -506,7 +516,8 @@
         "delayed-type hypersensitivity"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "im14-012",
@@ -552,7 +563,8 @@
         "DNA repair"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "im14-013",
@@ -598,7 +610,8 @@
         "opportunistic infections"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im14-014",
@@ -644,7 +657,8 @@
         "delayed-type hypersensitivity"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im14-015",
@@ -689,7 +703,8 @@
         "inborn errors of immunity"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im14-016",
@@ -735,7 +750,8 @@
         "CD40L"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im14-017",
@@ -781,7 +797,8 @@
         "X-linked recessive"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im14-018",
@@ -827,7 +844,8 @@
         "enterovirus"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im14-019",
@@ -873,7 +891,8 @@
         "antibody deficiency"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im14-020",
@@ -919,7 +938,8 @@
         "treatment"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im14-021",
@@ -965,7 +985,8 @@
         "germinal centers"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im14-022",
@@ -1011,7 +1032,8 @@
         "prognosis"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im14-023",
@@ -1057,7 +1079,8 @@
         "thymus transplant"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im14-024",
@@ -1103,7 +1126,8 @@
         "diagnosis"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im14-025",
@@ -1149,7 +1173,8 @@
         "clinical diagnosis"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im14-026",
@@ -1195,7 +1220,8 @@
         "chest x-ray"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im14-027",
@@ -1242,7 +1268,8 @@
         "NK cells"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im14-028",
@@ -1288,7 +1315,8 @@
         "CD4 T cells"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im14-029",
@@ -1334,7 +1362,8 @@
         "TREC"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im14-030",
@@ -1380,7 +1409,8 @@
         "SCID"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im14-031",
@@ -1426,7 +1456,8 @@
         "newborn screening"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im14-032",
@@ -1472,7 +1503,8 @@
         "SCID treatment"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im14-033",
@@ -1518,7 +1550,8 @@
         "laboratory evaluation"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im14-034",
@@ -1564,7 +1597,8 @@
         "endocrine insufficiency"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im14-035",
@@ -1610,7 +1644,8 @@
         "IFN-gamma"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im14-036",
@@ -1656,7 +1691,8 @@
         "V(D)J recombination"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im15-001",
@@ -1702,7 +1738,8 @@
         "class switching"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "im15-002",
@@ -1748,7 +1785,8 @@
         "anaphylaxis"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "im15-003",
@@ -1794,7 +1832,8 @@
         "Th17"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "im15-004",
@@ -1840,7 +1879,8 @@
         "thrombocytopenia"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "im15-005",
@@ -1887,7 +1927,8 @@
         "Th1"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "im15-006",
@@ -1933,7 +1974,8 @@
         "bronchiectasis"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "im15-007",
@@ -1980,7 +2022,8 @@
         "neutrophils"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "im15-008",
@@ -2026,7 +2069,8 @@
         "mucosal immunity"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "im15-009",
@@ -2072,7 +2116,8 @@
         "macrophage activation"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "im15-010",
@@ -2118,7 +2163,8 @@
         "malignancy"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "im15-011",
@@ -2164,7 +2210,8 @@
         "diagnosis"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "im15-012",
@@ -2210,7 +2257,8 @@
         "management"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "im15-013",
@@ -2256,7 +2304,8 @@
         "incidence"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im15-014",
@@ -2302,7 +2351,8 @@
         "clinical presentation"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im15-015",
@@ -2348,7 +2398,8 @@
         "progression"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im15-016",
@@ -2394,7 +2445,8 @@
         "transfusion reaction"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im15-017",
@@ -2440,7 +2492,8 @@
         "prophylactic antibiotics"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im15-018",
@@ -2486,7 +2539,8 @@
         "follicular helper T cells"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im15-019",
@@ -2532,7 +2586,8 @@
         "TACI"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im15-020",
@@ -2578,7 +2633,8 @@
         "SLE"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im15-021",
@@ -2624,7 +2680,8 @@
         "leniolisib"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im15-022",
@@ -2670,7 +2727,8 @@
         "bronchiectasis"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im15-023",
@@ -2716,7 +2774,8 @@
         "hypogammaglobulinemia"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im15-024",
@@ -2762,7 +2821,8 @@
         "class switching"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im15-025",
@@ -2808,7 +2868,8 @@
         "diagnosis"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im15-026",
@@ -2854,7 +2915,8 @@
         "G-CSF"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im15-027",
@@ -2900,7 +2962,8 @@
         "complications"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im15-028",
@@ -2946,7 +3009,8 @@
         "diagnostic workup"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im15-029",
@@ -2992,7 +3056,8 @@
         "inheritance"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im15-030",
@@ -3038,7 +3103,8 @@
         "IgE class switching"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im15-031",
@@ -3084,7 +3150,8 @@
         "diagnosis"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im15-032",
@@ -3130,7 +3197,8 @@
         "prophylaxis"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im15-033",
@@ -3176,7 +3244,8 @@
         "cytotoxic T cells"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im15-034",
@@ -3222,7 +3291,8 @@
         "diagnostic criteria"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im15-035",
@@ -3268,7 +3338,8 @@
         "intramacrophagic infections"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im15-036",
@@ -3314,7 +3385,8 @@
         "inheritance"
       ],
       "topicId": "inborn-errors-of-adaptive-immunity-2-of-2",
-      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      "topicName": "Inborn Errors of Adaptive Immunity (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "im16-001",
@@ -3359,7 +3431,8 @@
         "recurrent infection"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "core"
     },
     {
       "id": "im16-002",
@@ -3404,7 +3477,8 @@
         "evaluation"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "core"
     },
     {
       "id": "im16-003",
@@ -3450,7 +3524,8 @@
         "opportunistic infection"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "core"
     },
     {
       "id": "im16-004",
@@ -3496,7 +3571,8 @@
         "evaluation"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "core"
     },
     {
       "id": "im16-005",
@@ -3542,7 +3618,8 @@
         "pediatric evaluation"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "core"
     },
     {
       "id": "im16-006",
@@ -3588,7 +3665,8 @@
         "IVIG"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "core"
     },
     {
       "id": "im16-007",
@@ -3633,7 +3711,8 @@
         "secondary immunodeficiency"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "core"
     },
     {
       "id": "im16-008",
@@ -3679,7 +3758,8 @@
         "neutrophils"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "core"
     },
     {
       "id": "im16-009",
@@ -3725,7 +3805,8 @@
         "case"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "core"
     },
     {
       "id": "im16-010",
@@ -3771,7 +3852,8 @@
         "memory B cells"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "core"
     },
     {
       "id": "im16-011",
@@ -3817,7 +3899,8 @@
         "treatment"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "core"
     },
     {
       "id": "im16-012",
@@ -3863,7 +3946,8 @@
         "immunosuppressant"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "core"
     },
     {
       "id": "im16-013",
@@ -3909,7 +3993,8 @@
         "Salmonella osteomyelitis"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "extra"
     },
     {
       "id": "im16-014",
@@ -3955,7 +4040,8 @@
         "poor response to treatment"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "extra"
     },
     {
       "id": "im16-015",
@@ -4001,7 +4087,8 @@
         "lymphocyte stimulation"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "extra"
     },
     {
       "id": "im16-016",
@@ -4047,7 +4134,8 @@
         "cell-mediated immunodeficiency"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "extra"
     },
     {
       "id": "im16-017",
@@ -4093,7 +4181,8 @@
         "costimulation"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "extra"
     },
     {
       "id": "im16-018",
@@ -4139,7 +4228,8 @@
         "pediatric evaluation"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "extra"
     },
     {
       "id": "im16-019",
@@ -4185,7 +4275,8 @@
         "hereditary angioedema"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "extra"
     },
     {
       "id": "im16-020",
@@ -4231,7 +4322,8 @@
         "hypogammaglobulinemia"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "extra"
     },
     {
       "id": "im16-021",
@@ -4277,7 +4369,8 @@
         "secondary immunodeficiency"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "extra"
     },
     {
       "id": "im16-022",
@@ -4323,7 +4416,8 @@
         "hematologic neoplasia"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "extra"
     },
     {
       "id": "im16-023",
@@ -4369,7 +4463,8 @@
         "secondary immunodeficiency"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "extra"
     },
     {
       "id": "im16-024",
@@ -4415,7 +4510,8 @@
         "classification"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "extra"
     },
     {
       "id": "im16-025",
@@ -4461,7 +4557,8 @@
         "opportunistic infection"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "extra"
     },
     {
       "id": "im16-026",
@@ -4507,7 +4604,8 @@
         "secondary immunodeficiency"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "extra"
     },
     {
       "id": "im16-027",
@@ -4553,7 +4651,8 @@
         "medications"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "extra"
     },
     {
       "id": "im16-028",
@@ -4599,7 +4698,8 @@
         "B cells"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "extra"
     },
     {
       "id": "im16-029",
@@ -4645,7 +4745,8 @@
         "secondary immunodeficiency"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "extra"
     },
     {
       "id": "im16-030",
@@ -4691,7 +4792,8 @@
         "secondary immunodeficiency"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "extra"
     },
     {
       "id": "im16-031",
@@ -4737,7 +4839,8 @@
         "clinical correlation"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "extra"
     },
     {
       "id": "im16-032",
@@ -4783,7 +4886,8 @@
         "secondary immunodeficiency"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "extra"
     },
     {
       "id": "im16-033",
@@ -4829,7 +4933,8 @@
         "immunoglobulin levels"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "extra"
     },
     {
       "id": "im16-034",
@@ -4875,7 +4980,8 @@
         "syndromic features"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "extra"
     },
     {
       "id": "im16-035",
@@ -4921,7 +5027,8 @@
         "interferon-gamma"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "extra"
     },
     {
       "id": "im16-036",
@@ -4967,7 +5074,8 @@
         "management"
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
-      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "extra"
     }
   ]
 }

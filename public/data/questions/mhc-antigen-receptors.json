@@ -46,7 +46,8 @@
         "peptide-binding groove"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "core"
     },
     {
       "id": "im06-002",
@@ -93,7 +94,8 @@
         "CLIP"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "core"
     },
     {
       "id": "im06-003",
@@ -140,7 +142,8 @@
         "peptide loading"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "core"
     },
     {
       "id": "im06-004",
@@ -187,7 +190,8 @@
         "cytomegalovirus"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "core"
     },
     {
       "id": "im06-005",
@@ -235,7 +239,8 @@
         "MHC class I"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "core"
     },
     {
       "id": "im06-006",
@@ -282,7 +287,8 @@
         "cytokines"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "core"
     },
     {
       "id": "im06-007",
@@ -329,7 +335,8 @@
         "clinical correlation"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "core"
     },
     {
       "id": "im06-008",
@@ -376,7 +383,8 @@
         "HLA"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "core"
     },
     {
       "id": "im06-009",
@@ -423,7 +431,8 @@
         "autoimmunity"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "core"
     },
     {
       "id": "im06-010",
@@ -470,7 +479,8 @@
         "HLA"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "core"
     },
     {
       "id": "im06-011",
@@ -517,7 +527,8 @@
         "antigen presentation"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "core"
     },
     {
       "id": "im06-012",
@@ -564,7 +575,8 @@
         "peptide loading"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "core"
     },
     {
       "id": "im06-013",
@@ -610,7 +622,8 @@
         "B cell receptor"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "extra"
     },
     {
       "id": "im06-014",
@@ -657,7 +670,8 @@
         "peptide-binding groove"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "extra"
     },
     {
       "id": "im06-015",
@@ -704,7 +718,8 @@
         "transmembrane region"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "extra"
     },
     {
       "id": "im06-016",
@@ -750,7 +765,8 @@
         "peptide length"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "extra"
     },
     {
       "id": "im06-017",
@@ -797,7 +813,8 @@
         "peptide loading"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "extra"
     },
     {
       "id": "im06-018",
@@ -843,7 +860,8 @@
         "MHC genetics"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "extra"
     },
     {
       "id": "im06-019",
@@ -889,7 +907,8 @@
         "MHC genetics"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "extra"
     },
     {
       "id": "im06-020",
@@ -935,7 +954,8 @@
         "HLA nomenclature"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "extra"
     },
     {
       "id": "im06-021",
@@ -981,7 +1001,8 @@
         "transplantation"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "extra"
     },
     {
       "id": "im06-022",
@@ -1028,7 +1049,8 @@
         "macrophage"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "extra"
     },
     {
       "id": "im06-023",
@@ -1074,7 +1096,8 @@
         "population survival"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "extra"
     },
     {
       "id": "im06-024",
@@ -1121,7 +1144,8 @@
         "clinical correlation"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "extra"
     },
     {
       "id": "im06-025",
@@ -1168,7 +1192,8 @@
         "HLA gene family"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "extra"
     },
     {
       "id": "im06-026",
@@ -1214,7 +1239,8 @@
         "CD8 T cell"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "extra"
     },
     {
       "id": "im06-027",
@@ -1261,7 +1287,8 @@
         "expression pattern"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "extra"
     },
     {
       "id": "im06-028",
@@ -1307,7 +1334,8 @@
         "antigen presentation"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "extra"
     },
     {
       "id": "im06-029",
@@ -1354,7 +1382,8 @@
         "structure"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "extra"
     },
     {
       "id": "im06-030",
@@ -1401,7 +1430,8 @@
         "peptide loading"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "extra"
     },
     {
       "id": "im06-031",
@@ -1448,7 +1478,8 @@
         "CLIP"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "extra"
     },
     {
       "id": "im06-032",
@@ -1495,7 +1526,8 @@
         "antigen uptake"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "extra"
     },
     {
       "id": "im06-033",
@@ -1542,7 +1574,8 @@
         "antigen processing"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "extra"
     },
     {
       "id": "im06-034",
@@ -1589,7 +1622,8 @@
         "TAP"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "extra"
     },
     {
       "id": "im06-035",
@@ -1636,7 +1670,8 @@
         "peptide loading"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "extra"
     },
     {
       "id": "im06-036",
@@ -1683,7 +1718,8 @@
         "clinical correlation"
       ],
       "topicId": "major-histocompatibility-complex",
-      "topicName": "Major Histocompatibility Complex"
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "extra"
     },
     {
       "id": "im07-001",
@@ -1729,7 +1765,8 @@
         "SCID"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "core"
     },
     {
       "id": "im07-002",
@@ -1775,7 +1812,8 @@
         "light chain"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "core"
     },
     {
       "id": "im07-003",
@@ -1821,7 +1859,8 @@
         "diversity"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "core"
     },
     {
       "id": "im07-004",
@@ -1867,7 +1906,8 @@
         "isotypes"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "core"
     },
     {
       "id": "im07-005",
@@ -1913,7 +1953,8 @@
         "B cells"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "core"
     },
     {
       "id": "im07-006",
@@ -1959,7 +2000,8 @@
         "FcRn"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "core"
     },
     {
       "id": "im07-007",
@@ -2005,7 +2047,8 @@
         "pIgR"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "core"
     },
     {
       "id": "im07-008",
@@ -2051,7 +2094,8 @@
         "mast cells"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "core"
     },
     {
       "id": "im07-009",
@@ -2097,7 +2141,8 @@
         "effector function"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "core"
     },
     {
       "id": "im07-010",
@@ -2143,7 +2188,8 @@
         "IgD"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "core"
     },
     {
       "id": "im07-011",
@@ -2189,7 +2235,8 @@
         "variable domain"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "core"
     },
     {
       "id": "im07-012",
@@ -2235,7 +2282,8 @@
         "helper T cells"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "core"
     },
     {
       "id": "im07-013",
@@ -2281,7 +2329,8 @@
         "constant domain"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "extra"
     },
     {
       "id": "im07-014",
@@ -2327,7 +2376,8 @@
         "lambda"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "extra"
     },
     {
       "id": "im07-015",
@@ -2373,7 +2423,8 @@
         "disulfide bonds"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "extra"
     },
     {
       "id": "im07-016",
@@ -2419,7 +2470,8 @@
         "terminology"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "extra"
     },
     {
       "id": "im07-017",
@@ -2465,7 +2517,8 @@
         "clonal selection"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "extra"
     },
     {
       "id": "im07-018",
@@ -2511,7 +2564,8 @@
         "RAG"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "extra"
     },
     {
       "id": "im07-019",
@@ -2557,7 +2611,8 @@
         "effector function"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "extra"
     },
     {
       "id": "im07-020",
@@ -2603,7 +2658,8 @@
         "TCR"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "extra"
     },
     {
       "id": "im07-021",
@@ -2649,7 +2705,8 @@
         "CDR3"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "extra"
     },
     {
       "id": "im07-022",
@@ -2695,7 +2752,8 @@
         "exonuclease"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "extra"
     },
     {
       "id": "im07-023",
@@ -2741,7 +2799,8 @@
         "V segment"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "extra"
     },
     {
       "id": "im07-024",
@@ -2787,7 +2846,8 @@
         "T cell activation"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "extra"
     },
     {
       "id": "im07-025",
@@ -2833,7 +2893,8 @@
         "beta chain"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "extra"
     },
     {
       "id": "im07-026",
@@ -2879,7 +2940,8 @@
         "chromosomes"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "extra"
     },
     {
       "id": "im07-027",
@@ -2925,7 +2987,8 @@
         "T cell deficiency"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "extra"
     },
     {
       "id": "im07-028",
@@ -2971,7 +3034,8 @@
         "secondary lymphoid organs"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "extra"
     },
     {
       "id": "im07-029",
@@ -3017,7 +3081,8 @@
         "germinal center"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "extra"
     },
     {
       "id": "im07-030",
@@ -3063,7 +3128,8 @@
         "isotype switching"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "extra"
     },
     {
       "id": "im07-031",
@@ -3109,7 +3175,8 @@
         "IgE"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "extra"
     },
     {
       "id": "im07-032",
@@ -3155,7 +3222,8 @@
         "isotypes"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "extra"
     },
     {
       "id": "im07-033",
@@ -3201,7 +3269,8 @@
         "NK cells"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "extra"
     },
     {
       "id": "im07-034",
@@ -3247,7 +3316,8 @@
         "eosinophils"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "extra"
     },
     {
       "id": "im07-035",
@@ -3293,7 +3363,8 @@
         "class switching"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "extra"
     },
     {
       "id": "im07-036",
@@ -3339,7 +3410,8 @@
         "phagocytes"
       ],
       "topicId": "antigen-receptor-generation-and-structure",
-      "topicName": "Antigen Receptor Generation and Structure"
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "extra"
     }
   ]
 }

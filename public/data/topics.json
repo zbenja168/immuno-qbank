@@ -8,30 +8,40 @@
           "id": "introduction-to-the-immune-system",
           "name": "Introduction to the Immune System",
           "sourceFile": "Immuno Brick 1",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "innate-receptors-and-cytokines",
           "name": "Innate Receptors and Cytokines",
           "sourceFile": "Immuno Brick 2",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "phagocyte-function",
           "name": "Phagocyte Function",
           "sourceFile": "Immuno Brick 3",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "complement-system",
           "name": "Complement System",
           "sourceFile": "Immuno Brick 4",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "inborn-errors-of-innate-immunity",
           "name": "Inborn Errors of Innate Immunity",
           "sourceFile": "Immuno Brick 5",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         }
       ]
@@ -44,12 +54,16 @@
           "id": "major-histocompatibility-complex",
           "name": "Major Histocompatibility Complex",
           "sourceFile": "Immuno Brick 6",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "antigen-receptor-generation-and-structure",
           "name": "Antigen Receptor Generation and Structure",
           "sourceFile": "Immuno Brick 7",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         }
       ]
@@ -62,18 +76,24 @@
           "id": "b-cell-development-and-activation",
           "name": "B Cell Development and Activation",
           "sourceFile": "Immuno Brick 8",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "t-cell-development-activation-and-differentiation",
           "name": "T Cell Development, Activation, and Differentiation",
           "sourceFile": "Immuno Brick 9",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "cell-mediated-immunity",
           "name": "Cell-Mediated Immunity",
           "sourceFile": "Immuno Brick 10",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         }
       ]
@@ -86,12 +106,16 @@
           "id": "immunologic-tolerance",
           "name": "Immunologic Tolerance",
           "sourceFile": "Immuno Brick 11",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "introduction-to-autoinflammatory-and-autoimmune-diseases",
           "name": "Introduction to Autoinflammatory and Autoimmune Diseases",
           "sourceFile": "Immuno Brick 21",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         }
       ]
@@ -104,12 +128,16 @@
           "id": "hypersensitivity-reactions",
           "name": "Hypersensitivity Reactions",
           "sourceFile": "Immuno Brick 12",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "allergic-diseases-and-anaphylaxis",
           "name": "Allergic Diseases and Anaphylaxis",
           "sourceFile": "Immuno Brick 13",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         }
       ]
@@ -122,18 +150,24 @@
           "id": "inborn-errors-of-adaptive-immunity-1-of-2",
           "name": "Inborn Errors of Adaptive Immunity (1 of 2)",
           "sourceFile": "Immuno Brick 14",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "inborn-errors-of-adaptive-immunity-2-of-2",
           "name": "Inborn Errors of Adaptive Immunity (2 of 2)",
           "sourceFile": "Immuno Brick 15",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "diagnosis-and-treatment-of-immunodeficiency-disorders",
           "name": "Diagnosis and Treatment of Immunodeficiency Disorders",
           "sourceFile": "Immuno Brick 16",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         }
       ]
@@ -146,24 +180,32 @@
           "id": "diagnostic-laboratory-immunology",
           "name": "Diagnostic Laboratory Immunology",
           "sourceFile": "Immuno Brick 17",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "immunosuppressants",
           "name": "Immunosuppressants",
           "sourceFile": "Immuno Brick 18",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "biologic-agents",
           "name": "Biologic Agents",
           "sourceFile": "Immuno Brick 19",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "vaccines",
           "name": "Vaccines",
           "sourceFile": "Immuno Brick 20",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         }
       ]
@@ -176,12 +218,16 @@
           "id": "tumors-and-transplants",
           "name": "Tumors and Transplants",
           "sourceFile": "Immuno Brick 22",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "effect-of-age-on-the-immune-system",
           "name": "Effect of Age on the Immune System",
           "sourceFile": "Immuno Brick 23",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         }
       ]

@@ -46,7 +46,8 @@
         "pre-BCR"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "core"
     },
     {
       "id": "im08-002",
@@ -92,7 +93,8 @@
         "B cell tolerance"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "core"
     },
     {
       "id": "im08-003",
@@ -138,7 +140,8 @@
         "central tolerance"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "core"
     },
     {
       "id": "im08-004",
@@ -184,7 +187,8 @@
         "IgD"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "core"
     },
     {
       "id": "im08-005",
@@ -231,7 +235,8 @@
         "B1 cells"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "core"
     },
     {
       "id": "im08-006",
@@ -277,7 +282,8 @@
         "antigen source"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "core"
     },
     {
       "id": "im08-007",
@@ -323,7 +329,8 @@
         "L-selectin"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "core"
     },
     {
       "id": "im08-008",
@@ -369,7 +376,8 @@
         "T-dependent activation"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "core"
     },
     {
       "id": "im08-009",
@@ -415,7 +423,8 @@
         "IgM"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "core"
     },
     {
       "id": "im08-010",
@@ -461,7 +470,8 @@
         "class switching"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "core"
     },
     {
       "id": "im08-011",
@@ -508,7 +518,8 @@
         "follicular helper T cell"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "core"
     },
     {
       "id": "im08-012",
@@ -555,7 +566,8 @@
         "dark zone and light zone"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "core"
     },
     {
       "id": "im08-013",
@@ -601,7 +613,8 @@
         "VDJ recombination"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "extra"
     },
     {
       "id": "im08-014",
@@ -648,7 +661,8 @@
         "checkpoint"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "extra"
     },
     {
       "id": "im08-015",
@@ -695,7 +709,8 @@
         "B cell maturation"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "extra"
     },
     {
       "id": "im08-016",
@@ -741,7 +756,8 @@
         "central tolerance"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "extra"
     },
     {
       "id": "im08-017",
@@ -787,7 +803,8 @@
         "central tolerance"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "extra"
     },
     {
       "id": "im08-018",
@@ -834,7 +851,8 @@
         "LFA-1"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "extra"
     },
     {
       "id": "im08-019",
@@ -881,7 +899,8 @@
         "L-selectin"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "extra"
     },
     {
       "id": "im08-020",
@@ -928,7 +947,8 @@
         "cortex"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "extra"
     },
     {
       "id": "im08-021",
@@ -975,7 +995,8 @@
         "cortex"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "extra"
     },
     {
       "id": "im08-022",
@@ -1022,7 +1043,8 @@
         "thoracic duct"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "extra"
     },
     {
       "id": "im08-023",
@@ -1069,7 +1091,8 @@
         "T cell zone"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "extra"
     },
     {
       "id": "im08-024",
@@ -1115,7 +1138,8 @@
         "white pulp"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "extra"
     },
     {
       "id": "im08-025",
@@ -1162,7 +1186,8 @@
         "spleen"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "extra"
     },
     {
       "id": "im08-026",
@@ -1209,7 +1234,8 @@
         "conjugate vaccine"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "extra"
     },
     {
       "id": "im08-027",
@@ -1256,7 +1282,8 @@
         "B cell activation"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "extra"
     },
     {
       "id": "im08-028",
@@ -1303,7 +1330,8 @@
         "immunological synapse"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "extra"
     },
     {
       "id": "im08-029",
@@ -1349,7 +1377,8 @@
         "IgM"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "extra"
     },
     {
       "id": "im08-030",
@@ -1396,7 +1425,8 @@
         "contraction"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "extra"
     },
     {
       "id": "im08-031",
@@ -1443,7 +1473,8 @@
         "survival signals"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "extra"
     },
     {
       "id": "im08-032",
@@ -1490,7 +1521,8 @@
         "IgA"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "extra"
     },
     {
       "id": "im08-033",
@@ -1537,7 +1569,8 @@
         "IgA"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "extra"
     },
     {
       "id": "im08-034",
@@ -1583,7 +1616,8 @@
         "IgG"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "extra"
     },
     {
       "id": "im08-035",
@@ -1630,7 +1664,8 @@
         "immunological memory"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "extra"
     },
     {
       "id": "im08-036",
@@ -1677,7 +1712,8 @@
         "affinity maturation"
       ],
       "topicId": "b-cell-development-and-activation",
-      "topicName": "B Cell Development and Activation"
+      "topicName": "B Cell Development and Activation",
+      "tier": "extra"
     },
     {
       "id": "im09-001",
@@ -1723,7 +1759,8 @@
         "T cell development"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "core"
     },
     {
       "id": "im09-002",
@@ -1770,7 +1807,8 @@
         "central tolerance"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "core"
     },
     {
       "id": "im09-003",
@@ -1816,7 +1854,8 @@
         "thymocyte selection"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "core"
     },
     {
       "id": "im09-004",
@@ -1863,7 +1902,8 @@
         "priming"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "core"
     },
     {
       "id": "im09-005",
@@ -1910,7 +1950,8 @@
         "lineage commitment"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "core"
     },
     {
       "id": "im09-006",
@@ -1957,7 +1998,8 @@
         "helper T cell subsets"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "core"
     },
     {
       "id": "im09-007",
@@ -2004,7 +2046,8 @@
         "intracellular pathogens"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "core"
     },
     {
       "id": "im09-008",
@@ -2051,7 +2094,8 @@
         "transplant"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "core"
     },
     {
       "id": "im09-009",
@@ -2098,7 +2142,8 @@
         "multiple sclerosis"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "core"
     },
     {
       "id": "im09-010",
@@ -2145,7 +2190,8 @@
         "effector function"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "core"
     },
     {
       "id": "im09-011",
@@ -2192,7 +2238,8 @@
         "homing"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "core"
     },
     {
       "id": "im09-012",
@@ -2239,7 +2286,8 @@
         "downregulation"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "core"
     },
     {
       "id": "im09-013",
@@ -2285,7 +2333,8 @@
         "T cell development"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "extra"
     },
     {
       "id": "im09-014",
@@ -2332,7 +2381,8 @@
         "T cell development"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "extra"
     },
     {
       "id": "im09-015",
@@ -2378,7 +2428,8 @@
         "memory T cells"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "extra"
     },
     {
       "id": "im09-016",
@@ -2424,7 +2475,8 @@
         "junctional diversity"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "extra"
     },
     {
       "id": "im09-017",
@@ -2470,7 +2522,8 @@
         "self-antigen"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "extra"
     },
     {
       "id": "im09-018",
@@ -2517,7 +2570,8 @@
         "single-positive"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "extra"
     },
     {
       "id": "im09-019",
@@ -2563,7 +2617,8 @@
         "immune tolerance"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "extra"
     },
     {
       "id": "im09-020",
@@ -2609,7 +2664,8 @@
         "central tolerance"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "extra"
     },
     {
       "id": "im09-021",
@@ -2655,7 +2711,8 @@
         "T cell development"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "extra"
     },
     {
       "id": "im09-022",
@@ -2703,7 +2760,8 @@
         "tolerance"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "extra"
     },
     {
       "id": "im09-023",
@@ -2749,7 +2807,8 @@
         "antigen recognition"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "extra"
     },
     {
       "id": "im09-024",
@@ -2795,7 +2854,8 @@
         "lymphocyte trafficking"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "extra"
     },
     {
       "id": "im09-025",
@@ -2843,7 +2903,8 @@
         "PAMPs"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "extra"
     },
     {
       "id": "im09-026",
@@ -2890,7 +2951,8 @@
         "TCR signaling"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "extra"
     },
     {
       "id": "im09-027",
@@ -2937,7 +2999,8 @@
         "T cell proliferation"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "extra"
     },
     {
       "id": "im09-028",
@@ -2983,7 +3046,8 @@
         "cytotoxic T cells"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "extra"
     },
     {
       "id": "im09-029",
@@ -3031,7 +3095,8 @@
         "neutrophils"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "extra"
     },
     {
       "id": "im09-030",
@@ -3078,7 +3143,8 @@
         "M2 macrophages"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "extra"
     },
     {
       "id": "im09-031",
@@ -3125,7 +3191,8 @@
         "lymphocyte egress"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "extra"
     },
     {
       "id": "im09-032",
@@ -3172,7 +3239,8 @@
         "effector T cells"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "extra"
     },
     {
       "id": "im09-033",
@@ -3219,7 +3287,8 @@
         "helper T cell"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "extra"
     },
     {
       "id": "im09-034",
@@ -3265,7 +3334,8 @@
         "costimulation"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "extra"
     },
     {
       "id": "im09-035",
@@ -3312,7 +3382,8 @@
         "T cell inhibition"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "extra"
     },
     {
       "id": "im09-036",
@@ -3359,7 +3430,8 @@
         "T cell homeostasis"
       ],
       "topicId": "t-cell-development-activation-and-differentiation",
-      "topicName": "T Cell Development, Activation, and Differentiation"
+      "topicName": "T Cell Development, Activation, and Differentiation",
+      "tier": "extra"
     },
     {
       "id": "im10-001",
@@ -3405,7 +3477,8 @@
         "apoptosis"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "core"
     },
     {
       "id": "im10-002",
@@ -3451,7 +3524,8 @@
         "granzyme"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "core"
     },
     {
       "id": "im10-003",
@@ -3497,7 +3571,8 @@
         "macrophage activation"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "core"
     },
     {
       "id": "im10-004",
@@ -3543,7 +3618,8 @@
         "clinical correlation"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "core"
     },
     {
       "id": "im10-005",
@@ -3589,7 +3665,8 @@
         "hyper-IgE syndrome"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "core"
     },
     {
       "id": "im10-006",
@@ -3635,7 +3712,8 @@
         "eosinophils"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "core"
     },
     {
       "id": "im10-007",
@@ -3681,7 +3759,8 @@
         "IgE class switching"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "core"
     },
     {
       "id": "im10-008",
@@ -3727,7 +3806,8 @@
         "missing-self"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "core"
     },
     {
       "id": "im10-009",
@@ -3773,7 +3853,8 @@
         "CD16"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "core"
     },
     {
       "id": "im10-010",
@@ -3819,7 +3900,8 @@
         "clinical correlation"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "core"
     },
     {
       "id": "im10-011",
@@ -3865,7 +3947,8 @@
         "anergy"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "core"
     },
     {
       "id": "im10-012",
@@ -3911,7 +3994,8 @@
         "inflammation"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "core"
     },
     {
       "id": "im10-013",
@@ -3957,7 +4041,8 @@
         "intracellular pathogens"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "extra"
     },
     {
       "id": "im10-014",
@@ -4003,7 +4088,8 @@
         "cytotoxic T cells"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "extra"
     },
     {
       "id": "im10-015",
@@ -4049,7 +4135,8 @@
         "antigen recognition"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "extra"
     },
     {
       "id": "im10-016",
@@ -4095,7 +4182,8 @@
         "eosinophils"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "extra"
     },
     {
       "id": "im10-017",
@@ -4142,7 +4230,8 @@
         "tuberculosis"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "extra"
     },
     {
       "id": "im10-018",
@@ -4189,7 +4278,8 @@
         "high endothelial venules"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "extra"
     },
     {
       "id": "im10-019",
@@ -4235,7 +4325,8 @@
         "effector T cells"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "extra"
     },
     {
       "id": "im10-020",
@@ -4281,7 +4372,8 @@
         "cytotoxic T cells"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "extra"
     },
     {
       "id": "im10-021",
@@ -4327,7 +4419,8 @@
         "apoptosis"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "extra"
     },
     {
       "id": "im10-022",
@@ -4374,7 +4467,8 @@
         "MHC class II"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "extra"
     },
     {
       "id": "im10-023",
@@ -4420,7 +4514,8 @@
         "B cell activation"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "extra"
     },
     {
       "id": "im10-024",
@@ -4466,7 +4561,8 @@
         "macrophage activation"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "extra"
     },
     {
       "id": "im10-025",
@@ -4513,7 +4609,8 @@
         "Th1"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "extra"
     },
     {
       "id": "im10-026",
@@ -4560,7 +4657,8 @@
         "Th1"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "extra"
     },
     {
       "id": "im10-027",
@@ -4607,7 +4705,8 @@
         "macrophage activation"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "extra"
     },
     {
       "id": "im10-028",
@@ -4653,7 +4752,8 @@
         "helminths"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "extra"
     },
     {
       "id": "im10-029",
@@ -4699,7 +4799,8 @@
         "multiple sclerosis"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "extra"
     },
     {
       "id": "im10-030",
@@ -4746,7 +4847,8 @@
         "Th2"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "extra"
     },
     {
       "id": "im10-031",
@@ -4793,7 +4895,8 @@
         "innate immunity"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "extra"
     },
     {
       "id": "im10-032",
@@ -4839,7 +4942,8 @@
         "tuberculosis"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "extra"
     },
     {
       "id": "im10-033",
@@ -4886,7 +4990,8 @@
         "reactivation"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "extra"
     },
     {
       "id": "im10-034",
@@ -4933,7 +5038,8 @@
         "tissue repair"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "extra"
     },
     {
       "id": "im10-035",
@@ -4980,7 +5086,8 @@
         "neutrophil recruitment"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "extra"
     },
     {
       "id": "im10-036",
@@ -5027,7 +5134,8 @@
         "FcepsilonR1"
       ],
       "topicId": "cell-mediated-immunity",
-      "topicName": "Cell-Mediated Immunity"
+      "topicName": "Cell-Mediated Immunity",
+      "tier": "extra"
     }
   ]
 }

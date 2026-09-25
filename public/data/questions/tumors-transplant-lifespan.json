@@ -45,7 +45,8 @@
         "telomerase"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "core"
     },
     {
       "id": "im22-002",
@@ -91,7 +92,8 @@
         "tumor immunity"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "core"
     },
     {
       "id": "im22-003",
@@ -137,7 +139,8 @@
         "p53"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "core"
     },
     {
       "id": "im22-004",
@@ -183,7 +186,8 @@
         "PD-L1"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "core"
     },
     {
       "id": "im22-005",
@@ -230,7 +234,8 @@
         "regulatory T cells"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "core"
     },
     {
       "id": "im22-006",
@@ -275,7 +280,8 @@
         "xenograft"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "core"
     },
     {
       "id": "im22-007",
@@ -321,7 +327,8 @@
         "transplantation"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "core"
     },
     {
       "id": "im22-008",
@@ -367,7 +374,8 @@
         "preformed antibodies"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "core"
     },
     {
       "id": "im22-009",
@@ -413,7 +421,8 @@
         "MHC class I"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "core"
     },
     {
       "id": "im22-010",
@@ -459,7 +468,8 @@
         "arteriosclerosis"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "core"
     },
     {
       "id": "im22-011",
@@ -505,7 +515,8 @@
         "donor T cells"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "core"
     },
     {
       "id": "im22-012",
@@ -551,7 +562,8 @@
         "alloantigens"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "core"
     },
     {
       "id": "im22-013",
@@ -597,7 +609,8 @@
         "hypersensitivity"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "extra"
     },
     {
       "id": "im22-014",
@@ -643,7 +656,8 @@
         "transfusion"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "extra"
     },
     {
       "id": "im22-015",
@@ -689,7 +703,8 @@
         "MHC loci"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "extra"
     },
     {
       "id": "im22-016",
@@ -736,7 +751,8 @@
         "C5a"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "extra"
     },
     {
       "id": "im22-017",
@@ -782,7 +798,8 @@
         "inflammation"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "extra"
     },
     {
       "id": "im22-018",
@@ -828,7 +845,8 @@
         "necrosis"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "extra"
     },
     {
       "id": "im22-019",
@@ -875,7 +893,8 @@
         "type 4"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "extra"
     },
     {
       "id": "im22-020",
@@ -922,7 +941,8 @@
         "MHC class II"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "extra"
     },
     {
       "id": "im22-021",
@@ -968,7 +988,8 @@
         "antibody-mediated rejection"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "extra"
     },
     {
       "id": "im22-022",
@@ -1014,7 +1035,8 @@
         "T and B cell activation"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "extra"
     },
     {
       "id": "im22-023",
@@ -1061,7 +1083,8 @@
         "NF-kB"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "extra"
     },
     {
       "id": "im22-024",
@@ -1107,7 +1130,8 @@
         "fibrosis"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "extra"
     },
     {
       "id": "im22-025",
@@ -1153,7 +1177,8 @@
         "repeat transplant"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "extra"
     },
     {
       "id": "im22-026",
@@ -1199,7 +1224,8 @@
         "donor lymphocytes"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "extra"
     },
     {
       "id": "im22-027",
@@ -1245,7 +1271,8 @@
         "neonates"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "extra"
     },
     {
       "id": "im22-028",
@@ -1291,7 +1318,8 @@
         "conditioning"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "extra"
     },
     {
       "id": "im22-029",
@@ -1337,7 +1365,8 @@
         "leukemia"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "extra"
     },
     {
       "id": "im22-030",
@@ -1383,7 +1412,8 @@
         "donor-derived leukemia"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "extra"
     },
     {
       "id": "im22-031",
@@ -1429,7 +1459,8 @@
         "tumor antigens"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "extra"
     },
     {
       "id": "im22-032",
@@ -1476,7 +1507,8 @@
         "Fas-FasL"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "extra"
     },
     {
       "id": "im22-033",
@@ -1523,7 +1555,8 @@
         "macrophages"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "extra"
     },
     {
       "id": "im22-034",
@@ -1569,7 +1602,8 @@
         "immune evasion"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "extra"
     },
     {
       "id": "im22-035",
@@ -1615,7 +1649,8 @@
         "immune evasion"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "extra"
     },
     {
       "id": "im22-036",
@@ -1661,7 +1696,8 @@
         "cytotoxic T cells"
       ],
       "topicId": "tumors-and-transplants",
-      "topicName": "Tumors and Transplants"
+      "topicName": "Tumors and Transplants",
+      "tier": "extra"
     },
     {
       "id": "im23-001",
@@ -1707,7 +1743,8 @@
         "yolk sac"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "core"
     },
     {
       "id": "im23-002",
@@ -1753,7 +1790,8 @@
         "bone marrow"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "core"
     },
     {
       "id": "im23-003",
@@ -1799,7 +1837,8 @@
         "immunosenescence"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "core"
     },
     {
       "id": "im23-004",
@@ -1845,7 +1884,8 @@
         "pharyngeal pouch"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "core"
     },
     {
       "id": "im23-005",
@@ -1891,7 +1931,8 @@
         "passive immunity"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "core"
     },
     {
       "id": "im23-006",
@@ -1937,7 +1978,8 @@
         "neonate"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "core"
     },
     {
       "id": "im23-007",
@@ -1983,7 +2025,8 @@
         "pIgR"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "core"
     },
     {
       "id": "im23-008",
@@ -2029,7 +2072,8 @@
         "secretory IgA"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "core"
     },
     {
       "id": "im23-009",
@@ -2075,7 +2119,8 @@
         "antimicrobial"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "core"
     },
     {
       "id": "im23-010",
@@ -2121,7 +2166,8 @@
         "Cesarean delivery"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "core"
     },
     {
       "id": "im23-011",
@@ -2167,7 +2213,8 @@
         "reference ranges"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "core"
     },
     {
       "id": "im23-012",
@@ -2213,7 +2260,8 @@
         "T cells"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "core"
     },
     {
       "id": "im23-013",
@@ -2259,7 +2307,8 @@
         "embryology"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im23-014",
@@ -2305,7 +2354,8 @@
         "adult hematopoiesis"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im23-015",
@@ -2351,7 +2401,8 @@
         "microglia"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im23-016",
@@ -2397,7 +2448,8 @@
         "fetal-derived lymphocytes"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im23-017",
@@ -2443,7 +2495,8 @@
         "fetal liver"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im23-018",
@@ -2489,7 +2542,8 @@
         "regulatory T cells"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im23-019",
@@ -2535,7 +2589,8 @@
         "neonatal immunity"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im23-020",
@@ -2581,7 +2636,8 @@
         "immune cells"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im23-021",
@@ -2627,7 +2683,8 @@
         "oral tolerance"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im23-022",
@@ -2673,7 +2730,8 @@
         "antimicrobial"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im23-023",
@@ -2719,7 +2777,8 @@
         "prebiotics"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im23-024",
@@ -2765,7 +2824,8 @@
         "antiviral"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im23-025",
@@ -2811,7 +2871,8 @@
         "infant nutrition"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im23-026",
@@ -2857,7 +2918,8 @@
         "mucosal immunity"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im23-027",
@@ -2903,7 +2965,8 @@
         "M cells"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im23-028",
@@ -2949,7 +3012,8 @@
         "atopy"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im23-029",
@@ -2995,7 +3059,8 @@
         "reference ranges"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im23-030",
@@ -3041,7 +3106,8 @@
         "pediatrics"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im23-031",
@@ -3087,7 +3153,8 @@
         "adipose infiltration"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im23-032",
@@ -3133,7 +3200,8 @@
         "inflammation"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im23-033",
@@ -3179,7 +3247,8 @@
         "neutrophil extracellular traps"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im23-034",
@@ -3225,7 +3294,8 @@
         "myeloid bias"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im23-035",
@@ -3271,7 +3341,8 @@
         "antibody affinity"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im23-036",
@@ -3317,7 +3388,8 @@
         "CD3"
       ],
       "topicId": "effect-of-age-on-the-immune-system",
-      "topicName": "Effect of Age on the Immune System"
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "extra"
     }
   ]
 }

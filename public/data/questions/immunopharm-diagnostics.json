@@ -46,7 +46,8 @@
         "antibody-based tests"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "core"
     },
     {
       "id": "im17-002",
@@ -92,7 +93,8 @@
         "transfusion reaction"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "core"
     },
     {
       "id": "im17-003",
@@ -138,7 +140,8 @@
         "autoimmunity"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "core"
     },
     {
       "id": "im17-004",
@@ -184,7 +187,8 @@
         "titer"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "core"
     },
     {
       "id": "im17-005",
@@ -230,7 +234,8 @@
         "HIV screening"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "core"
     },
     {
       "id": "im17-006",
@@ -276,7 +281,8 @@
         "lateral flow"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "core"
     },
     {
       "id": "im17-007",
@@ -322,7 +328,8 @@
         "Lyme disease"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "core"
     },
     {
       "id": "im17-008",
@@ -368,7 +375,8 @@
         "side scatter"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "core"
     },
     {
       "id": "im17-009",
@@ -414,7 +422,8 @@
         "X-linked agammaglobulinemia"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "core"
     },
     {
       "id": "im17-010",
@@ -460,7 +469,8 @@
         "cell division"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "core"
     },
     {
       "id": "im17-011",
@@ -506,7 +516,8 @@
         "chronic granulomatous disease"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "core"
     },
     {
       "id": "im17-012",
@@ -552,7 +563,8 @@
         "tuberculosis"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "core"
     },
     {
       "id": "im17-013",
@@ -598,7 +610,8 @@
         "screening tests"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "extra"
     },
     {
       "id": "im17-014",
@@ -644,7 +657,8 @@
         "test validity"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "extra"
     },
     {
       "id": "im17-015",
@@ -690,7 +704,8 @@
         "antigen localization"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "extra"
     },
     {
       "id": "im17-016",
@@ -736,7 +751,8 @@
         "Sjogren syndrome"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "extra"
     },
     {
       "id": "im17-017",
@@ -782,7 +798,8 @@
         "assay technique"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "extra"
     },
     {
       "id": "im17-018",
@@ -828,7 +845,8 @@
         "antibody detection"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "extra"
     },
     {
       "id": "im17-019",
@@ -874,7 +892,8 @@
         "viral load"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "extra"
     },
     {
       "id": "im17-020",
@@ -920,7 +939,8 @@
         "qualitative tests"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "extra"
     },
     {
       "id": "im17-021",
@@ -966,7 +986,8 @@
         "antibody-based tests"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "extra"
     },
     {
       "id": "im17-022",
@@ -1012,7 +1033,8 @@
         "granulocytes"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "extra"
     },
     {
       "id": "im17-023",
@@ -1058,7 +1080,8 @@
         "flow cytometry"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "extra"
     },
     {
       "id": "im17-024",
@@ -1104,7 +1127,8 @@
         "NK cells"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "extra"
     },
     {
       "id": "im17-025",
@@ -1150,7 +1174,8 @@
         "T cell activation"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "extra"
     },
     {
       "id": "im17-026",
@@ -1196,7 +1221,8 @@
         "macrophages"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "extra"
     },
     {
       "id": "im17-027",
@@ -1242,7 +1268,8 @@
         "TREC"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "extra"
     },
     {
       "id": "im17-028",
@@ -1288,7 +1315,8 @@
         "cell viability"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "extra"
     },
     {
       "id": "im17-029",
@@ -1334,7 +1362,8 @@
         "FOXP3"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "extra"
     },
     {
       "id": "im17-030",
@@ -1380,7 +1409,8 @@
         "pokeweed mitogen"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "extra"
     },
     {
       "id": "im17-031",
@@ -1426,7 +1456,8 @@
         "lymphocyte function"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "extra"
     },
     {
       "id": "im17-032",
@@ -1472,7 +1503,8 @@
         "NK cells"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "extra"
     },
     {
       "id": "im17-033",
@@ -1518,7 +1550,8 @@
         "tetanus"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "extra"
     },
     {
       "id": "im17-034",
@@ -1564,7 +1597,8 @@
         "PCR"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "extra"
     },
     {
       "id": "im17-035",
@@ -1610,7 +1644,8 @@
         "nucleic acid-based tests"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "extra"
     },
     {
       "id": "im17-036",
@@ -1656,7 +1691,8 @@
         "nucleic acid-based tests"
       ],
       "topicId": "diagnostic-laboratory-immunology",
-      "topicName": "Diagnostic Laboratory Immunology"
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "extra"
     },
     {
       "id": "im18-001",
@@ -1702,7 +1738,8 @@
         "adverse effects"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "core"
     },
     {
       "id": "im18-002",
@@ -1748,7 +1785,8 @@
         "NF-kB"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "core"
     },
     {
       "id": "im18-003",
@@ -1794,7 +1832,8 @@
         "adverse effects"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "core"
     },
     {
       "id": "im18-004",
@@ -1840,7 +1879,8 @@
         "mechanism of action"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "core"
     },
     {
       "id": "im18-005",
@@ -1886,7 +1926,8 @@
         "adverse effects"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "core"
     },
     {
       "id": "im18-006",
@@ -1932,7 +1973,8 @@
         "purine synthesis"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "core"
     },
     {
       "id": "im18-007",
@@ -1978,7 +2020,8 @@
         "mechanism of action"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "core"
     },
     {
       "id": "im18-008",
@@ -2024,7 +2067,8 @@
         "tacrolimus"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "core"
     },
     {
       "id": "im18-009",
@@ -2070,7 +2114,8 @@
         "cyclosporine"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "core"
     },
     {
       "id": "im18-010",
@@ -2116,7 +2161,8 @@
         "sirolimus"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "core"
     },
     {
       "id": "im18-011",
@@ -2162,7 +2208,8 @@
         "adverse effects"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "core"
     },
     {
       "id": "im18-012",
@@ -2208,7 +2255,8 @@
         "infection risk"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "core"
     },
     {
       "id": "im18-013",
@@ -2254,7 +2302,8 @@
         "acute inflammation"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "extra"
     },
     {
       "id": "im18-014",
@@ -2300,7 +2349,8 @@
         "indications"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "extra"
     },
     {
       "id": "im18-015",
@@ -2346,7 +2396,8 @@
         "mechanisms"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "extra"
     },
     {
       "id": "im18-016",
@@ -2392,7 +2443,8 @@
         "drug class"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "extra"
     },
     {
       "id": "im18-017",
@@ -2438,7 +2490,8 @@
         "mechanism of action"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "extra"
     },
     {
       "id": "im18-018",
@@ -2484,7 +2537,8 @@
         "malignancy"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "extra"
     },
     {
       "id": "im18-019",
@@ -2530,7 +2584,8 @@
         "adverse effects"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "extra"
     },
     {
       "id": "im18-020",
@@ -2576,7 +2631,8 @@
         "adverse effects"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "extra"
     },
     {
       "id": "im18-021",
@@ -2622,7 +2678,8 @@
         "adverse effects"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "extra"
     },
     {
       "id": "im18-022",
@@ -2669,7 +2726,8 @@
         "adverse effects"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "extra"
     },
     {
       "id": "im18-023",
@@ -2715,7 +2773,8 @@
         "drug class"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "extra"
     },
     {
       "id": "im18-024",
@@ -2761,7 +2820,8 @@
         "thymidine"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "extra"
     },
     {
       "id": "im18-025",
@@ -2807,7 +2867,8 @@
         "indications"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "extra"
     },
     {
       "id": "im18-026",
@@ -2853,7 +2914,8 @@
         "adverse effects"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "extra"
     },
     {
       "id": "im18-027",
@@ -2899,7 +2961,8 @@
         "DNA cross-linking"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "extra"
     },
     {
       "id": "im18-028",
@@ -2945,7 +3008,8 @@
         "PRPP amidotransferase"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "extra"
     },
     {
       "id": "im18-029",
@@ -2991,7 +3055,8 @@
         "pancytopenia"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "extra"
     },
     {
       "id": "im18-030",
@@ -3037,7 +3102,8 @@
         "Crohn disease"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "extra"
     },
     {
       "id": "im18-031",
@@ -3083,7 +3149,8 @@
         "cyclosporine"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "extra"
     },
     {
       "id": "im18-032",
@@ -3129,7 +3196,8 @@
         "atopic dermatitis"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "extra"
     },
     {
       "id": "im18-033",
@@ -3175,7 +3243,8 @@
         "indications"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "extra"
     },
     {
       "id": "im18-034",
@@ -3221,7 +3290,8 @@
         "kinase"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "extra"
     },
     {
       "id": "im18-035",
@@ -3267,7 +3337,8 @@
         "lymphoma"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "extra"
     },
     {
       "id": "im18-036",
@@ -3313,7 +3384,8 @@
         "immune surveillance"
       ],
       "topicId": "immunosuppressants",
-      "topicName": "Immunosuppressants"
+      "topicName": "Immunosuppressants",
+      "tier": "extra"
     },
     {
       "id": "im19-001",
@@ -3360,7 +3432,8 @@
         "biologic screening"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "core"
     },
     {
       "id": "im19-002",
@@ -3407,7 +3480,8 @@
         "-ximab"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "core"
     },
     {
       "id": "im19-003",
@@ -3454,7 +3528,8 @@
         "mast cell"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "core"
     },
     {
       "id": "im19-004",
@@ -3501,7 +3576,8 @@
         "decoy receptor"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "core"
     },
     {
       "id": "im19-005",
@@ -3548,7 +3624,8 @@
         "costimulation blockade"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "core"
     },
     {
       "id": "im19-006",
@@ -3594,7 +3671,8 @@
         "blood-brain barrier"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "core"
     },
     {
       "id": "im19-007",
@@ -3641,7 +3719,8 @@
         "cytokine release syndrome"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "core"
     },
     {
       "id": "im19-008",
@@ -3688,7 +3767,8 @@
         "psoriatic arthritis"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "core"
     },
     {
       "id": "im19-009",
@@ -3735,7 +3815,8 @@
         "adverse effect"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "core"
     },
     {
       "id": "im19-010",
@@ -3782,7 +3863,8 @@
         "mitigation"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "core"
     },
     {
       "id": "im19-011",
@@ -3828,7 +3910,8 @@
         "pharmacology"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "core"
     },
     {
       "id": "im19-012",
@@ -3875,7 +3958,8 @@
         "nomenclature"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "core"
     },
     {
       "id": "im19-013",
@@ -3921,7 +4005,8 @@
         "living systems"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "extra"
     },
     {
       "id": "im19-014",
@@ -3968,7 +4053,8 @@
         "immunogenicity"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "extra"
     },
     {
       "id": "im19-015",
@@ -4015,7 +4101,8 @@
         "nomenclature"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "extra"
     },
     {
       "id": "im19-016",
@@ -4062,7 +4149,8 @@
         "production"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "extra"
     },
     {
       "id": "im19-017",
@@ -4109,7 +4197,8 @@
         "nomenclature"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "extra"
     },
     {
       "id": "im19-018",
@@ -4156,7 +4245,8 @@
         "bamlanivimab"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "extra"
     },
     {
       "id": "im19-019",
@@ -4203,7 +4293,8 @@
         "-zumab"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "extra"
     },
     {
       "id": "im19-020",
@@ -4250,7 +4341,8 @@
         "interleukin substem"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "extra"
     },
     {
       "id": "im19-021",
@@ -4297,7 +4389,8 @@
         "Staphylococcus"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "extra"
     },
     {
       "id": "im19-022",
@@ -4344,7 +4437,8 @@
         "-umab"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "extra"
     },
     {
       "id": "im19-023",
@@ -4390,7 +4484,8 @@
         "pronunciation vowel"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "extra"
     },
     {
       "id": "im19-024",
@@ -4437,7 +4532,8 @@
         "periodic fever syndrome"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "extra"
     },
     {
       "id": "im19-025",
@@ -4483,7 +4579,8 @@
         "IL-17A"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "extra"
     },
     {
       "id": "im19-026",
@@ -4530,7 +4627,8 @@
         "indications"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "extra"
     },
     {
       "id": "im19-027",
@@ -4576,7 +4674,8 @@
         "IL-6 receptor"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "extra"
     },
     {
       "id": "im19-028",
@@ -4623,7 +4722,8 @@
         "costimulation"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "extra"
     },
     {
       "id": "im19-029",
@@ -4670,7 +4770,8 @@
         "Fc region"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "extra"
     },
     {
       "id": "im19-030",
@@ -4717,7 +4818,8 @@
         "decoy receptor"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "extra"
     },
     {
       "id": "im19-031",
@@ -4763,7 +4865,8 @@
         "inflammation"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "extra"
     },
     {
       "id": "im19-032",
@@ -4809,7 +4912,8 @@
         "recombinant protein"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "extra"
     },
     {
       "id": "im19-033",
@@ -4855,7 +4959,8 @@
         "immunosuppression"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "extra"
     },
     {
       "id": "im19-034",
@@ -4902,7 +5007,8 @@
         "cost"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "extra"
     },
     {
       "id": "im19-035",
@@ -4949,7 +5055,8 @@
         "immunogenicity"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "extra"
     },
     {
       "id": "im19-036",
@@ -4996,7 +5103,8 @@
         "triglycerides"
       ],
       "topicId": "biologic-agents",
-      "topicName": "Biologic Agents"
+      "topicName": "Biologic Agents",
+      "tier": "extra"
     },
     {
       "id": "im20-001",
@@ -5041,7 +5149,8 @@
         "immunoglobulin"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "core"
     },
     {
       "id": "im20-002",
@@ -5087,7 +5196,8 @@
         "FcRn"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "core"
     },
     {
       "id": "im20-003",
@@ -5132,7 +5242,8 @@
         "immunologic memory"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "core"
     },
     {
       "id": "im20-004",
@@ -5178,7 +5289,8 @@
         "class switching"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "core"
     },
     {
       "id": "im20-005",
@@ -5224,7 +5336,8 @@
         "immunocompromised"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "core"
     },
     {
       "id": "im20-006",
@@ -5270,7 +5383,8 @@
         "varicella"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "core"
     },
     {
       "id": "im20-007",
@@ -5315,7 +5429,8 @@
         "tetanus"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "core"
     },
     {
       "id": "im20-008",
@@ -5361,7 +5476,8 @@
         "polysaccharide"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "core"
     },
     {
       "id": "im20-009",
@@ -5407,7 +5523,8 @@
         "dendritic cells"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "core"
     },
     {
       "id": "im20-010",
@@ -5453,7 +5570,8 @@
         "MHC presentation"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "core"
     },
     {
       "id": "im20-011",
@@ -5498,7 +5616,8 @@
         "population immunity"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "core"
     },
     {
       "id": "im20-012",
@@ -5544,7 +5663,8 @@
         "boosters"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "core"
     },
     {
       "id": "im20-013",
@@ -5590,7 +5710,8 @@
         "passive immunization"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "extra"
     },
     {
       "id": "im20-014",
@@ -5635,7 +5756,8 @@
         "natural passive immunity"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "extra"
     },
     {
       "id": "im20-015",
@@ -5680,7 +5802,8 @@
         "Th2 to Th1"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "extra"
     },
     {
       "id": "im20-016",
@@ -5725,7 +5848,8 @@
         "primary vs secondary response"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "extra"
     },
     {
       "id": "im20-017",
@@ -5771,7 +5895,8 @@
         "threshold"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "extra"
     },
     {
       "id": "im20-018",
@@ -5818,7 +5943,8 @@
         "dendritic cells"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "extra"
     },
     {
       "id": "im20-019",
@@ -5864,7 +5990,8 @@
         "cytotoxic T cells"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "extra"
     },
     {
       "id": "im20-020",
@@ -5909,7 +6036,8 @@
         "live attenuated vaccine"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "extra"
     },
     {
       "id": "im20-021",
@@ -5955,7 +6083,8 @@
         "Salk vaccine"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "extra"
     },
     {
       "id": "im20-022",
@@ -6000,7 +6129,8 @@
         "hepatitis A"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "extra"
     },
     {
       "id": "im20-023",
@@ -6046,7 +6176,8 @@
         "whole-cell vaccine"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "extra"
     },
     {
       "id": "im20-024",
@@ -6092,7 +6223,8 @@
         "adjuvant"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "extra"
     },
     {
       "id": "im20-025",
@@ -6138,7 +6270,8 @@
         "yeast"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "extra"
     },
     {
       "id": "im20-026",
@@ -6183,7 +6316,8 @@
         "HPV vaccine"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "extra"
     },
     {
       "id": "im20-027",
@@ -6229,7 +6363,8 @@
         "transplacental IgG"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "extra"
     },
     {
       "id": "im20-028",
@@ -6275,7 +6410,8 @@
         "infants"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "extra"
     },
     {
       "id": "im20-029",
@@ -6322,7 +6458,8 @@
         "carrier protein"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "extra"
     },
     {
       "id": "im20-030",
@@ -6369,7 +6506,8 @@
         "DTaP"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "extra"
     },
     {
       "id": "im20-031",
@@ -6415,7 +6553,8 @@
         "age-dependent response"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "extra"
     },
     {
       "id": "im20-032",
@@ -6461,7 +6600,8 @@
         "adenovirus"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "extra"
     },
     {
       "id": "im20-033",
@@ -6507,7 +6647,8 @@
         "Table 1"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "extra"
     },
     {
       "id": "im20-034",
@@ -6552,7 +6693,8 @@
         "anaphylaxis"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "extra"
     },
     {
       "id": "im20-035",
@@ -6598,7 +6740,8 @@
         "deferral"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "extra"
     },
     {
       "id": "im20-036",
@@ -6645,7 +6788,8 @@
         "varicella"
       ],
       "topicId": "vaccines",
-      "topicName": "Vaccines"
+      "topicName": "Vaccines",
+      "tier": "extra"
     }
   ]
 }

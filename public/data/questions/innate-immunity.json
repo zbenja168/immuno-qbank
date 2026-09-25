@@ -46,7 +46,8 @@
         "autoimmunity"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "core"
     },
     {
       "id": "im01-002",
@@ -91,7 +92,8 @@
         "tissue repair"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "core"
     },
     {
       "id": "im01-003",
@@ -137,7 +139,8 @@
         "T cells"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "core"
     },
     {
       "id": "im01-004",
@@ -183,7 +186,8 @@
         "stem cells"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "core"
     },
     {
       "id": "im01-005",
@@ -229,7 +233,8 @@
         "phagocytes"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "core"
     },
     {
       "id": "im01-006",
@@ -275,7 +280,8 @@
         "hypersensitivity"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "core"
     },
     {
       "id": "im01-007",
@@ -321,7 +327,8 @@
         "cytotoxicity"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "core"
     },
     {
       "id": "im01-008",
@@ -367,7 +374,8 @@
         "PAMPs"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "core"
     },
     {
       "id": "im01-009",
@@ -413,7 +421,8 @@
         "lysozyme"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "core"
     },
     {
       "id": "im01-010",
@@ -459,7 +468,8 @@
         "soluble components"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "core"
     },
     {
       "id": "im01-011",
@@ -505,7 +515,8 @@
         "antibodies"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "core"
     },
     {
       "id": "im01-012",
@@ -551,7 +562,8 @@
         "MHC class I"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "core"
     },
     {
       "id": "im01-013",
@@ -597,7 +609,8 @@
         "tolerance"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im01-014",
@@ -643,7 +656,8 @@
         "BALT"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im01-015",
@@ -689,7 +703,8 @@
         "natural killer cells"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im01-016",
@@ -735,7 +750,8 @@
         "macrophages"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im01-017",
@@ -781,7 +797,8 @@
         "antigen presentation"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im01-018",
@@ -827,7 +844,8 @@
         "antigen presentation"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im01-019",
@@ -873,7 +891,8 @@
         "parasites"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im01-020",
@@ -919,7 +938,8 @@
         "mast cells"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im01-021",
@@ -965,7 +985,8 @@
         "physical barriers"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im01-022",
@@ -1011,7 +1032,8 @@
         "natural killer cells"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im01-023",
@@ -1057,7 +1079,8 @@
         "innate vs adaptive"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im01-024",
@@ -1103,7 +1126,8 @@
         "secondary immune response"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im01-025",
@@ -1149,7 +1173,8 @@
         "gene rearrangement"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im01-026",
@@ -1195,7 +1220,8 @@
         "C. difficile"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im01-027",
@@ -1241,7 +1267,8 @@
         "skin pH"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im01-028",
@@ -1287,7 +1314,8 @@
         "lactoferrin"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im01-029",
@@ -1333,7 +1361,8 @@
         "cilia"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im01-030",
@@ -1379,7 +1408,8 @@
         "antigen-presenting cells"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im01-031",
@@ -1425,7 +1455,8 @@
         "cell-mediated immunity"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im01-032",
@@ -1471,7 +1502,8 @@
         "homeostasis"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im01-033",
@@ -1517,7 +1549,8 @@
         "vaccines"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im01-034",
@@ -1563,7 +1596,8 @@
         "cell-mediated immunity"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im01-035",
@@ -1609,7 +1643,8 @@
         "primary lymphoid organs"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im01-036",
@@ -1655,7 +1690,8 @@
         "memory"
       ],
       "topicId": "introduction-to-the-immune-system",
-      "topicName": "Introduction to the Immune System"
+      "topicName": "Introduction to the Immune System",
+      "tier": "extra"
     },
     {
       "id": "im02-001",
@@ -1702,7 +1738,8 @@
         "pattern recognition receptors"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "core"
     },
     {
       "id": "im02-002",
@@ -1749,7 +1786,8 @@
         "endosome"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "core"
     },
     {
       "id": "im02-003",
@@ -1796,7 +1834,8 @@
         "Crohn disease"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "core"
     },
     {
       "id": "im02-004",
@@ -1842,7 +1881,8 @@
         "inflammatory bowel disease"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "core"
     },
     {
       "id": "im02-005",
@@ -1889,7 +1929,8 @@
         "pro-inflammatory cytokines"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "core"
     },
     {
       "id": "im02-006",
@@ -1936,7 +1977,8 @@
         "chemotaxis"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "core"
     },
     {
       "id": "im02-007",
@@ -1983,7 +2025,8 @@
         "MHC class I"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "core"
     },
     {
       "id": "im02-008",
@@ -2030,7 +2073,8 @@
         "MHC class II"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "core"
     },
     {
       "id": "im02-009",
@@ -2077,7 +2121,8 @@
         "viral immune evasion"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "core"
     },
     {
       "id": "im02-010",
@@ -2124,7 +2169,8 @@
         "antibody"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "core"
     },
     {
       "id": "im02-011",
@@ -2171,7 +2217,8 @@
         "apoptosis"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "core"
     },
     {
       "id": "im02-012",
@@ -2218,7 +2265,8 @@
         "systemic inflammation"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "core"
     },
     {
       "id": "im02-013",
@@ -2265,7 +2313,8 @@
         "pattern recognition receptors"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "extra"
     },
     {
       "id": "im02-014",
@@ -2312,7 +2361,8 @@
         "DAMPs"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "extra"
     },
     {
       "id": "im02-015",
@@ -2359,7 +2409,8 @@
         "external TLRs"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "extra"
     },
     {
       "id": "im02-016",
@@ -2406,7 +2457,8 @@
         "endosome"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "extra"
     },
     {
       "id": "im02-017",
@@ -2453,7 +2505,8 @@
         "type I interferon"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "extra"
     },
     {
       "id": "im02-018",
@@ -2500,7 +2553,8 @@
         "clinical correlation"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "extra"
     },
     {
       "id": "im02-019",
@@ -2547,7 +2601,8 @@
         "neutropenia"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "extra"
     },
     {
       "id": "im02-020",
@@ -2593,7 +2648,8 @@
         "pro-inflammatory cytokines"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "extra"
     },
     {
       "id": "im02-021",
@@ -2640,7 +2696,8 @@
         "pro-inflammatory cytokines"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "extra"
     },
     {
       "id": "im02-022",
@@ -2687,7 +2744,8 @@
         "Crohn disease"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "extra"
     },
     {
       "id": "im02-023",
@@ -2734,7 +2792,8 @@
         "leukocyte migration"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "extra"
     },
     {
       "id": "im02-024",
@@ -2781,7 +2840,8 @@
         "translation"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "extra"
     },
     {
       "id": "im02-025",
@@ -2828,7 +2888,8 @@
         "antiviral therapy"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "extra"
     },
     {
       "id": "im02-026",
@@ -2875,7 +2936,8 @@
         "NK activation"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "extra"
     },
     {
       "id": "im02-027",
@@ -2921,7 +2983,8 @@
         "wound healing"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "extra"
     },
     {
       "id": "im02-028",
@@ -2968,7 +3031,8 @@
         "TGF-beta"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "extra"
     },
     {
       "id": "im02-029",
@@ -3015,7 +3079,8 @@
         "systemic inflammation"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "extra"
     },
     {
       "id": "im02-030",
@@ -3062,7 +3127,8 @@
         "sepsis"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "extra"
     },
     {
       "id": "im02-031",
@@ -3109,7 +3175,8 @@
         "TLR4"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "extra"
     },
     {
       "id": "im02-032",
@@ -3156,7 +3223,8 @@
         "cardinal signs"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "extra"
     },
     {
       "id": "im02-033",
@@ -3203,7 +3271,8 @@
         "pus"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "extra"
     },
     {
       "id": "im02-034",
@@ -3250,7 +3319,8 @@
         "NK activation"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "extra"
     },
     {
       "id": "im02-035",
@@ -3297,7 +3367,8 @@
         "apoptosis"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "extra"
     },
     {
       "id": "im02-036",
@@ -3344,7 +3415,8 @@
         "acute respiratory distress"
       ],
       "topicId": "innate-receptors-and-cytokines",
-      "topicName": "Innate Receptors and Cytokines"
+      "topicName": "Innate Receptors and Cytokines",
+      "tier": "extra"
     },
     {
       "id": "im03-001",
@@ -3390,7 +3462,8 @@
         "blood smear"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "core"
     },
     {
       "id": "im03-002",
@@ -3436,7 +3509,8 @@
         "chronic granulomatous disease"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "core"
     },
     {
       "id": "im03-003",
@@ -3482,7 +3556,8 @@
         "acute phase proteins"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "core"
     },
     {
       "id": "im03-004",
@@ -3528,7 +3603,8 @@
         "fever"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "core"
     },
     {
       "id": "im03-005",
@@ -3574,7 +3650,8 @@
         "M1 polarization"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "core"
     },
     {
       "id": "im03-006",
@@ -3620,7 +3697,8 @@
         "professional APCs"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "core"
     },
     {
       "id": "im03-007",
@@ -3666,7 +3744,8 @@
         "antigen trafficking"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "core"
     },
     {
       "id": "im03-008",
@@ -3712,7 +3791,8 @@
         "innate immunity"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "core"
     },
     {
       "id": "im03-009",
@@ -3758,7 +3838,8 @@
         "phagocytes"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "core"
     },
     {
       "id": "im03-010",
@@ -3804,7 +3885,8 @@
         "tissue repair"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "core"
     },
     {
       "id": "im03-011",
@@ -3850,7 +3932,8 @@
         "nitric oxide"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "core"
     },
     {
       "id": "im03-012",
@@ -3896,7 +3979,8 @@
         "antigen trafficking"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "core"
     },
     {
       "id": "im03-013",
@@ -3942,7 +4026,8 @@
         "phagolysosome"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "extra"
     },
     {
       "id": "im03-014",
@@ -3988,7 +4073,8 @@
         "phagolysosome"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "extra"
     },
     {
       "id": "im03-015",
@@ -4034,7 +4120,8 @@
         "neutrophils"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "extra"
     },
     {
       "id": "im03-016",
@@ -4080,7 +4167,8 @@
         "tissue-resident macrophages"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "extra"
     },
     {
       "id": "im03-017",
@@ -4126,7 +4214,8 @@
         "viral infection"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "extra"
     },
     {
       "id": "im03-018",
@@ -4172,7 +4261,8 @@
         "blood smear"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "extra"
     },
     {
       "id": "im03-019",
@@ -4218,7 +4308,8 @@
         "bone marrow"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "extra"
     },
     {
       "id": "im03-020",
@@ -4264,7 +4355,8 @@
         "phagocytosis"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "extra"
     },
     {
       "id": "im03-021",
@@ -4310,7 +4402,8 @@
         "immune evasion"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "extra"
     },
     {
       "id": "im03-022",
@@ -4356,7 +4449,8 @@
         "transferrin"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "extra"
     },
     {
       "id": "im03-023",
@@ -4402,7 +4496,8 @@
         "inflammation markers"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "extra"
     },
     {
       "id": "im03-024",
@@ -4448,7 +4543,8 @@
         "clinical correlation"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "extra"
     },
     {
       "id": "im03-025",
@@ -4494,7 +4590,8 @@
         "M1 macrophages"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "extra"
     },
     {
       "id": "im03-026",
@@ -4540,7 +4637,8 @@
         "IL-13"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "extra"
     },
     {
       "id": "im03-027",
@@ -4586,7 +4684,8 @@
         "viral infection"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "extra"
     },
     {
       "id": "im03-028",
@@ -4632,7 +4731,8 @@
         "clinical correlation"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "extra"
     },
     {
       "id": "im03-029",
@@ -4678,7 +4778,8 @@
         "mononucleosis"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "extra"
     },
     {
       "id": "im03-030",
@@ -4724,7 +4825,8 @@
         "cognate antigen"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "extra"
     },
     {
       "id": "im03-031",
@@ -4770,7 +4872,8 @@
         "reactive oxygen species"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "extra"
     },
     {
       "id": "im03-032",
@@ -4816,7 +4919,8 @@
         "myeloperoxidase"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "extra"
     },
     {
       "id": "im03-033",
@@ -4862,7 +4966,8 @@
         "antimicrobial proteins"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "extra"
     },
     {
       "id": "im03-034",
@@ -4908,7 +5013,8 @@
         "tissue repair"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "extra"
     },
     {
       "id": "im03-035",
@@ -4955,7 +5061,8 @@
         "dendritic cell migration"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "extra"
     },
     {
       "id": "im03-036",
@@ -5001,7 +5108,8 @@
         "secondary lymphoid organs"
       ],
       "topicId": "phagocyte-function",
-      "topicName": "Phagocyte Function"
+      "topicName": "Phagocyte Function",
+      "tier": "extra"
     },
     {
       "id": "im04-001",
@@ -5048,7 +5156,8 @@
         "Neisseria"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "core"
     },
     {
       "id": "im04-002",
@@ -5095,7 +5204,8 @@
         "lupus"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "core"
     },
     {
       "id": "im04-003",
@@ -5141,7 +5251,8 @@
         "bradykinin"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "core"
     },
     {
       "id": "im04-004",
@@ -5188,7 +5299,8 @@
         "pharmacology"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "core"
     },
     {
       "id": "im04-005",
@@ -5235,7 +5347,8 @@
         "complement regulation"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "core"
     },
     {
       "id": "im04-006",
@@ -5282,7 +5395,8 @@
         "treatment"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "core"
     },
     {
       "id": "im04-007",
@@ -5329,7 +5443,8 @@
         "chemotaxis"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "core"
     },
     {
       "id": "im04-008",
@@ -5376,7 +5491,8 @@
         "C3 convertase"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "core"
     },
     {
       "id": "im04-009",
@@ -5423,7 +5539,8 @@
         "antibody"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "core"
     },
     {
       "id": "im04-010",
@@ -5470,7 +5587,8 @@
         "lupus"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "core"
     },
     {
       "id": "im04-011",
@@ -5517,7 +5635,8 @@
         "lysis"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "core"
     },
     {
       "id": "im04-012",
@@ -5563,7 +5682,8 @@
         "MASPs"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "core"
     },
     {
       "id": "im04-013",
@@ -5609,7 +5729,8 @@
         "soluble proteins"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "extra"
     },
     {
       "id": "im04-014",
@@ -5656,7 +5777,8 @@
         "phagocytosis"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "extra"
     },
     {
       "id": "im04-015",
@@ -5702,7 +5824,8 @@
         "CR1"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "extra"
     },
     {
       "id": "im04-016",
@@ -5749,7 +5872,8 @@
         "histamine"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "extra"
     },
     {
       "id": "im04-017",
@@ -5795,7 +5919,8 @@
         "B cell activation"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "extra"
     },
     {
       "id": "im04-018",
@@ -5841,7 +5966,8 @@
         "mannose-binding lectin"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "extra"
     },
     {
       "id": "im04-019",
@@ -5888,7 +6014,8 @@
         "immune complexes"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "extra"
     },
     {
       "id": "im04-020",
@@ -5934,7 +6061,8 @@
         "pathway convergence"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "extra"
     },
     {
       "id": "im04-021",
@@ -5981,7 +6109,8 @@
         "regulation"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "extra"
     },
     {
       "id": "im04-022",
@@ -6028,7 +6157,8 @@
         "C2"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "extra"
     },
     {
       "id": "im04-023",
@@ -6075,7 +6205,8 @@
         "acute phase reactant"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "extra"
     },
     {
       "id": "im04-024",
@@ -6122,7 +6253,8 @@
         "lectin pathway"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "extra"
     },
     {
       "id": "im04-025",
@@ -6168,7 +6300,8 @@
         "C3 hydrolysis"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "extra"
     },
     {
       "id": "im04-026",
@@ -6215,7 +6348,8 @@
         "properdin"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "extra"
     },
     {
       "id": "im04-027",
@@ -6261,7 +6395,8 @@
         "membrane attack complex"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "extra"
     },
     {
       "id": "im04-028",
@@ -6309,7 +6444,8 @@
         "encapsulated bacteria"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "extra"
     },
     {
       "id": "im04-029",
@@ -6356,7 +6492,8 @@
         "diagnosis"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "extra"
     },
     {
       "id": "im04-030",
@@ -6403,7 +6540,8 @@
         "laryngeal edema"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "extra"
     },
     {
       "id": "im04-031",
@@ -6449,7 +6587,8 @@
         "clinical presentation"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "extra"
     },
     {
       "id": "im04-032",
@@ -6496,7 +6635,8 @@
         "paroxysmal nocturnal hemoglobinuria"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "extra"
     },
     {
       "id": "im04-033",
@@ -6542,7 +6682,8 @@
         "hemolysis"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "extra"
     },
     {
       "id": "im04-034",
@@ -6589,7 +6730,8 @@
         "severity"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "extra"
     },
     {
       "id": "im04-035",
@@ -6636,7 +6778,8 @@
         "opsonization"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "extra"
     },
     {
       "id": "im04-036",
@@ -6683,7 +6826,8 @@
         "immune complexes"
       ],
       "topicId": "complement-system",
-      "topicName": "Complement System"
+      "topicName": "Complement System",
+      "tier": "extra"
     },
     {
       "id": "im05-001",
@@ -6729,7 +6873,8 @@
         "innate immunodeficiency"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "core"
     },
     {
       "id": "im05-002",
@@ -6775,7 +6920,8 @@
         "LFA-1"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "core"
     },
     {
       "id": "im05-003",
@@ -6821,7 +6967,8 @@
         "rolling"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "core"
     },
     {
       "id": "im05-004",
@@ -6867,7 +7014,8 @@
         "firm adhesion"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "core"
     },
     {
       "id": "im05-005",
@@ -6913,7 +7061,8 @@
         "diapedesis"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "core"
     },
     {
       "id": "im05-006",
@@ -6959,7 +7108,8 @@
         "giant granules"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "core"
     },
     {
       "id": "im05-007",
@@ -7005,7 +7155,8 @@
         "lysosome"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "core"
     },
     {
       "id": "im05-008",
@@ -7051,7 +7202,8 @@
         "bleeding"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "core"
     },
     {
       "id": "im05-009",
@@ -7097,7 +7249,8 @@
         "pancytopenia"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "core"
     },
     {
       "id": "im05-010",
@@ -7143,7 +7296,8 @@
         "diagnosis"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "core"
     },
     {
       "id": "im05-011",
@@ -7189,7 +7343,8 @@
         "respiratory burst"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "core"
     },
     {
       "id": "im05-012",
@@ -7235,7 +7390,8 @@
         "X-linked"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "core"
     },
     {
       "id": "im05-013",
@@ -7280,7 +7436,8 @@
         "primary vs secondary immunodeficiency"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "extra"
     },
     {
       "id": "im05-014",
@@ -7326,7 +7483,8 @@
         "cytokines"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "extra"
     },
     {
       "id": "im05-015",
@@ -7372,7 +7530,8 @@
         "P-selectin"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "extra"
     },
     {
       "id": "im05-016",
@@ -7418,7 +7577,8 @@
         "exercise"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "extra"
     },
     {
       "id": "im05-017",
@@ -7464,7 +7624,8 @@
         "adhesion molecules"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "extra"
     },
     {
       "id": "im05-018",
@@ -7511,7 +7672,8 @@
         "ICAM-1"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "extra"
     },
     {
       "id": "im05-019",
@@ -7557,7 +7719,8 @@
         "complement fragments"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "extra"
     },
     {
       "id": "im05-020",
@@ -7604,7 +7767,8 @@
         "carriers"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "extra"
     },
     {
       "id": "im05-021",
@@ -7650,7 +7814,8 @@
         "leukocytosis"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "extra"
     },
     {
       "id": "im05-022",
@@ -7696,7 +7861,8 @@
         "treatment"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "extra"
     },
     {
       "id": "im05-023",
@@ -7743,7 +7909,8 @@
         "granulocyte transfusion"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "extra"
     },
     {
       "id": "im05-024",
@@ -7789,7 +7956,8 @@
         "inheritance"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "extra"
     },
     {
       "id": "im05-025",
@@ -7835,7 +8003,8 @@
         "vesicles"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "extra"
     },
     {
       "id": "im05-026",
@@ -7881,7 +8050,8 @@
         "melanosomes"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "extra"
     },
     {
       "id": "im05-027",
@@ -7927,7 +8097,8 @@
         "HSCT limitations"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "extra"
     },
     {
       "id": "im05-028",
@@ -7974,7 +8145,8 @@
         "viral infections"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "extra"
     },
     {
       "id": "im05-029",
@@ -8021,7 +8193,8 @@
         "blood smear"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "extra"
     },
     {
       "id": "im05-030",
@@ -8067,7 +8240,8 @@
         "neutropenia"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "extra"
     },
     {
       "id": "im05-031",
@@ -8113,7 +8287,8 @@
         "hydrogen peroxide"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "extra"
     },
     {
       "id": "im05-032",
@@ -8159,7 +8334,8 @@
         "NADPH oxidase"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "extra"
     },
     {
       "id": "im05-033",
@@ -8205,7 +8381,8 @@
         "sex chromosomes"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "extra"
     },
     {
       "id": "im05-034",
@@ -8251,7 +8428,8 @@
         "abscess"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "extra"
     },
     {
       "id": "im05-035",
@@ -8297,7 +8475,8 @@
         "treatment"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "extra"
     },
     {
       "id": "im05-036",
@@ -8343,7 +8522,8 @@
         "respiratory tract"
       ],
       "topicId": "inborn-errors-of-innate-immunity",
-      "topicName": "Inborn Errors of Innate Immunity"
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "extra"
     }
   ]
 }
