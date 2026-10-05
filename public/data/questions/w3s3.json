@@ -1,0 +1,570 @@
+{
+  "categoryId": "w3s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "im23-001",
+      "stem": "A researcher studies blood cell formation in a human embryo at roughly 4 weeks after fertilization, well before the liver or bone marrow are functional. Which of the following structures is the primary source of hematopoietic stem cells at this earliest stage of development?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bone marrow"
+        },
+        {
+          "label": "B",
+          "text": "Fetal liver"
+        },
+        {
+          "label": "C",
+          "text": "Spleen"
+        },
+        {
+          "label": "D",
+          "text": "Thymus"
+        },
+        {
+          "label": "E",
+          "text": "Yolk sac"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hematopoiesis begins in the extraembryonic yolk sac before shifting to the fetal liver and finally the bone marrow.",
+        "whyCorrect": "Until roughly 2 months (about 8 weeks) post-fertilization, hematopoietic stem cells and the developing myeloid and lymphoid cells are made primarily by the yolk sac, an extraembryonic structure. Only later does blood formation move into the embryo proper.",
+        "whyWrongByChoice": {
+          "A": "The bone marrow does not become the primary hematopoietic site until roughly 7-8 months post-fertilization.",
+          "B": "The fetal liver becomes the dominant site later, from about weeks 10-24, not at 4 weeks.",
+          "C": "The spleen only makes a minor contribution during mid-gestation, not at the earliest stage.",
+          "D": "The thymus is the site of T-cell maturation and contributes only minimally to hematopoiesis, not at 4 weeks."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hematopoiesis",
+        "embryology",
+        "yolk sac"
+      ],
+      "topicId": "effect-of-age-on-the-immune-system",
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "core"
+    },
+    {
+      "id": "im23-002",
+      "stem": "A hematologist explains that some leukocytes in adults are continuously produced in the bone marrow, whereas others are long-lived tissue-resident populations seeded before birth. Which of the following cell types is generated exclusively from the bone marrow in an adult?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alveolar macrophages"
+        },
+        {
+          "label": "B",
+          "text": "Epidermal Langerhans cells"
+        },
+        {
+          "label": "C",
+          "text": "Mast cells"
+        },
+        {
+          "label": "D",
+          "text": "Microglia"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophils"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Neutrophils are short-lived circulating cells made continuously in the marrow, unlike fetal-derived tissue-resident cells.",
+        "whyCorrect": "Neutrophils are circulating cells that are not tissue-resident; they survive in tissues only a few days and must be replenished from bone marrow throughout life. Many tissue-resident populations, by contrast, originate at least in part from fetal sources and self-renew.",
+        "whyWrongByChoice": {
+          "A": "Alveolar macrophages are tissue-resident cells derived at least in part from the fetus.",
+          "B": "Langerhans cells are fetal-derived epidermal macrophage-like cells, not marrow-exclusive.",
+          "C": "Mast cell populations are at least partially derived from the fetus.",
+          "D": "Microglia are macrophages derived exclusively from the fetus and self-renew without bone marrow input."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neutrophils",
+        "tissue-resident cells",
+        "bone marrow"
+      ],
+      "topicId": "effect-of-age-on-the-immune-system",
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "core"
+    },
+    {
+      "id": "im23-003",
+      "stem": "A neuroscientist studying an older adult with progressive neurodegenerative disease focuses on a self-renewing, tissue-resident macrophage of the brain whose age-related dysfunction, driven by telomere shortening and oxidative stress, is linked to Alzheimer's and Parkinson's disease. This cell is derived exclusively from the fetus. Which of the following cells is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alveolar macrophages"
+        },
+        {
+          "label": "B",
+          "text": "B-1 cells"
+        },
+        {
+          "label": "C",
+          "text": "Kupffer cells"
+        },
+        {
+          "label": "D",
+          "text": "Microglia"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophils"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Microglia are fetal-derived CNS macrophages whose aging is tied to neurodegenerative disease.",
+        "whyCorrect": "Microglia support and protect the central nervous system and are derived exclusively from the fetus. Aging affects microglia through telomere shortening, DNA damage, and oxidative stress, impairing self-renewal; this dysfunction is associated with cognitive decline and with Alzheimer's and Parkinson's disease.",
+        "whyWrongByChoice": {
+          "A": "Alveolar macrophages reside in the lung, not the brain.",
+          "B": "B-1 cells are a fetal-derived B-lymphocyte subset that secretes low-affinity IgM, not CNS macrophages.",
+          "C": "Kupffer cells are liver macrophages of fetal origin that are gradually replaced by marrow-derived cells, not a CNS population.",
+          "E": "Neutrophils are short-lived circulating marrow-derived cells, not brain-resident macrophages."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "microglia",
+        "tissue-resident cells",
+        "immunosenescence"
+      ],
+      "topicId": "effect-of-age-on-the-immune-system",
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "core"
+    },
+    {
+      "id": "im23-004",
+      "stem": "During a study of thymic development, an investigator traces the stromal framework of the thymus, including its cortical and medullary epithelial cells, back to a single embryologic structure. From which of the following does the thymic stroma arise?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fetal liver endodermal cells"
+        },
+        {
+          "label": "B",
+          "text": "Neural crest ectodermal cells"
+        },
+        {
+          "label": "C",
+          "text": "Paraxial mesoderm of the somites"
+        },
+        {
+          "label": "D",
+          "text": "Third pharyngeal pouch endoderm"
+        },
+        {
+          "label": "E",
+          "text": "Yolk sac mesoderm and blood islands"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The thymic stroma originates from endodermal cells of the ventral third pharyngeal pouch.",
+        "whyCorrect": "The thymus originates during early gestation from endodermal cells of the ventral third pharyngeal pouch. Its stromal (supportive, non-hemopoietic) cells, including cortical and medullary thymic epithelial cells, fibroblasts, connective tissue cells, and endothelial cells, all arise from the third pharyngeal pouch.",
+        "whyWrongByChoice": {
+          "A": "Developing T cells are hematopoietic and invade the thymus; the fetal liver does not form the thymic stroma.",
+          "B": "The brick attributes thymic stroma to third pharyngeal pouch endoderm, not neural crest ectoderm.",
+          "C": "Somites are nascent body segments and do not give rise to the thymic stroma.",
+          "E": "The yolk sac is a hematopoietic source, not the origin of the thymic stromal framework."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "thymus",
+        "embryology",
+        "pharyngeal pouch"
+      ],
+      "topicId": "effect-of-age-on-the-immune-system",
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "core"
+    },
+    {
+      "id": "im23-005",
+      "stem": "A full-term newborn is found to have serum IgG levels equivalent to those of an adult, despite never having mounted its own antibody response. Which of the following receptors is responsible for transporting this IgG from the parent to the fetus across the placenta?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complement receptor 1 (CR1)"
+        },
+        {
+          "label": "B",
+          "text": "Fc-gamma receptor III (CD16)"
+        },
+        {
+          "label": "C",
+          "text": "Mannose receptor"
+        },
+        {
+          "label": "D",
+          "text": "Neonatal Fc receptor (FcRn)"
+        },
+        {
+          "label": "E",
+          "text": "Polymeric immunoglobulin receptor (pIgR)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Transplacental IgG transfer is mediated by the neonatal Fc receptor (FcRn).",
+        "whyCorrect": "During the prenatal period, the fetus acquires IgG by transplacental transport. The neonatal Fc receptor (FcRn) binds IgG at the fetal-parent interface of the placenta and transcytoses it into the fetal circulation, so neonates are born with IgG levels equivalent to adults.",
+        "whyWrongByChoice": {
+          "A": "Complement receptor 1 binds complement fragments, not IgG for transplacental transport.",
+          "B": "CD16 mediates antibody-dependent cellular cytotoxicity by NK cells, not placental IgG transfer.",
+          "C": "The mannose receptor is a pattern-recognition receptor for pathogen uptake, not an antibody-transport receptor.",
+          "E": "The polymeric immunoglobulin receptor transports IgA across mucosal epithelium (for example into breastmilk), not IgG across the placenta."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "transplacental IgG",
+        "FcRn",
+        "passive immunity"
+      ],
+      "topicId": "effect-of-age-on-the-immune-system",
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "core"
+    },
+    {
+      "id": "im23-006",
+      "stem": "A 6-month-old formula-fed infant presents with several bacterial infections over a short period. The pediatrician notes this age corresponds to a recognized window of increased susceptibility. Which of the following best explains the vulnerability during this period?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Maternal IgG continues to rise and suppresses the infant's own antibody production"
+        },
+        {
+          "label": "B",
+          "text": "Maternal transplacental IgG has waned before the infant produces enough of its own"
+        },
+        {
+          "label": "C",
+          "text": "The infant has a congenital absence of the thymus and cannot make T cells"
+        },
+        {
+          "label": "D",
+          "text": "The infant permanently lacks the ability to class-switch to IgG"
+        },
+        {
+          "label": "E",
+          "text": "The neonatal Fc receptor is defective and cannot bind IgG"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Between 3 and 12 months, a 'danger zone' occurs as maternal IgG wanes before the infant's own IgG is fully generated.",
+        "whyCorrect": "Between 3 and 12 months after birth, transplacental (maternal) IgG wanes in the blood while the child has not yet generated much of its own immunoglobulin. This transient trough in humoral immunity leaves the infant more susceptible to infection.",
+        "whyWrongByChoice": {
+          "A": "Maternal IgG is waning, not rising, during this window, and it does not suppress the infant's own production.",
+          "C": "Recurrent infection at this age reflects the normal antibody 'danger zone,' not congenital athymia; nothing suggests a T-cell developmental defect.",
+          "D": "The infant is beginning to make its own immunoglobulin; there is no permanent class-switching defect implied.",
+          "E": "FcRn functions normally; neonates are in fact born with adult-equivalent IgG because of it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "danger zone",
+        "humoral immunity",
+        "neonate"
+      ],
+      "topicId": "effect-of-age-on-the-immune-system",
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "core"
+    },
+    {
+      "id": "im23-007",
+      "stem": "A lactation researcher studies how secretory IgA reaches breastmilk. IgA is produced by plasma cells in the lamina propria of the mammary glands and must cross the alveolar epithelium to enter the milk. Which of the following mediates this transport across the mammary epithelium?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fc-epsilon receptor I on mast cells"
+        },
+        {
+          "label": "B",
+          "text": "J chain acting alone without a transport receptor"
+        },
+        {
+          "label": "C",
+          "text": "Neonatal Fc receptor (FcRn) for IgG"
+        },
+        {
+          "label": "D",
+          "text": "Polymeric immunoglobulin receptor (pIgR)"
+        },
+        {
+          "label": "E",
+          "text": "Toll-like receptor 4 binding LPS"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Secretory IgA is transported across the mammary epithelium into breastmilk by the polymeric immunoglobulin receptor.",
+        "whyCorrect": "sIgA is generated from plasma cells in the lamina propria of the mammary glands and is then transported across the mammary alveolar epithelium into breastmilk by the polymeric immunoglobulin receptor (pIgR). This sIgA coats the infant's mucosal surfaces.",
+        "whyWrongByChoice": {
+          "A": "Fc-epsilon receptor I binds IgE on mast cells and basophils, not IgA for secretion.",
+          "B": "The J chain joins IgA monomers but does not by itself carry IgA across the epithelium; pIgR performs the transcytosis.",
+          "C": "FcRn transports IgG (for example across the placenta), not IgA across mammary epithelium.",
+          "E": "TLR4 is a pattern-recognition receptor for LPS and does not transport antibody into milk."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "breastmilk",
+        "secretory IgA",
+        "pIgR"
+      ],
+      "topicId": "effect-of-age-on-the-immune-system",
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "core"
+    },
+    {
+      "id": "im23-008",
+      "stem": "A breastfed neonate's gut is protected in part by cells present in breastmilk that engulf secretory IgA and then release it upon contact with bacteria in the intestinal lumen. These cells make up the majority of the immune cells in breastmilk. Which of the following components is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lactoferrin"
+        },
+        {
+          "label": "B",
+          "text": "Lymphocytes"
+        },
+        {
+          "label": "C",
+          "text": "Lysozyme"
+        },
+        {
+          "label": "D",
+          "text": "Macrophages"
+        },
+        {
+          "label": "E",
+          "text": "Oligosaccharides"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Breastmilk macrophages carry engulfed sIgA and release it onto bacteria in the infant gut.",
+        "whyCorrect": "Breastmilk contains up to about 1 million immune cells per milliliter, and the majority (55-60%) are macrophages. These breastmilk macrophages contain engulfed sIgA that they release upon contact with bacteria in the lumen of the infant gut.",
+        "whyWrongByChoice": {
+          "A": "Lactoferrin competes for ferric iron to inhibit bacterial growth; it does not carry and release sIgA.",
+          "B": "Breastmilk lymphocytes are predominantly T cells that express cytokines; they are a minority (5-10%) of milk cells and are not the sIgA-releasing population.",
+          "C": "Lysozyme cleaves peptidoglycan in bacterial cell walls and is not a cell that transports sIgA.",
+          "E": "Oligosaccharides are prebiotic carbohydrates that feed beneficial gut microbiota, not cells that deliver sIgA."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "breastmilk",
+        "macrophages",
+        "secretory IgA"
+      ],
+      "topicId": "effect-of-age-on-the-immune-system",
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "core"
+    },
+    {
+      "id": "im23-009",
+      "stem": "A pediatric researcher characterizes a breastmilk protein that limits bacterial growth in the infant gut by binding and sequestering ferric iron so that bacteria cannot use it. Which of the following breastmilk components has this mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Defensins"
+        },
+        {
+          "label": "B",
+          "text": "Lactoferrin"
+        },
+        {
+          "label": "C",
+          "text": "Lysozyme"
+        },
+        {
+          "label": "D",
+          "text": "Oligosaccharides"
+        },
+        {
+          "label": "E",
+          "text": "Secretory IgA"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Lactoferrin inhibits bacterial growth by competing for ferric iron.",
+        "whyCorrect": "Lactoferrin is a breastmilk protein that competes for ferric iron and thereby inhibits bacterial growth. By sequestering the iron that bacteria need, it starves them of an essential nutrient.",
+        "whyWrongByChoice": {
+          "A": "Defensins are small molecules that disrupt viral envelopes and target bacteria and viruses, not iron-binding proteins.",
+          "C": "Lysozyme cleaves peptidoglycans in bacterial cell walls rather than binding iron.",
+          "D": "Oligosaccharides are prebiotics that feed beneficial gut bacteria such as Bifidobacteria and block pathogen binding, not iron chelators.",
+          "E": "Secretory IgA coats mucosal surfaces in a non-inflammatory way; it does not sequester iron."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "breastmilk",
+        "lactoferrin",
+        "antimicrobial"
+      ],
+      "topicId": "effect-of-age-on-the-immune-system",
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "core"
+    },
+    {
+      "id": "im23-010",
+      "stem": "Four days after birth, an infant delivered by Cesarean section is evaluated for its establishing skin microbiome. Because the infant did not pass through the birth canal, its skin flora is being shaped largely by close skin-to-skin contact. The infant's skin microbiome would most closely resemble which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The intestinal flora of an older sibling"
+        },
+        {
+          "label": "B",
+          "text": "The oral flora of a grandparent who visits on day three"
+        },
+        {
+          "label": "C",
+          "text": "The skin flora of the obstetrician"
+        },
+        {
+          "label": "D",
+          "text": "The skin flora of the primary parent or caregiver"
+        },
+        {
+          "label": "E",
+          "text": "The vaginal flora of the person who birthed the infant"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A C-section infant's skin flora most resembles the skin flora of whoever spends the most time in skin-to-skin contact, usually the primary caregiver.",
+        "whyCorrect": "This individual almost certainly spends the most time in skin-to-skin contact with the infant, so their skin microbes seed the newborn's skin. Providing the greatest chance of microbial transfer, the primary parent or caregiver's skin flora is the best match.",
+        "whyWrongByChoice": {
+          "A": "An older sibling would only contribute if in close contact, and intestinal flora is not the skin source acquired through skin-to-skin contact.",
+          "B": "A grandparent visiting once on day three contributes far less than the caregiver in constant skin-to-skin contact, and oral flora is not the skin source.",
+          "C": "Good hospital staff practices, such as wearing gloves, make transfer of significant microbes from the obstetrician unlikely.",
+          "E": "Vaginal flora would be relevant to a vaginal delivery, not a Cesarean section, where that exposure is minimal to absent."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "microbiome",
+        "neonate",
+        "Cesarean delivery"
+      ],
+      "topicId": "effect-of-age-on-the-immune-system",
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "core"
+    },
+    {
+      "id": "im23-011",
+      "stem": "A 68-year-old man presents with recurrent, severe lower respiratory infections including pneumonia. You order a CBC with differential, a lymphocyte-subset panel, and a chest X-ray. Which of the following results should be considered abnormal rather than an expected age-related change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A small amount of vestigial thymus, not visible on chest X-ray"
+        },
+        {
+          "label": "B",
+          "text": "Absence of a visible thymus on chest X-ray"
+        },
+        {
+          "label": "C",
+          "text": "Reduced CD4+/CD8+ ratio relative to a young adult"
+        },
+        {
+          "label": "D",
+          "text": "Reduced naive B cells relative to a young adult"
+        },
+        {
+          "label": "E",
+          "text": "White blood cell count of 25,000 cells/mm^3"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A WBC of 25,000 is above the adult normal range and is abnormal, whereas thymic involution and reduced naive T/B cells are expected with age.",
+        "whyCorrect": "Normal adult WBC counts are 4000-11,000 cells/mm^3, so 25,000 cells/mm^3 is clearly elevated and abnormal. The other findings reflect normal aging.",
+        "whyWrongByChoice": {
+          "A": "Age-related thymic hypoplasia is normal in adults; a vestigial thymus that cannot be seen on chest X-ray is expected.",
+          "B": "Absence of a visible thymus on chest X-ray reflects normal age-related thymic regression, not disease.",
+          "C": "A reduced CD4+/CD8+ ratio relative to a young adult is a recognized age-related change.",
+          "D": "Reduced naive B-cell production relative to a young adult is expected with immunosenescence."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "complete blood count",
+        "immunosenescence",
+        "reference ranges"
+      ],
+      "topicId": "effect-of-age-on-the-immune-system",
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "core"
+    },
+    {
+      "id": "im23-012",
+      "stem": "An 80-year-old woman is being counseled about why her immune function has changed with age. Her physician explains that age-related regression of the thymus alters the circulating T-cell pool. Which of the following changes is most consistent with this thymic involution?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An increased CD4+/CD8+ ratio compared with a young adult"
+        },
+        {
+          "label": "B",
+          "text": "Decreased production of naive CD4+ and CD8+ T cells"
+        },
+        {
+          "label": "C",
+          "text": "Enhanced antibody affinity and reduced autoantibody levels"
+        },
+        {
+          "label": "D",
+          "text": "Improved class-switching and expanded naive B-cell production"
+        },
+        {
+          "label": "E",
+          "text": "Increased output of naive T cells from an enlarging thymus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Thymic involution reduces naive CD4+/CD8+ T-cell output and shifts the T-cell pool toward memory and effector cells.",
+        "whyCorrect": "In late life, age-related regression of the thymus alters the circulating T-cell pool: production of naive CD4+ and CD8+ T cells declines, while the percentages of memory T cells and non-proliferative effector T cells increase. Additional changes include a decreased CD4+/CD8+ ratio and skewing toward Th17 and regulatory T-cell subsets.",
+        "whyWrongByChoice": {
+          "A": "Aging is associated with a decreased, not increased, CD4+/CD8+ ratio.",
+          "C": "With age, general antibody affinity declines while autoantibody levels increase, the opposite of this choice.",
+          "D": "Class-switching becomes impaired and naive B-cell production declines with age, not improves.",
+          "E": "The aging thymus involutes and its output declines; it does not enlarge or increase naive T-cell production."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "thymic involution",
+        "immunosenescence",
+        "T cells"
+      ],
+      "topicId": "effect-of-age-on-the-immune-system",
+      "topicName": "Effect of Age on the Immune System",
+      "tier": "core"
+    }
+  ]
+}

@@ -1,0 +1,1131 @@
+{
+  "categoryId": "w2s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "im16-001",
+      "stem": "A 34-year-old woman is evaluated in clinic because she feels she gets sick \"more than everyone else.\" Which of the following aspects of her history would most strongly prompt an evaluation for an underlying immunodeficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A single uncomplicated urinary tract infection last winter"
+        },
+        {
+          "label": "B",
+          "text": "One episode of community-acquired pneumonia three years ago"
+        },
+        {
+          "label": "C",
+          "text": "One episode of streptococcal pharyngitis two years ago"
+        },
+        {
+          "label": "D",
+          "text": "Seasonal allergic rhinitis each spring"
+        },
+        {
+          "label": "E",
+          "text": "Two episodes of pneumonia within the past 12 months"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Recurrent infections that meet frequency thresholds, such as two or more pneumonias in a year, are a hallmark warning sign of immunodeficiency.",
+        "whyCorrect": "The brick lists recurrent infections as a warning sign, defined by high frequency such as at least 4 confirmed bacterial infections per year, at least 2 pneumonias per year, or at least 4 new ear infections in a year. Two documented pneumonias in a single year meets this threshold and warrants an immunodeficiency evaluation.",
+        "whyWrongByChoice": {
+          "A": "One uncomplicated urinary tract infection is common in the general population and is not among the recurrent, severe, unusual, or persistent warning signs.",
+          "B": "A single, remote episode of pneumonia is not recurrent and does not meet the frequency threshold that raises concern for immunodeficiency.",
+          "C": "An isolated episode of streptococcal pharyngitis is a routine infection and does not indicate an underlying immune defect.",
+          "D": "Allergic rhinitis reflects atopy, not an increased susceptibility to serious or opportunistic infection."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "warning signs",
+        "recurrent infection"
+      ],
+      "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "im16-002",
+      "stem": "A 47-year-old man has had three episodes of pneumonia over two years, each confined to the right middle lobe. His immunoglobulin levels, lymphocyte subsets, and complement studies are all normal. Which of the following is the most likely explanation for his recurrent infections?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A late complement (MAC) deficiency"
+        },
+        {
+          "label": "B",
+          "text": "A localized anatomic abnormality"
+        },
+        {
+          "label": "C",
+          "text": "Chronic granulomatous disease"
+        },
+        {
+          "label": "D",
+          "text": "Common variable immunodeficiency"
+        },
+        {
+          "label": "E",
+          "text": "X-linked agammaglobulinemia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Recurrent infection confined to a single anatomic area is more likely due to a local anatomic defect than to a systemic immunodeficiency.",
+        "whyCorrect": "The brick teaches that infection in a single anatomic area is more likely due to a congenital or acquired anatomic abnormality (such as right middle lobe pneumonia from anatomic obstruction) than to immunodeficiency. His normal immune labs further argue against a systemic immune defect.",
+        "whyWrongByChoice": {
+          "A": "Late complement deficiencies predispose to recurrent Neisseria infections, not repeated same-lobe pneumonia, and his complement studies are normal.",
+          "C": "Chronic granulomatous disease causes recurrent abscesses with catalase-positive organisms across many sites, not isolated single-lobe pneumonia.",
+          "D": "Common variable immunodeficiency causes hypogammaglobulinemia and infections at multiple sites; his immunoglobulin levels are normal and disease is localized.",
+          "E": "X-linked agammaglobulinemia presents in early childhood with absent B cells and very low immunoglobulins, inconsistent with this adult and his normal labs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "anatomic cause",
+        "evaluation"
+      ],
+      "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "im16-003",
+      "stem": "A 29-year-old man presents with progressive dyspnea and a dry cough. Chest imaging shows diffuse interstitial infiltrates, and bronchoalveolar lavage confirms Pneumocystis jirovecii pneumonia. A deficiency in which of the following is most likely responsible for this infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complement proteins"
+        },
+        {
+          "label": "B",
+          "text": "Immunoglobulin A"
+        },
+        {
+          "label": "C",
+          "text": "Neutrophil oxidative burst"
+        },
+        {
+          "label": "D",
+          "text": "Splenic function"
+        },
+        {
+          "label": "E",
+          "text": "T lymphocyte function"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Pneumocystis jirovecii pneumonia is an opportunistic infection that reflects decreased T-cell (cell-mediated) function.",
+        "whyCorrect": "The brick identifies Pneumocystis jirovecii pneumonia as an opportunistic infection seen with low CD4 counts in HIV, and its review question specifies that this infection is most suggestive of decreased T-cell function. Recurrent opportunistic infection points to a cell-mediated immune defect.",
+        "whyWrongByChoice": {
+          "A": "Complement deficiencies predispose to recurrent Neisseria infection, not Pneumocystis pneumonia.",
+          "B": "Selective IgA deficiency predisposes to mucosal and sinopulmonary bacterial infections, not to opportunistic Pneumocystis pneumonia.",
+          "C": "A defective neutrophil oxidative burst (as in CGD) causes catalase-positive bacterial and fungal abscesses, not Pneumocystis pneumonia.",
+          "D": "Asplenia predisposes to overwhelming encapsulated bacterial infection, not to Pneumocystis, which is an opportunist controlled by T cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HIV",
+        "T cell",
+        "opportunistic infection"
+      ],
+      "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "im16-004",
+      "stem": "A 19-year-old college student is admitted with his second episode of Neisseria meningitidis meningitis in two years. Which of the following laboratory studies is most likely to reveal his underlying immune defect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complement levels (CH50, AH50, C3, C4)"
+        },
+        {
+          "label": "B",
+          "text": "Hemoglobin A1c"
+        },
+        {
+          "label": "C",
+          "text": "HIV antigen/antibody screen"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophil oxidative burst assay"
+        },
+        {
+          "label": "E",
+          "text": "Serum immunoglobulin (IgG, IgA, IgM) levels"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Recurrent Neisseria infection points to a complement deficiency, which is evaluated with CH50, AH50, C3, and C4.",
+        "whyCorrect": "The brick's evaluation schema lists recurrent or severe Neisseria gonorrhoeae or Neisseria meningitidis infection as the trigger to test complement, with a diagnostic workup of CH50, AH50, C3, and C4. Late (MAC) complement deficiencies specifically predispose to Neisseria infections.",
+        "whyWrongByChoice": {
+          "B": "Hemoglobin A1c screens for diabetes; hyperglycemia impairs neutrophil function but is not the classic cause of recurrent Neisseria meningitis.",
+          "C": "HIV is worth screening broadly, but recurrent Neisseria meningitis specifically implicates the complement pathway rather than CD4 T-cell loss.",
+          "D": "The oxidative burst assay screens for phagocytic defects such as CGD, which cause catalase-positive abscesses, not recurrent Neisseria disease.",
+          "E": "Immunoglobulin levels evaluate humoral defects, which typically cause encapsulated bacterial and sinopulmonary infections rather than recurrent Neisseria meningitis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "complement deficiency",
+        "Neisseria",
+        "evaluation"
+      ],
+      "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "im16-005",
+      "stem": "A 2-year-old boy is evaluated for recurrent skin and liver abscesses caused by catalase-positive bacteria and fungi, including Serratia and Aspergillus. Which of the following is the most appropriate diagnostic test?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CH50 and AH50 complement assays"
+        },
+        {
+          "label": "B",
+          "text": "Neonatal TREC screen"
+        },
+        {
+          "label": "C",
+          "text": "Neutrophil oxidative burst assay"
+        },
+        {
+          "label": "D",
+          "text": "Post-vaccination antibody titers"
+        },
+        {
+          "label": "E",
+          "text": "Serum immunoglobulin levels"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Recurrent abscesses from catalase-positive organisms suggest a phagocytic defect, evaluated with the neutrophil oxidative burst assay.",
+        "whyCorrect": "The pediatric evaluation schema directs that recurrent infection with catalase-positive bacteria and fungi, or abscesses and osteomyelitis, should raise suspicion for a phagocytic defect such as chronic granulomatous disease. The diagnostic evaluation includes the neutrophil oxidative burst assay and peripheral blood smear.",
+        "whyWrongByChoice": {
+          "A": "Complement assays are indicated for recurrent Neisseria infection, not for catalase-positive abscesses.",
+          "B": "The TREC screen detects severe T-cell lymphopenia (SCID) at birth; it does not identify a phagocytic killing defect.",
+          "D": "Post-vaccination antibody titers assess humoral responsiveness, which is not the suspected defect in this phagocytic presentation.",
+          "E": "Immunoglobulin levels evaluate humoral defects, which present with encapsulated bacterial infections rather than catalase-positive abscesses."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "phagocytic defect",
+        "CGD",
+        "pediatric evaluation"
+      ],
+      "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "im16-006",
+      "stem": "A 10-month-old boy has had recurrent bacterial sinopulmonary infections. Workup reveals absent B cells and markedly low serum antibody levels, and X-linked agammaglobulinemia is diagnosed. Which of the following is the most appropriate long-term treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Discontinuation of any immunosuppressant"
+        },
+        {
+          "label": "B",
+          "text": "Hematopoietic stem cell transplant"
+        },
+        {
+          "label": "C",
+          "text": "Immunoglobulin replacement"
+        },
+        {
+          "label": "D",
+          "text": "Interferon-gamma therapy"
+        },
+        {
+          "label": "E",
+          "text": "Vaccination with all available live vaccines"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Humoral inborn errors of immunity such as X-linked agammaglobulinemia are managed with immunoglobulin replacement.",
+        "whyCorrect": "The brick states that humoral IEIs lead to a loss of immunoglobulin, which can be replaced through intravenous or subcutaneous injection (IVIG or SCIG). Antibody deficiency is managed with immunoglobulin replacement with or without prophylactic antimicrobials.",
+        "whyWrongByChoice": {
+          "A": "Discontinuing an immunosuppressant addresses a secondary immunodeficiency; this child has a primary humoral defect and is not on such a drug.",
+          "B": "Hematopoietic stem cell transplant is reserved for severe or combined immunodeficiencies (such as SCID or WAS), not for isolated antibody deficiency.",
+          "D": "Interferon-gamma is used as prophylaxis in phagocytic defects such as chronic granulomatous disease, not in antibody deficiency.",
+          "E": "Many patients with humoral IEIs should not receive live vaccinations because they may be severely immunocompromised."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "humoral immunodeficiency",
+        "treatment",
+        "IVIG"
+      ],
+      "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "im16-007",
+      "stem": "A 55-year-old woman takes several medications for rheumatoid arthritis and malignancy. Which of the following of her medications is least likely to cause a secondary immunodeficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A B-cell-depleting monoclonal antibody"
+        },
+        {
+          "label": "B",
+          "text": "Adriamycin (chemotherapeutic agent)"
+        },
+        {
+          "label": "C",
+          "text": "Cortisone"
+        },
+        {
+          "label": "D",
+          "text": "Ibuprofen"
+        },
+        {
+          "label": "E",
+          "text": "Methotrexate"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "NSAIDs such as ibuprofen inhibit cyclooxygenase but do not cause meaningful immunosuppression.",
+        "whyCorrect": "The brick's review question makes clear that ibuprofen, an NSAID, inhibits the cyclooxygenase pathway but does not cause immune suppression, unlike the other listed drugs. Cancer chemotherapeutics, biologics, and corticosteroids all suppress immune cells or cytokines.",
+        "whyWrongByChoice": {
+          "A": "A B-cell-depleting monoclonal antibody (for example, anti-CD20 rituximab) induces loss of B cells and predisposes to infection.",
+          "B": "Cancer chemotherapeutics such as adriamycin suppress the bone marrow and impair immune cell production.",
+          "C": "Corticosteroids such as cortisone decrease cytokines, phagocytosis, and chemotaxis, causing secondary immunodeficiency.",
+          "E": "Methotrexate is a cytostatic immunosuppressant that decreases T- and B-cell proliferation and antibody responses."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "medications",
+        "secondary immunodeficiency"
+      ],
+      "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "im16-008",
+      "stem": "A 58-year-old man with long-standing, poorly controlled type 2 diabetes mellitus presents with recurrent bacterial skin infections. Which of the following best explains his increased susceptibility to infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A germline mutation causing absent B cells"
+        },
+        {
+          "label": "B",
+          "text": "A late complement (MAC) component deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Autosplenectomy from repeated infarction"
+        },
+        {
+          "label": "D",
+          "text": "Hyperglycemia impairs neutrophil function"
+        },
+        {
+          "label": "E",
+          "text": "Thymic aplasia with absent T cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Type 2 diabetes is a common medical cause of secondary immunodeficiency because hyperglycemia impairs neutrophil function.",
+        "whyCorrect": "The brick lists type 2 diabetes mellitus as one of the more common chronic medical causes of secondary immunodeficiency in adults, noting that hyperglycemia affects neutrophil function and cytokine production. This predisposes to recurrent bacterial infections.",
+        "whyWrongByChoice": {
+          "A": "Absent B cells from a germline defect describes a primary humoral IEI, not the acquired mechanism operating in diabetes.",
+          "B": "A late complement deficiency causes recurrent Neisseria infection and is a primary immune defect, not a consequence of diabetes.",
+          "C": "Autosplenectomy is characteristic of sickle cell disease; diabetes impairs immunity chiefly through neutrophil dysfunction.",
+          "E": "Thymic aplasia (as in DiGeorge syndrome) is a congenital T-cell disorder unrelated to acquired diabetic immune impairment."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "secondary immunodeficiency",
+        "diabetes",
+        "neutrophils"
+      ],
+      "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "im16-009",
+      "stem": "A 30-year-old man presents to the emergency department with fever, productive cough, and chills. A chest x-ray documents pneumonia, the second such episode in 12 months. He is sexually active with multiple male partners and takes no medications. A complete blood count with differential shows lymphopenia. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Begin lifelong immunoglobulin replacement"
+        },
+        {
+          "label": "B",
+          "text": "Order a neutrophil oxidative burst assay"
+        },
+        {
+          "label": "C",
+          "text": "Reassure him that two pneumonias in a year is normal"
+        },
+        {
+          "label": "D",
+          "text": "Refer immediately for hematopoietic stem cell transplant"
+        },
+        {
+          "label": "E",
+          "text": "Test for HIV infection"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In an adult with recurrent infection, lymphopenia, and HIV risk factors, secondary immunodeficiency from HIV should be evaluated first.",
+        "whyCorrect": "The brick teaches that adults are more likely to have a secondary immunodeficiency than an IEI, so evaluation should focus on secondary causes. This patient has an HIV risk factor, and the brick's case concludes he should be tested for HIV and treated if infected; lymphopenia further supports this.",
+        "whyWrongByChoice": {
+          "A": "Immunoglobulin replacement treats humoral IEIs; it is premature and inappropriate before identifying a likely secondary cause such as HIV.",
+          "B": "The oxidative burst assay evaluates phagocytic defects (catalase-positive abscesses), which do not match this presentation.",
+          "C": "Two documented pneumonias in a year is a warning sign of immunodeficiency, so reassurance without evaluation is inappropriate.",
+          "D": "Hematopoietic stem cell transplant is reserved for severe or combined primary immunodeficiencies, not for a suspected secondary cause."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HIV",
+        "adult evaluation",
+        "case"
+      ],
+      "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "im16-010",
+      "stem": "A 4-year-old child recovers from measles but over the following months develops several new bacterial and viral infections despite having previously been healthy. Which of the following best explains this transient increase in susceptibility?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A germline complement component deficiency"
+        },
+        {
+          "label": "B",
+          "text": "An adenosine deaminase (ADA) enzyme defect"
+        },
+        {
+          "label": "C",
+          "text": "Chronic hyperglycemia from new-onset diabetes"
+        },
+        {
+          "label": "D",
+          "text": "Development of asplenia"
+        },
+        {
+          "label": "E",
+          "text": "Loss of memory B cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Measles can cause immunosuppression for months after the initial infection through loss of memory B cells.",
+        "whyCorrect": "The brick states that measles can cause immunosuppression months after the initial infection due to T- and B-cell dysfunction, especially loss of memory B cells. This erases prior immunologic memory and increases susceptibility to infections.",
+        "whyWrongByChoice": {
+          "A": "A complement deficiency is a lifelong primary defect predisposing to Neisseria infection, not a transient post-measles susceptibility.",
+          "B": "An ADA defect causes SCID, a congenital combined immunodeficiency present from birth, not a transient post-viral state.",
+          "C": "Diabetes-related immune impairment is unrelated to a recent measles infection.",
+          "D": "Asplenia is not a described consequence of measles; it predisposes to encapsulated organisms in conditions such as sickle cell disease."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "measles",
+        "secondary immunodeficiency",
+        "memory B cells"
+      ],
+      "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "im16-011",
+      "stem": "A 5-month-old infant is diagnosed with severe combined immunodeficiency (SCID) after an abnormal newborn TREC screen. Which of the following interventions is contraindicated in this infant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Administration of a live attenuated vaccine"
+        },
+        {
+          "label": "B",
+          "text": "Evaluation for hematopoietic stem cell transplant"
+        },
+        {
+          "label": "C",
+          "text": "Immunoglobulin replacement"
+        },
+        {
+          "label": "D",
+          "text": "Isolation from sick contacts"
+        },
+        {
+          "label": "E",
+          "text": "Prophylactic antimicrobial therapy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Live vaccines are contraindicated in severely immunocompromised patients, especially those with combined B- and T-cell defects.",
+        "whyCorrect": "The brick states that live virus vaccines are contraindicated in patients who are severely immunocompromised, especially those with B- and T-cell defects. An infant with SCID has a severe combined defect and could develop disseminated infection from a live vaccine.",
+        "whyWrongByChoice": {
+          "B": "Hematopoietic stem cell transplant is the definitive treatment for combined immunodeficiencies such as SCID.",
+          "C": "Immunoglobulin replacement is appropriate to compensate for absent antibody production while awaiting definitive therapy.",
+          "D": "Protecting the infant from sick contacts is a reasonable measure to reduce infection risk, not a contraindicated intervention.",
+          "E": "Prophylactic antimicrobials are appropriate supportive care to prevent infection in a severely immunodeficient infant."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "SCID",
+        "live vaccine",
+        "treatment"
+      ],
+      "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "im16-012",
+      "stem": "A 62-year-old man taking a chronic immunosuppressant after a solid-organ transplant develops recurrent infections, and evaluation attributes this to a secondary immunodeficiency from his medication. Assuming it is clinically safe, which of the following is the most appropriate management approach?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Administer all available live vaccines"
+        },
+        {
+          "label": "B",
+          "text": "Begin interferon-gamma prophylaxis"
+        },
+        {
+          "label": "C",
+          "text": "Discontinue or modify the immunosuppressant"
+        },
+        {
+          "label": "D",
+          "text": "Proceed to hematopoietic stem cell transplant"
+        },
+        {
+          "label": "E",
+          "text": "Start lifelong immunoglobulin replacement regardless of levels"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Secondary immunodeficiency is managed by addressing the underlying cause, which for a drug-induced case means discontinuing or modifying the offending agent.",
+        "whyCorrect": "The brick states that management of secondary immunodeficiency usually requires addressing the underlying cause; if the patient is taking an immunosuppressant, treatment should be discontinued or modified if possible. Removing or reducing the causative drug directly reverses the immune impairment.",
+        "whyWrongByChoice": {
+          "A": "Live vaccines are contraindicated in immunocompromised patients and would not address the underlying medication cause.",
+          "B": "Interferon-gamma prophylaxis is used for phagocytic defects such as CGD, not for drug-induced secondary immunodeficiency.",
+          "D": "Hematopoietic stem cell transplant treats severe primary combined immunodeficiencies, not a reversible drug effect.",
+          "E": "Immunoglobulin replacement is directed at antibody deficiency; the first step here is to modify the causative immunosuppressant."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "secondary immunodeficiency",
+        "management",
+        "immunosuppressant"
+      ],
+      "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
+      "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "im17-001",
+      "stem": "A 30-year-old woman is being typed before an elective surgery. In the blood-typing kit, antibodies to A, B, and D antigens are fixed to separate membranes and a sample of her red blood cells is added. Agglutination occurs in the anti-B and anti-D wells but not in the anti-A well. Which of the following is her blood type?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A positive"
+        },
+        {
+          "label": "B",
+          "text": "AB positive"
+        },
+        {
+          "label": "C",
+          "text": "B negative"
+        },
+        {
+          "label": "D",
+          "text": "B positive"
+        },
+        {
+          "label": "E",
+          "text": "O negative"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In a blood-typing agglutination kit, clumping indicates that the corresponding antigen is present on the patient's red blood cells.",
+        "whyCorrect": "Agglutination occurs when antibodies fixed to the membrane bind an antigen present on the red cells and form immune complexes that clump. Clumping with anti-B means the B antigen is present, and clumping with anti-D (Rh) means the cells are Rh positive. No reaction with anti-A means no A antigen. Therefore the blood type is B positive.",
+        "whyWrongByChoice": {
+          "A": "A positive would require agglutination in the anti-A well, which did not occur.",
+          "B": "AB positive would require agglutination with both anti-A and anti-B; only anti-B reacted.",
+          "C": "B negative would show no reaction with anti-D, but anti-D clumping was observed, indicating Rh positive.",
+          "E": "O negative cells carry neither A nor B nor D antigen and would not agglutinate in any well."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "agglutination",
+        "blood typing",
+        "antibody-based tests"
+      ],
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "core"
+    },
+    {
+      "id": "im17-002",
+      "stem": "A 62-year-old man with type O blood is mistakenly transfused with type A packed red blood cells. Within a few hours he develops fever, hypotension, jaundice, and dark (hemoglobin-containing) urine. Which of the following best explains the underlying mechanism of this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Failure of neutrophils to mount an oxidative burst against the donor cells"
+        },
+        {
+          "label": "B",
+          "text": "IgE-mediated mast cell degranulation against donor cells (type I hypersensitivity)"
+        },
+        {
+          "label": "C",
+          "text": "Preformed antibodies binding donor red cell surface antigens (type II hypersensitivity)"
+        },
+        {
+          "label": "D",
+          "text": "Soluble antigen-antibody immune complex deposition in vessels (type III hypersensitivity)"
+        },
+        {
+          "label": "E",
+          "text": "T cell-mediated delayed-type response to the donor antigens (type IV hypersensitivity)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Transfusing incompatible red cells triggers an acute hemolytic transfusion reaction, a type II hypersensitivity reaction.",
+        "whyCorrect": "The brick explains that a type O recipient has preformed anti-A and anti-B antibodies. When type A red cells are given, these IgM/IgG antibodies bind the cell-surface A antigen and initiate a type II hypersensitivity reaction. The donor red cells are lysed within 24 hours, producing fever, hypotension, hemoglobinuria (blood in the urine), and jaundice.",
+        "whyWrongByChoice": {
+          "A": "An oxidative burst defect describes chronic granulomatous disease, unrelated to a transfusion reaction.",
+          "B": "Type I hypersensitivity is IgE-mediated allergy, not antibody binding to red cell surface antigens.",
+          "D": "Type III reactions involve soluble immune complexes deposited in tissues, not antibodies binding fixed cell-surface antigens.",
+          "E": "The reaction is rapid and antibody-driven, not a delayed T cell-mediated (type IV) response."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "blood typing",
+        "type II hypersensitivity",
+        "transfusion reaction"
+      ],
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "core"
+    },
+    {
+      "id": "im17-003",
+      "stem": "A 26-year-old woman presents with a malar rash, fatigue, and joint pain. An antinuclear antibody (ANA) test is performed by fixing human cells to a slide, incubating with her serum, and then adding a fluorophore-labeled anti-human IgG antibody. Fluorescence microscopy shows a high-titer homogeneous staining pattern. This pattern is most strongly associated with which of the following conditions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic granulomatous disease"
+        },
+        {
+          "label": "B",
+          "text": "CREST syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Scleroderma"
+        },
+        {
+          "label": "D",
+          "text": "Sjogren syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Systemic lupus erythematosus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "ANA immunofluorescence patterns have known disease associations, and a homogeneous pattern points to SLE.",
+        "whyCorrect": "The brick lists specific ANA staining patterns and their associations. The homogeneous pattern is associated with systemic lupus erythematosus. The detection antibody (anti-human IgG) binds the patient's autoantibodies already bound to the fixed cells, and the fluorescence pattern and titer help narrow the differential diagnosis.",
+        "whyWrongByChoice": {
+          "A": "Chronic granulomatous disease is a neutrophil oxidative burst defect and is not an ANA-defined autoimmune condition.",
+          "B": "CREST syndrome is associated with a centromere staining pattern.",
+          "C": "Scleroderma is associated with a nucleolar staining pattern, not homogeneous.",
+          "D": "Sjogren syndrome is associated with a speckled staining pattern."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "immunofluorescence",
+        "ANA",
+        "autoimmunity"
+      ],
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "core"
+    },
+    {
+      "id": "im17-004",
+      "stem": "A 40-year-old man has a mildly positive ANA at a low titer but has no symptoms and no evidence of an autoimmune disease on further workup. His physician explains that a low-titer positive ANA can occur without autoimmune disease. Which of the following is the most appropriate additional explanation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A low titer indicates the sample was diluted too little to be interpreted"
+        },
+        {
+          "label": "B",
+          "text": "A positive ANA is diagnostic of lupus regardless of titer"
+        },
+        {
+          "label": "C",
+          "text": "ANA can only be positive in individuals with an active malignancy"
+        },
+        {
+          "label": "D",
+          "text": "ANA titer directly measures the amount of circulating virus"
+        },
+        {
+          "label": "E",
+          "text": "Healthy people can have low-titer ANA"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Titer makes the ANA semi-quantitative, and low-titer positives are common in people without autoimmune disease.",
+        "whyCorrect": "The brick states that healthy people may have positive ANA results at low titers, and that ANA titer can rise in a person without an autoimmune disorder due to some acute infections, chronic infections, medications, and cancers. Higher titers make true autoantibodies more likely, but a low-titer positive is nonspecific.",
+        "whyWrongByChoice": {
+          "A": "Titer is the level to which a sample can be diluted and still show a positive result; a low titer is still an interpretable result.",
+          "B": "A positive ANA is not diagnostic of lupus by itself; low titers are nonspecific and must be interpreted in clinical context.",
+          "C": "Malignancy is only one of several nonautoimmune causes of a positive ANA, and most low-titer positives are not due to cancer.",
+          "D": "ANA titer reflects how far serum can be diluted and still test positive for autoantibodies, not viral load."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "immunofluorescence",
+        "ANA",
+        "titer"
+      ],
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "core"
+    },
+    {
+      "id": "im17-005",
+      "stem": "A public health lab needs a screening test that can quantify very small amounts of a soluble antigen or antibody in patient serum, with results read as the color intensity of a solution. This is the assay used to screen donated blood for HIV. Which of the following tests best fits this description?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Agglutination assay read as visible clumping"
+        },
+        {
+          "label": "B",
+          "text": "Enzyme-linked immunosorbent assay"
+        },
+        {
+          "label": "C",
+          "text": "Flow cytometry of cells in suspension by laser scatter"
+        },
+        {
+          "label": "D",
+          "text": "Polymerase chain reaction (PCR) for nucleic acids"
+        },
+        {
+          "label": "E",
+          "text": "Western blot read as dark bands on a membrane"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "ELISA quantifies soluble molecules with high sensitivity, reading out as color intensity, and is used to screen for HIV.",
+        "whyCorrect": "The brick describes ELISA as an assay that quantifies soluble molecules with high sensitivity, using a colorimetric substrate whose color signal is proportional to the amount of detection antibody. ELISA is specifically cited as the test used to screen for HIV before confirmatory testing.",
+        "whyWrongByChoice": {
+          "A": "Agglutination detects the presence of antigens with low sensitivity and reads out as visible clumping, not a color-intensity quantity.",
+          "C": "Flow cytometry analyzes cells in suspension by laser scatter and fluorescence, not soluble antigen in a colorimetric well.",
+          "D": "PCR amplifies and detects nucleic acids, not soluble proteins read by color intensity.",
+          "E": "Western blot is a qualitative test that reads out as dark bands on a membrane, not a quantitative color of solution."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ELISA",
+        "antibody-based tests",
+        "HIV screening"
+      ],
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "core"
+    },
+    {
+      "id": "im17-006",
+      "stem": "A woman uses a home pregnancy test, which produces a colored line when the target hormone is present. Her physician notes that at-home pregnancy tests and rapid COVID-19 tests use the same lateral-flow immunoassay design, in which a capture antibody and a separate detection antibody bind different epitopes of the target. Which specific type of ELISA does this describe?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Agglutination assay"
+        },
+        {
+          "label": "B",
+          "text": "Competitive ELISA"
+        },
+        {
+          "label": "C",
+          "text": "Direct ELISA"
+        },
+        {
+          "label": "D",
+          "text": "Sandwich ELISA"
+        },
+        {
+          "label": "E",
+          "text": "Western blot"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Lateral-flow home pregnancy and rapid COVID-19 tests are modified sandwich ELISAs.",
+        "whyCorrect": "The brick states that at-home pregnancy tests and COVID-19 tests are modified sandwich ELISAs, in which liquid flows across a membrane and a capture antibody binds the antigen while a detection antibody binds a different epitope, forming a visible line. Sandwich ELISAs are highly sensitive because the antigen is captured between two antibodies.",
+        "whyWrongByChoice": {
+          "A": "Agglutination detects antigens by clumping red cells or particles, not by a lateral-flow antibody sandwich.",
+          "B": "A competitive ELISA relies on competition for antibody binding, not a two-antibody sandwich flow assay.",
+          "C": "A direct ELISA immobilizes the antigen on a plate and uses a single enzyme-linked detection antibody; it does not use a capture antibody.",
+          "E": "Western blot separates proteins by molecular weight and reads out as membrane bands, not a lateral-flow line."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ELISA",
+        "sandwich ELISA",
+        "lateral flow"
+      ],
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "core"
+    },
+    {
+      "id": "im17-007",
+      "stem": "A 34-year-old man has a positive ELISA screen for Lyme disease. To confirm the result, the lab performs a test in which proteins from the sample are separated by molecular weight using electrophoresis, transferred to a membrane, and probed with enzyme-conjugated antibodies, producing dark bands. Which test is being performed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Agglutination assay"
+        },
+        {
+          "label": "B",
+          "text": "Chromium-51 release assay"
+        },
+        {
+          "label": "C",
+          "text": "Flow cytometry"
+        },
+        {
+          "label": "D",
+          "text": "Immunofluorescence (ANA)"
+        },
+        {
+          "label": "E",
+          "text": "Western blot"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Western blotting separates proteins by molecular weight and detects specific proteins or antibodies as membrane bands.",
+        "whyCorrect": "The brick describes Western blot as a qualitative technique in which proteins are separated by molecular weight via electrophoresis, transferred to a membrane, and probed with an enzyme-conjugated antibody; substrate then produces dark bands indicating antibody binding. Lyme disease confirmation is listed as a clinical application.",
+        "whyWrongByChoice": {
+          "A": "Agglutination detects antigens by visible clumping, not by separating proteins on a gel.",
+          "B": "A chromium-51 release assay measures cytotoxic killing of labeled target cells, not protein bands.",
+          "C": "Flow cytometry analyzes intact cells in suspension by laser scatter and fluorescence, not electrophoretically separated proteins.",
+          "D": "ANA immunofluorescence localizes autoantibodies on fixed cells under a microscope; it does not separate proteins by molecular weight."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Western blot",
+        "antibody-based tests",
+        "Lyme disease"
+      ],
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "core"
+    },
+    {
+      "id": "im17-008",
+      "stem": "A laboratory runs whole blood through a flow cytometer, where cells pass single-file through a laser. One scatter parameter is proportional to a cell's size, while a second parameter is proportional to a cell's internal granularity and complexity. Which parameter reflects the internal granularity of a cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chromium-51 release"
+        },
+        {
+          "label": "B",
+          "text": "Forward scatter (FSC)"
+        },
+        {
+          "label": "C",
+          "text": "Optical density of a colorimetric substrate"
+        },
+        {
+          "label": "D",
+          "text": "Side scatter (SSC)"
+        },
+        {
+          "label": "E",
+          "text": "Titer"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In flow cytometry, side scatter reflects internal granularity while forward scatter reflects cell size.",
+        "whyCorrect": "The brick explains that in flow cytometry a suspension of cells is hit with lasers; forward scatter (FSC) is proportional to the size of the cell, and side scatter (SSC) is proportional to the granularity of the cell. Together FSC and SSC are used to distinguish RBCs, granulocytes, monocytes, and lymphocytes.",
+        "whyWrongByChoice": {
+          "A": "Chromium-51 release measures cytotoxic killing of target cells, not a flow-cytometry scatter parameter.",
+          "B": "Forward scatter is proportional to cell size, not internal granularity.",
+          "C": "Optical density of a colorimetric substrate is the readout of an ELISA, not a flow cytometer.",
+          "E": "Titer is a semi-quantitative measure of antibody dilution in serologic tests, unrelated to flow scatter."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "flow cytometry",
+        "forward scatter",
+        "side scatter"
+      ],
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "core"
+    },
+    {
+      "id": "im17-009",
+      "stem": "A 6-month-old boy has had recurrent bacterial pneumonia, otitis media, and bacterial conjunctivitis. Serum testing shows low levels of all classes of immunoglobulin, and his neonatal TREC level was normal. Flow cytometry of his blood shows markedly reduced CD19-positive cells but intact CD3-positive cells. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic granulomatous disease"
+        },
+        {
+          "label": "B",
+          "text": "Complement C5 deficiency"
+        },
+        {
+          "label": "C",
+          "text": "DiGeorge syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Severe combined immunodeficiency (SCID)"
+        },
+        {
+          "label": "E",
+          "text": "X-linked agammaglobulinemia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Absent B cells (low CD19) with intact T cells (normal CD3) and panhypogammaglobulinemia indicate X-linked agammaglobulinemia.",
+        "whyCorrect": "The brick teaches that CD19 marks total B cells and CD3 marks total T cells. A flow pattern showing low CD19-positive (and CD20-positive) B cells with intact CD3-positive T cells is characteristic of X-linked agammaglobulinemia. Loss of B cells explains the low levels of all immunoglobulin classes, and the normal neonatal TREC reflects intact T-cell development.",
+        "whyWrongByChoice": {
+          "A": "Chronic granulomatous disease is a neutrophil oxidative burst defect and would not cause absent B cells or low immunoglobulins.",
+          "B": "Complement deficiencies do not eliminate CD19-positive B cells or cause panhypogammaglobulinemia.",
+          "C": "DiGeorge syndrome causes T-cell deficiency from thymic hypoplasia, but here T cells (CD3) are intact.",
+          "D": "SCID shows loss of T cells (and often NK cells); this patient has intact CD3-positive T cells and a normal TREC."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "flow cytometry",
+        "CD markers",
+        "X-linked agammaglobulinemia"
+      ],
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "core"
+    },
+    {
+      "id": "im17-010",
+      "stem": "A researcher wants to determine how many times a population of stimulated T cells has divided. She loads the cells with a membrane-permeable, initially non-fluorescent dye that becomes fluorescent and is retained inside the cell, with the amount of dye halved with each cell division. Which reagent is being used?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-FOXP3 antibody"
+        },
+        {
+          "label": "B",
+          "text": "Carboxyfluorescein (CFSE)"
+        },
+        {
+          "label": "C",
+          "text": "Dihydrorhodamine (DHR)"
+        },
+        {
+          "label": "D",
+          "text": "Phytohaemagglutinin (PHA)"
+        },
+        {
+          "label": "E",
+          "text": "Propidium iodide"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "CFSE is a membrane-permeable dye that is halved with each division, allowing quantification of cell division.",
+        "whyCorrect": "The brick states that carboxyfluorescein (CFSE) is membrane-permeable and non-fluorescent until it penetrates the cell, where it is converted to a fluorescent dye retained inside. The amount of dye is halved with each division, allowing quantification of cell division by flow cytometry.",
+        "whyWrongByChoice": {
+          "A": "Anti-FOXP3 antibody labels the transcription factor of regulatory T cells after permeabilization, not division cycles.",
+          "C": "Dihydrorhodamine is oxidized to rhodamine during the neutrophil oxidative burst; it does not track cell division.",
+          "D": "PHA is a mitogen that stimulates lymphocyte proliferation; it is not a dye used to count divisions.",
+          "E": "Propidium iodide cannot cross an intact cell membrane and is used to assess cell viability, not division."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "flow cytometry",
+        "CFSE",
+        "cell division"
+      ],
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "core"
+    },
+    {
+      "id": "im17-011",
+      "stem": "A 4-year-old boy has recurrent infections with catalase-positive organisms. To evaluate his neutrophils, blood is stimulated with phorbol myristate acetate (PMA) in the presence of dihydrorhodamine (DHR). In a healthy control, neutrophils oxidize DHR to fluorescent rhodamine, but the patient's neutrophils fail to do so. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic granulomatous disease"
+        },
+        {
+          "label": "B",
+          "text": "DiGeorge syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Selective IgA deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Severe combined immunodeficiency"
+        },
+        {
+          "label": "E",
+          "text": "X-linked agammaglobulinemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Failure of PMA-stimulated neutrophils to oxidize DHR to rhodamine indicates a defective oxidative burst, seen in chronic granulomatous disease.",
+        "whyCorrect": "The brick explains that neutrophils stimulated with PMA in the presence of DHR use reactive oxygen species from the oxidative burst to oxidize DHR to rhodamine. Deficiencies in the oxidative burst cause chronic granulomatous disease (CGD); a CGD patient's neutrophils lack this capacity, so DHR is not converted, exactly as seen here.",
+        "whyWrongByChoice": {
+          "B": "DiGeorge syndrome causes T-cell deficiency from thymic hypoplasia and does not affect the neutrophil oxidative burst.",
+          "C": "Selective IgA deficiency involves reduced IgA antibody, not a defective DHR/oxidative burst response.",
+          "D": "SCID is a combined T- and (often) NK-cell defect detected by flow cytometry, not a neutrophil oxidative burst failure.",
+          "E": "X-linked agammaglobulinemia is a B-cell/antibody defect and does not impair the neutrophil oxidative burst."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "oxidative burst",
+        "DHR assay",
+        "chronic granulomatous disease"
+      ],
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "core"
+    },
+    {
+      "id": "im17-012",
+      "stem": "A 45-year-old nurse who received the BCG (TB) vaccine as a child needs screening for latent tuberculosis. Her clinician orders an interferon-gamma release assay (IGRA) instead of the tuberculin skin test. Which of the following best explains why the IGRA is preferred in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It amplifies mycobacterial DNA to quantify bacterial load"
+        },
+        {
+          "label": "B",
+          "text": "It assesses neutrophil oxidative burst against mycobacteria"
+        },
+        {
+          "label": "C",
+          "text": "It directly measures circulating antibodies against tuberculosis"
+        },
+        {
+          "label": "D",
+          "text": "It is less prone to false-positive results from prior TB vaccination"
+        },
+        {
+          "label": "E",
+          "text": "It requires no blood sample, only a skin reading"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "IGRAs measure T-cell IFN-gamma release to TB-specific antigens and are less prone to false positives from BCG vaccination than the skin test.",
+        "whyCorrect": "The brick describes the IGRA as an IFN-gamma release assay used to diagnose Mycobacterium tuberculosis infection, in which a blood sample is exposed to TB-specific antigens so that TB-specific CD4 and CD8 T cells produce IFN-gamma. It is presented as an alternative to the TB skin test (PPD) that is less prone to false positives from TB vaccination.",
+        "whyWrongByChoice": {
+          "A": "IGRA is a cytokine release assay, not a nucleic acid amplification (PCR) test; it does not quantify bacterial DNA.",
+          "B": "IGRA assesses T-cell cytokine production, not the neutrophil oxidative burst.",
+          "C": "IGRA measures T-cell cytokine (IFN-gamma) release, not circulating antibodies.",
+          "E": "IGRA requires a blood sample; it is the skin test (PPD) that is read on the skin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cytokine release assay",
+        "IGRA",
+        "tuberculosis"
+      ],
+      "topicId": "diagnostic-laboratory-immunology",
+      "topicName": "Diagnostic Laboratory Immunology",
+      "tier": "core"
+    }
+  ]
+}

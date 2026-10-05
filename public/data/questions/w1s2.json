@@ -1,0 +1,1720 @@
+{
+  "categoryId": "w1s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "im04-001",
+      "stem": "A 5-year-old boy is referred for recurrent, severe infections with encapsulated bacteria, including Neisseria meningitidis and Streptococcus pneumoniae, despite having completed all childhood conjugate vaccinations. Laboratory testing shows normal serum C3 and intact opsonization, but the patient's serum is completely unable to lyse antibody-sensitized sheep erythrocytes. Which of the following components is most likely deficient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C1q"
+        },
+        {
+          "label": "B",
+          "text": "C3"
+        },
+        {
+          "label": "C",
+          "text": "C5"
+        },
+        {
+          "label": "D",
+          "text": "CR1"
+        },
+        {
+          "label": "E",
+          "text": "Factor D"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A defect in the terminal (shared) pathway prevents membrane attack complex formation, causing recurrent Neisseria infections despite vaccination.",
+        "whyCorrect": "The inability to lyse sheep erythrocytes with intact opsonization and normal C3 points to a terminal pathway defect. C5b initiates assembly of the membrane attack complex (C5b-C9); loss of any terminal component (C5-C9) blocks lysis. The brick notes that terminal complement deficiencies cause recurrent encapsulated bacterial infections, especially Neisseria, even in vaccinated patients, and this scenario mirrors the brick's case of a C5-deficient child.",
+        "whyWrongByChoice": {
+          "A": "C1q deficiency impairs the early classical pathway and is associated with lupus-like autoimmunity, not an isolated inability to lyse cells.",
+          "B": "C3 is stated to be normal, and its loss would also cripple opsonization, which is intact here.",
+          "D": "CR1 is an erythrocyte and phagocyte receptor for C3b involved in immune complex clearance, not in forming the lytic MAC.",
+          "E": "Factor D deficiency impairs the alternative pathway convertase, but opsonization and C3 activity would be affected rather than only terminal lysis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "complement deficiency",
+        "terminal pathway",
+        "membrane attack complex",
+        "Neisseria"
+      ],
+      "topicId": "complement-system",
+      "topicName": "Complement System",
+      "tier": "core"
+    },
+    {
+      "id": "im04-002",
+      "stem": "A 16-month-old girl presents with recurrent mouth ulcerations, a malar (butterfly) rash, and elevated liver enzymes suggestive of a lupus-like disorder. Complement testing reveals a markedly reduced CH50 with a normal AH50, and her symptoms improve substantially with regular fresh frozen plasma infusions. A deficiency of which of the following proteins best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C1q"
+        },
+        {
+          "label": "B",
+          "text": "C9"
+        },
+        {
+          "label": "C",
+          "text": "Decay-accelerating factor (CD55)"
+        },
+        {
+          "label": "D",
+          "text": "Factor B"
+        },
+        {
+          "label": "E",
+          "text": "Mannose-binding lectin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A low CH50 with a normal AH50 localizes the defect to a component unique to the classical pathway (C1, C2, or C4).",
+        "whyCorrect": "The CH50 assay measures classical pathway activity while the AH50 measures the alternative pathway. A reduced CH50 with a preserved AH50 indicates a defect in a component used only by the classical pathway, such as C1q, C2, or C4. The brick further links early classical deficiencies (e.g., C1q) to impaired clearance of immune complexes and apoptotic cells, producing lupus-like autoimmunity.",
+        "whyWrongByChoice": {
+          "B": "C9 is a shared terminal component, so its deficiency would lower both the CH50 and the AH50, not just the CH50.",
+          "C": "CD55 (DAF) is a regulator; its deficiency causes paroxysmal nocturnal hemoglobinuria, not an isolated low CH50.",
+          "D": "Factor B is unique to the alternative pathway, so its loss would reduce the AH50, not selectively lower the CH50.",
+          "E": "MBL functions in the lectin pathway, which is not measured by the CH50 assay, so its loss would not selectively drop the CH50."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "classical pathway",
+        "CH50",
+        "C1q deficiency",
+        "lupus"
+      ],
+      "topicId": "complement-system",
+      "topicName": "Complement System",
+      "tier": "core"
+    },
+    {
+      "id": "im04-003",
+      "stem": "An 8-year-old girl has a history of recurrent, painless swelling episodes involving her face, lips, and hands. The swelling is not itchy, lasts 2 to 5 days, occasionally affects the gastrointestinal tract with abdominal pain and vomiting, and on a few occasions has caused difficulty breathing from throat swelling. Antihistamines have not helped. Her mother and grandmother have been diagnosed with the same complement deficiency. Which protein is most likely deficient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C1 esterase inhibitor (C1-INH)"
+        },
+        {
+          "label": "B",
+          "text": "C5"
+        },
+        {
+          "label": "C",
+          "text": "C9"
+        },
+        {
+          "label": "D",
+          "text": "Decay-accelerating factor (CD55)"
+        },
+        {
+          "label": "E",
+          "text": "Factor D"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "C1 esterase inhibitor deficiency causes hereditary angioedema, marked by recurrent non-pruritic swelling that does not respond to antihistamines.",
+        "whyCorrect": "Lack of C1-INH leads to recurrent complement activation and, importantly, unopposed bradykinin release, a potent vasodilator that produces edema from plasma leakage. The brick describes hereditary angioedema as childhood-onset, non-itchy, antihistamine-resistant swelling that can involve the lips and GI tract and can be life-threatening when the larynx is affected, consistent with this patient's autosomal-dominant family history.",
+        "whyWrongByChoice": {
+          "B": "C5 deficiency impairs MAC formation and causes recurrent encapsulated bacterial infections, not angioedema.",
+          "C": "C9 is a terminal MAC component; its deficiency predisposes to Neisseria infections, not recurrent angioedema.",
+          "D": "CD55 deficiency causes paroxysmal nocturnal hemoglobinuria with dark urine and hemolysis, not episodic bradykinin-mediated angioedema.",
+          "E": "Factor D deficiency impairs the alternative pathway and increases infection risk, not swelling episodes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hereditary angioedema",
+        "C1 esterase inhibitor",
+        "bradykinin"
+      ],
+      "topicId": "complement-system",
+      "topicName": "Complement System",
+      "tier": "core"
+    },
+    {
+      "id": "im04-004",
+      "stem": "A 45-year-old man with known hereditary angioedema due to C1 esterase inhibitor deficiency is started on a new antihypertensive medication. Two weeks later he develops a severe attack of facial and laryngeal swelling. Which of the following newly prescribed medications most likely precipitated this attack?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amlodipine"
+        },
+        {
+          "label": "B",
+          "text": "Hydrochlorothiazide"
+        },
+        {
+          "label": "C",
+          "text": "Lisinopril"
+        },
+        {
+          "label": "D",
+          "text": "Losartan"
+        },
+        {
+          "label": "E",
+          "text": "Metoprolol"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "ACE inhibitors block bradykinin degradation and are contraindicated in hereditary angioedema because they worsen bradykinin-mediated swelling.",
+        "whyCorrect": "Lisinopril is an ACE inhibitor. The brick states that ACE inhibitors cause bradykinin degradation to be blocked, raising bradykinin levels; because angioedema in C1-INH deficiency is bradykinin-mediated, ACE inhibitors are contraindicated and can even unmask previously hidden HAE. This makes lisinopril the most likely trigger of the attack.",
+        "whyWrongByChoice": {
+          "A": "Amlodipine is a calcium-channel blocker with no effect on bradykinin degradation.",
+          "B": "Hydrochlorothiazide is a thiazide diuretic and does not affect bradykinin metabolism.",
+          "D": "Losartan is an angiotensin-receptor blocker that does not inhibit bradykinin breakdown, so it does not carry the same HAE risk as an ACE inhibitor.",
+          "E": "Metoprolol is a beta-blocker and does not raise bradykinin levels."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "hereditary angioedema",
+        "ACE inhibitors",
+        "bradykinin",
+        "pharmacology"
+      ],
+      "topicId": "complement-system",
+      "topicName": "Complement System",
+      "tier": "core"
+    },
+    {
+      "id": "im04-005",
+      "stem": "A 27-year-old woman reports several months of fatigue, intermittent jaundice, and episodes of dark, reddish urine that are most noticeable in the morning. She has also had a deep vein thrombosis. Flow cytometry of her red blood cells shows markedly decreased surface expression of CD55 and CD59. Deficiency of which of the following best explains her hemolysis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C1 esterase inhibitor protein"
+        },
+        {
+          "label": "B",
+          "text": "C5 of the terminal pathway"
+        },
+        {
+          "label": "C",
+          "text": "Decay-accelerating factor"
+        },
+        {
+          "label": "D",
+          "text": "Mannose-binding lectin (MBL)"
+        },
+        {
+          "label": "E",
+          "text": "Properdin (complement factor P)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Loss of the glycolipid anchor for DAF (CD55) and CD59 lets the membrane attack complex form on red cells, causing paroxysmal nocturnal hemoglobinuria.",
+        "whyCorrect": "Decay-accelerating factor (CD55) is a membrane-bound protein that blocks C3 convertase formation and is anchored by a glycolipid. When that anchor is defective, both DAF and CD59 are lost, so MACs form on circulating erythrocytes and lyse them. The brick attributes the dark morning urine, hemolysis, fatigue, jaundice, and thrombosis of paroxysmal nocturnal hemoglobinuria to this loss, diagnosed by low CD55/CD59 on flow cytometry.",
+        "whyWrongByChoice": {
+          "A": "C1-INH deficiency causes bradykinin-mediated angioedema, not complement-mediated red cell lysis.",
+          "B": "C5 deficiency prevents MAC formation and would protect red cells from lysis rather than cause it.",
+          "D": "MBL deficiency impairs lectin pathway initiation and does not cause loss of CD55/CD59 or intravascular hemolysis.",
+          "E": "Properdin stabilizes the alternative C3 convertase; its loss predisposes to Neisseria infection, not chronic hemolysis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "paroxysmal nocturnal hemoglobinuria",
+        "DAF",
+        "CD59",
+        "complement regulation"
+      ],
+      "topicId": "complement-system",
+      "topicName": "Complement System",
+      "tier": "core"
+    },
+    {
+      "id": "im04-006",
+      "stem": "A 30-year-old man with paroxysmal nocturnal hemoglobinuria is started on eculizumab, which markedly reduces his hemolysis. Which of the following best describes the mechanism of this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A monoclonal antibody that binds C5 and prevents its cleavage"
+        },
+        {
+          "label": "B",
+          "text": "It antagonizes the bradykinin receptor"
+        },
+        {
+          "label": "C",
+          "text": "It blocks C1 esterase activity in the classical pathway"
+        },
+        {
+          "label": "D",
+          "text": "It inhibits Factor D and blocks the alternative convertase"
+        },
+        {
+          "label": "E",
+          "text": "It replaces decay-accelerating factor on the red cell surface"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Eculizumab is a humanized monoclonal antibody against C5 that stops formation of C5a and C5b, blocking downstream MAC assembly.",
+        "whyCorrect": "The brick states that patients with PNH can be treated with C5 inhibitors like eculizumab, a humanized monoclonal antibody that inhibits cleavage of C5 into C5a and C5b. Preventing C5b formation blocks the terminal pathway and the membrane attack complex, protecting red cells from complement-mediated lysis.",
+        "whyWrongByChoice": {
+          "B": "Bradykinin receptor antagonism is relevant to angioedema management, not to complement-mediated hemolysis.",
+          "C": "Blocking C1 esterase describes the action of C1-INH, used in hereditary angioedema, not eculizumab.",
+          "D": "Eculizumab targets C5, not Factor D of the alternative pathway.",
+          "E": "Eculizumab does not restore or replace the missing DAF/CD59 anchor; it acts upstream by blocking C5."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "eculizumab",
+        "C5 inhibitor",
+        "paroxysmal nocturnal hemoglobinuria",
+        "treatment"
+      ],
+      "topicId": "complement-system",
+      "topicName": "Complement System",
+      "tier": "core"
+    },
+    {
+      "id": "im04-007",
+      "stem": "Which of the following complement components is the most potent anaphylatoxin and most strongly attracts leukocytes to sites of complement activation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C3b"
+        },
+        {
+          "label": "B",
+          "text": "C4b"
+        },
+        {
+          "label": "C",
+          "text": "C5a"
+        },
+        {
+          "label": "D",
+          "text": "C9"
+        },
+        {
+          "label": "E",
+          "text": "MASPs"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "C5a is the most potent anaphylatoxin and a chemoattractant that recruits and activates leukocytes.",
+        "whyCorrect": "The brick identifies C5a as the most potent of the inflammatory mediators; it increases vascular permeability and adhesion molecule expression and acts on neutrophils and monocytes to induce phagocytosis and migration. This chemotactic recruitment of leukocytes to sites of complement activation is its defining function.",
+        "whyWrongByChoice": {
+          "A": "C3b is an opsonin recognized by CR1 and a building block of the C5 convertase; it does not recruit leukocytes.",
+          "B": "C4b is part of the classical and lectin C3 convertase, not a chemoattractant.",
+          "D": "C9 polymerizes to form the membrane attack complex pore and has no chemotactic role.",
+          "E": "MASPs are serine proteases that cleave C4 and C2 in the lectin pathway, not anaphylatoxins."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "anaphylatoxin",
+        "C5a",
+        "inflammation",
+        "chemotaxis"
+      ],
+      "topicId": "complement-system",
+      "topicName": "Complement System",
+      "tier": "core"
+    },
+    {
+      "id": "im04-008",
+      "stem": "A 19-year-old man has had two episodes of Neisseria meningitidis meningitis. Complement studies show that he cannot stabilize the alternative pathway C3 convertase, though his classical and lectin pathways function normally. Deficiency of which of the following is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C1 esterase inhibitor"
+        },
+        {
+          "label": "B",
+          "text": "C1q"
+        },
+        {
+          "label": "C",
+          "text": "CR1"
+        },
+        {
+          "label": "D",
+          "text": "Decay-accelerating factor (CD55)"
+        },
+        {
+          "label": "E",
+          "text": "Properdin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Properdin stabilizes the alternative C3 convertase; its loss predisposes to severe Neisseria infections.",
+        "whyCorrect": "The brick explains that properdin stabilizes the alternative C3 convertase (C3bBb), making the complex more resistant to protease degradation. An individual who lacks properdin cannot stabilize this convertase and is highly susceptible to encapsulated bacteria, especially those in the Neisseria genus, matching this patient's recurrent meningococcal disease with an isolated alternative pathway defect.",
+        "whyWrongByChoice": {
+          "A": "C1-INH deficiency causes hereditary angioedema, not a failure to stabilize the alternative convertase.",
+          "B": "C1q initiates the classical pathway, which is stated to be normal in this patient.",
+          "C": "CR1 is a receptor for C3b involved in immune complex clearance and opsonin recognition, not convertase stabilization.",
+          "D": "CD55 (DAF) inhibits convertase formation; its deficiency causes PNH, not decreased convertase stability."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "alternative pathway",
+        "properdin",
+        "Neisseria",
+        "C3 convertase"
+      ],
+      "topicId": "complement-system",
+      "topicName": "Complement System",
+      "tier": "core"
+    },
+    {
+      "id": "im04-009",
+      "stem": "During an antibody-mediated immune response, activation of the classical complement pathway requires binding of C1q to antibody on a pathogen surface. Which of the following antibody isotypes is the most efficient activator of the classical pathway, requiring only a single bound molecule to engage C1q?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgA"
+        },
+        {
+          "label": "B",
+          "text": "IgD"
+        },
+        {
+          "label": "C",
+          "text": "IgE"
+        },
+        {
+          "label": "D",
+          "text": "IgG"
+        },
+        {
+          "label": "E",
+          "text": "IgM"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A single pentameric IgM molecule can activate C1q, whereas IgG must have two adjacent molecules bound.",
+        "whyCorrect": "The brick notes that both IgG and IgM function as opsonins that activate the classical pathway, but because C1q must bind two molecules of monomeric IgG to be activated, whereas IgM is a pentamer, one molecule of IgM is sufficient to activate C1q. This makes IgM the most efficient single-molecule classical pathway activator.",
+        "whyWrongByChoice": {
+          "A": "IgA is not described as a classical pathway activator in this context.",
+          "B": "IgD functions mainly as a B cell receptor and is not a classical pathway activator.",
+          "C": "IgE mediates allergic and antiparasitic responses and does not efficiently activate C1q.",
+          "D": "IgG activates the classical pathway only when two adjacent IgG molecules are bound, so a single molecule is not sufficient."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "classical pathway",
+        "IgM",
+        "C1q",
+        "antibody"
+      ],
+      "topicId": "complement-system",
+      "topicName": "Complement System",
+      "tier": "core"
+    },
+    {
+      "id": "im04-010",
+      "stem": "A 34-year-old woman with systemic lupus erythematosus has a buildup of circulating immune complexes. In a healthy person, which of the following mechanisms is primarily responsible for clearing such immune complexes from the circulation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C1 esterase inhibitor enzymatically degrades the complexes"
+        },
+        {
+          "label": "B",
+          "text": "C3b coats the complexes, which are then bound by CR1 on erythrocytes"
+        },
+        {
+          "label": "C",
+          "text": "C5a recruits neutrophils that phagocytose the complexes in the bloodstream"
+        },
+        {
+          "label": "D",
+          "text": "Decay-accelerating factor strips the complexes from cell surfaces"
+        },
+        {
+          "label": "E",
+          "text": "The membrane attack complex directly lyses circulating immune complexes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "C3b-coated immune complexes bind erythrocyte CR1 and are shuttled to the liver and spleen, where phagocytes remove them.",
+        "whyCorrect": "The brick describes that C3b coats immune complexes and that CR1 on erythrocytes binds this C3b. Red cells carry the complexes to the spleen and liver, where phagocytes such as Kupffer cells strip the complexes off CR1 and destroy them. Reduced CR1 expression, as reported in SLE, impairs this clearance and contributes to immune complex buildup.",
+        "whyWrongByChoice": {
+          "A": "C1-INH regulates C1 and bradykinin; it does not degrade immune complexes.",
+          "C": "C5a recruits leukocytes to inflamed tissue but is not the primary route for clearing circulating complexes.",
+          "D": "DAF is a convertase-blocking regulator on host cells and does not clear immune complexes.",
+          "E": "The MAC lyses cellular membranes, not soluble immune complexes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "immune complex clearance",
+        "CR1",
+        "erythrocytes",
+        "lupus"
+      ],
+      "topicId": "complement-system",
+      "topicName": "Complement System",
+      "tier": "core"
+    },
+    {
+      "id": "im04-011",
+      "stem": "All three complement pathways converge on a shared terminal pathway that assembles the membrane attack complex on a target membrane. Which of the following components initiates assembly of the membrane attack complex by binding C6 and C7?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C1q"
+        },
+        {
+          "label": "B",
+          "text": "C3b"
+        },
+        {
+          "label": "C",
+          "text": "C4b"
+        },
+        {
+          "label": "D",
+          "text": "C5a"
+        },
+        {
+          "label": "E",
+          "text": "C5b"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "C5b initiates the terminal pathway by binding C6 and C7, seeding assembly of the membrane attack complex.",
+        "whyCorrect": "The brick states that C5b initiates the formation of the MAC; then C6, C7, C8, and multiple copies of C9 bind to complete the complex. Binding of C6 and C7 to C5b exposes a hydrophobic site in C7 that inserts into the membrane, anchoring the growing pore.",
+        "whyWrongByChoice": {
+          "A": "C1q initiates the classical pathway at the top of the cascade, not terminal MAC assembly.",
+          "B": "C3b is an opsonin and a component of the C5 convertase, but it does not seed MAC assembly.",
+          "C": "C4b is part of the classical and lectin C3 convertase, not the terminal complex.",
+          "D": "C5a is the anaphylatoxin fragment released when C5 is cleaved; it diffuses away and does not join the MAC."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "membrane attack complex",
+        "C5b",
+        "terminal pathway",
+        "lysis"
+      ],
+      "topicId": "complement-system",
+      "topicName": "Complement System",
+      "tier": "core"
+    },
+    {
+      "id": "im04-012",
+      "stem": "A soluble pattern recognition receptor in the serum binds mannose residues displayed on the surface of an invading bacterium. This binding activates associated serine proteases that then cleave C4 and C2. Which complement activation pathway has been triggered?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "All three pathways simultaneously"
+        },
+        {
+          "label": "B",
+          "text": "Alternative pathway"
+        },
+        {
+          "label": "C",
+          "text": "Classical pathway"
+        },
+        {
+          "label": "D",
+          "text": "Lectin pathway"
+        },
+        {
+          "label": "E",
+          "text": "Terminal pathway"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The lectin pathway is initiated by mannose-binding lectin, whose MASPs cleave C4 and C2 to form the C4b2b convertase.",
+        "whyCorrect": "The brick describes the lectin pathway as being initiated by mannose-binding lectin (MBL), a soluble pattern recognition receptor that binds mannose and other sugars in patterns found on pathogens. After MBL binds, MBL-associated serine proteases (MASPs) cleave C2 and C4, generating the same C3 convertase as the classical pathway (C4b2b).",
+        "whyWrongByChoice": {
+          "A": "The specific trigger described (MBL binding mannose, MASPs cleaving C4 and C2) is unique to the lectin pathway.",
+          "B": "The alternative pathway begins with spontaneous C3 tickover and uses Factors B and D, not MBL and MASPs.",
+          "C": "The classical pathway is triggered by antibody or CRP binding C1, not by a mannose-binding lectin.",
+          "E": "The terminal pathway is the shared MAC-forming stage that begins with C5b, downstream of C4 and C2 cleavage."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "lectin pathway",
+        "mannose-binding lectin",
+        "MASPs"
+      ],
+      "topicId": "complement-system",
+      "topicName": "Complement System",
+      "tier": "core"
+    },
+    {
+      "id": "im05-001",
+      "stem": "A 2-month-old boy is brought in for a red, warm swelling at the base of the umbilicus. His parents note that his umbilical cord did not fall off until 30 days of age. Despite the obvious inflammation, the lesion contains almost no pus. A CBC shows leukocytosis with marked neutrophilia. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chediak-Higashi syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Chronic granulomatous disease"
+        },
+        {
+          "label": "C",
+          "text": "Leukocyte adhesion deficiency type 1"
+        },
+        {
+          "label": "D",
+          "text": "Physiologic neutrophilia of the newborn"
+        },
+        {
+          "label": "E",
+          "text": "Terminal complement deficiency"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Omphalitis with delayed cord separation, pus-free infection, and neutrophilia is the classic presentation of leukocyte adhesion deficiency type 1 (LAD-I).",
+        "whyCorrect": "In LAD-I, mutations in CD18 prevent neutrophil integrins (LFA-1) from mediating firm adhesion, so neutrophils cannot leave the vessels to enter tissue. Sites of infection are therefore devoid of pus even when inflamed, and neutrophils pile up in the blood, causing leukocytosis and neutrophilia. Delayed umbilical cord separation (around 30 days versus the normal ~15 days) and omphalitis are classic early signs.",
+        "whyWrongByChoice": {
+          "A": "Chediak-Higashi syndrome presents with partial albinism, giant granules in leukocytes, and bleeding, not with delayed cord separation and pus-free omphalitis.",
+          "B": "Chronic granulomatous disease produces abundant granulomas and abscesses with catalase-positive organisms; neutrophils still enter tissue, so infections are not pus-free.",
+          "D": "Physiologic neutrophilia does not cause an infected, pus-poor umbilical stump or delayed cord separation.",
+          "E": "Terminal complement deficiency classically causes recurrent Neisseria infections, not neonatal omphalitis with delayed cord separation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "LAD-I",
+        "omphalitis",
+        "innate immunodeficiency"
+      ],
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "core"
+    },
+    {
+      "id": "im05-002",
+      "stem": "Flow cytometry on the infant from the previous scenario shows less than 2% expression of CD18 on his leukocytes, and CD11a is also low. A defect in which of the following processes best explains why his sites of infection lack pus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complement-mediated opsonization"
+        },
+        {
+          "label": "B",
+          "text": "Lysosomal trafficking and fusion"
+        },
+        {
+          "label": "C",
+          "text": "Neutrophil firm adhesion and transmigration into tissue"
+        },
+        {
+          "label": "D",
+          "text": "Oxygen-dependent killing and reactive oxygen species generation"
+        },
+        {
+          "label": "E",
+          "text": "Selectin-mediated rolling along the endothelium"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "LFA-1 is a heterodimer of CD18 and CD11a; loss of CD18 blocks integrin-mediated firm adhesion and diapedesis.",
+        "whyCorrect": "Because CD11a expression depends on CD18, a CD18 mutation leaves leukocytes lacking both. Without functional LFA-1, neutrophils cannot bind ICAMs to firmly adhere and then transmigrate across the endothelium, so they never reach the tissue to form pus.",
+        "whyWrongByChoice": {
+          "A": "Complement opsonization is not encoded by CD18 and is not the defect here.",
+          "B": "Defective lysosomal trafficking is the mechanism of Chediak-Higashi syndrome (LYST mutation).",
+          "D": "Defective reactive oxygen species generation is the mechanism of chronic granulomatous disease, not LAD-I.",
+          "E": "Selectin-mediated rolling is intact in LAD-I; the block is at the later integrin-dependent firm-adhesion step."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "LAD-I",
+        "CD18",
+        "LFA-1"
+      ],
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "core"
+    },
+    {
+      "id": "im05-003",
+      "stem": "During recruitment of neutrophils to an inflamed tissue, the first low-affinity, transient interaction that slows circulating neutrophils into a roll along the endothelium is mediated by which of the following pairs of molecules?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CXCL8 binding its chemokine receptor"
+        },
+        {
+          "label": "B",
+          "text": "Integrins binding VCAM-1"
+        },
+        {
+          "label": "C",
+          "text": "LFA-1 binding ICAM-1"
+        },
+        {
+          "label": "D",
+          "text": "PECAM-1 binding PECAM-1"
+        },
+        {
+          "label": "E",
+          "text": "Selectins binding sialyl-Lewis X"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Slow rolling (tethering) is driven by low-affinity selectin binding to sialyl-Lewis X carbohydrate ligands.",
+        "whyCorrect": "Endothelial E- and P-selectins bind the sialyl-Lewis X ligand on neutrophils with low affinity. These interactions are constantly formed and broken, disrupting the neutrophil's flow and causing it to roll slowly along the endothelium as the first step of recruitment.",
+        "whyWrongByChoice": {
+          "A": "CXCL8 signaling upregulates integrins but does not itself tether the neutrophil to the endothelium.",
+          "B": "Integrin binding to adhesion molecules produces firm adhesion, which follows rolling.",
+          "C": "LFA-1 binding ICAM-1 mediates the later step of firm adhesion, which arrests rolling rather than initiating it.",
+          "D": "PECAM-1 homophilic binding mediates diapedesis, the final transmigration step, not initial rolling."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "neutrophil recruitment",
+        "selectins",
+        "rolling"
+      ],
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "core"
+    },
+    {
+      "id": "im05-004",
+      "stem": "A rolling neutrophil is exposed to the chemokine CXCL8 (IL-8) at a site of infection, which increases the affinity of LFA-1 for endothelial ICAM-1. What is the immediate result of this integrin-ICAM interaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Firm adhesion that stops the neutrophil from rolling"
+        },
+        {
+          "label": "B",
+          "text": "Fusion of the phagosome with lysosomes"
+        },
+        {
+          "label": "C",
+          "text": "Immediate release of reactive oxygen species into the blood"
+        },
+        {
+          "label": "D",
+          "text": "Initiation of tethering and slow rolling"
+        },
+        {
+          "label": "E",
+          "text": "Return of the neutrophil to the circulating pool"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Integrin-ICAM binding produces firm adhesion, arresting the rolling neutrophil on the endothelium.",
+        "whyCorrect": "Once the neutrophil is slowed, CXCL8/IL-8 upregulates integrins such as LFA-1 and increases their affinity for ICAM-1 and VCAM-1. TNF-alpha and IL-1 raise ICAM expression on the endothelium. The resulting integrin-ICAM interaction mediates firm adhesion and prevents further rolling.",
+        "whyWrongByChoice": {
+          "B": "Phagosome-lysosome fusion is a step of intracellular killing, unrelated to endothelial adhesion.",
+          "C": "The respiratory burst occurs inside phagosomes during killing, not upon adhesion to endothelium.",
+          "D": "Tethering and slow rolling occur earlier and are mediated by selectins, not integrin-ICAM binding.",
+          "E": "Firm adhesion holds the neutrophil in place for transmigration; it does not send it back into circulation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neutrophil recruitment",
+        "integrins",
+        "firm adhesion"
+      ],
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "core"
+    },
+    {
+      "id": "im05-005",
+      "stem": "After firmly adhering to the endothelium, a neutrophil squeezes between adjacent endothelial cells to enter the infected tissue. This transmigration step, called diapedesis, is chiefly mediated by which of the following molecules?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Catalase"
+        },
+        {
+          "label": "B",
+          "text": "E-selectin"
+        },
+        {
+          "label": "C",
+          "text": "Myeloperoxidase"
+        },
+        {
+          "label": "D",
+          "text": "PECAM-1"
+        },
+        {
+          "label": "E",
+          "text": "Sialyl-Lewis X"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Diapedesis (migration/extravasation) is mediated primarily by PECAM-1 on both neutrophils and endothelial cells.",
+        "whyCorrect": "PECAM-1 is an adhesion molecule found on neutrophils and at endothelial junctions. Its homophilic interactions guide the firmly adhered neutrophil between endothelial cells and into the tissue, following chemokine gradients.",
+        "whyWrongByChoice": {
+          "A": "Catalase is a microbial (and human) enzyme that degrades hydrogen peroxide; it plays no role in diapedesis.",
+          "B": "E-selectin mediates the earlier rolling step, not transmigration.",
+          "C": "Myeloperoxidase is an enzyme of intracellular oxygen-dependent killing, not a recruitment molecule.",
+          "E": "Sialyl-Lewis X is the selectin ligand used during rolling, not diapedesis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neutrophil recruitment",
+        "PECAM-1",
+        "diapedesis"
+      ],
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "core"
+    },
+    {
+      "id": "im05-006",
+      "stem": "A 3-year-old with silvery-blond hair, very pale skin, and photophobia has had repeated Staphylococcus aureus skin infections and bruises easily. A peripheral blood smear shows large, abnormal granules within her neutrophils. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chediak-Higashi syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Chronic granulomatous disease"
+        },
+        {
+          "label": "C",
+          "text": "Leukocyte adhesion deficiency type 1"
+        },
+        {
+          "label": "D",
+          "text": "Terminal complement deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Tyrosinase-negative oculocutaneous albinism"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Partial albinism, recurrent infections, bleeding, and giant granules in granulocytes are the hallmark tetrad of Chediak-Higashi syndrome.",
+        "whyCorrect": "Chediak-Higashi syndrome results from a LYST mutation that disrupts lysosome and vesicle trafficking. This produces partial oculocutaneous albinism (giant melanosomes), recurrent pyogenic infections (defective neutrophil, CTL, and NK lysosomes), bleeding (defective platelet granules), and the classic giant azurophilic inclusion bodies in granulocytes on smear.",
+        "whyWrongByChoice": {
+          "B": "Chronic granulomatous disease causes catalase-positive infections and granulomas, not albinism or giant granules.",
+          "C": "LAD-I causes pus-free infections and delayed cord separation but not albinism or giant granules.",
+          "D": "Terminal complement deficiency causes recurrent Neisseria infections without albinism or granule abnormalities.",
+          "E": "Isolated tyrosinase-negative albinism causes hypopigmentation alone, not recurrent infections, bleeding, or giant granules."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Chediak-Higashi",
+        "albinism",
+        "giant granules"
+      ],
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "core"
+    },
+    {
+      "id": "im05-007",
+      "stem": "The disorder affecting the child in the previous scenario is caused by a mutation in the LYST gene. Which cellular process is primarily disrupted by this mutation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Assembly of the NADPH oxidase complex"
+        },
+        {
+          "label": "B",
+          "text": "Expression of the integrin subunit CD18"
+        },
+        {
+          "label": "C",
+          "text": "Formation of the membrane attack complex"
+        },
+        {
+          "label": "D",
+          "text": "Lysosome and vesicle trafficking and fusion"
+        },
+        {
+          "label": "E",
+          "text": "Synthesis of selectin carbohydrate ligands"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "LYST (lysosomal trafficking regulator) governs the trafficking and fusion of lysosomes and other vesicles.",
+        "whyCorrect": "LYST regulates vesicle trafficking and fusion. When it is mutated, lysosomes and related vesicles (including melanosomes and platelet granules) fail to move and fuse normally, producing the immunodeficiency, albinism, bleeding, and neurologic defects of Chediak-Higashi syndrome.",
+        "whyWrongByChoice": {
+          "A": "Defective NADPH oxidase assembly underlies chronic granulomatous disease, not Chediak-Higashi syndrome.",
+          "B": "Loss of CD18 expression causes LAD-I, a different disorder.",
+          "C": "Failure to form the membrane attack complex reflects terminal complement deficiency.",
+          "E": "Defective selectin ligand synthesis impairs rolling but is not the LYST defect."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Chediak-Higashi",
+        "LYST",
+        "lysosome"
+      ],
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "core"
+    },
+    {
+      "id": "im05-008",
+      "stem": "A child with Chediak-Higashi syndrome develops easy bruising and prolonged bleeding after minor cuts. This bleeding tendency is best explained by a defect in which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Factor VIII synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Platelet granules"
+        },
+        {
+          "label": "C",
+          "text": "Vascular collagen structure"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin K-dependent clotting factors"
+        },
+        {
+          "label": "E",
+          "text": "von Willebrand factor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Platelets contain granules that promote clotting; in Chediak-Higashi syndrome these granules are defective.",
+        "whyCorrect": "Platelet granules are vesicles containing molecules important for clotting. Because LYST regulates vesicle function, platelet granules are defective in Chediak-Higashi syndrome, leading to a bleeding tendency and prolonged bleeding.",
+        "whyWrongByChoice": {
+          "A": "Factor VIII deficiency causes hemophilia A and is unrelated to the LYST vesicle defect.",
+          "C": "A structural collagen/vascular defect (as in some connective tissue diseases) is not the CHS bleeding mechanism.",
+          "D": "Vitamin K-dependent factor deficiency reflects a coagulation-factor problem, not defective platelet granules.",
+          "E": "von Willebrand factor deficiency is a separate primary hemostatic disorder, not the mechanism in CHS."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Chediak-Higashi",
+        "platelet granules",
+        "bleeding"
+      ],
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "core"
+    },
+    {
+      "id": "im05-009",
+      "stem": "A boy with Chediak-Higashi syndrome who has not received a hematopoietic stem cell transplant becomes acutely ill with fever, hepatosplenomegaly, and pancytopenia; biopsy shows organ infiltration by activated macrophages and lymphocytes. More than 80% of untreated CHS patients develop this life-threatening complication. It is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Disseminated intravascular coagulation"
+        },
+        {
+          "label": "B",
+          "text": "Graft-versus-host disease"
+        },
+        {
+          "label": "C",
+          "text": "Hemophagocytic lymphohistiocytosis"
+        },
+        {
+          "label": "D",
+          "text": "Secondary amyloidosis"
+        },
+        {
+          "label": "E",
+          "text": "Transformation to chronic granulomatous disease"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Untreated Chediak-Higashi syndrome frequently progresses to hemophagocytic lymphohistiocytosis (HLH).",
+        "whyCorrect": "Without a transplant, more than 80% of CHS patients develop HLH, a hyper-inflammatory state in which lymphocytes and histiocytes (macrophages) invade organs, causing multi-organ failure. HLH typically produces pancytopenia (reduced red cells, white cells, and platelets).",
+        "whyWrongByChoice": {
+          "A": "DIC is a consumptive coagulopathy, not the hyper-inflammatory histiocytic syndrome described.",
+          "B": "Graft-versus-host disease requires a prior transplant of immune cells; this patient has not been transplanted.",
+          "D": "Amyloidosis is a slow protein-deposition disorder and does not explain this acute inflammatory picture.",
+          "E": "CHS does not transform into chronic granulomatous disease; they are distinct genetic disorders."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Chediak-Higashi",
+        "HLH",
+        "pancytopenia"
+      ],
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "core"
+    },
+    {
+      "id": "im05-010",
+      "stem": "A 4-year-old boy has had recurrent abscesses growing Staphylococcus aureus and Serratia marcescens and now has an Aspergillus pneumonia with granuloma formation on biopsy. Which of the following tests best confirms the suspected diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dihydrorhodamine (DHR) flow cytometry"
+        },
+        {
+          "label": "B",
+          "text": "Flow cytometry for CD18 expression"
+        },
+        {
+          "label": "C",
+          "text": "Genetic testing for LYST mutations"
+        },
+        {
+          "label": "D",
+          "text": "Peripheral smear for giant granulocyte inclusions"
+        },
+        {
+          "label": "E",
+          "text": "Total hemolytic complement (CH50) assay"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Deep-seated infections with catalase-positive organisms and granulomas suggest chronic granulomatous disease, confirmed by the DHR test.",
+        "whyCorrect": "The DHR flow cytometry test measures the ability of phagocytes to reduce dihydrorhodamine to fluorescent rhodamine via NADPH oxidase. Because CGD phagocytes lack functional NADPH oxidase, they produce little or no rhodamine. (The older nitroblue tetrazolium test measures the same defect.)",
+        "whyWrongByChoice": {
+          "B": "CD18 flow cytometry diagnoses LAD-I, which causes pus-free infections rather than granulomas.",
+          "C": "LYST genetic testing confirms Chediak-Higashi syndrome, not chronic granulomatous disease.",
+          "D": "Giant granulocyte inclusions on smear point to Chediak-Higashi syndrome, not CGD.",
+          "E": "A CH50 assay screens for complement deficiencies, which present with Neisseria infections, not catalase-positive abscesses."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CGD",
+        "DHR test",
+        "diagnosis"
+      ],
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "core"
+    },
+    {
+      "id": "im05-011",
+      "stem": "Patients with chronic granulomatous disease are especially prone to infection by catalase-positive organisms such as Staphylococcus aureus and Aspergillus. Which of the following best explains this specific susceptibility?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Catalase-positive microbes are resistant to complement-mediated lysis"
+        },
+        {
+          "label": "B",
+          "text": "Catalase-positive microbes are strictly intracellular and evade antibody"
+        },
+        {
+          "label": "C",
+          "text": "Catalase-positive microbes block selectin-mediated rolling of neutrophils"
+        },
+        {
+          "label": "D",
+          "text": "Catalase-positive microbes degrade their own hydrogen peroxide"
+        },
+        {
+          "label": "E",
+          "text": "Catalase-positive microbes inhibit the LYST protein in host cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Catalase-positive organisms neutralize their own hydrogen peroxide, removing the peroxide that CGD neutrophils would otherwise borrow for killing.",
+        "whyCorrect": "CGD neutrophils lack NADPH oxidase, but their myeloperoxidase can still convert hydrogen peroxide made by invading bacteria into hypochlorite. Catalase-positive species destroy their own hydrogen peroxide, so they deprive myeloperoxidase of substrate and survive, whereas catalase-negative organisms effectively supply the peroxide needed to kill them.",
+        "whyWrongByChoice": {
+          "A": "Resistance to complement lysis characterizes some encapsulated organisms and does not explain the CGD-specific catalase link.",
+          "B": "Several catalase-positive CGD pathogens (e.g., Aspergillus, S. aureus) are not strictly intracellular, so this is not the mechanism.",
+          "C": "CGD does not impair selectin-mediated rolling; the defect is in oxygen-dependent killing.",
+          "E": "LYST is the Chediak-Higashi protein and is unrelated to microbial catalase."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CGD",
+        "catalase-positive",
+        "respiratory burst"
+      ],
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "core"
+    },
+    {
+      "id": "im05-012",
+      "stem": "Chronic granulomatous disease most commonly results from a defect in which enzyme, and what is its most typical inheritance pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Catalase; X-linked recessive"
+        },
+        {
+          "label": "B",
+          "text": "Myeloperoxidase; autosomal recessive"
+        },
+        {
+          "label": "C",
+          "text": "NADPH oxidase; autosomal dominant"
+        },
+        {
+          "label": "D",
+          "text": "NADPH oxidase; X-linked recessive"
+        },
+        {
+          "label": "E",
+          "text": "Superoxide dismutase; X-linked recessive"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "CGD is most often caused by X-linked recessive mutations in NADPH oxidase.",
+        "whyCorrect": "NADPH oxidase begins the respiratory burst by generating superoxide from molecular oxygen; if it is deficient, the entire oxidative burst fails. Most cases of CGD are X-linked recessive, which is why males (with a single X chromosome) are affected far more often than females.",
+        "whyWrongByChoice": {
+          "A": "Catalase is not the deficient host enzyme in CGD; catalase is relevant as a microbial virulence factor.",
+          "B": "Myeloperoxidase deficiency is a distinct, usually milder disorder and is not the most common cause of CGD.",
+          "C": "The enzyme is correct, but CGD is characteristically X-linked recessive, not autosomal dominant.",
+          "E": "Superoxide dismutase is not the defective enzyme in CGD, and its loss does not define the disease."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "CGD",
+        "NADPH oxidase",
+        "X-linked"
+      ],
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "tier": "core"
+    },
+    {
+      "id": "im06-001",
+      "stem": "A structural biologist solves the crystal structure of a human MHC class I molecule and focuses on the cleft that binds an 8- to 11-amino-acid peptide. The alpha1 and alpha2 domains that form this peptide-binding groove are contributed by which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A beta chain alone"
+        },
+        {
+          "label": "B",
+          "text": "Beta-2-microglobulin alone"
+        },
+        {
+          "label": "C",
+          "text": "The alpha chain alone"
+        },
+        {
+          "label": "D",
+          "text": "The alpha chain and a beta chain"
+        },
+        {
+          "label": "E",
+          "text": "The alpha chain and beta-2-microglobulin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The MHC class I peptide-binding groove is formed by the alpha1 and alpha2 domains, both located on the single alpha chain.",
+        "whyCorrect": "An MHC class I molecule is composed of an alpha chain (with alpha1, alpha2, and alpha3 domains) noncovalently associated with beta-2-microglobulin. The brick states that the alpha1 and alpha2 domains form a cleft that binds and holds peptides for T cell recognition, and both of these domains belong to the alpha chain. Therefore the groove is built from the alpha chain alone.",
+        "whyWrongByChoice": {
+          "A": "MHC class I contains no beta chain; its second subunit is beta-2-microglobulin.",
+          "B": "Beta-2-microglobulin has no role in forming the peptide-binding cleft of class I.",
+          "D": "It is MHC class II, not class I, whose groove is formed by an alpha and a beta chain (alpha1 plus beta1).",
+          "E": "Beta-2-microglobulin associates with the alpha chain and stabilizes class I, but it does not contribute to the peptide-binding groove."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "MHC class I",
+        "structure",
+        "peptide-binding groove"
+      ],
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "core"
+    },
+    {
+      "id": "im06-002",
+      "stem": "A mutant antigen-presenting cell line assembles MHC class II normally and transports it to the surface, but the class II molecules still carry CLIP in their groove and fail to display extracellular peptides to CD4 T cells. Deficiency of which protein best explains this defect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-2-microglobulin"
+        },
+        {
+          "label": "B",
+          "text": "HLA-DM"
+        },
+        {
+          "label": "C",
+          "text": "Invariant chain"
+        },
+        {
+          "label": "D",
+          "text": "TAP"
+        },
+        {
+          "label": "E",
+          "text": "Tapasin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "HLA-DM catalyzes the exchange of CLIP for an antigenic peptide in the endosome; without it, MHC class II remains stuck with CLIP.",
+        "whyCorrect": "The brick explains that after the invariant chain is degraded in acidic endosomes, a fragment called CLIP remains in the MHC II groove. The chaperone HLA-DM then catalyzes the exchange of CLIP for an antigenic peptide. If HLA-DM is missing, CLIP cannot be swapped out, so class II reaches the surface still occupied by CLIP and cannot present real peptides.",
+        "whyWrongByChoice": {
+          "A": "Beta-2-microglobulin is a subunit of MHC class I and plays no part in class II peptide loading.",
+          "C": "Loss of the invariant chain would leave the groove open (no CLIP), not stuck with CLIP; the invariant chain is the source of CLIP, not its remover.",
+          "D": "TAP transports peptides from the cytosol into the ER for class I loading; it is not involved in the class II CLIP exchange.",
+          "E": "Tapasin functions in MHC class I loading, tethering class I to TAP, and has no role in CLIP removal from class II."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "MHC class II",
+        "peptide loading",
+        "HLA-DM",
+        "CLIP"
+      ],
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "core"
+    },
+    {
+      "id": "im06-003",
+      "stem": "A fibroblast is infected with cytomegalovirus, which produces a protein that prevents peptides from being transported from the cytosol into the endoplasmic reticulum. As a result, the cell can no longer display peptides on MHC class I. The viral protein directly inhibits which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "HLA-DM"
+        },
+        {
+          "label": "B",
+          "text": "TAP"
+        },
+        {
+          "label": "C",
+          "text": "Tapasin"
+        },
+        {
+          "label": "D",
+          "text": "The invariant chain"
+        },
+        {
+          "label": "E",
+          "text": "The proteasome"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "TAP (transporter associated with antigen processing) moves proteasome-derived peptides from the cytosol into the ER for MHC class I loading.",
+        "whyCorrect": "The brick describes that peptide fragments generated by the proteasome are transported into the ER by TAP, which prefers peptides 8 to 16 amino acids long. Blocking peptide transport from cytosol into the ER is exactly TAP's function, and the case connection notes that cytomegalovirus can block TAP so that MHC class I cannot be loaded and is not expressed.",
+        "whyWrongByChoice": {
+          "A": "HLA-DM works in the MHC class II endosomal pathway, not in transporting peptides into the ER.",
+          "C": "Tapasin tethers MHC class I near TAP but does not itself transport peptides across the ER membrane; the described step is transport, which is TAP.",
+          "D": "The invariant chain functions in class II loading and has nothing to do with peptide transport into the ER.",
+          "E": "The proteasome still generates peptides in the cytosol; the block described is at the transport step, downstream of the proteasome."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "MHC class I",
+        "TAP",
+        "cytomegalovirus",
+        "peptide loading"
+      ],
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "core"
+    },
+    {
+      "id": "im06-004",
+      "stem": "A virus blocks TAP in an infected cell so that little or no MHC class I reaches the surface, preventing CD8 cytotoxic T cells from recognizing the infection. Which cell of the immune system is nonetheless able to eliminate this MHC class I-deficient cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytotoxic CD8 T cell"
+        },
+        {
+          "label": "B",
+          "text": "Eosinophil"
+        },
+        {
+          "label": "C",
+          "text": "Helper CD4 T cell"
+        },
+        {
+          "label": "D",
+          "text": "Natural killer cell"
+        },
+        {
+          "label": "E",
+          "text": "Plasma cell"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Natural killer cells are inhibited by MHC class I on healthy cells and kill cells that have lost it, overcoming viral TAP blockade.",
+        "whyCorrect": "The case connection explains that MHC class I inhibits natural killer cells, so the absence of MHC class I on a cell reduces this inhibition. This allows natural killer cells to kill the infected cell and overcome the virus's ability to block TAP and hide from CD8 T cells.",
+        "whyWrongByChoice": {
+          "A": "CD8 cytotoxic T cells require peptide displayed on MHC class I, which is exactly what is missing here, so they cannot act.",
+          "B": "Eosinophils primarily target parasites and are not the effector that kills MHC class I-low cells.",
+          "C": "CD4 helper T cells recognize peptide on MHC class II and do not directly kill MHC class I-deficient cells.",
+          "E": "Plasma cells secrete antibody; they do not kill virus-infected cells by recognizing loss of MHC class I."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "natural killer cells",
+        "MHC class I",
+        "missing self",
+        "cytomegalovirus"
+      ],
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "core"
+    },
+    {
+      "id": "im06-005",
+      "stem": "A virus-infected nucleated cell displays a viral peptide on MHC class I. A T cell binds this complex through its T cell receptor and its CD8 co-receptor, becomes activated, and then triggers the infected cell to undergo apoptosis. Which mechanism does this T cell use to kill the target?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Phagocytosing and digesting the infected cell"
+        },
+        {
+          "label": "B",
+          "text": "Presenting the viral antigen on its own MHC class II"
+        },
+        {
+          "label": "C",
+          "text": "Producing cytokines that help B cells make antibody"
+        },
+        {
+          "label": "D",
+          "text": "Releasing perforin and granzymes from cytotoxic granules"
+        },
+        {
+          "label": "E",
+          "text": "Secreting antibody that opsonizes the infected cell"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Activated CD8 cytotoxic T cells release perforin and granzymes to induce apoptosis in the target cell.",
+        "whyCorrect": "The brick states that once activated, CD8 cytotoxic T cells release perforin and granzymes, inducing apoptosis in the target cell. CD8 binds MHC class I and stabilizes the interaction between the TCR and MHC, allowing the cytotoxic T cell to recognize and kill virus-infected cells.",
+        "whyWrongByChoice": {
+          "A": "Cytotoxic T cells kill via cytotoxic granules; phagocytosis is performed by macrophages and other phagocytes.",
+          "B": "CD8 T cells recognize peptide on MHC class I; they are effectors that kill, not antigen-presenting cells that display on MHC class II.",
+          "C": "Secreting cytokines to help B cells is a function of CD4 helper T cells, not CD8 cytotoxic T cells.",
+          "E": "Antibody is produced by B cells and plasma cells, not by cytotoxic T cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CD8 T cell",
+        "cytotoxic T cell",
+        "perforin",
+        "granzymes",
+        "MHC class I"
+      ],
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "core"
+    },
+    {
+      "id": "im06-006",
+      "stem": "A dendritic cell displays a bacterial peptide on MHC class II. A T cell binds this complex using its T cell receptor and its CD4 co-receptor. Once activated, this T cell releases cytokines that drive B cells to make antibody and help activate macrophages. Which cell is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "B lymphocyte"
+        },
+        {
+          "label": "B",
+          "text": "CD4 helper T cell"
+        },
+        {
+          "label": "C",
+          "text": "CD8 cytotoxic T cell"
+        },
+        {
+          "label": "D",
+          "text": "Natural killer cell"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophil"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "CD4 helper T cells recognize peptide on MHC class II and, once activated, secrete cytokines that promote antibody production and activate other immune cells.",
+        "whyCorrect": "The brick states that helper T cells express CD4, a co-receptor that binds MHC class II and stabilizes the TCR-MHC interaction. Once activated, CD4 helper T cells stimulate other lymphocytes through cytokines and stimulatory molecules, promoting antibody production by B cells and the activation of macrophages, cytotoxic T cells, and other immune cells.",
+        "whyWrongByChoice": {
+          "A": "The B cell is the recipient of helper T cell signals here, not the CD4-expressing helper being described.",
+          "C": "CD8 cytotoxic T cells read peptide on MHC class I and kill target cells; they do not use the CD4 co-receptor.",
+          "D": "Natural killer cells are innate lymphocytes with no T cell receptor or CD4 co-receptor.",
+          "E": "Neutrophils are phagocytes of the innate system and are not T cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CD4 T cell",
+        "helper T cell",
+        "MHC class II",
+        "cytokines"
+      ],
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "core"
+    },
+    {
+      "id": "im06-007",
+      "stem": "A 26-year-old traveler develops malaria, and Plasmodium parasites persist inside mature erythrocytes despite an otherwise intact CD8 T cell response. Which feature of mature erythrocytes best explains why CD8 cytotoxic T cells fail to detect the intracellular parasite?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythrocytes are destroyed too quickly by natural killer cells"
+        },
+        {
+          "label": "B",
+          "text": "Erythrocytes express high levels of HLA-DM"
+        },
+        {
+          "label": "C",
+          "text": "Erythrocytes express only MHC class II"
+        },
+        {
+          "label": "D",
+          "text": "Erythrocytes lack a nucleus and do not express MHC class I"
+        },
+        {
+          "label": "E",
+          "text": "Erythrocytes secrete antibody that shields the parasite"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Because mature erythrocytes have no nucleus, they do not express MHC class I, so intracellular parasites escape CD8 T cell detection.",
+        "whyCorrect": "The clinical correlation states that every nucleated cell expresses MHC class I, but erythrocytes lack a nucleus and therefore do not express MHC class I. As a result, CD8 T cells cannot detect a virus or intracellular parasite inside red cells, which is how the malaria parasite escapes detection and persists.",
+        "whyWrongByChoice": {
+          "A": "The escape is due to lack of MHC class I, not rapid killing by natural killer cells.",
+          "B": "HLA-DM is a class II loading chaperone found in antigen-presenting cells, not in erythrocytes, and is irrelevant here.",
+          "C": "Erythrocytes do not express MHC class II either; the point is the absence of MHC class I.",
+          "E": "Erythrocytes do not produce antibody; only B cells and plasma cells do."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "MHC class I",
+        "erythrocytes",
+        "malaria",
+        "clinical correlation"
+      ],
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "core"
+    },
+    {
+      "id": "im06-008",
+      "stem": "Because MHC genes are expressed codominantly, a nucleated cell displays MHC class I molecules encoded by both the maternal and paternal copies of the HLA-A, HLA-B, and HLA-C loci. In a person heterozygous at all three loci, how many different MHC class I molecules are expressed on the cell surface?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "2"
+        },
+        {
+          "label": "C",
+          "text": "3"
+        },
+        {
+          "label": "D",
+          "text": "6"
+        },
+        {
+          "label": "E",
+          "text": "12"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Three class I loci (HLA-A, -B, -C), each expressed codominantly from two inherited haplotypes, yield six different MHC class I molecules.",
+        "whyCorrect": "The brick explains that MHC genes are codominant and that you inherit two haplotypes, giving two copies of each gene. With three class I loci (HLA-A, HLA-B, HLA-C) and two alleles each, a heterozygous person expresses 6 different MHC class I molecules on the cell surface.",
+        "whyWrongByChoice": {
+          "A": "Expressing only one molecule would ignore the three separate loci and codominant expression of both alleles.",
+          "B": "Two would reflect a single locus with two alleles, not all three class I loci.",
+          "C": "Three would count each locus only once and ignore that both parental alleles are expressed.",
+          "E": "Twelve double-counts; there are three class I loci times two alleles, which equals six, not twelve."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "MHC genetics",
+        "codominance",
+        "haplotype",
+        "HLA"
+      ],
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "core"
+    },
+    {
+      "id": "im06-009",
+      "stem": "A 30-year-old woman has chronic diarrhea, weight loss, and duodenal biopsy showing villous atrophy consistent with celiac disease. More than 90% of patients with this condition carry a particular set of class II alleles. Which HLA gene is most strongly associated with celiac disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-2-microglobulin"
+        },
+        {
+          "label": "B",
+          "text": "HLA-A"
+        },
+        {
+          "label": "C",
+          "text": "HLA-B"
+        },
+        {
+          "label": "D",
+          "text": "HLA-C"
+        },
+        {
+          "label": "E",
+          "text": "HLA-DQ"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Celiac disease is strongly linked to specific class II HLA-DQ alleles (HLA-DQA1*05 and HLA-DQB1*02).",
+        "whyCorrect": "The brick notes that some MHC alleles are associated with autoimmune diseases and gives the example that more than 90% of people with celiac disease carry HLA-DQA1*05 (group 5 of the DQ alpha chains) and HLA-DQB1*02. HLA-DQ is a class II gene encoding both alpha and beta chains.",
+        "whyWrongByChoice": {
+          "A": "Beta-2-microglobulin is an invariant class I subunit, not a polymorphic disease-associated class II allele.",
+          "B": "HLA-A is a class I locus encoding an alpha chain and is not the celiac association described.",
+          "C": "HLA-B is a class I locus and is not the gene linked to celiac disease here.",
+          "D": "HLA-C is also a class I locus, not the class II gene associated with celiac disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HLA-DQ",
+        "celiac disease",
+        "MHC class II",
+        "autoimmunity"
+      ],
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "core"
+    },
+    {
+      "id": "im06-010",
+      "stem": "A patient receives a kidney transplant. The transplant team notes that the more closely the donor and recipient HLA genes are matched, the slower and milder any rejection tends to be. Which statement best explains why a mismatched graft is rejected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-2-microglobulin is completely absent from donor cells"
+        },
+        {
+          "label": "B",
+          "text": "Donor cells lack all HLA genes and cannot be recognized"
+        },
+        {
+          "label": "C",
+          "text": "Rejection speed is independent of how well the MHC is matched"
+        },
+        {
+          "label": "D",
+          "text": "The recipient recognizes the donor MHC molecules as self"
+        },
+        {
+          "label": "E",
+          "text": "The recipient's T cells recognize the donor MHC molecules as foreign"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Transplant rejection occurs because the recipient's immune system sees the donor's different MHC molecules as foreign.",
+        "whyCorrect": "The brick explains that people recognize their own MHC molecules as self and do not react to them, but a transplant with different MHC molecules is seen as foreign, prompting the immune system to attack. It also states that the speed and severity of rejection depend on how closely the donor and recipient are matched, which is why careful HLA sequencing helps.",
+        "whyWrongByChoice": {
+          "A": "Beta-2-microglobulin is present on donor cells; its absence is not the cause of rejection.",
+          "B": "Donor cells do express HLA molecules; the problem is that they differ from the recipient's, not that they are absent.",
+          "C": "The brick specifically states that rejection speed and severity depend on how closely the MHC is matched.",
+          "D": "If donor MHC were recognized as self, there would be no rejection; rejection happens precisely because it is seen as foreign."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "transplantation",
+        "MHC matching",
+        "rejection",
+        "HLA"
+      ],
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "core"
+    },
+    {
+      "id": "im06-011",
+      "stem": "A dendritic cell engulfs a virally infected apoptotic cell and its debris. Although these viral proteins originated outside the dendritic cell, the dendritic cell displays viral peptides on MHC class I to activate CD8 T cells while also presenting on MHC class II to CD4 T cells. This process is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Central tolerance"
+        },
+        {
+          "label": "B",
+          "text": "Clonal deletion"
+        },
+        {
+          "label": "C",
+          "text": "Cross-presentation"
+        },
+        {
+          "label": "D",
+          "text": "Opsonization"
+        },
+        {
+          "label": "E",
+          "text": "Positive selection"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cross-presentation is the loading of exogenous (externally derived) antigens onto MHC class I, allowing activation of both CD4 and CD8 T cells.",
+        "whyCorrect": "The brick explains that during an infection both CD4 and CD8 T cells must be activated. Peptides taken up in a phagosome can leak out and be loaded into MHC class I as though they were endogenous, even though they came from outside the cell. This is called cross-presentation, and it lets dendritic cells present viral peptides to both CD4 and CD8 T cells.",
+        "whyWrongByChoice": {
+          "A": "Central tolerance is the removal of self-reactive lymphocytes during development, not antigen presentation across MHC classes.",
+          "B": "Clonal deletion is the elimination of self-reactive clones, not the described presentation pathway.",
+          "D": "Opsonization is the coating of a pathogen by antibody or complement to enhance phagocytosis, not antigen presentation.",
+          "E": "Positive selection is a thymic step in T cell development, unrelated to presenting exogenous antigen on MHC class I."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cross-presentation",
+        "dendritic cells",
+        "MHC class I",
+        "antigen presentation"
+      ],
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "core"
+    },
+    {
+      "id": "im06-012",
+      "stem": "In a professional antigen-presenting cell, newly synthesized MHC class II must be prevented from binding peptides in the endoplasmic reticulum before it reaches the endosome. Which protein occupies the MHC class II groove in the ER to block premature peptide loading?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-2-microglobulin"
+        },
+        {
+          "label": "B",
+          "text": "HLA-DM in the endosome"
+        },
+        {
+          "label": "C",
+          "text": "Invariant chain (CLIP)"
+        },
+        {
+          "label": "D",
+          "text": "TAP in the ER membrane"
+        },
+        {
+          "label": "E",
+          "text": "Tapasin in the ER lumen"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The invariant chain, through its CLIP segment, sits in the MHC class II groove in the ER and blocks premature peptide binding.",
+        "whyCorrect": "The brick states that professional APCs make MHC class II in the ER, where the chaperone invariant chain binds it. A part of the invariant chain called the class II invariant chain peptide (CLIP) rests in the MHC class II peptide-binding groove and blocks other peptides from binding until the molecule reaches the endosome.",
+        "whyWrongByChoice": {
+          "A": "Beta-2-microglobulin is a structural subunit of MHC class I and is not involved in class II groove protection.",
+          "B": "HLA-DM acts later, in the acidic endosome, to remove CLIP; it does not occupy the groove in the ER to block loading.",
+          "D": "TAP transports peptides into the ER for class I loading and does not block the class II groove.",
+          "E": "Tapasin functions in MHC class I loading by bridging class I to TAP; it does not occupy the class II groove."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "MHC class II",
+        "invariant chain",
+        "CLIP",
+        "peptide loading"
+      ],
+      "topicId": "major-histocompatibility-complex",
+      "topicName": "Major Histocompatibility Complex",
+      "tier": "core"
+    }
+  ]
+}

@@ -1,0 +1,1133 @@
+{
+  "categoryId": "w3s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "im21-001",
+      "stem": "A 9-year-old boy of Mediterranean descent has recurrent 1- to 3-day episodes of high fever with severe abdominal pain, an erysipelas-like rash on the lower leg, and painful swelling of a single ankle. Episodes resolve spontaneously, and between attacks he is well. Extensive testing shows neutrophilic inflammation but no autoantibodies, and the pattern is autosomal recessive. Which of the following best explains the underlying mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoantibodies directed against a joint self-antigen"
+        },
+        {
+          "label": "B",
+          "text": "Failure of negative selection allowing autoreactive T cells to escape the thymus"
+        },
+        {
+          "label": "C",
+          "text": "MHC class II presentation of a self-peptide to helper T cells"
+        },
+        {
+          "label": "D",
+          "text": "Molecular mimicry following a streptococcal infection"
+        },
+        {
+          "label": "E",
+          "text": "Pyrin loss-of-function leading to unchecked inflammasome activity"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Familial Mediterranean fever is a monogenic autoinflammatory disease driven by dysregulated innate immunity, not autoantibodies.",
+        "whyCorrect": "The brick states that pyrin is a suppressor of the inflammasome and that two autosomal recessive autoinflammatory diseases, familial Mediterranean fever (FMF) and mevalonate kinase deficiency, result from pyrin loss-of-function. This causes increased inflammasome activity and IL-1 overexpression. The described FMF symptoms (fever, peritonitis, erysipelas-like rash, and single-joint arthritis) match the brick exactly and reflect neutrophil/macrophage-driven inflammation.",
+        "whyWrongByChoice": {
+          "A": "Autoantibodies define autoimmune, not autoinflammatory, disease; FMF produces no self-reactive antibodies.",
+          "B": "Escaped negative selection is a tolerance-failure mechanism of autoimmunity and does not explain an IL-1-driven autoinflammatory syndrome.",
+          "C": "MHC class II presentation to helper T cells is an adaptive/autoimmune mechanism, whereas FMF is an innate autoinflammatory disorder.",
+          "D": "Molecular mimicry underlies infection-triggered autoimmunity such as rheumatic fever, not a hereditary periodic fever syndrome."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "autoinflammatory disease",
+        "familial Mediterranean fever",
+        "inflammasome"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "im21-002",
+      "stem": "A 7-year-old girl with familial Mediterranean fever continues to have frequent febrile flares despite colchicine. Her physician starts canakinumab, and the attacks subside. Which of the following best describes how this drug works?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It binds IL-1"
+        },
+        {
+          "label": "B",
+          "text": "It blocks the IL-6 receptor"
+        },
+        {
+          "label": "C",
+          "text": "It depletes circulating B cells"
+        },
+        {
+          "label": "D",
+          "text": "It inhibits the complement protein C5"
+        },
+        {
+          "label": "E",
+          "text": "It neutralizes TNF-alpha"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Canakinumab is an anti-IL-1 monoclonal antibody used for IL-1-driven autoinflammatory disease.",
+        "whyCorrect": "The brick explicitly names canakinumab as a monoclonal antibody that binds IL-1 and prevents it from binding to its receptor, and lists it as a possible treatment for both FMF and mevalonate kinase deficiency, which feature IL-1 overexpression from excess inflammasome activity.",
+        "whyWrongByChoice": {
+          "B": "Blocking the IL-6 receptor describes a different agent; canakinumab acts on IL-1.",
+          "C": "Canakinumab does not deplete B cells; it neutralizes a cytokine.",
+          "D": "Complement C5 inhibition is unrelated to canakinumab's mechanism.",
+          "E": "TNF-alpha is one of the three major pro-inflammatory cytokines, but canakinumab targets IL-1, not TNF-alpha."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "autoinflammatory disease",
+        "IL-1",
+        "treatment"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "im21-003",
+      "stem": "A 22-year-old man has months of crampy abdominal pain, non-bloody diarrhea, fatigue, and a 6-kg weight loss. Colonoscopy shows patchy transmural inflammation of the terminal ileum, and two of his relatives have a similar illness. Which of the following genetic changes is most strongly associated with his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A CTLA-4 allele that reduces its expression"
+        },
+        {
+          "label": "B",
+          "text": "A FOXP3 mutation abolishing regulatory T cells"
+        },
+        {
+          "label": "C",
+          "text": "A NOD2 mutation"
+        },
+        {
+          "label": "D",
+          "text": "A pyrin loss-of-function mutation"
+        },
+        {
+          "label": "E",
+          "text": "HLA-B27 allele"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Crohn disease is an autoinflammatory IBD whose strongest risk factor is a NOD2 mutation.",
+        "whyCorrect": "The brick states that the strongest risk factor for Crohn disease is a mutation in NOD2, a pattern-recognition receptor that recognizes microbial components. Mutated NOD2 leads to inappropriate NF-kB activation in monocytes; carrying two mutated alleles raises risk 20- to 40-fold. The transmural ileal inflammation, weight loss, and diarrhea match the brick's description of Crohn disease.",
+        "whyWrongByChoice": {
+          "A": "A CTLA-4 allele is an intrinsic risk factor cited for celiac disease, rheumatoid arthritis, and SLE, not the principal Crohn factor.",
+          "B": "FOXP3 loss causes the monogenic autoimmune syndrome IPEX, not Crohn disease.",
+          "D": "Pyrin mutations cause familial Mediterranean fever, not Crohn disease.",
+          "E": "HLA-B27 is tied to spondyloarthropathies; although IBD-associated arthritis is B27-linked, the strongest Crohn risk factor is NOD2."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Crohn disease",
+        "NOD2",
+        "autoinflammatory disease"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "im21-004",
+      "stem": "A 30-year-old woman has chronic diarrhea, bloating, and weight loss. Duodenal biopsy shows villous atrophy, and her symptoms and histology normalize on a strict gluten-free diet. Which HLA subtype is most strongly associated with her disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "HLA-DQ2/DQ8"
+        },
+        {
+          "label": "B",
+          "text": "HLA-DR2"
+        },
+        {
+          "label": "C",
+          "text": "HLA-DR4"
+        },
+        {
+          "label": "D",
+          "text": "HLA-B8"
+        },
+        {
+          "label": "E",
+          "text": "HLA-B27"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Celiac disease is associated with HLA-DQ2/DQ8 and is a type IV hypersensitivity reaction to gluten peptides.",
+        "whyCorrect": "Table 1 of the brick pairs HLA-DQ2/DQ8 with celiac disease. The brick adds that celiac disease is a type IV hypersensitivity directed against gluten and human epithelial proteins, that ~95% of patients express HLA-DQ2 with the rest carrying DQ8, and that risk is dose-dependent. Gluten-responsive villous atrophy is classic celiac disease.",
+        "whyWrongByChoice": {
+          "B": "HLA-DR2 is linked to multiple sclerosis, SLE, and Goodpasture syndrome.",
+          "C": "HLA-DR4 is associated with rheumatoid arthritis, type 1 diabetes, and Addison disease.",
+          "D": "HLA-B8 is not among the HLA-disease associations emphasized in the brick for this presentation.",
+          "E": "HLA-B27 is associated with ankylosing spondylitis and other spondyloarthropathies, not celiac disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "celiac disease",
+        "HLA",
+        "hypersensitivity"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "im21-005",
+      "stem": "Three weeks after an untreated sore throat, a 10-year-old boy develops migratory polyarthritis, a new heart murmur, subcutaneous nodules, and a serpiginous rash. Which of the following best explains the pathogenesis of his illness?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibodies to streptococcal M protein cross-reacting with cardiac proteins"
+        },
+        {
+          "label": "B",
+          "text": "Cytotoxic T cells killing uninfected bystander cardiac cells during infection"
+        },
+        {
+          "label": "C",
+          "text": "Direct bacterial invasion of the myocardium by Streptococcus pyogenes"
+        },
+        {
+          "label": "D",
+          "text": "Epitope spreading to nuclear self-antigens, as occurs in lupus"
+        },
+        {
+          "label": "E",
+          "text": "IgE-mediated mast cell degranulation with histamine release"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Acute rheumatic fever is a type II hypersensitivity reaction caused by molecular mimicry.",
+        "whyCorrect": "The brick describes acute rheumatic fever as a type 2 hypersensitivity reaction driven by antibodies generated through molecular mimicry: the patient makes antibodies against Streptococcus pyogenes M protein, and after the infection clears these antibodies bind cardiac proteins that resemble M protein. This produces the classic migratory polyarthritis, pancarditis, skin nodules, erythema marginatum, and Sydenham chorea described.",
+        "whyWrongByChoice": {
+          "B": "Bystander activation involves CTLs during active infection, whereas rheumatic fever is antibody-mediated via mimicry after the infection clears.",
+          "C": "Rheumatic carditis results from cross-reactive antibodies, not direct bacterial invasion of the heart.",
+          "D": "Epitope spreading broadens an established autoimmune response and is highlighted for MS, SLE, T1DM, and pemphigus, not for the initiation of rheumatic fever.",
+          "E": "IgE-mediated (type I) hypersensitivity is not the mechanism; rheumatic fever is a type II antibody-mediated reaction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "molecular mimicry",
+        "rheumatic fever",
+        "hypersensitivity"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "im21-006",
+      "stem": "A 28-year-old woman reports drooping eyelids and double vision that worsen through the day, along with fatigable limb weakness. Serum testing detects antibodies against the acetylcholine receptor. Which of the following best classifies the mechanism of her disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoantibody causing cellular dysfunction (type II hypersensitivity)"
+        },
+        {
+          "label": "B",
+          "text": "IgE-mediated mast cell activation and histamine release (type I)"
+        },
+        {
+          "label": "C",
+          "text": "Immune-complex deposition in vessel walls (type III hypersensitivity)"
+        },
+        {
+          "label": "D",
+          "text": "Inflammasome-driven IL-1 overexpression by innate immune cells"
+        },
+        {
+          "label": "E",
+          "text": "T-cell-mediated delayed hypersensitivity to a self-peptide (type IV)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Myasthenia gravis is a type II hypersensitivity in which anti-AChR autoantibodies block receptor function.",
+        "whyCorrect": "The brick states that autoantibody directed to the acetylcholine receptor (anti-AChR) induces myasthenia gravis, a type 2 hypersensitivity reaction characterized by cellular dysfunction. It also notes in the summary that antigen specificity determines effect, with the anti-AChR antibody blocking receptor function, matching the fatigable weakness described.",
+        "whyWrongByChoice": {
+          "B": "Type I IgE-mediated allergy is unrelated to anti-AChR autoantibodies.",
+          "C": "Type III immune-complex disease describes conditions like SLE and rheumatoid arthritis, not the receptor-blocking mechanism of myasthenia gravis.",
+          "D": "IL-1-driven inflammasome activity is an autoinflammatory (innate) mechanism, whereas myasthenia gravis is an autoantibody-mediated autoimmune disease.",
+          "E": "Type IV delayed hypersensitivity is T-cell mediated (e.g., celiac disease), not the antibody-mediated process here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "myasthenia gravis",
+        "hypersensitivity",
+        "autoantibody"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "im21-007",
+      "stem": "A 26-year-old woman has a malar rash, arthralgias, and fatigue. Laboratory studies show a positive ANA with anti-double-stranded DNA and anti-Sm antibodies, and renal biopsy reveals immune-complex deposition. This disease is best classified as which type of hypersensitivity reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An autoinflammatory reaction of the innate immune system"
+        },
+        {
+          "label": "B",
+          "text": "Type I"
+        },
+        {
+          "label": "C",
+          "text": "Type II"
+        },
+        {
+          "label": "D",
+          "text": "Type III"
+        },
+        {
+          "label": "E",
+          "text": "Type IV"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "SLE is a type III hypersensitivity disease driven by autoantibodies to nuclear antigens forming immune complexes.",
+        "whyCorrect": "The brick identifies SLE as a type 3 hypersensitivity reaction causing systemic inflammation and notes that SLE patients may have anti-DNA, anti-Sm, anti-histone, anti-Ro, and anti-La antibodies directed at nuclear and organelle proteins. Immune-complex deposition (as in the renal biopsy) is the hallmark of type III reactions.",
+        "whyWrongByChoice": {
+          "A": "SLE is an adaptive autoimmune disease with autoantibodies, not an innate autoinflammatory disorder.",
+          "B": "Type I is IgE-mediated allergy and does not describe immune-complex lupus.",
+          "C": "Type II involves antibodies against a fixed cell or tissue antigen (e.g., anti-AChR in myasthenia gravis), not soluble immune complexes.",
+          "E": "Type IV is T-cell mediated (e.g., celiac disease), whereas SLE is antibody/immune-complex driven."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "systemic lupus erythematosus",
+        "hypersensitivity",
+        "autoantibody"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "im21-008",
+      "stem": "A researcher studies why a patient's mature T cells attack a normal self-protein. She concludes the T cell should have been eliminated while still developing but was not. Which tolerance process most likely failed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Affinity maturation"
+        },
+        {
+          "label": "B",
+          "text": "Anergy"
+        },
+        {
+          "label": "C",
+          "text": "Bystander activation"
+        },
+        {
+          "label": "D",
+          "text": "Complement activation"
+        },
+        {
+          "label": "E",
+          "text": "Negative selection"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Central tolerance uses negative selection in the thymus to delete developing self-reactive T cells.",
+        "whyCorrect": "The brick explains that central tolerance occurs in the thymus (T cells) and bone marrow (B cells) and consists of deleting self-reactive lymphocytes by negative selection, acting on developing lymphocytes. A self-reactive T cell that should have been removed during development escaped negative selection.",
+        "whyWrongByChoice": {
+          "A": "Affinity maturation refines antibody binding and does not delete autoreactive cells.",
+          "B": "Anergy is a peripheral tolerance mechanism acting on already-circulating mature lymphocytes, not developing ones.",
+          "C": "Bystander activation is an infection-driven mechanism of breaking tolerance, not a developmental deletion step.",
+          "D": "Complement activation is an effector amplification loop, unrelated to lymphocyte development."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "central tolerance",
+        "negative selection",
+        "tolerance"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "im21-009",
+      "stem": "A student is asked how peripheral tolerance differs from central tolerance. Which of the following statements is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peripheral tolerance can additionally induce tolerance to harmless foreign antigens"
+        },
+        {
+          "label": "B",
+          "text": "Peripheral tolerance generates MHC molecules for antigen presentation by dendritic cells"
+        },
+        {
+          "label": "C",
+          "text": "Peripheral tolerance is independent of regulatory T cells and their cytokines"
+        },
+        {
+          "label": "D",
+          "text": "Peripheral tolerance occurs only within the thymus during T cell development"
+        },
+        {
+          "label": "E",
+          "text": "Peripheral tolerance relies solely on negative selection of developing lymphocytes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Peripheral tolerance controls circulating lymphocytes and can extend to harmless foreign antigens, not just self.",
+        "whyCorrect": "The brick states that central tolerance induces tolerance against self-antigens, while peripheral tolerance can additionally induce tolerance against harmless foreign antigens, such as food. Peripheral tolerance acts on circulating lymphocytes through deletion, anergy, and inhibition by regulatory T cells.",
+        "whyWrongByChoice": {
+          "B": "Tolerance mechanisms do not generate MHC molecules; MHC is encoded by HLA genes.",
+          "C": "Regulatory T cells are central to peripheral tolerance, so it is not independent of them.",
+          "D": "The thymus is the site of central tolerance; peripheral tolerance acts on circulating lymphocytes in the periphery.",
+          "E": "Negative selection is a central tolerance mechanism; peripheral tolerance uses deletion, anergy, and Treg inhibition."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "peripheral tolerance",
+        "regulatory T cells",
+        "tolerance"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "im21-010",
+      "stem": "A patient with an established autoimmune disease initially had antibodies to a single self-protein, but over years develops reactivity to several additional self-antigens as tissue damage releases previously hidden self-proteins. Which phenomenon best describes this expansion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bystander activation"
+        },
+        {
+          "label": "B",
+          "text": "Central tolerance"
+        },
+        {
+          "label": "C",
+          "text": "Epitope spreading"
+        },
+        {
+          "label": "D",
+          "text": "Molecular mimicry"
+        },
+        {
+          "label": "E",
+          "text": "Negative selection"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Epitope spreading is the amplification of autoimmunity as the response expands to additional self-epitopes.",
+        "whyCorrect": "The brick defines epitope spreading as expansion of the immune response beyond its initial target to recognize additional epitopes within the same or different molecules, made accessible by proteolysis, oxidative modification, or structural changes in damaged tissue. It cites evidence in multiple sclerosis, SLE, type 1 diabetes, and pemphigus vulgaris.",
+        "whyWrongByChoice": {
+          "A": "Bystander activation refers to CTL-mediated killing of nearby uninfected cells during infection, not expanding antigen recognition over time.",
+          "B": "Central tolerance is a protective deletion process, not a mechanism of disease expansion.",
+          "D": "Molecular mimicry describes cross-reactivity between microbial and self-antigens that share homology, not progressive broadening to new self-epitopes.",
+          "E": "Negative selection removes autoreactive developing lymphocytes and does not broaden an autoimmune response."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "epitope spreading",
+        "amplification",
+        "autoimmunity"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "im21-011",
+      "stem": "A 24-year-old man has several months of low back pain and morning stiffness that improve with exercise; imaging shows sacroiliitis. He previously had an episode of reactive arthritis. Which HLA subtype is most associated with his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "HLA-DQ2"
+        },
+        {
+          "label": "B",
+          "text": "HLA-DR2"
+        },
+        {
+          "label": "C",
+          "text": "HLA-DR4"
+        },
+        {
+          "label": "D",
+          "text": "HLA-DQ8"
+        },
+        {
+          "label": "E",
+          "text": "HLA-B27"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "HLA-B27 is linked to ankylosing spondylitis and the other seronegative spondyloarthropathies.",
+        "whyCorrect": "Table 1 associates HLA-B27 with psoriatic arthritis, ankylosing spondylitis, IBD-associated arthritis, and reactive arthritis. Inflammatory back pain with sacroiliitis that improves with exercise, plus prior reactive arthritis, fits the B27-associated spondyloarthropathy spectrum.",
+        "whyWrongByChoice": {
+          "A": "HLA-DQ2 is associated with celiac disease.",
+          "B": "HLA-DR2 is associated with multiple sclerosis, SLE, and Goodpasture syndrome.",
+          "C": "HLA-DR4 is associated with rheumatoid arthritis, type 1 diabetes, and Addison disease.",
+          "D": "HLA-DQ8 is associated with celiac disease, not spondyloarthropathy."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HLA-B27",
+        "ankylosing spondylitis",
+        "HLA"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "im21-012",
+      "stem": "An epidemiologist notes that most autoimmune diseases are more common in women, especially those of child-bearing age. According to the brick, which postulated mechanism best explains this sex difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Estrogen enhances negative selection in the thymus"
+        },
+        {
+          "label": "B",
+          "text": "Estrogen may reduce apoptosis of autoreactive lymphocytes"
+        },
+        {
+          "label": "C",
+          "text": "Estrogen upregulates MHC class I on nucleated cells"
+        },
+        {
+          "label": "D",
+          "text": "Pregnancy permanently deletes all regulatory T cells"
+        },
+        {
+          "label": "E",
+          "text": "Testosterone directly stimulates autoantibody production"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The brick attributes the female predominance of autoimmune disease to estrogen limiting apoptosis of autoreactive lymphocytes.",
+        "whyCorrect": "The brick lists sex and age as intrinsic risk factors, noting most known autoimmune diseases are more common in women, particularly women of child-bearing age, and that the postulated mechanism is that high levels of estrogen may reduce apoptosis of autoreactive lymphocytes, allowing them to persist.",
+        "whyWrongByChoice": {
+          "A": "The brick proposes estrogen reduces apoptosis of autoreactive cells; it does not enhance negative selection.",
+          "C": "Estrogen-driven MHC class I upregulation is not the mechanism the brick proposes for female predominance.",
+          "D": "Permanent deletion of all Tregs by pregnancy is not a mechanism described in the brick.",
+          "E": "The brick attributes risk to estrogen effects, not testosterone-driven autoantibody production."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "intrinsic factors",
+        "estrogen",
+        "autoimmunity"
+      ],
+      "topicId": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+      "topicName": "Introduction to Autoinflammatory and Autoimmune Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "im22-001",
+      "stem": "A 55-year-old man is diagnosed with colon adenocarcinoma. Researchers analyzing his tumor find that the malignant cells produce an enzyme that is essentially absent from his normal somatic cells, maintains the ends of chromosomes, and prevents the replicative senescence that normally limits cell division. This enzyme is found in the vast majority of human cancers. Which of the following best classifies this tumor antigen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aberrantly-expressed self-protein"
+        },
+        {
+          "label": "B",
+          "text": "Alloantigen recognized by preformed antibodies"
+        },
+        {
+          "label": "C",
+          "text": "Neoantigen produced by a point mutation"
+        },
+        {
+          "label": "D",
+          "text": "Oncogenic viral protein"
+        },
+        {
+          "label": "E",
+          "text": "Product of a mutated proto-oncogene"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Telomerase is a normal self-protein abnormally expressed by most cancers, halting the telomere shortening seen in senescence.",
+        "whyCorrect": "The brick lists telomerase as the example of an aberrantly-expressed self-protein: it is expressed in the vast majority of cancers and halts the normal telomere shortening that occurs in senescence. Because it is a normal protein expressed abnormally (rather than a mutated or viral product), it is categorized as an aberrantly-expressed self-protein.",
+        "whyWrongByChoice": {
+          "B": "Alloantigens and preformed antibodies belong to transplant rejection, not tumor antigen classification.",
+          "C": "A neoantigen arises from a mutation that changes a self-protein; telomerase here is not mutated but simply expressed abnormally.",
+          "D": "Oncogenic viral proteins come from cancer-causing viruses such as HPV; telomerase is an endogenous human enzyme, not a viral product.",
+          "E": "Oncogene products come from mutated proto-oncogenes; telomerase re-expression is not described as an oncogene product in the brick."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tumor antigens",
+        "telomerase"
+      ],
+      "topicId": "tumors-and-transplants",
+      "topicName": "Tumors and Transplants",
+      "tier": "core"
+    },
+    {
+      "id": "im22-002",
+      "stem": "A melanoma is found to have downregulated its class I MHC molecules so that it can no longer present tumor-associated peptides to cytotoxic T lymphocytes. Despite this, the tumor is still attacked by a population of lymphocytes. Which cell is now the dominant effector against this tumor, and how does it recognize the malignant cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD8+ cytotoxic T cells recognizing peptide presented on MHC class II"
+        },
+        {
+          "label": "B",
+          "text": "Natural killer cells recognizing stress-associated signals"
+        },
+        {
+          "label": "C",
+          "text": "Plasma cells producing neutralizing antibodies against the tumor"
+        },
+        {
+          "label": "D",
+          "text": "Regulatory T cells inducing tolerance to the tumor"
+        },
+        {
+          "label": "E",
+          "text": "Th1 cells presenting tumor antigen on their own MHC class I"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "When tumor-associated antigens cannot be presented on MHC class I, NK cells become the dominant effector because they act independently of MHC I.",
+        "whyCorrect": "The brick states that if tumor-associated antigens cannot be presented by MHC I, NK cells make up the dominant immune response. NK cells recognize abnormal cells independent of MHC I by detecting stress-associated molecular signals or surface-bound IgG, so loss of MHC I does not blind them.",
+        "whyWrongByChoice": {
+          "A": "CTLs recognize peptide on MHC class I, not class II, and their response fails precisely because MHC I is downregulated.",
+          "C": "The dominant anti-tumor response described is cell-mediated (CTLs and NK cells), not antibody-mediated by plasma cells.",
+          "D": "Regulatory T cells suppress immune responses rather than serve as the dominant anti-tumor effector.",
+          "E": "Th1 cells do not present tumor antigen on MHC I to kill tumor cells; they help coordinate responses via cytokines."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "NK cells",
+        "MHC class I",
+        "tumor immunity"
+      ],
+      "topicId": "tumors-and-transplants",
+      "topicName": "Tumors and Transplants",
+      "tier": "core"
+    },
+    {
+      "id": "im22-003",
+      "stem": "A 34-year-old woman is diagnosed with cervical carcinoma associated with human papillomavirus (HPV). Her oncologist explains that specific viral proteins are helping the tumor grow. By which mechanism do these oncogenic HPV proteins promote the survival of cancer cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They activate telomerase to lengthen telomeres directly"
+        },
+        {
+          "label": "B",
+          "text": "They downregulate class I MHC to hide from cytotoxic T cells"
+        },
+        {
+          "label": "C",
+          "text": "They interact with p53 and help prevent apoptosis of cancer cells"
+        },
+        {
+          "label": "D",
+          "text": "They secrete TGF-beta to suppress Th1 cells"
+        },
+        {
+          "label": "E",
+          "text": "They trigger antibody-dependent cellular cytotoxicity against the tumor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "HPV is an oncogenic virus whose proteins interact with p53 and help block apoptosis of cancer cells.",
+        "whyCorrect": "The brick explicitly states that cancer can be caused by viruses like HPV, and that HPV proteins interact with p53 (described as an oncogene) and help prevent apoptosis of cancer cells. Blocking apoptosis allows the malignant cells to survive and proliferate.",
+        "whyWrongByChoice": {
+          "A": "Telomerase re-expression is a separate aberrant self-protein mechanism, not the described action of HPV proteins.",
+          "B": "MHC class I downregulation is a general tumor evasion (low immunogenicity) strategy, not the specific HPV mechanism taught here.",
+          "D": "TGF-beta suppression of Th1 cells is a tumor immune-suppression mechanism, not an action of HPV proteins.",
+          "E": "ADCC is an immune effector mechanism that damages tumors; it is not how HPV proteins promote cancer survival."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HPV",
+        "oncogenic viral proteins",
+        "p53"
+      ],
+      "topicId": "tumors-and-transplants",
+      "topicName": "Tumors and Transplants",
+      "tier": "core"
+    },
+    {
+      "id": "im22-004",
+      "stem": "A pathologist examining a solid tumor notes that immune cells are largely excluded from the tumor mass by a dense sheath of secreted collagen and other stromal proteins. The few lymphocytes that do infiltrate are found to be functionally inactivated by an inhibitory ligand displayed on the tumor surface. Which tumor evasion strategy is illustrated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antigenic modulation through ADCC-based selection of antigen-loss variants"
+        },
+        {
+          "label": "B",
+          "text": "Immune privilege through an extracellular matrix barrier and PD-L1 upregulation"
+        },
+        {
+          "label": "C",
+          "text": "Immune suppression through TGF-beta and IL-10 secretion into the microenvironment"
+        },
+        {
+          "label": "D",
+          "text": "Low immunogenicity through MHC class I and co-stimulatory molecule downregulation"
+        },
+        {
+          "label": "E",
+          "text": "Peripheral tolerance from presenting antigen without co-stimulatory signals"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Creating an immune-privileged site uses secreted extracellular matrix to block access and PD-L1 to inactivate infiltrating immune cells.",
+        "whyCorrect": "The brick describes immune privilege as tumors secreting extracellular matrix components to physically block immune cell access to the tumor and upregulating PD-L1 to inactivate any immune cells that do infiltrate. Both features in this vignette match that strategy.",
+        "whyWrongByChoice": {
+          "A": "Antigenic modulation selects for cells lacking a targeted antigen via antibody-mediated ADCC, which is not described here.",
+          "C": "Immune suppression via TGF-beta and IL-10 shifts cytokine and cell populations rather than physically excluding and inactivating infiltrating cells.",
+          "D": "Low immunogenicity involves downregulating MHC I, adhesion, and co-stimulatory molecules, not building an ECM barrier or using PD-L1.",
+          "E": "Peripheral tolerance results from presenting self-peptide without co-stimulation; it does not involve a physical ECM barrier or PD-L1."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "immune evasion",
+        "immune privilege",
+        "PD-L1"
+      ],
+      "topicId": "tumors-and-transplants",
+      "topicName": "Tumors and Transplants",
+      "tier": "core"
+    },
+    {
+      "id": "im22-005",
+      "stem": "Analysis of a tumor microenvironment reveals abundant regulatory T cells and anti-inflammatory M2 macrophages, suppression of Th1 cells and M1 macrophages, and decreased expression of activating receptors on nearby NK cells. Which pair of cytokines is most critical to this immune-suppressive state?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C3a and C5a"
+        },
+        {
+          "label": "B",
+          "text": "IFN-gamma and IL-12"
+        },
+        {
+          "label": "C",
+          "text": "IL-2 and TNF-alpha"
+        },
+        {
+          "label": "D",
+          "text": "Perforin and granzyme"
+        },
+        {
+          "label": "E",
+          "text": "TGF-beta and IL-10"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "TGF-beta and IL-10 are the cytokines the brick names as critical to tumor-driven immune suppression.",
+        "whyCorrect": "The brick states that TGF-beta and IL-10 are cytokines critical for immune suppression, producing suppression of M1 macrophages with induction of M2s, suppression of Th1 cells with induction of regulatory T cells, and decreased activating receptors on NK cells, exactly the picture described.",
+        "whyWrongByChoice": {
+          "A": "C3a and C5a are complement anaphylatoxins that recruit and activate inflammatory cells, not tumor immune-suppression cytokines.",
+          "B": "IFN-gamma and IL-12 are pro-inflammatory cytokines that activate NK cells and Th1 responses, the opposite of the suppressive state shown.",
+          "C": "IL-2 and TNF-alpha promote immune activation rather than the suppression described.",
+          "D": "Perforin and granzyme are cytotoxic effector molecules used by CTLs and NK cells to kill targets, not suppressive cytokines."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "immune suppression",
+        "TGF-beta",
+        "IL-10",
+        "regulatory T cells"
+      ],
+      "topicId": "tumors-and-transplants",
+      "topicName": "Tumors and Transplants",
+      "tier": "core"
+    },
+    {
+      "id": "im22-006",
+      "stem": "A 62-year-old man with severe aortic valve disease undergoes valve replacement using tissue derived from a pig. Which term best describes this type of graft?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allograft"
+        },
+        {
+          "label": "B",
+          "text": "Autograft"
+        },
+        {
+          "label": "C",
+          "text": "Isograft"
+        },
+        {
+          "label": "D",
+          "text": "Syngraft"
+        },
+        {
+          "label": "E",
+          "text": "Xenograft"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A graft transferred between different species, such as a pig valve into a human, is a xenograft.",
+        "whyCorrect": "The brick defines xenografts as grafts between species, giving the example of pig heart valves, where 'xeno' means foreign. A pig-derived valve implanted in a human is therefore a xenograft.",
+        "whyWrongByChoice": {
+          "A": "An allograft is between genetically different people of the same species, not between species.",
+          "B": "An autograft is within the same person (self to self), such as skin moved from thigh to chest.",
+          "C": "An isograft is between genetically identical individuals, such as identical twins.",
+          "D": "Syngraft is not one of the four graft categories taught in the brick; the correct term for a between-species graft is xenograft."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "graft types",
+        "xenograft"
+      ],
+      "topicId": "tumors-and-transplants",
+      "topicName": "Tumors and Transplants",
+      "tier": "core"
+    },
+    {
+      "id": "im22-007",
+      "stem": "A transplant team evaluating a potential kidney donor and recipient places heavy emphasis on matching the genes that encode human leukocyte antigens (HLA). Which statement best explains why this matching is prioritized?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Matching MHC prevents graft-versus-host disease in all solid organ transplants"
+        },
+        {
+          "label": "B",
+          "text": "MHC class I is encoded by the beta-1 locus and rarely varies between people"
+        },
+        {
+          "label": "C",
+          "text": "MHC genes are highly polymorphic"
+        },
+        {
+          "label": "D",
+          "text": "MHC molecules are identical across all humans, so matching is only a formality"
+        },
+        {
+          "label": "E",
+          "text": "Only ABO blood group, not MHC, influences solid organ rejection"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "MHC genes are among the most polymorphic in the genome, so the closer the donor-recipient match, the lower the alloimmune response and the better the transplant odds.",
+        "whyCorrect": "The brick emphasizes that MHC genes are highly polymorphic and are the genes seen to be most critical to match between donor and recipient to prevent an immune response. It states that the closer the blood and MHC match, the better the odds of a successful transplant.",
+        "whyWrongByChoice": {
+          "A": "Matching reduces rejection, but graft-versus-host disease is a distinct problem tied to donor immune cells, not something MHC matching prevents in all solid organ transplants.",
+          "B": "MHC class I is matched at the alpha loci and is highly polymorphic; it is the beta-1 loci that pertain to class II, and neither rarely varies.",
+          "D": "MHC molecules are not identical across humans; they are highly polymorphic, which is precisely why matching matters.",
+          "E": "Both ABO blood group and MHC influence transplant outcome; MHC matching is specifically stressed as critical."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "MHC matching",
+        "HLA",
+        "transplantation"
+      ],
+      "topicId": "tumors-and-transplants",
+      "topicName": "Tumors and Transplants",
+      "tier": "core"
+    },
+    {
+      "id": "im22-008",
+      "stem": "A 48-year-old woman receives a deceased-donor kidney transplant. Within minutes of restoring blood flow, the graft becomes mottled and dusky. Biopsy shows platelet-fibrin thrombi, neutrophil accumulation, complement (C4d) deposition on the endothelium, and severe ischemic injury. Which mechanism best explains this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Donor T cells recognizing and attacking recipient tissues"
+        },
+        {
+          "label": "B",
+          "text": "Helper T cell-driven smooth muscle proliferation over several years"
+        },
+        {
+          "label": "C",
+          "text": "Preformed recipient antibodies binding donor alloantigens"
+        },
+        {
+          "label": "D",
+          "text": "Recipient cytotoxic T cell-mediated apoptosis of graft cells developing over weeks"
+        },
+        {
+          "label": "E",
+          "text": "Type IV delayed hypersensitivity building up over several days"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hyperacute rejection occurs within minutes to 24 hours from preformed recipient antibodies against donor alloantigens that activate complement and inflammation.",
+        "whyCorrect": "The brick describes hyperacute rejection (a type 2 hypersensitivity) as occurring within minutes to 24 hours, mediated by preformed recipient antibodies specific to donor alloantigens. These trigger complement activation, with C4d and C3d deposition, membrane attack complexes, and Fc-mediated inflammation, producing thrombosis, ischemia, and necrosis, exactly as shown.",
+        "whyWrongByChoice": {
+          "A": "Donor T cells attacking recipient tissues describes graft-versus-host disease, not rejection of the graft.",
+          "B": "Helper T cell-driven smooth muscle proliferation is chronic rejection, which develops over months to years.",
+          "D": "CTL-mediated apoptosis of graft cells over weeks describes acute rejection, not a reaction occurring within minutes.",
+          "E": "A type IV delayed hypersensitivity building over days does not match a reaction that begins within minutes of reperfusion."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "hyperacute rejection",
+        "complement",
+        "preformed antibodies"
+      ],
+      "topicId": "tumors-and-transplants",
+      "topicName": "Tumors and Transplants",
+      "tier": "core"
+    },
+    {
+      "id": "im22-009",
+      "stem": "A 39-year-old man who received a kidney transplant three weeks ago develops a rising serum creatinine. A graft biopsy shows a dense interstitial infiltrate of lymphocytes resembling vasculitis. Which mechanism most likely underlies this rejection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arteriosclerosis from chronic helper T cell cytokines over years"
+        },
+        {
+          "label": "B",
+          "text": "Donor lymphocytes attacking the recipient's skin and gut"
+        },
+        {
+          "label": "C",
+          "text": "IgE-mediated type I hypersensitivity to graft antigens"
+        },
+        {
+          "label": "D",
+          "text": "Preformed antibodies and complement causing injury within minutes"
+        },
+        {
+          "label": "E",
+          "text": "Recipient cytotoxic T cells recognizing alloantigens"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Acute rejection occurs about one week to several months post-transplant and features recipient CTLs recognizing alloantigens on donor MHC I, with a lymphocyte-rich vasculitis-like picture.",
+        "whyCorrect": "The brick states acute rejection occurs one week to several months after transplant and that recipient CTLs recognize alloantigens presented on donor MHC I to induce apoptosis of graft cells. Histologically the graft resembles vasculitis with a dense interstitial infiltrate of lymphocytes, matching this three-week presentation.",
+        "whyWrongByChoice": {
+          "A": "Arteriosclerosis from chronic helper T cell cytokines is chronic rejection, which unfolds over months to years.",
+          "B": "Donor lymphocytes attacking recipient skin and gut describes graft-versus-host disease, not rejection of the kidney.",
+          "C": "Type I IgE-mediated hypersensitivity is not the mechanism of acute cellular rejection described in the brick.",
+          "D": "Preformed antibody and complement injury within minutes is hyperacute rejection, not a reaction at three weeks."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acute rejection",
+        "cytotoxic T cells",
+        "MHC class I"
+      ],
+      "topicId": "tumors-and-transplants",
+      "topicName": "Tumors and Transplants",
+      "tier": "core"
+    },
+    {
+      "id": "im22-010",
+      "stem": "A 57-year-old woman who received a lung transplant three years ago has slowly progressive graft dysfunction. Biopsy reveals arteriosclerosis of graft vessels and thickened small airways with fibrosis. Which mechanism best accounts for this pattern of chronic rejection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complement-mediated membrane attack complexes forming within 24 hours of transplantation"
+        },
+        {
+          "label": "B",
+          "text": "Donor NK cells lysing the recipient's enterocytes and skin keratinocytes"
+        },
+        {
+          "label": "C",
+          "text": "Preformed antibodies causing immediate thrombosis of the graft vasculature"
+        },
+        {
+          "label": "D",
+          "text": "Recipient helper T cell cytokines stimulating vascular smooth muscle proliferation"
+        },
+        {
+          "label": "E",
+          "text": "Type I hypersensitivity to inhaled environmental allergens in the airway"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Chronic rejection develops over months to years as recipient helper T cell cytokines drive vascular smooth muscle proliferation, producing arteriosclerosis.",
+        "whyCorrect": "The brick states that chronic rejection occurs months to years after transplant, likely from recipient helper T cells recognizing alloantigens on MHC II, whose cytokines (IFN-gamma and others) stimulate proliferation of vascular smooth muscle cells. The resulting arteriosclerosis compromises graft blood flow, and lung transplants specifically show thickened small airways.",
+        "whyWrongByChoice": {
+          "A": "Rapid complement-mediated MAC formation within 24 hours is a hyperacute mechanism, not the slow arteriosclerotic process of chronic rejection.",
+          "B": "Donor NK cells lysing recipient enterocytes describes graft-versus-host disease, not chronic rejection of the graft.",
+          "C": "Preformed antibodies causing immediate thrombosis is hyperacute rejection occurring within minutes to 24 hours, not years later.",
+          "E": "Type I hypersensitivity to inhaled allergens is unrelated to the alloimmune helper T cell mechanism of chronic rejection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "chronic rejection",
+        "helper T cells",
+        "arteriosclerosis"
+      ],
+      "topicId": "tumors-and-transplants",
+      "topicName": "Tumors and Transplants",
+      "tier": "core"
+    },
+    {
+      "id": "im22-011",
+      "stem": "A 26-year-old woman with acute myeloid leukemia receives an allogeneic hematopoietic stem cell transplant from an unrelated donor after conditioning chemotherapy. Several weeks later she develops a maculopapular rash, jaundice, and intractable diarrhea. Blood tests are otherwise normal. Which of the following is the most likely explanation for her symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute rejection of the graft by recipient cytotoxic T cells"
+        },
+        {
+          "label": "B",
+          "text": "Chronic rejection with graft arteriosclerosis"
+        },
+        {
+          "label": "C",
+          "text": "Graft-versus-host disease mediated by donor T cells"
+        },
+        {
+          "label": "D",
+          "text": "Hyperacute rejection from preformed recipient antibodies against donor antigens"
+        },
+        {
+          "label": "E",
+          "text": "Recurrence of leukemia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Graft-versus-host disease occurs when donor immune cells recognize recipient tissues as foreign, classically affecting skin, liver, and GI tract.",
+        "whyCorrect": "The brick describes GVHD as occurring with allogeneic stem cell transplants when donor immune cells mount a response against the recipient, with donor T cells as the primary effectors and CTLs and NK cells causing tissue damage. It most commonly affects skin, liver, and GI tract, presenting with maculopapular rash, jaundice, and diarrhea, precisely this patient's picture.",
+        "whyWrongByChoice": {
+          "A": "Acute rejection is the recipient attacking the graft; here the donor cells are attacking the recipient's own tissues.",
+          "B": "Chronic rejection causes graft arteriosclerosis over years and does not explain rash, jaundice, and diarrhea a few weeks post-transplant.",
+          "D": "Hyperacute rejection is the recipient's preformed antibodies attacking a solid organ graft within minutes, not a weeks-later multi-organ syndrome after stem cell transplant.",
+          "E": "Blood tests are otherwise normal with no indication of relapse; the rash, jaundice, and diarrhea point to GVHD rather than recurrent leukemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "graft-versus-host disease",
+        "stem cell transplant",
+        "donor T cells"
+      ],
+      "topicId": "tumors-and-transplants",
+      "topicName": "Tumors and Transplants",
+      "tier": "core"
+    },
+    {
+      "id": "im22-012",
+      "stem": "In a classic experiment, a mouse rejects a skin allograft from an unrelated donor about 14 days after grafting. Weeks later, the same mouse receives a second skin graft from the same donor and rejects it in only about 6 days. Which principle best explains the accelerated second rejection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Development of tolerance to the donor after the first graft"
+        },
+        {
+          "label": "B",
+          "text": "Graft-versus-host disease caused by donor memory cells"
+        },
+        {
+          "label": "C",
+          "text": "Immunologic memory to the donor's alloantigens"
+        },
+        {
+          "label": "D",
+          "text": "Loss of MHC matching on the second graft"
+        },
+        {
+          "label": "E",
+          "text": "Preformed antibodies that were present before any transplant"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Because the adaptive immune response generates memory, a repeat graft sharing alloantigens is rejected faster (second-set rejection).",
+        "whyCorrect": "The brick teaches that adaptive immune responses generate memory, so allografts generate memory to alloantigens, and additional allografts from the same donor (or donors with similar alloantigens) are rejected faster. The 6-day second-set rejection reflects memory cells formed during the first (14-day) rejection.",
+        "whyWrongByChoice": {
+          "A": "Tolerance would make the second graft survive longer, not be rejected faster.",
+          "B": "Graft-versus-host disease involves donor cells attacking the host; this scenario is host rejection of donor skin, accelerated by host memory.",
+          "D": "Both grafts came from the same donor with the same MHC, so a change in matching is not the cause of the faster rejection.",
+          "E": "Preformed antibodies present before any transplant would cause hyperacute rejection of the first graft as well; here the first graft took 14 days."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "immunologic memory",
+        "second-set rejection",
+        "alloantigens"
+      ],
+      "topicId": "tumors-and-transplants",
+      "topicName": "Tumors and Transplants",
+      "tier": "core"
+    }
+  ]
+}

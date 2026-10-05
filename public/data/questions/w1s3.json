@@ -1,7 +1,571 @@
 {
-  "categoryId": "lymphocytes-adaptive",
-  "categoryName": "Lymphocytes & Adaptive Immunity",
+  "categoryId": "w1s3",
+  "categoryName": "Session 3",
   "questions": [
+    {
+      "id": "im07-001",
+      "stem": "A 2-month-old girl has been hospitalized repeatedly since birth for severe, recurrent respiratory, eye, and skin infections caused by fungal, viral, and bacterial organisms. Laboratory studies show markedly reduced numbers of both T and B lymphocytes and low serum immunoglobulin levels. Genetic testing points to a defect in the enzyme that introduces double-strand breaks so that antigen-receptor gene segments can be cut and rejoined. Which of the following enzymes is most likely deficient in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Classical complement pathway C1 esterase"
+        },
+        {
+          "label": "B",
+          "text": "Neonatal Fc receptor for immunoglobulin G (FcRn)"
+        },
+        {
+          "label": "C",
+          "text": "Polymeric immunoglobulin receptor (poly-Ig receptor)"
+        },
+        {
+          "label": "D",
+          "text": "Recombination-activating gene (RAG) recombinase"
+        },
+        {
+          "label": "E",
+          "text": "Terminal deoxynucleotidyl transferase (TdT)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "RAG-1 and RAG-2 cut DNA to permit V(D)J recombination; their loss prevents BCR and TCR generation, causing SCID.",
+        "whyCorrect": "The brick states that RAG (recombination-activating gene 1 and 2) is the enzyme responsible for introducing breaks in DNA so that V, D, and J gene segments can be joined. Without RAG, V(D)J recombination cannot occur and neither BCRs nor TCRs can be generated, producing a severe deficiency of both B and T cells. This matches the case connection of an infant with combined immunodeficiency (SCID) treated with hematopoietic stem cell transplantation.",
+        "whyWrongByChoice": {
+          "A": "A complement pathway defect would impair innate opsonization/lysis but would not deplete T and B cells or block antigen-receptor assembly.",
+          "B": "FcRn mediates placental transfer of IgG and prolongs its half-life; it does not affect V(D)J recombination or lymphocyte development.",
+          "C": "The poly-Ig receptor transcytoses IgA across mucosal epithelium and has no role in generating lymphocytes or their receptors.",
+          "E": "TdT adds random nucleotides at segment junctions to create junctional diversity; its loss reduces diversity but does not abolish receptor generation or wipe out both lineages."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "V(D)J recombination",
+        "RAG",
+        "SCID"
+      ],
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "core"
+    },
+    {
+      "id": "im07-002",
+      "stem": "A researcher sequencing rearranged antigen-receptor loci finds a B-cell receptor chain and a T-cell receptor chain that were each assembled using only V and J gene segments, with no D segment involved. These two chains most likely correspond to which of the following variable domains?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "V(beta) and V(alpha)"
+        },
+        {
+          "label": "B",
+          "text": "V(H) and V(alpha)"
+        },
+        {
+          "label": "C",
+          "text": "V(H) and V(beta)"
+        },
+        {
+          "label": "D",
+          "text": "V(H) and V(L)"
+        },
+        {
+          "label": "E",
+          "text": "V(L) and V(alpha)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The BCR light chain and the TCR alpha chain build their variable domains from V and J segments only.",
+        "whyCorrect": "The brick explains that the BCR light chain (V(L)) and the TCR alpha chain (V(alpha)) are generated using only V and J segments, which is why the 'D' in V(D)J is placed in parentheses. The BCR heavy chain (V(H)) and TCR beta chain (V(beta)) additionally use a D segment.",
+        "whyWrongByChoice": {
+          "A": "V(beta) uses a D segment; only V(alpha) among the two is limited to V and J.",
+          "B": "V(H) uses a D segment, so this pair is not restricted to V and J.",
+          "C": "Both V(H) (heavy chain) and V(beta) additionally use a D segment, so neither is built from V and J alone.",
+          "D": "V(H) uses V, D, and J segments; only V(L) is limited to V and J."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "V(D)J recombination",
+        "gene segments",
+        "light chain"
+      ],
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "core"
+    },
+    {
+      "id": "im07-003",
+      "stem": "During assembly of a developing B cell's antigen receptor, extra nucleotides are inserted at the boundaries where the V, D, and J segments are being joined, generating sequences not encoded in the germline. Which of the following processes and mediators best accounts for this added diversity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Isotype switching of the heavy-chain constant region"
+        },
+        {
+          "label": "B",
+          "text": "Junctional diversity generated by TdT"
+        },
+        {
+          "label": "C",
+          "text": "Random pairing of heavy and light chains"
+        },
+        {
+          "label": "D",
+          "text": "Selection of B cells by clonal selection"
+        },
+        {
+          "label": "E",
+          "text": "Somatic hypermutation of the CDRs"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Junctional diversity comes from terminal deoxynucleotidyl transferase (TdT) adding random nucleotides at the V(D)J junctions.",
+        "whyCorrect": "The brick describes junctional diversity as the random addition of nucleotides at segment junctions before they are joined, catalyzed by terminal deoxynucleotidyl transferase (TdT). This is why CDR3, which spans the junctions, is the most diverse and is not germline-encoded.",
+        "whyWrongByChoice": {
+          "A": "Isotype switching changes the constant region class and does not add nucleotides to the variable region junctions.",
+          "C": "Random heavy/light chain pairing is combinatorial diversity, which reshuffles whole domains rather than inserting nucleotides at junctions.",
+          "D": "Clonal selection expands antigen-specific B cells; it does not create receptor sequence diversity.",
+          "E": "Somatic hypermutation introduces point mutations after antigen encounter, not junctional insertions during development."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "junctional diversity",
+        "TdT",
+        "diversity"
+      ],
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "core"
+    },
+    {
+      "id": "im07-004",
+      "stem": "An immunologist is comparing secreted antibody isotypes and wants to identify the class that provides the greatest number of antigen-binding sites per secreted molecule, giving it especially high avidity early in an immune response. Which isotype fits this description?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgA"
+        },
+        {
+          "label": "B",
+          "text": "IgD"
+        },
+        {
+          "label": "C",
+          "text": "IgE"
+        },
+        {
+          "label": "D",
+          "text": "IgG"
+        },
+        {
+          "label": "E",
+          "text": "IgM"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Secreted IgM is a pentamer with 10 antigen-binding sites, giving it the highest avidity of the isotypes.",
+        "whyCorrect": "The brick teaches that secreted IgM exists as a pentamer joined by a J chain; with two binding sites per monomer, the pentamer has ten antigen-binding sites. This gives IgM the highest avidity (the combination of individual affinities) and makes it effective early, when it is the first class produced.",
+        "whyWrongByChoice": {
+          "A": "IgA is a dimer at mucosal surfaces (and a monomer in blood), giving at most four binding sites, fewer than pentameric IgM.",
+          "B": "IgD is a monomer with only two binding sites and is secreted at very low levels.",
+          "C": "IgE is a monomer with two binding sites and is mostly bound to its receptor on mast cells.",
+          "D": "IgG is a monomer with two binding sites; although the most abundant serum antibody, it does not have the most binding sites per molecule."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "IgM",
+        "avidity",
+        "isotypes"
+      ],
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "core"
+    },
+    {
+      "id": "im07-005",
+      "stem": "Two weeks after a first exposure to a vaccine antigen, a patient's germinal-center B cells accumulate point mutations in the genes encoding their variable domains, and B cells whose receptors bind the antigen more tightly are preferentially selected to survive. Which of the following statements best characterizes this process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It occurs after antigen recognition and increases BCR affinity for antigen"
+        },
+        {
+          "label": "B",
+          "text": "It occurs after antigen recognition and increases diversity of TCR specificity"
+        },
+        {
+          "label": "C",
+          "text": "It occurs before antigen recognition and increases BCR affinity for antigen"
+        },
+        {
+          "label": "D",
+          "text": "It occurs in both B and T cells to change the constant region class"
+        },
+        {
+          "label": "E",
+          "text": "It occurs prior to antigen recognition and increases diversity of TCR specificity"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Somatic hypermutation occurs in B cells after antigen recognition and raises BCR affinity through affinity maturation.",
+        "whyCorrect": "The brick states that somatic hypermutation occurs in activated B cells after antigen recognition, introducing random mutations primarily in the CDRs (hypervariable regions) of the V(H) domains. B cells whose mutated receptors bind antigen best are selected to survive and proliferate, so the affinity of the repertoire rises. This distinguishes it from V(D)J recombination, which occurs before antigen recognition in both B and T cells.",
+        "whyWrongByChoice": {
+          "B": "T cells do not undergo somatic hypermutation; once mature, the TCR does not change.",
+          "C": "Somatic hypermutation happens after, not before, antigen recognition; V(D)J recombination is the developmental process that precedes antigen exposure.",
+          "D": "Changing the constant-region class describes isotype switching, not somatic hypermutation, and hypermutation is a B-cell-only event.",
+          "E": "It affects B cells, not TCRs, and follows rather than precedes antigen recognition; TCRs do not undergo somatic hypermutation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "somatic hypermutation",
+        "affinity maturation",
+        "B cells"
+      ],
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "core"
+    },
+    {
+      "id": "im07-006",
+      "stem": "A full-term newborn is found to have protective serum levels of antibody against tetanus toxin, matching the mother's immunity, even though the infant has never been vaccinated. These maternally derived antibodies were transported across the placenta by a specific Fc receptor. Which antibody isotype is responsible for this protection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgA"
+        },
+        {
+          "label": "B",
+          "text": "IgD"
+        },
+        {
+          "label": "C",
+          "text": "IgE"
+        },
+        {
+          "label": "D",
+          "text": "IgG"
+        },
+        {
+          "label": "E",
+          "text": "IgM"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "IgG is the only isotype that crosses the placenta, carried by the neonatal Fc receptor (FcRn).",
+        "whyCorrect": "The brick states that IgG is the most abundant serum antibody and the only class able to cross the placenta. The secreted neonatal Fc receptor (FcRn) mediates placental transfer of IgG and also prolongs its half-life in the circulation, explaining protective maternal IgG in the newborn.",
+        "whyWrongByChoice": {
+          "A": "IgA is concentrated at mucosal surfaces and passes to infants mainly via breast milk, not across the placenta.",
+          "B": "IgD is secreted only at very low levels and functions in naive B cell signaling, not in placental transfer.",
+          "C": "IgE is mostly bound to mast cells and mediates allergy/anti-parasite responses; it does not cross the placenta.",
+          "E": "IgM is a large pentamer that does not cross the placenta."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "IgG",
+        "placental transfer",
+        "FcRn"
+      ],
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "core"
+    },
+    {
+      "id": "im07-007",
+      "stem": "A researcher studying breast milk and saliva isolates the predominant antibody at these mucosal surfaces. It exists there as a dimer joined by a J chain and reaches the secretions by being transcytosed across epithelial cells by a dedicated receptor. Which isotype and transport receptor pair is described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgA transported by the polymeric immunoglobulin receptor (pIgR)"
+        },
+        {
+          "label": "B",
+          "text": "IgE transported by the high-affinity receptor FcERI"
+        },
+        {
+          "label": "C",
+          "text": "IgG transported by FcgammaRIIIa (CD16)"
+        },
+        {
+          "label": "D",
+          "text": "IgG transported by the neonatal Fc receptor (FcRn)"
+        },
+        {
+          "label": "E",
+          "text": "IgM transported by the polymeric immunoglobulin receptor (pIgR)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Mucosal IgA is a J-chain-joined dimer that crosses epithelium via the polymeric immunoglobulin receptor (pIgR).",
+        "whyCorrect": "The brick teaches that IgA is the most abundant antibody at mucosal surfaces (tears, saliva, breast milk), where it exists as a dimer joined by a J chain. It enters the mucosa through transcytosis across epithelial cells mediated by the polymeric immunoglobulin receptor (pIgR); in blood it circulates as a monomer.",
+        "whyWrongByChoice": {
+          "B": "FcERI binds IgE on mast cells and basophils for allergic/anti-parasite responses; it is not a mucosal transcytosis receptor.",
+          "C": "FcgammaRIIIa (CD16) on NK cells mediates ADCC by IgG; it does not transport antibody into secretions.",
+          "D": "FcRn transports IgG across the placenta and prolongs IgG half-life; it does not deliver the dimeric mucosal antibody.",
+          "E": "Although IgM also uses a J chain, the dominant mucosal secretory antibody delivered by pIgR is dimeric IgA, not IgM."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "IgA",
+        "mucosal immunity",
+        "pIgR"
+      ],
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "core"
+    },
+    {
+      "id": "im07-008",
+      "stem": "A 22-year-old man with seasonal hay fever develops sneezing, itchy watery eyes, and nasal congestion each spring. His symptoms result from an antibody that is bound to Fc receptors on mast cells; when pollen cross-links these antibodies, the mast cells aggregate the receptors and degranulate, releasing inflammatory mediators. Which antibody isotype and receptor mediate this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgA bound to FcalphaR on phagocytes"
+        },
+        {
+          "label": "B",
+          "text": "IgD bound to receptors on naive B cells"
+        },
+        {
+          "label": "C",
+          "text": "IgE bound to FcERI on mast cells"
+        },
+        {
+          "label": "D",
+          "text": "IgG bound to FcgammaR on phagocytes"
+        },
+        {
+          "label": "E",
+          "text": "IgM bound to complement receptors"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "IgE bound to FcERI on mast cells and basophils triggers degranulation in allergic reactions.",
+        "whyCorrect": "The brick explains that IgE's function is mediated by binding of its Fc region to the high-affinity IgE receptor (FcERI) on mast cells, eosinophils, and basophils. In classic allergic reactions, allergen cross-links receptor-bound IgE, causing receptor aggregation, mast cell activation, and degranulation with release of inflammatory mediators, producing edema, itching, and congestion.",
+        "whyWrongByChoice": {
+          "A": "IgA and its low-affinity FcalphaR act in mucosal immunity, not in mast-cell-driven hypersensitivity.",
+          "B": "IgD functions in naive B cell signaling and has no role in mast cell degranulation.",
+          "D": "IgG on phagocyte FcgammaR mediates opsonization and ADCC, not immediate mast cell degranulation of allergy.",
+          "E": "IgM activates the classical complement pathway; it is not the antibody pre-armed on mast cells for allergy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "IgE",
+        "allergy",
+        "mast cells"
+      ],
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "core"
+    },
+    {
+      "id": "im07-009",
+      "stem": "An investigator enzymatically separates an IgG molecule into its Y-shaped fragments. She wants the fragment that binds complement proteins and Fc receptors to carry out the antibody's effector functions, rather than the fragment that contacts antigen. Which portion of the antibody should she isolate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The complementarity-determining region 3 (CDR3)"
+        },
+        {
+          "label": "B",
+          "text": "The Fab region"
+        },
+        {
+          "label": "C",
+          "text": "The Fc region"
+        },
+        {
+          "label": "D",
+          "text": "The hinge region"
+        },
+        {
+          "label": "E",
+          "text": "The variable domain of the light chain"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The Fc region is the stem of the Y and carries out effector functions by binding complement and Fc receptors.",
+        "whyCorrect": "The brick describes the antibody as roughly Y-shaped: the two arms are the antigen-binding fragments (Fab) involved in antigen recognition, while the stem or base is the crystallizable fragment (Fc) responsible for effector functions, specifically binding complement and Fc receptors.",
+        "whyWrongByChoice": {
+          "A": "CDR3 is a hypervariable antigen-contacting loop, part of antigen recognition, not effector function.",
+          "B": "The Fab region is the antigen-binding arm, not the part that engages complement and Fc receptors.",
+          "D": "The hinge is a flexible connector between the arms; it provides mobility, not effector binding.",
+          "E": "The light-chain variable domain helps form the antigen-binding site, so it is part of antigen recognition rather than effector function."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Fc region",
+        "antibody structure",
+        "effector function"
+      ],
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "core"
+    },
+    {
+      "id": "im07-010",
+      "stem": "A mature B cell circulating between the blood and secondary lymphoid organs has not yet encountered its cognate antigen. Flow cytometry is used to characterize the immunoglobulin isotypes displayed on its surface. Which of the following is most likely observed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pentameric IgM secreted into the plasma"
+        },
+        {
+          "label": "B",
+          "text": "Secreted IgA as a mucosal dimer"
+        },
+        {
+          "label": "C",
+          "text": "Surface IgE bound to FcERI"
+        },
+        {
+          "label": "D",
+          "text": "Surface IgG only"
+        },
+        {
+          "label": "E",
+          "text": "Surface IgM and IgD together"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Naive B cells co-express surface IgM and IgD before encountering antigen.",
+        "whyCorrect": "The brick states that naive B cells are mature B cells that have not encountered their cognate antigen and that they express the mu and delta heavy-chain constant domains, so they carry both IgM and IgD on their surface (with the same variable and light-chain regions). Secretion of antibody and any class switching occur only after activation.",
+        "whyWrongByChoice": {
+          "A": "Secreted pentameric IgM is released only after the B cell is activated; a naive B cell displays membrane IgM (and IgD) rather than secreting pentamer.",
+          "B": "Secreted dimeric IgA is a product of activated, class-switched plasma cells at mucosal surfaces, not a naive B cell's surface receptor.",
+          "C": "IgE bound to FcERI is displayed on mast cells and basophils, not on the surface of a naive B cell.",
+          "D": "Surface IgG appears only after activation and isotype switching, not on a naive, antigen-inexperienced B cell."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "naive B cell",
+        "IgM",
+        "IgD"
+      ],
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "core"
+    },
+    {
+      "id": "im07-011",
+      "stem": "While mapping which parts of a B-cell receptor's variable domain contact antigen, a researcher identifies three loops called the complementarity-determining regions. One of them is far more variable than the others because it spans the junctions created during recombination and is not encoded in the germline. Which region is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CDR1"
+        },
+        {
+          "label": "B",
+          "text": "CDR2"
+        },
+        {
+          "label": "C",
+          "text": "CDR3"
+        },
+        {
+          "label": "D",
+          "text": "The constant domain of the heavy chain"
+        },
+        {
+          "label": "E",
+          "text": "The hinge region"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "CDR3 is the most diverse complementarity-determining region because it is formed at the recombination junctions and is not germline-encoded.",
+        "whyCorrect": "The brick describes three regions of the V(H) and V(L) domains that contact antigen, called CDR1, CDR2, and CDR3. CDR1 and CDR2 are encoded by the V gene segments, whereas CDR3 is encoded by the junctional regions. Because its diversity comes from combinatorial and junctional (non-germline) mechanisms, CDR3 is the most diverse of the three.",
+        "whyWrongByChoice": {
+          "A": "CDR1 is encoded within the germline V segment and is far less variable than CDR3.",
+          "B": "CDR2, like CDR1, is encoded by the V gene segment and is not the most diverse loop.",
+          "D": "The heavy-chain constant domain determines isotype and effector function; it does not contact antigen and is not hypervariable.",
+          "E": "The hinge provides flexibility between the arms and is not one of the antigen-contacting CDRs."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CDR3",
+        "diversity",
+        "variable domain"
+      ],
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "core"
+    },
+    {
+      "id": "im07-012",
+      "stem": "After receiving help from CD4+ helper T cells in a germinal center, an activated B cell that originally made IgM begins secreting IgG that binds the same epitope with identical specificity. Which of the following best describes the change that has occurred?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clonal selection converted the T cell into an antibody-secreting cell"
+        },
+        {
+          "label": "B",
+          "text": "Combinatorial diversity paired a new heavy chain with a new light chain"
+        },
+        {
+          "label": "C",
+          "text": "Isotype switching changed the heavy-chain constant region"
+        },
+        {
+          "label": "D",
+          "text": "Somatic hypermutation replaced the constant region of the antibody"
+        },
+        {
+          "label": "E",
+          "text": "V(D)J recombination rebuilt the variable domain to recognize a new antigen"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Isotype switching swaps the heavy-chain constant region (e.g., IgM to IgG) with CD4+ T cell help, keeping antigen specificity unchanged.",
+        "whyCorrect": "The brick teaches that activated B cells receiving help from CD4+ helper T cells can undergo isotype (class) switching, changing from expressing IgM and IgD to IgG, IgA, or IgE. Only the heavy-chain constant domain changes, so the antigen specificity determined by the variable domains is preserved; most B cells switch to become IgG-producing cells.",
+        "whyWrongByChoice": {
+          "A": "Clonal selection expands antigen-specific B cells; helper T cells provide signals but do not themselves become antibody-secreting cells.",
+          "B": "Combinatorial diversity from heavy/light chain pairing occurs during development and would change the antigen recognized, not just the isotype.",
+          "D": "Somatic hypermutation mutates the variable-domain CDRs to fine-tune affinity; it does not replace the constant region or switch class.",
+          "E": "V(D)J recombination builds the variable domain during development and would alter, not preserve, antigen specificity; it is not how a mature B cell changes class."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "isotype switching",
+        "class switching",
+        "helper T cells"
+      ],
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure",
+      "tier": "core"
+    },
     {
       "id": "im08-001",
       "stem": "A researcher examines developing lymphocytes in the bone marrow. One cell has successfully rearranged and expresses a mu heavy chain, but this chain is paired with an invariant surrogate light chain rather than a true, rearranged light chain. Light chain gene rearrangement has not yet been completed. This cell is at which stage of B cell maturation?",

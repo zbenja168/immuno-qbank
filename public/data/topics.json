@@ -1,8 +1,8 @@
 {
   "categories": [
     {
-      "id": "innate-immunity",
-      "name": "Innate Immunity",
+      "id": "w1s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "introduction-to-the-immune-system",
@@ -27,7 +27,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w1s2",
+      "name": "Session 2",
+      "topics": [
         {
           "id": "complement-system",
           "name": "Complement System",
@@ -43,13 +52,7 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        }
-      ]
-    },
-    {
-      "id": "mhc-antigen-receptors",
-      "name": "MHC & Antigen Receptors",
-      "topics": [
+        },
         {
           "id": "major-histocompatibility-complex",
           "name": "Major Histocompatibility Complex",
@@ -57,7 +60,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w1s3",
+      "name": "Session 3",
+      "topics": [
         {
           "id": "antigen-receptor-generation-and-structure",
           "name": "Antigen Receptor Generation and Structure",
@@ -65,13 +77,7 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        }
-      ]
-    },
-    {
-      "id": "lymphocytes-adaptive",
-      "name": "Lymphocytes & Adaptive Immunity",
-      "topics": [
+        },
         {
           "id": "b-cell-development-and-activation",
           "name": "B Cell Development and Activation",
@@ -96,11 +102,14 @@
           "extraCount": 24,
           "questionCount": 36
         }
-      ]
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
     },
     {
-      "id": "tolerance-autoimmunity",
-      "name": "Tolerance & Autoimmunity",
+      "id": "w2s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "immunologic-tolerance",
@@ -110,20 +119,6 @@
           "extraCount": 24,
           "questionCount": 36
         },
-        {
-          "id": "introduction-to-autoinflammatory-and-autoimmune-diseases",
-          "name": "Introduction to Autoinflammatory and Autoimmune Diseases",
-          "sourceFile": "Immuno Brick 21",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        }
-      ]
-    },
-    {
-      "id": "hypersensitivity-allergy",
-      "name": "Hypersensitivity & Allergy",
-      "topics": [
         {
           "id": "hypersensitivity-reactions",
           "name": "Hypersensitivity Reactions",
@@ -140,11 +135,14 @@
           "extraCount": 24,
           "questionCount": 36
         }
-      ]
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
     },
     {
-      "id": "immunodeficiency",
-      "name": "Immunodeficiency",
+      "id": "w2s2",
+      "name": "Session 2",
       "topics": [
         {
           "id": "inborn-errors-of-adaptive-immunity-1-of-2",
@@ -161,7 +159,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w2s3",
+      "name": "Session 3",
+      "topics": [
         {
           "id": "diagnosis-and-treatment-of-immunodeficiency-disorders",
           "name": "Diagnosis and Treatment of Immunodeficiency Disorders",
@@ -169,13 +176,7 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        }
-      ]
-    },
-    {
-      "id": "immunopharm-diagnostics",
-      "name": "Immunopharmacology & Diagnostics",
-      "topics": [
+        },
         {
           "id": "diagnostic-laboratory-immunology",
           "name": "Diagnostic Laboratory Immunology",
@@ -183,7 +184,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w3s1",
+      "name": "Session 1",
+      "topics": [
         {
           "id": "immunosuppressants",
           "name": "Immunosuppressants",
@@ -208,12 +218,23 @@
           "extraCount": 24,
           "questionCount": 36
         }
-      ]
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
     },
     {
-      "id": "tumors-transplant-lifespan",
-      "name": "Tumors, Transplant & Lifespan",
+      "id": "w3s2",
+      "name": "Session 2",
       "topics": [
+        {
+          "id": "introduction-to-autoinflammatory-and-autoimmune-diseases",
+          "name": "Introduction to Autoinflammatory and Autoimmune Diseases",
+          "sourceFile": "Immuno Brick 21",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
         {
           "id": "tumors-and-transplants",
           "name": "Tumors and Transplants",
@@ -221,7 +242,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w3s3",
+      "name": "Session 3",
+      "topics": [
         {
           "id": "effect-of-age-on-the-immune-system",
           "name": "Effect of Age on the Immune System",
@@ -230,7 +260,11 @@
           "extraCount": 24,
           "questionCount": 36
         }
-      ]
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
     }
-  ]
+  ],
+  "totalQuestions": 828
 }
