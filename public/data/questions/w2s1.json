@@ -48,7 +48,8 @@
       ],
       "topicId": "immunologic-tolerance",
       "topicName": "Immunologic Tolerance",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im11-002",
@@ -96,7 +97,8 @@
       ],
       "topicId": "immunologic-tolerance",
       "topicName": "Immunologic Tolerance",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im11-003",
@@ -144,7 +146,8 @@
       ],
       "topicId": "immunologic-tolerance",
       "topicName": "Immunologic Tolerance",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im11-004",
@@ -192,7 +195,8 @@
       ],
       "topicId": "immunologic-tolerance",
       "topicName": "Immunologic Tolerance",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im11-005",
@@ -240,7 +244,8 @@
       ],
       "topicId": "immunologic-tolerance",
       "topicName": "Immunologic Tolerance",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im11-006",
@@ -288,7 +293,8 @@
       ],
       "topicId": "immunologic-tolerance",
       "topicName": "Immunologic Tolerance",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im11-007",
@@ -336,7 +342,8 @@
       ],
       "topicId": "immunologic-tolerance",
       "topicName": "Immunologic Tolerance",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im11-008",
@@ -384,7 +391,8 @@
       ],
       "topicId": "immunologic-tolerance",
       "topicName": "Immunologic Tolerance",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im11-009",
@@ -432,7 +440,8 @@
       ],
       "topicId": "immunologic-tolerance",
       "topicName": "Immunologic Tolerance",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im11-010",
@@ -623,7 +632,8 @@
       ],
       "topicId": "hypersensitivity-reactions",
       "topicName": "Hypersensitivity Reactions",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im12-002",
@@ -670,7 +680,8 @@
       ],
       "topicId": "hypersensitivity-reactions",
       "topicName": "Hypersensitivity Reactions",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im12-003",
@@ -717,7 +728,8 @@
       ],
       "topicId": "hypersensitivity-reactions",
       "topicName": "Hypersensitivity Reactions",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im12-004",
@@ -764,7 +776,8 @@
       ],
       "topicId": "hypersensitivity-reactions",
       "topicName": "Hypersensitivity Reactions",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im12-005",
@@ -811,7 +824,8 @@
       ],
       "topicId": "hypersensitivity-reactions",
       "topicName": "Hypersensitivity Reactions",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im12-006",
@@ -858,7 +872,8 @@
       ],
       "topicId": "hypersensitivity-reactions",
       "topicName": "Hypersensitivity Reactions",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im12-007",
@@ -952,7 +967,8 @@
       ],
       "topicId": "hypersensitivity-reactions",
       "topicName": "Hypersensitivity Reactions",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im12-009",
@@ -999,7 +1015,8 @@
       ],
       "topicId": "hypersensitivity-reactions",
       "topicName": "Hypersensitivity Reactions",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im12-010",
@@ -1046,7 +1063,8 @@
       ],
       "topicId": "hypersensitivity-reactions",
       "topicName": "Hypersensitivity Reactions",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im12-011",
@@ -1280,7 +1298,8 @@
       ],
       "topicId": "allergic-diseases-and-anaphylaxis",
       "topicName": "Allergic Diseases and Anaphylaxis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im13-004",
@@ -1327,7 +1346,8 @@
       ],
       "topicId": "allergic-diseases-and-anaphylaxis",
       "topicName": "Allergic Diseases and Anaphylaxis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im13-005",
@@ -1421,7 +1441,8 @@
       ],
       "topicId": "allergic-diseases-and-anaphylaxis",
       "topicName": "Allergic Diseases and Anaphylaxis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im13-007",
@@ -1513,7 +1534,8 @@
       ],
       "topicId": "allergic-diseases-and-anaphylaxis",
       "topicName": "Allergic Diseases and Anaphylaxis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im13-009",
@@ -1560,7 +1582,8 @@
       ],
       "topicId": "allergic-diseases-and-anaphylaxis",
       "topicName": "Allergic Diseases and Anaphylaxis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im13-010",
@@ -1654,7 +1677,8 @@
       ],
       "topicId": "allergic-diseases-and-anaphylaxis",
       "topicName": "Allergic Diseases and Anaphylaxis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im13-012",
@@ -1701,7 +1725,8 @@
       ],
       "topicId": "allergic-diseases-and-anaphylaxis",
       "topicName": "Allergic Diseases and Anaphylaxis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }

@@ -46,7 +46,8 @@
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
       "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im16-002",
@@ -139,7 +140,8 @@
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
       "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im16-004",
@@ -186,7 +188,8 @@
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
       "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im16-005",
@@ -233,7 +236,8 @@
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
       "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im16-006",
@@ -280,7 +284,8 @@
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
       "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im16-007",
@@ -326,7 +331,8 @@
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
       "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im16-008",
@@ -420,7 +426,8 @@
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
       "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im16-010",
@@ -514,7 +521,8 @@
       ],
       "topicId": "diagnosis-and-treatment-of-immunodeficiency-disorders",
       "topicName": "Diagnosis and Treatment of Immunodeficiency Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im16-012",
@@ -608,7 +616,8 @@
       ],
       "topicId": "diagnostic-laboratory-immunology",
       "topicName": "Diagnostic Laboratory Immunology",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im17-002",
@@ -702,7 +711,8 @@
       ],
       "topicId": "diagnostic-laboratory-immunology",
       "topicName": "Diagnostic Laboratory Immunology",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im17-004",
@@ -796,7 +806,8 @@
       ],
       "topicId": "diagnostic-laboratory-immunology",
       "topicName": "Diagnostic Laboratory Immunology",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im17-006",
@@ -890,7 +901,8 @@
       ],
       "topicId": "diagnostic-laboratory-immunology",
       "topicName": "Diagnostic Laboratory Immunology",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im17-008",
@@ -984,7 +996,8 @@
       ],
       "topicId": "diagnostic-laboratory-immunology",
       "topicName": "Diagnostic Laboratory Immunology",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im17-010",
@@ -1078,7 +1091,8 @@
       ],
       "topicId": "diagnostic-laboratory-immunology",
       "topicName": "Diagnostic Laboratory Immunology",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im17-012",
@@ -1125,7 +1139,8 @@
       ],
       "topicId": "diagnostic-laboratory-immunology",
       "topicName": "Diagnostic Laboratory Immunology",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }

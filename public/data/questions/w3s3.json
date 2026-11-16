@@ -47,7 +47,8 @@
       ],
       "topicId": "effect-of-age-on-the-immune-system",
       "topicName": "Effect of Age on the Immune System",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im23-002",
@@ -188,7 +189,8 @@
       ],
       "topicId": "effect-of-age-on-the-immune-system",
       "topicName": "Effect of Age on the Immune System",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im23-005",
@@ -235,7 +237,8 @@
       ],
       "topicId": "effect-of-age-on-the-immune-system",
       "topicName": "Effect of Age on the Immune System",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im23-006",
@@ -282,7 +285,8 @@
       ],
       "topicId": "effect-of-age-on-the-immune-system",
       "topicName": "Effect of Age on the Immune System",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im23-007",
@@ -517,7 +521,8 @@
       ],
       "topicId": "effect-of-age-on-the-immune-system",
       "topicName": "Effect of Age on the Immune System",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im23-012",
@@ -564,7 +569,8 @@
       ],
       "topicId": "effect-of-age-on-the-immune-system",
       "topicName": "Effect of Age on the Immune System",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }

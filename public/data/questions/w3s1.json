@@ -47,7 +47,8 @@
       ],
       "topicId": "immunosuppressants",
       "topicName": "Immunosuppressants",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im18-002",
@@ -94,7 +95,8 @@
       ],
       "topicId": "immunosuppressants",
       "topicName": "Immunosuppressants",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im18-003",
@@ -188,7 +190,8 @@
       ],
       "topicId": "immunosuppressants",
       "topicName": "Immunosuppressants",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im18-005",
@@ -235,7 +238,8 @@
       ],
       "topicId": "immunosuppressants",
       "topicName": "Immunosuppressants",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im18-006",
@@ -282,7 +286,8 @@
       ],
       "topicId": "immunosuppressants",
       "topicName": "Immunosuppressants",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im18-007",
@@ -329,7 +334,8 @@
       ],
       "topicId": "immunosuppressants",
       "topicName": "Immunosuppressants",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im18-008",
@@ -376,7 +382,8 @@
       ],
       "topicId": "immunosuppressants",
       "topicName": "Immunosuppressants",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im18-009",
@@ -423,7 +430,8 @@
       ],
       "topicId": "immunosuppressants",
       "topicName": "Immunosuppressants",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im18-010",
@@ -470,7 +478,8 @@
       ],
       "topicId": "immunosuppressants",
       "topicName": "Immunosuppressants",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im18-011",
@@ -517,7 +526,8 @@
       ],
       "topicId": "immunosuppressants",
       "topicName": "Immunosuppressants",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im18-012",
@@ -564,7 +574,8 @@
       ],
       "topicId": "immunosuppressants",
       "topicName": "Immunosuppressants",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im19-001",
@@ -612,7 +623,8 @@
       ],
       "topicId": "biologic-agents",
       "topicName": "Biologic Agents",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im19-002",
@@ -660,7 +672,8 @@
       ],
       "topicId": "biologic-agents",
       "topicName": "Biologic Agents",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im19-003",
@@ -708,7 +721,8 @@
       ],
       "topicId": "biologic-agents",
       "topicName": "Biologic Agents",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im19-004",
@@ -756,7 +770,8 @@
       ],
       "topicId": "biologic-agents",
       "topicName": "Biologic Agents",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im19-005",
@@ -804,7 +819,8 @@
       ],
       "topicId": "biologic-agents",
       "topicName": "Biologic Agents",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im19-006",
@@ -851,7 +867,8 @@
       ],
       "topicId": "biologic-agents",
       "topicName": "Biologic Agents",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im19-007",
@@ -899,7 +916,8 @@
       ],
       "topicId": "biologic-agents",
       "topicName": "Biologic Agents",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im19-008",
@@ -947,7 +965,8 @@
       ],
       "topicId": "biologic-agents",
       "topicName": "Biologic Agents",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im19-009",
@@ -995,7 +1014,8 @@
       ],
       "topicId": "biologic-agents",
       "topicName": "Biologic Agents",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im19-010",
@@ -1043,7 +1063,8 @@
       ],
       "topicId": "biologic-agents",
       "topicName": "Biologic Agents",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im19-011",
@@ -1138,7 +1159,8 @@
       ],
       "topicId": "biologic-agents",
       "topicName": "Biologic Agents",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im20-001",
@@ -1184,7 +1206,8 @@
       ],
       "topicId": "vaccines",
       "topicName": "Vaccines",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im20-002",
@@ -1231,7 +1254,8 @@
       ],
       "topicId": "vaccines",
       "topicName": "Vaccines",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im20-003",
@@ -1371,7 +1395,8 @@
       ],
       "topicId": "vaccines",
       "topicName": "Vaccines",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im20-006",
@@ -1418,7 +1443,8 @@
       ],
       "topicId": "vaccines",
       "topicName": "Vaccines",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im20-007",
@@ -1464,7 +1490,8 @@
       ],
       "topicId": "vaccines",
       "topicName": "Vaccines",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im20-008",
@@ -1511,7 +1538,8 @@
       ],
       "topicId": "vaccines",
       "topicName": "Vaccines",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im20-009",
@@ -1558,7 +1586,8 @@
       ],
       "topicId": "vaccines",
       "topicName": "Vaccines",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im20-010",
@@ -1651,7 +1680,8 @@
       ],
       "topicId": "vaccines",
       "topicName": "Vaccines",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "im20-012",
