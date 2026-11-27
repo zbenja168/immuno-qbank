@@ -43,11 +43,6 @@ export const SITE: SiteConfig = {
       "label": "Picture QBank",
       "url": "https://zbenja168.github.io/immuno-picqbank/",
       "current": false
-    },
-    {
-      "label": "Picture Match",
-      "url": "https://zbenja168.github.io/immuno-picdnd/",
-      "current": false
     }
   ]
 };
