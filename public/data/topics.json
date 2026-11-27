@@ -310,7 +310,36 @@
       "week": 3,
       "weekName": "Week 3",
       "weekSubtitle": ""
+    },
+    {
+      "id": "pictures",
+      "name": "Pictures by week",
+      "topics": [
+        {
+          "id": "pictures-w1",
+          "name": "Week 1 pictures",
+          "sourceFile": "Picture QBank (curated)",
+          "coreCount": 6,
+          "extraCount": 0,
+          "questionCount": 6,
+          "hyCount": 6,
+          "hyCoreCount": 6
+        },
+        {
+          "id": "pictures-w2",
+          "name": "Week 2 pictures",
+          "sourceFile": "Picture QBank (curated)",
+          "coreCount": 3,
+          "extraCount": 0,
+          "questionCount": 3,
+          "hyCount": 3,
+          "hyCoreCount": 3
+        }
+      ],
+      "week": 4,
+      "weekName": "Picture questions",
+      "weekSubtitle": ""
     }
   ],
-  "totalQuestions": 828
+  "totalQuestions": 837
 }
