@@ -1,0 +1,244 @@
+{
+ "course": "Immunology",
+ "whole": {
+  "file": "immunology.apkg",
+  "cards": 706,
+  "mb": 16.0
+ },
+ "weeks": [
+  {
+   "file": "immunology/week-1.apkg",
+   "cards": 327,
+   "mb": 9.5,
+   "week": 1,
+   "sessions": [
+    {
+     "file": "immunology/week-1-session-1.apkg",
+     "cards": 99,
+     "mb": 2.6,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "immunology/lecture-01.apkg",
+       "cards": 37,
+       "mb": 1.0,
+       "title": "Introduction to the Immune System"
+      },
+      {
+       "file": "immunology/lecture-02.apkg",
+       "cards": 34,
+       "mb": 1.3,
+       "title": "Innate Receptors and Cytokines"
+      },
+      {
+       "file": "immunology/lecture-03.apkg",
+       "cards": 28,
+       "mb": 0.4,
+       "title": "Phagocyte Function"
+      }
+     ]
+    },
+    {
+     "file": "immunology/week-1-session-2.apkg",
+     "cards": 94,
+     "mb": 3.4,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "immunology/lecture-04.apkg",
+       "cards": 37,
+       "mb": 1.3,
+       "title": "Complement System"
+      },
+      {
+       "file": "immunology/lecture-05.apkg",
+       "cards": 25,
+       "mb": 0.4,
+       "title": "Inborn Errors of Innate Immunity"
+      },
+      {
+       "file": "immunology/lecture-06.apkg",
+       "cards": 32,
+       "mb": 1.8,
+       "title": "Major Histocompatibility Complex"
+      }
+     ]
+    },
+    {
+     "file": "immunology/week-1-session-3.apkg",
+     "cards": 134,
+     "mb": 3.6,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "immunology/lecture-07.apkg",
+       "cards": 26,
+       "mb": 0.3,
+       "title": "Antigen Receptor Generation and Structure"
+      },
+      {
+       "file": "immunology/lecture-08.apkg",
+       "cards": 37,
+       "mb": 0.8,
+       "title": "B Cell Development and Activation"
+      },
+      {
+       "file": "immunology/lecture-09.apkg",
+       "cards": 41,
+       "mb": 1.6,
+       "title": "T Cell Development, Activation, and Differentiation"
+      },
+      {
+       "file": "immunology/lecture-10.apkg",
+       "cards": 30,
+       "mb": 1.1,
+       "title": "Cell-Mediated Immunity"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "immunology/week-2.apkg",
+   "cards": 223,
+   "mb": 4.6,
+   "week": 2,
+   "sessions": [
+    {
+     "file": "immunology/week-2-session-1.apkg",
+     "cards": 95,
+     "mb": 2.2,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "immunology/lecture-11.apkg",
+       "cards": 33,
+       "mb": 1.1,
+       "title": "Immunologic Tolerance"
+      },
+      {
+       "file": "immunology/lecture-12.apkg",
+       "cards": 34,
+       "mb": 0.8,
+       "title": "Hypersensitivity Reactions"
+      },
+      {
+       "file": "immunology/lecture-13.apkg",
+       "cards": 28,
+       "mb": 0.3,
+       "title": "Allergic Diseases and Anaphylaxis"
+      }
+     ]
+    },
+    {
+     "file": "immunology/week-2-session-2.apkg",
+     "cards": 68,
+     "mb": 1.9,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "immunology/lecture-14.apkg",
+       "cards": 34,
+       "mb": 0.9,
+       "title": "Inborn Errors of Adaptive Immunity (1 of 2)"
+      },
+      {
+       "file": "immunology/lecture-15.apkg",
+       "cards": 34,
+       "mb": 1.0,
+       "title": "Inborn Errors of Adaptive Immunity (2 of 2)"
+      }
+     ]
+    },
+    {
+     "file": "immunology/week-2-session-3.apkg",
+     "cards": 60,
+     "mb": 0.6,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "immunology/lecture-16.apkg",
+       "cards": 26,
+       "mb": 0.1,
+       "title": "Diagnosis and Treatment of Immunodeficiency Disorders"
+      },
+      {
+       "file": "immunology/lecture-17.apkg",
+       "cards": 34,
+       "mb": 0.6,
+       "title": "Diagnostic Laboratory Immunology"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "immunology/week-3.apkg",
+   "cards": 156,
+   "mb": 2.1,
+   "week": 3,
+   "sessions": [
+    {
+     "file": "immunology/week-3-session-1.apkg",
+     "cards": 78,
+     "mb": 1.0,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "immunology/lecture-18.apkg",
+       "cards": 26,
+       "mb": 0.4,
+       "title": "Immunosuppressants"
+      },
+      {
+       "file": "immunology/lecture-19.apkg",
+       "cards": 23,
+       "mb": 0.3,
+       "title": "Biologic Agents"
+      },
+      {
+       "file": "immunology/lecture-20.apkg",
+       "cards": 29,
+       "mb": 0.5,
+       "title": "Vaccines"
+      }
+     ]
+    },
+    {
+     "file": "immunology/week-3-session-2.apkg",
+     "cards": 51,
+     "mb": 0.8,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "immunology/lecture-21.apkg",
+       "cards": 26,
+       "mb": 0.4,
+       "title": "Introduction to Autoinflammatory and Autoimmune Diseases"
+      },
+      {
+       "file": "immunology/lecture-22.apkg",
+       "cards": 25,
+       "mb": 0.5,
+       "title": "Tumors and Transplants"
+      }
+     ]
+    },
+    {
+     "file": "immunology/week-3-session-3.apkg",
+     "cards": 27,
+     "mb": 0.3,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "immunology/lecture-23.apkg",
+       "cards": 27,
+       "mb": 0.3,
+       "title": "Effect of Age on the Immune System"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
