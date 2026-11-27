@@ -576,6 +576,53 @@
       "tier": "core"
     },
     {
+      "id": "impic-119",
+      "topicId": "antigen-receptor-generation-and-structure",
+      "topicName": "Antigen Receptor Generation and Structure",
+      "stem": "Which immunoglobulin isotype is shown in this diagram?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgD"
+        },
+        {
+          "label": "B",
+          "text": "IgE"
+        },
+        {
+          "label": "C",
+          "text": "IgG"
+        },
+        {
+          "label": "D",
+          "text": "IgM"
+        },
+        {
+          "label": "E",
+          "text": "Secretory IgA"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A pentamer of five monomers linked by a J chain is the classic structure of secreted IgM, giving it 10 potential antigen-binding sites and making it a highly efficient complement activator. IgM is the first antibody produced in a primary response. Secretory IgA is a dimer with a secretory component; IgG, IgE, and IgD circulate as monomers.",
+        "whyCorrect": "A pentamer of five monomers linked by a J chain is the classic structure of secreted IgM, giving it 10 potential antigen-binding sites and making it a highly efficient complement activator. IgM is the first antibody produced in a primary response. Secretory IgA is a dimer with a secretory component; IgG, IgE, and IgD circulate as monomers.",
+        "whyWrongByChoice": {
+          "A": "IgD is a monomer found mainly on the surface of naive B cells alongside IgM.",
+          "B": "IgE is a monomer that binds FcepsilonRI on mast cells and basophils.",
+          "C": "IgG circulates as a monomer without a J chain and is the main serum antibody of secondary responses.",
+          "E": "Secretory IgA is a dimer of two monomers joined by a J chain and wrapped by secretory component, not a five-unit structure."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "impic-119_7_p16_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "immuno-picqbank"
+    },
+    {
       "id": "im08-001",
       "stem": "A researcher examines developing lymphocytes in the bone marrow. One cell has successfully rearranged and expresses a mu heavy chain, but this chain is paired with an invariant surrogate light chain rather than a true, rearranged light chain. Light chain gene rearrangement has not yet been completed. This cell is at which stage of B cell maturation?",
       "choices": [

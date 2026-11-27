@@ -1725,6 +1725,100 @@
       "topicId": "phagocyte-function",
       "topicName": "Phagocyte Function",
       "tier": "core"
+    },
+    {
+      "id": "impic-099",
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function",
+      "stem": "Identify the two white blood cells shown in this peripheral blood smear.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basophil"
+        },
+        {
+          "label": "B",
+          "text": "Eosinophil"
+        },
+        {
+          "label": "C",
+          "text": "Lymphocyte"
+        },
+        {
+          "label": "D",
+          "text": "Monocyte"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophil"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Segmented neutrophils have a nucleus of 3-5 lobes joined by thin strands and neutral (pale) cytoplasmic granules. They are the most abundant circulating leukocyte and the first responders in acute bacterial infection.",
+        "whyCorrect": "Segmented neutrophils have a nucleus of 3-5 lobes joined by thin strands and neutral (pale) cytoplasmic granules. They are the most abundant circulating leukocyte and the first responders in acute bacterial infection.",
+        "whyWrongByChoice": {
+          "A": "Basophils have a bilobed nucleus usually obscured by large, dark purple-blue granules, and they are the rarest leukocyte.",
+          "B": "Eosinophils typically have a bilobed nucleus and coarse red-orange granules, not pale fine granules with 3-5 lobes.",
+          "C": "Lymphocytes have a round, dense nucleus with a thin rim of blue cytoplasm and no lobes.",
+          "D": "Monocytes are larger cells with a kidney-shaped or folded nucleus and gray-blue cytoplasm, not a segmented nucleus."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "impic-099_3_p25_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "immuno-picqbank"
+    },
+    {
+      "id": "impic-117",
+      "topicId": "phagocyte-function",
+      "topicName": "Phagocyte Function",
+      "stem": "In this peripheral blood smear, identify the large cell at the top center of the field.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basophil"
+        },
+        {
+          "label": "B",
+          "text": "Eosinophil"
+        },
+        {
+          "label": "C",
+          "text": "Monocyte"
+        },
+        {
+          "label": "D",
+          "text": "Segmented neutrophil"
+        },
+        {
+          "label": "E",
+          "text": "Small lymphocyte"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Monocytes are the largest circulating leukocytes, with a folded reniform nucleus and abundant gray-blue cytoplasm. They migrate into tissues to become macrophages. The smaller multilobed cells present are neutrophils.",
+        "whyCorrect": "Monocytes are the largest circulating leukocytes, with a folded reniform nucleus and abundant gray-blue cytoplasm. They migrate into tissues to become macrophages. The smaller multilobed cells present are neutrophils.",
+        "whyWrongByChoice": {
+          "A": "Basophils have dense dark purple granules that obscure a bilobed nucleus, not clear gray-blue cytoplasm.",
+          "B": "Eosinophils are recognized by a bilobed nucleus and bright red-orange granules, not abundant gray-blue cytoplasm.",
+          "D": "Segmented neutrophils are smaller cells with a 3-5-lobed nucleus and pale pink granules, not a single folded nucleus.",
+          "E": "Small lymphocytes are about red-cell size with a round dense nucleus and scant cytoplasm, the opposite of this large cell."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "impic-117_3_p12_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "immuno-picqbank"
     }
   ]
 }

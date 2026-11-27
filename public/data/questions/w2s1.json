@@ -1161,6 +1161,53 @@
       "tier": "core"
     },
     {
+      "id": "impic-007",
+      "topicId": "hypersensitivity-reactions",
+      "topicName": "Hypersensitivity Reactions",
+      "stem": "A 25-year-old man develops this intensely itchy rash on his forearm 2 days after a weekend hike. What is the underlying immunologic mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Non-immune irritant injury"
+        },
+        {
+          "label": "B",
+          "text": "Type I IgE-mediated hypersensitivity"
+        },
+        {
+          "label": "C",
+          "text": "Type II antibody-mediated hypersensitivity"
+        },
+        {
+          "label": "D",
+          "text": "Type III immune-complex hypersensitivity"
+        },
+        {
+          "label": "E",
+          "text": "Type IV (delayed-type) hypersensitivity"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Linear streaks of vesicles appearing 1-3 days after outdoor exposure are classic for allergic contact dermatitis from poison ivy (urushiol). This is type IV hypersensitivity: sensitized T cells recognize hapten-modified skin proteins and release cytokines that recruit macrophages, producing the delayed vesicular eruption.",
+        "whyCorrect": "Allergic contact dermatitis (e.g., poison ivy) is a type IV, T-cell-mediated reaction that appears 48-72 hours after exposure as linear, itchy vesicles where the plant brushed the skin.",
+        "whyWrongByChoice": {
+          "A": "Irritant dermatitis is a direct toxic injury without sensitization; the delayed, linear, intensely itchy vesicles indicate an immune (allergic) reaction.",
+          "B": "Type I reactions appear within minutes as wheals (hives), not vesicles after 2 days.",
+          "C": "Type II reactions are antibodies against cell-surface or matrix antigens (e.g., hemolytic anemia, Goodpasture), not a delayed vesicular rash at a contact site.",
+          "D": "Type III reactions deposit immune complexes in vessels (e.g., serum sickness, Arthus reaction), not linear vesicles."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "impic-007_12_p22_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "immuno-picqbank"
+    },
+    {
       "id": "im13-001",
       "stem": "A 24-year-old woman develops sneezing, watery eyes, and hives every spring when tree pollen counts rise. Her physician explains that the underlying process is a type 1 (immediate) hypersensitivity reaction. Production of which of the following antibodies is required for this pathophysiology?",
       "choices": [
@@ -1727,6 +1774,53 @@
       "topicName": "Allergic Diseases and Anaphylaxis",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "impic-013",
+      "topicId": "allergic-diseases-and-anaphylaxis",
+      "topicName": "Allergic Diseases and Anaphylaxis",
+      "stem": "A 30-year-old woman develops this rash 30 minutes after taking a new medication. Each lesion fades within a few hours. What is this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allergic contact dermatitis"
+        },
+        {
+          "label": "B",
+          "text": "Cellulitis"
+        },
+        {
+          "label": "C",
+          "text": "Erythema multiforme"
+        },
+        {
+          "label": "D",
+          "text": "Petechial rash"
+        },
+        {
+          "label": "E",
+          "text": "Urticaria (hives)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Urticaria consists of pruritic, edematous wheals caused by IgE-mediated mast-cell histamine release increasing dermal vascular permeability. Lesions are transient and blanch with pressure.",
+        "whyCorrect": "Urticaria consists of pruritic, edematous wheals caused by IgE-mediated mast-cell histamine release increasing dermal vascular permeability. Lesions are transient and blanch with pressure.",
+        "whyWrongByChoice": {
+          "A": "Allergic contact dermatitis is a delayed eczematous or vesicular eruption at the contact site, not transient raised wheals.",
+          "B": "Cellulitis is a warm, tender, spreading bacterial skin infection, not intensely itchy wheals that come and go.",
+          "C": "Erythema multiforme produces fixed target lesions with dusky centers, often after HSV infection or drugs, not fleeting blanching wheals.",
+          "D": "Petechiae are flat, pinpoint hemorrhages that do not blanch with pressure."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "impic-013_13_p4_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "immuno-picqbank"
     }
   ]
 }

@@ -576,6 +576,53 @@
       "hy": true
     },
     {
+      "id": "impic-018",
+      "topicId": "inborn-errors-of-adaptive-immunity-1-of-2",
+      "topicName": "Inborn Errors of Adaptive Immunity (1 of 2)",
+      "stem": "This infant has had recurrent viral and fungal infections and has a heart murmur. Which genetic abnormality is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "22q11.2 microdeletion"
+        },
+        {
+          "label": "B",
+          "text": "Deletion at 15q11 (imprinting region)"
+        },
+        {
+          "label": "C",
+          "text": "Trisomy 21"
+        },
+        {
+          "label": "D",
+          "text": "WAS gene mutation"
+        },
+        {
+          "label": "E",
+          "text": "X-linked BTK mutation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The dysmorphic facies plus thymic hypoplasia (T-cell deficiency), parathyroid hypoplasia (hypocalcemia), and conotruncal heart defects constitute DiGeorge syndrome from a 22q11.2 deletion (CATCH-22).",
+        "whyCorrect": "The dysmorphic facies plus thymic hypoplasia (T-cell deficiency), parathyroid hypoplasia (hypocalcemia), and conotruncal heart defects constitute DiGeorge syndrome from a 22q11.2 deletion (CATCH-22).",
+        "whyWrongByChoice": {
+          "B": "15q11 imprinting deletions cause Prader-Willi or Angelman syndrome, not immunodeficiency with hypocalcemia.",
+          "C": "Trisomy 21 causes upslanting palpebral fissures, flat facies, and endocardial cushion defects, not thymic and parathyroid aplasia.",
+          "D": "WAS mutations cause Wiskott-Aldrich syndrome with eczema, thrombocytopenia with small platelets, and infections, not hypocalcemia or conotruncal defects.",
+          "E": "BTK mutations cause X-linked agammaglobulinemia with bacterial infections, without facial dysmorphism or cardiac defects."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "impic-018_14_p9_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "immuno-picqbank"
+    },
+    {
       "id": "im15-001",
       "stem": "A 13-month-old boy is brought in with his fourth episode of bacterial pneumonia and several weeks of watery diarrhea. A maternal uncle died of infection in infancy. Laboratory studies show elevated serum IgM with very low IgG, IgA, and IgE, and an absolute neutropenia. Flow cytometry shows that his activated T cells fail to express a key costimulatory surface molecule. Which of the following molecules is most likely defective?",
       "choices": [

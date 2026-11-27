@@ -585,6 +585,53 @@
       "hy": true
     },
     {
+      "id": "impic-037",
+      "topicId": "complement-system",
+      "topicName": "Complement System",
+      "stem": "A 32-year-old woman has had several episodes like the one shown on the right, each lasting 2-3 days. They are not itchy, hives are absent, and antihistamines do not help. Her mother has similar episodes. Deficiency of which protein is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C1 esterase inhibitor"
+        },
+        {
+          "label": "B",
+          "text": "C3"
+        },
+        {
+          "label": "C",
+          "text": "Decay-accelerating factor (CD55)"
+        },
+        {
+          "label": "D",
+          "text": "Factor H"
+        },
+        {
+          "label": "E",
+          "text": "Myeloperoxidase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The right panel shows marked facial and lip angioedema. Recurrent non-itchy angioedema without urticaria, unresponsive to antihistamines and with a family history, is hereditary angioedema from C1 esterase inhibitor deficiency. Unchecked kallikrein activity generates bradykinin, which causes the swelling; ACE inhibitors are contraindicated.",
+        "whyCorrect": "Hereditary angioedema (autosomal dominant) results from C1 esterase inhibitor deficiency, leading to excess bradykinin and episodic non-pitting angioedema without urticaria or itch.",
+        "whyWrongByChoice": {
+          "B": "C3 deficiency causes severe recurrent pyogenic infections and immune-complex disease, not angioedema.",
+          "C": "DAF (CD55) deficiency, with CD59 loss, causes complement-mediated hemolysis in paroxysmal nocturnal hemoglobinuria, not angioedema.",
+          "D": "Factor H deficiency causes uncontrolled alternative-pathway activation, leading to atypical hemolytic uremic syndrome or C3 glomerulopathy.",
+          "E": "Myeloperoxidase deficiency causes mild, usually asymptomatic defects in neutrophil killing (sometimes Candida infections)."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "impic-037_4_p17_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "immuno-picqbank"
+    },
+    {
       "id": "im05-001",
       "stem": "A 2-month-old boy is brought in for a red, warm swelling at the base of the umbilicus. His parents note that his umbilical cord did not fall off until 30 days of age. Despite the obvious inflammation, the lesion contains almost no pus. A CBC shows leukocytosis with marked neutrophilia. Which of the following is the most likely diagnosis?",
       "choices": [
@@ -1154,6 +1201,100 @@
       "topicName": "Inborn Errors of Innate Immunity",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "impic-064",
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "stem": "These children have had recurrent pyogenic skin and respiratory infections since infancy. Which diagnosis best explains both their appearance and their infections?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chediak-Higashi syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Chronic granulomatous disease"
+        },
+        {
+          "label": "C",
+          "text": "DiGeorge syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Oculocutaneous albinism"
+        },
+        {
+          "label": "E",
+          "text": "X-linked agammaglobulinemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The children show partial oculocutaneous albinism (light silvery hair, pale skin and irides). Combined with recurrent pyogenic infections, this is Chediak-Higashi syndrome, an autosomal recessive LYST mutation that impairs lysosomal trafficking. A smear shows giant granules in neutrophils; peripheral neuropathy and bleeding tendency are also seen.",
+        "whyCorrect": "Partial albinism plus recurrent pyogenic infections is the classic presentation of Chediak-Higashi syndrome (LYST mutation, giant neutrophil granules).",
+        "whyWrongByChoice": {
+          "B": "Chronic granulomatous disease causes catalase-positive infections but no pigment changes.",
+          "C": "DiGeorge syndrome causes T-cell deficiency, hypocalcemia and cardiac defects, not albinism.",
+          "D": "Isolated oculocutaneous albinism causes hypopigmentation without an immunodeficiency.",
+          "E": "X-linked agammaglobulinemia causes recurrent bacterial infections in boys after 6 months but no pigment changes."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "impic-064_5_p12_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "immuno-picqbank"
+    },
+    {
+      "id": "impic-069",
+      "topicId": "inborn-errors-of-innate-immunity",
+      "topicName": "Inborn Errors of Innate Immunity",
+      "stem": "Flow cytometry of leukocytes from a child with recurrent bacterial infections and from both parents is shown. Which diagnosis is most consistent with these results?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chediak-Higashi syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Chronic granulomatous disease"
+        },
+        {
+          "label": "C",
+          "text": "Hyper-IgM syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Leukocyte adhesion deficiency type 1"
+        },
+        {
+          "label": "E",
+          "text": "Wiskott-Aldrich syndrome"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The histogram measures CD18, the beta-2 integrin subunit. The patient's leukocytes essentially lack CD18 expression while both heterozygous parents express it normally, consistent with autosomal recessive leukocyte adhesion deficiency type 1. Without CD18, neutrophils cannot firmly adhere to and cross the endothelium, producing recurrent infections without pus. CGD is a defect of the oxidative burst, not CD18 expression.",
+        "whyCorrect": "The histogram measures CD18, the beta-2 integrin subunit. The patient's leukocytes essentially lack CD18 expression while both heterozygous parents express it normally, consistent with autosomal recessive leukocyte adhesion deficiency type 1. Without CD18, neutrophils cannot firmly adhere to and cross the endothelium, producing recurrent infections without pus. CGD is a defect of the oxidative burst, not CD18 expression.",
+        "whyWrongByChoice": {
+          "A": "Chediak-Higashi syndrome is a lysosomal trafficking defect recognized by giant granules, not by missing surface expression on flow cytometry.",
+          "B": "Chronic granulomatous disease is a failure of the oxidative burst and is diagnosed with DHR or NBT testing, not by surface-marker loss.",
+          "C": "Hyper-IgM syndrome is usually a CD40 ligand defect on T cells that blocks class switching, not reduced expression of an adhesion integrin on leukocytes.",
+          "E": "Wiskott-Aldrich syndrome is an X-linked WAS protein defect causing eczema, thrombocytopenia, and infections, not loss of a surface integrin."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "impic-069_5_p9_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "immuno-picqbank"
     },
     {
       "id": "im06-001",

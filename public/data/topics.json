@@ -28,11 +28,11 @@
           "id": "phagocyte-function",
           "name": "Phagocyte Function",
           "sourceFile": "Immuno Brick 3",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 7
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 9
         }
       ],
       "week": 1,
@@ -47,21 +47,21 @@
           "id": "complement-system",
           "name": "Complement System",
           "sourceFile": "Immuno Brick 4",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 8
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 9
         },
         {
           "id": "inborn-errors-of-innate-immunity",
           "name": "Inborn Errors of Innate Immunity",
           "sourceFile": "Immuno Brick 5",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 7
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 9
         },
         {
           "id": "major-histocompatibility-complex",
@@ -86,11 +86,11 @@
           "id": "antigen-receptor-generation-and-structure",
           "name": "Antigen Receptor Generation and Structure",
           "sourceFile": "Immuno Brick 7",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 9
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 10
         },
         {
           "id": "b-cell-development-and-activation",
@@ -145,21 +145,21 @@
           "id": "hypersensitivity-reactions",
           "name": "Hypersensitivity Reactions",
           "sourceFile": "Immuno Brick 12",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 9
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 10
         },
         {
           "id": "allergic-diseases-and-anaphylaxis",
           "name": "Allergic Diseases and Anaphylaxis",
           "sourceFile": "Immuno Brick 13",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 7
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 8
         }
       ],
       "week": 2,
@@ -174,11 +174,11 @@
           "id": "inborn-errors-of-adaptive-immunity-1-of-2",
           "name": "Inborn Errors of Adaptive Immunity (1 of 2)",
           "sourceFile": "Immuno Brick 14",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 9
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 10
         },
         {
           "id": "inborn-errors-of-adaptive-immunity-2-of-2",
@@ -309,35 +309,6 @@
       ],
       "week": 3,
       "weekName": "Week 3",
-      "weekSubtitle": ""
-    },
-    {
-      "id": "pictures",
-      "name": "Pictures by week",
-      "topics": [
-        {
-          "id": "pictures-w1",
-          "name": "Week 1 pictures",
-          "sourceFile": "Picture QBank (curated)",
-          "coreCount": 6,
-          "extraCount": 0,
-          "questionCount": 6,
-          "hyCount": 6,
-          "hyCoreCount": 6
-        },
-        {
-          "id": "pictures-w2",
-          "name": "Week 2 pictures",
-          "sourceFile": "Picture QBank (curated)",
-          "coreCount": 3,
-          "extraCount": 0,
-          "questionCount": 3,
-          "hyCount": 3,
-          "hyCoreCount": 3
-        }
-      ],
-      "week": 4,
-      "weekName": "Picture questions",
       "weekSubtitle": ""
     }
   ],
